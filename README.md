@@ -1,2 +1,6 @@
-# Sketaful-s-Valheim-Adventure-Modpack
-An easy place to read through the configs and for me to change them as I like in my own time. Anyone have any views on changes to the config, just let me know and I'll look into if I feel it should be changed. Mainly I have this place for the issue tracker so if anyone have any issues getting the modpack to run use the issue tracker. 
+# Sketaful's Valheim Adventure Modpack
+This is my place for the configs so I can change them with ease from anywhere. Since it's quite a lot to configure it helps a lot and I need all the help I can get. ;P
+
+This is also a perfect place to put this because it automatically gives me access to an Issues Tracker. So if anyone using this modpack experience anything they need changed, fixed or whatever. Use the "Issues" tab and post an issue so I can take a look at it.
+
+Cheers
