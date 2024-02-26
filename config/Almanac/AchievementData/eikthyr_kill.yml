@@ -1,0 +1,49 @@
+unique_name: eikthyr_kill
+display_name: Stagbreaker
+sprite_name: TrophyEikthyr
+description: Kill Eikthyr over <color=orange>10</color> times
+lore: The nightmare that is Eikthyr, may finally be laid to rest
+start_message: ''
+stop_message: ''
+tooltip: ''
+defeat_key: defeated_eikthyr
+achievement_type: CustomKills
+goal: 10
+duration: 0
+start_effects:
+- sfx_coins_placed
+stop_effects: []
+damage_modifiers:
+- m_type: Blunt
+  m_modifier: Normal
+- m_type: Slash
+  m_modifier: Normal
+- m_type: Pierce
+  m_modifier: Normal
+- m_type: Chop
+  m_modifier: Normal
+- m_type: Pickaxe
+  m_modifier: Normal
+- m_type: Fire
+  m_modifier: Normal
+- m_type: Frost
+  m_modifier: Normal
+- m_type: Lightning
+  m_modifier: Resistant
+- m_type: Poison
+  m_modifier: Normal
+- m_type: Spirit
+  m_modifier: Normal
+modifiers:
+  Attack: 1.05
+  HealthRegen: 1.05
+  StaminaRegen: 1
+  RaiseSkills: 1.1
+  Speed: 1
+  Noise: 1
+  MaxCarryWeight: 50
+  Stealth: 1
+  RunStaminaDrain: 0.95
+  DamageReduction: 0
+  FallDamage: 1
+  EitrRegen: 1

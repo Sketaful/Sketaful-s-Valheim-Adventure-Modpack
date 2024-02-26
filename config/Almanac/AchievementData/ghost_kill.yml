@@ -1,0 +1,49 @@
+unique_name: ghost_kill
+display_name: Ghastly
+sprite_name: YagluthDrop
+description: Kill over <color=orange>100</color> Ghosts
+lore: Practically impossible to find any damn ghosts.
+start_message: ''
+stop_message: ''
+tooltip: ''
+defeat_key: defeated_ghost
+achievement_type: CustomKills
+goal: 100
+duration: 0
+start_effects:
+- sfx_coins_placed
+stop_effects: []
+damage_modifiers:
+- m_type: Blunt
+  m_modifier: Normal
+- m_type: Slash
+  m_modifier: Normal
+- m_type: Pierce
+  m_modifier: Normal
+- m_type: Chop
+  m_modifier: Normal
+- m_type: Pickaxe
+  m_modifier: Normal
+- m_type: Fire
+  m_modifier: Normal
+- m_type: Frost
+  m_modifier: Normal
+- m_type: Lightning
+  m_modifier: Normal
+- m_type: Poison
+  m_modifier: Resistant
+- m_type: Spirit
+  m_modifier: Resistant
+modifiers:
+  Attack: 1
+  HealthRegen: 1
+  StaminaRegen: 1
+  RaiseSkills: 1
+  Speed: 1.05
+  Noise: 1
+  MaxCarryWeight: 0
+  Stealth: 0
+  RunStaminaDrain: 0.5
+  DamageReduction: 0.85
+  FallDamage: 0.5
+  EitrRegen: 1

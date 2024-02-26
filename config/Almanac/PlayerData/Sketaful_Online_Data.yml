@@ -1,0 +1,481 @@
+Player_Kill_Deaths:
+  defeated_bmp_armoredskellies:
+    kills: 0
+    deaths: 0
+  defeated_crystal_frost_reaper:
+    kills: 0
+    deaths: 0
+  defeated_crystal_soul_reaper:
+    kills: 0
+    deaths: 0
+  defeated_jc_skeleton:
+    kills: 0
+    deaths: 0
+  defeated_crystal_flame_reaper:
+    kills: 0
+    deaths: 0
+  defeated_bmp_cultistfriendly:
+    kills: 0
+    deaths: 0
+  defeated_bmp_icycleslime_friendly:
+    kills: 0
+    deaths: 0
+  defeated_bmp_lightningslime_friendly:
+    kills: 0
+    deaths: 0
+  defeated_bmp_neckfriendly:
+    kills: 0
+    deaths: 0
+  defeated_bmp_toxicslime_friendly:
+    kills: 0
+    deaths: 0
+  defeated_bmp_fieryslime_friendly:
+    kills: 0
+    deaths: 0
+  defeated_fairy3_rtd:
+    kills: 0
+    deaths: 0
+  defeated_dragonboar_rtd:
+    kills: 0
+    deaths: 0
+  defeated_dragonpiglet_rtd:
+    kills: 0
+    deaths: 0
+  defeated_boar_piggy:
+    kills: 0
+    deaths: 0
+  defeated_boar:
+    kills: 0
+    deaths: 0
+  defeated_fader:
+    kills: 0
+    deaths: 0
+  defeated_elfhunterf_rtd:
+    kills: 0
+    deaths: 0
+  defeated_assassin_rtd:
+    kills: 0
+    deaths: 0
+  defeated_bonesquid_rtd:
+    kills: 0
+    deaths: 0
+  defeated_elfwarriorf_rtd:
+    kills: 0
+    deaths: 0
+  defeated_elfpriestm_rtd:
+    kills: 0
+    deaths: 0
+  defeated_elfwarriorm_rtd:
+    kills: 0
+    deaths: 0
+  defeated_faewolficecub_rtd:
+    kills: 0
+    deaths: 0
+  defeated_faewolfice_rtd:
+    kills: 0
+    deaths: 0
+  defeated_golem_rtd:
+    kills: 0
+    deaths: 0
+  defeated_fallencrusader_rtd:
+    kills: 0
+    deaths: 0
+  necromancer_defeated:
+    kills: 0
+    deaths: 0
+  defeated_faewolflighteningcub_rtd:
+    kills: 0
+    deaths: 0
+  defeated_wizard_rtd:
+    kills: 0
+    deaths: 0
+  defeated_spirit:
+    kills: 0
+    deaths: 0
+  defeated_fairy1_rtd:
+    kills: 0
+    deaths: 0
+  defeated_faewolflightening_rtd:
+    kills: 0
+    deaths: 0
+  defeated_murkpod_rtd:
+    kills: 0
+    deaths: 0
+  defeated_shark_rtd:
+    kills: 0
+    deaths: 0
+  defeated_demon_rtd:
+    kills: 0
+    deaths: 0
+  defeated_luminouslooker_rtd:
+    kills: 0
+    deaths: 0
+  defeated_berserker_rtd:
+    kills: 0
+    deaths: 0
+  defeated_bonefish_rtd:
+    kills: 0
+    deaths: 0
+  defeated_fairy2_rtd:
+    kills: 0
+    deaths: 0
+  defeated_foxcub_tw:
+    kills: 0
+    deaths: 0
+  defeated_fox_tw:
+    kills: 0
+    deaths: 0
+  defeated_damnedone_tw:
+    kills: 0
+    deaths: 0
+  defeated_gdancientshaman_rootspawn_tw:
+    kills: 0
+    deaths: 0
+  defeated_helwraith_tw:
+    kills: 0
+    deaths: 0
+  defeated_blackbearcub_tw:
+    kills: 0
+    deaths: 0
+  defeated_blackbear_tw:
+    kills: 0
+    deaths: 0
+  defeated_svalt:
+    kills: 0
+    deaths: 0
+  defeated_burninghunger_tw:
+    kills: 0
+    deaths: 0
+  defeated_crawler_tw:
+    kills: 0
+    deaths: 0
+  defeated_razorbackpiggy_tw:
+    kills: 0
+    deaths: 0
+  defeated_razorback_tw:
+    kills: 0
+    deaths: 0
+  defeated_gdancientshaman_tw:
+    kills: 0
+    deaths: 0
+  defeated_vrykolathas:
+    kills: 0
+    deaths: 0
+  defeated_grizzlybearcub_tw:
+    kills: 0
+    deaths: 0
+  defeated_grizzlybear_tw:
+    kills: 0
+    deaths: 0
+  defeated_prowlercub_tw:
+    kills: 0
+    deaths: 0
+  defeated_prowler_tw:
+    kills: 0
+    deaths: 0
+  defeated_obsidiangolem_tw:
+    kills: 0
+    deaths: 0
+  defeated_asmodeus:
+    kills: 0
+    deaths: 0
+  defeated_rottingelk_tw:
+    kills: 0
+    deaths: 0
+  defeated_summonedimp_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashengolem_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashendemon_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashenminotaur_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashendrake_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashenimp_tw:
+    kills: 0
+    deaths: 0
+  defeated_sythrak:
+    kills: 0
+    deaths: 0
+  defeated_ashenwarg_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashenwargcub_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashendimetrodon_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashenscorpid_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashencrab_tw:
+    kills: 0
+    deaths: 0
+  defeated_ashenshark_tw:
+    kills: 0
+    deaths: 0
+  defeated_arcticwolfcub_tw:
+    kills: 0
+    deaths: 0
+  defeated_arcticwolf_tw:
+    kills: 0
+    deaths: 0
+  defeated_arcticfenring_tw:
+    kills: 0
+    deaths: 0
+  defeated_fenring:
+    kills: 0
+    deaths: 0
+  defeated_jotunnbrute_tw:
+    kills: 0
+    deaths: 0
+  defeated_arcticdrake_tw:
+    kills: 0
+    deaths: 0
+  defeated_stormherald:
+    kills: 0
+    deaths: 0
+  defeated_stormwolf_tw:
+    kills: 0
+    deaths: 0
+  defeated_fenring_cultist:
+    kills: 0
+    deaths: 0
+  defeated_arcticgolem_tw:
+    kills: 0
+    deaths: 0
+  defeated_arcticcultist_tw:
+    kills: 0
+    deaths: 0
+  defeated_arcticbear_tw:
+    kills: 0
+    deaths: 0
+  defeated_arcticbearcub_tw:
+    kills: 0
+    deaths: 0
+  defeated_arcticserpent_tw:
+    kills: 0
+    deaths: 0
+  defeated_jotunncrusher_tw:
+    kills: 0
+    deaths: 0
+  defeated_arcticmammoth_tw:
+    kills: 0
+    deaths: 0
+  defeated_wolf:
+    kills: 0
+    deaths: 0
+  defeated_vl:
+    kills: 0
+    deaths: 0
+  defeated_wolf_cub:
+    kills: 0
+    deaths: 0
+  defeated_vl_demonwolf:
+    kills: 0
+    deaths: 0
+  defeated_vl_deathsquit:
+    kills: 0
+    deaths: 0
+  defeated_vl_shadowwolf:
+    kills: 0
+    deaths: 0
+  killed_surtling:
+    kills: 0
+    deaths: 0
+  defeated_chicken:
+    kills: 0
+    deaths: 0
+  defeated_blobtar:
+    kills: 0
+    deaths: 0
+  defeated_hare:
+    kills: 0
+    deaths: 0
+  defeated_blob:
+    kills: 0
+    deaths: 0
+  defeated_deer:
+    kills: 0
+    deaths: 0
+  defeated_tick:
+    kills: 0
+    deaths: 0
+  defeated_lox:
+    kills: 0
+    deaths: 0
+  defeated_lox_calf:
+    kills: 0
+    deaths: 0
+  defeated_hen:
+    kills: 0
+    deaths: 0
+  defeated_ulv:
+    kills: 0
+    deaths: 0
+  defeated_blobelite:
+    kills: 0
+    deaths: 0
+  defeated_seeker:
+    kills: 0
+    deaths: 0
+  defeated_seekerbrute:
+    kills: 0
+    deaths: 0
+  defeated_hatchling:
+    kills: 0
+    deaths: 0
+  defeated_deathsquito:
+    kills: 0
+    deaths: 0
+  defeated_gjall:
+    kills: 0
+    deaths: 0
+  defeated_queen:
+    kills: 0
+    deaths: 0
+  defeated_dragon:
+    kills: 0
+    deaths: 0
+  defeated_mistile:
+    kills: 0
+    deaths: 0
+  defeated_seekerbrood:
+    kills: 0
+    deaths: 0
+  KilledBat:
+    kills: 0
+    deaths: 0
+  defeated_wraith:
+    kills: 0
+    deaths: 0
+  defeated_greydwarf_elite:
+    kills: 0
+    deaths: 0
+  defeated_player:
+    kills: 0
+    deaths: 0
+  defeated_bonemass:
+    kills: 0
+    deaths: 0
+  defeated_gdking:
+    kills: 0
+    deaths: 0
+  defeated_eikthyr:
+    kills: 0
+    deaths: 0
+  defeated_goblinshaman_hildir:
+    kills: 0
+    deaths: 0
+  defeated_goblin:
+    kills: 0
+    deaths: 0
+  defeated_dverger:
+    kills: 0
+    deaths: 0
+  defeated_goblinshaman:
+    kills: 0
+    deaths: 0
+  defeated_skeleton_friendly:
+    kills: 0
+    deaths: 0
+  defeated_skeleton_poison:
+    kills: 0
+    deaths: 0
+  defeated_draugr:
+    kills: 0
+    deaths: 0
+  defeated_leech:
+    kills: 0
+    deaths: 0
+  defeated_leech_cave:
+    kills: 0
+    deaths: 0
+  BossHildir1:
+    kills: 0
+    deaths: 0
+  defeated_serpent:
+    kills: 0
+    deaths: 0
+  defeated_ghost:
+    kills: 0
+    deaths: 0
+  defeated_neck:
+    kills: 0
+    deaths: 0
+  defeated_draugr_elite:
+    kills: 0
+    deaths: 0
+  defeated_greydwarf_shaman:
+    kills: 0
+    deaths: 0
+  defeated_tentaroot:
+    kills: 0
+    deaths: 0
+  defeated_greydwarf:
+    kills: 0
+    deaths: 0
+  defeated_skeleton:
+    kills: 0
+    deaths: 0
+  defeated_trainingdummy:
+    kills: 0
+    deaths: 0
+  BossHildir3:
+    kills: 0
+    deaths: 0
+  defeated_goblinbrute:
+    kills: 0
+    deaths: 0
+  defeated_goblinking:
+    kills: 0
+    deaths: 0
+  defeated_stonegolem:
+    kills: 0
+    deaths: 0
+  KilledTroll:
+    kills: 0
+    deaths: 0
+  defeated_abomination:
+    kills: 0
+    deaths: 0
+  defeated_goblinbrute_hildir:
+    kills: 0
+    deaths: 0
+  BossHildir2:
+    kills: 0
+    deaths: 0
+  defeated_dvergermagefire:
+    kills: 0
+    deaths: 0
+  defeated_dvergermageice:
+    kills: 0
+    deaths: 0
+  defeated_dvergermagesupport:
+    kills: 0
+    deaths: 0
+  defeated_dvergermage:
+    kills: 0
+    deaths: 0
+  defeated_skeleton_noarcher:
+    kills: 0
+    deaths: 0
+  defeated_goblinarcher:
+    kills: 0
+    deaths: 0
+  defeated_greyling:
+    kills: 0
+    deaths: 0
+  defeated_goblinshaman_hildir_nochest:
+    kills: 0
+    deaths: 0
+  defeated_draugr_ranged:
+    kills: 0
+    deaths: 0
