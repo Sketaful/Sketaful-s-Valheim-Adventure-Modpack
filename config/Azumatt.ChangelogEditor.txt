@@ -1,0 +1,8 @@
+This servermod is made for fun and curiosity over how well a modpack can be made to work, specially on a server. There will probably be bugs, no question about it, but the tests that have been done so far is stable. 
+
+The modpack will be updated and bugfixed from time to time depending on how busy real life get. 
+
+THE SERVER
+The server is up for fun as well and is open for anyone to just do whatever on. The server have serverside characters anyone joining it will have to do so with a new character. This is because I need to see how that works and because, well, I just like it that way. There is no whitelist for the server and one click on the Fast Link and choosing a character will log you in, no password needed. If the quicklink would not work for some reason the password is oldies.
+'
+
