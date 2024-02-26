@@ -1,0 +1,49 @@
+unique_name: bonemass_1
+display_name: Mass
+sprite_name: TrophyBonemass
+description: Kill Bonemass over <color=orange>10</color> times
+lore: It is apt that the swamp king is so bloated and full of himself.
+start_message: ''
+stop_message: ''
+tooltip: ''
+defeat_key: defeated_bonemass
+achievement_type: CustomKills
+goal: 10
+duration: 0
+start_effects:
+- sfx_coins_placed
+stop_effects: []
+damage_modifiers:
+- m_type: Blunt
+  m_modifier: Normal
+- m_type: Slash
+  m_modifier: Normal
+- m_type: Pierce
+  m_modifier: Normal
+- m_type: Chop
+  m_modifier: Normal
+- m_type: Pickaxe
+  m_modifier: Normal
+- m_type: Fire
+  m_modifier: Normal
+- m_type: Frost
+  m_modifier: Normal
+- m_type: Lightning
+  m_modifier: Normal
+- m_type: Poison
+  m_modifier: Resistant
+- m_type: Spirit
+  m_modifier: Normal
+modifiers:
+  Attack: 1
+  HealthRegen: 1.15
+  StaminaRegen: 1
+  RaiseSkills: 1.1
+  Speed: 1
+  Noise: 1
+  MaxCarryWeight: 100
+  Stealth: 1
+  RunStaminaDrain: 1
+  DamageReduction: 0
+  FallDamage: 1
+  EitrRegen: 1

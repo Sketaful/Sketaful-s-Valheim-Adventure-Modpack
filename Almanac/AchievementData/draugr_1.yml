@@ -1,0 +1,49 @@
+unique_name: draugr_1
+display_name: Walkers
+sprite_name: TrophyDraugr
+description: Kill over <color=orange>100</color> Draugrs
+lore: Even the flies around these creatures harm you.
+start_message: ''
+stop_message: ''
+tooltip: ''
+defeat_key: defeated_draugr
+achievement_type: CustomKills
+goal: 100
+duration: 0
+start_effects:
+- sfx_coins_placed
+stop_effects: []
+damage_modifiers:
+- m_type: Blunt
+  m_modifier: Normal
+- m_type: Slash
+  m_modifier: Normal
+- m_type: Pierce
+  m_modifier: Normal
+- m_type: Chop
+  m_modifier: Normal
+- m_type: Pickaxe
+  m_modifier: Normal
+- m_type: Fire
+  m_modifier: Normal
+- m_type: Frost
+  m_modifier: Normal
+- m_type: Lightning
+  m_modifier: Normal
+- m_type: Poison
+  m_modifier: Normal
+- m_type: Spirit
+  m_modifier: Normal
+modifiers:
+  Attack: 1.1
+  HealthRegen: 1
+  StaminaRegen: 1
+  RaiseSkills: 1.05
+  Speed: 0.95
+  Noise: 1
+  MaxCarryWeight: 0
+  Stealth: 1
+  RunStaminaDrain: 1.1
+  DamageReduction: 0.05
+  FallDamage: 1
+  EitrRegen: 1
