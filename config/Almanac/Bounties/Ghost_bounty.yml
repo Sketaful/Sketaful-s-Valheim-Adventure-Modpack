@@ -1,0 +1,24 @@
+creature_prefab_name: Ghost
+bounty_name: Ghost the Haunting
+sprite_name: skull
+biome: Mistlands
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Clubs
+  amount: 5000
+bounty_health: 60
+damage_multiplier: 1
+damages:
+  blunt: 0
+  slash: 5
+  pierce: 0
+  fire: 0
+  frost: 10
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 1
+defeat_key: defeated_ghost

@@ -1,0 +1,24 @@
+creature_prefab_name: Serpent
+bounty_name: Serpent the Wretched
+sprite_name: TrophySerpent
+biome: Ocean
+reward_type: Item
+item_reward:
+  item_name: SerpentMeat
+  amount: 50
+skill_reward:
+  type: None
+  amount: 0
+bounty_health: 1000
+damage_multiplier: 2
+damages:
+  blunt: 10
+  slash: 0
+  pierce: 0
+  fire: 0
+  frost: 0
+  lightning: 5
+  poison: 0
+  spirit: 0
+level: 3
+defeat_key: defeated_serpent

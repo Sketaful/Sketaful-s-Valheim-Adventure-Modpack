@@ -1,0 +1,24 @@
+creature_prefab_name: Wolf
+bounty_name: Wolf the Hunter
+sprite_name: TrophyWolf
+biome: Plains
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Clubs
+  amount: 8000
+bounty_health: 80
+damage_multiplier: 1.1
+damages:
+  blunt: 0
+  slash: 10
+  pierce: 5
+  fire: 0
+  frost: 0
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 2
+defeat_key: defeated_wolf

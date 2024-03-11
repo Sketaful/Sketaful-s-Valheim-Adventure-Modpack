@@ -1,0 +1,24 @@
+creature_prefab_name: Seeker
+bounty_name: Seeker the Elusive
+sprite_name: TrophySeeker
+biome: Mountain
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Spears
+  amount: 8000
+bounty_health: 200
+damage_multiplier: 1.2
+damages:
+  blunt: 0
+  slash: 0
+  pierce: 20
+  fire: 0
+  frost: 0
+  lightning: 0
+  poison: 0
+  spirit: 10
+level: 2
+defeat_key: defeated_seeker

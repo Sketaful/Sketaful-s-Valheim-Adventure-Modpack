@@ -1,0 +1,20 @@
+name: Mistlands Treasure
+sprite_name: map
+biome: Mistlands
+loot:
+- item_name: Coins
+  min_stack: 100
+  max_stack: 200
+  weight: 1
+- item_name: Softtissue
+  min_stack: 2
+  max_stack: 10
+  weight: 1
+- item_name: MushroomJotunPuffs
+  min_stack: 1
+  max_stack: 20
+  weight: 1
+- item_name: MushroomMagecap
+  min_stack: 1
+  max_stack: 20
+  weight: 1

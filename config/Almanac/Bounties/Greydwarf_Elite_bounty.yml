@@ -1,0 +1,24 @@
+creature_prefab_name: Greydwarf_Elite
+bounty_name: Greydwarf the Mad
+sprite_name: TrophyGreydwarfBrute
+biome: BlackForest
+reward_type: Item
+item_reward:
+  item_name: Coins
+  amount: 50
+skill_reward:
+  type: None
+  amount: 0
+bounty_health: 200
+damage_multiplier: 2
+damages:
+  blunt: 0
+  slash: 0
+  pierce: 0
+  fire: 0
+  frost: 0
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 3
+defeat_key: defeated_greydwarf_elite

@@ -1,0 +1,20 @@
+name: Mountain Treasure
+sprite_name: map
+biome: Mountain
+loot:
+- item_name: Obsidian
+  min_stack: 10
+  max_stack: 20
+  weight: 1
+- item_name: SilverOre
+  min_stack: 2
+  max_stack: 10
+  weight: 1
+- item_name: Crystal
+  min_stack: 1
+  max_stack: 20
+  weight: 1
+- item_name: WolfHairBundle
+  min_stack: 1
+  max_stack: 5
+  weight: 1

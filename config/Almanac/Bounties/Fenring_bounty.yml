@@ -1,0 +1,24 @@
+creature_prefab_name: Fenring
+bounty_name: Fenring the Fierce
+sprite_name: TrophyFenring
+biome: Plains
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Axes
+  amount: 10000
+bounty_health: 300
+damage_multiplier: 1.3
+damages:
+  blunt: 0
+  slash: 20
+  pierce: 10
+  fire: 0
+  frost: 0
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 3
+defeat_key: defeated_fenring
