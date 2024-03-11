@@ -8,8 +8,17 @@ stop_message: ''
 tooltip: ''
 defeat_key: ''
 achievement_type: PoleArms
+custom_group_key: ''
+custom_pickable_name: ''
 goal: 0
 duration: 0
+reward_type: StatusEffect
+achievement_group: ''
+achievement_index: 0
+item: ''
+item_amount: 0
+skill: ''
+skill_amount: 0
 start_effects:
 - vfx_Potion_health_medium
 stop_effects:

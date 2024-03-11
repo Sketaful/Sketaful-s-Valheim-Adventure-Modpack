@@ -1,16 +1,16 @@
-unique_name: draugr_1
-display_name: Walkers
-sprite_name: TrophyDraugr
-description: Kill over <color=orange>100</color> Draugrs
-lore: Even the flies around these creatures harm you.
+unique_name: a_custom_brutes_1
+display_name: Brutish
+sprite_name: Obsidian
+description: Kill <color=orange>all</color> brute creatures
+lore: A true viking never shies away from brutes
 start_message: ''
 stop_message: ''
 tooltip: ''
-defeat_key: defeated_draugr
-achievement_type: CustomKills
-custom_group_key: ''
+defeat_key: ''
+achievement_type: CustomCreatureGroups
+custom_group_key: Custom_Brutes
 custom_pickable_name: ''
-goal: 100
+goal: 0
 duration: 0
 reward_type: StatusEffect
 achievement_group: ''
@@ -44,15 +44,15 @@ damage_modifiers:
 - m_type: Spirit
   m_modifier: Normal
 modifiers:
-  Attack: 1.1
+  Attack: 1.05
   HealthRegen: 1
   StaminaRegen: 1
   RaiseSkills: 1.05
-  Speed: 0.95
+  Speed: 1
   Noise: 1
   MaxCarryWeight: 0
   Stealth: 1
-  RunStaminaDrain: 1.1
-  DamageReduction: 0.05
+  RunStaminaDrain: 1
+  DamageReduction: 0
   FallDamage: 1
   EitrRegen: 1

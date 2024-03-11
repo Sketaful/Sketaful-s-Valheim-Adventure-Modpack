@@ -8,8 +8,17 @@ stop_message: ''
 tooltip: ''
 defeat_key: ''
 achievement_type: Swords
+custom_group_key: ''
+custom_pickable_name: ''
 goal: 0
 duration: 0
+reward_type: StatusEffect
+achievement_group: ''
+achievement_index: 0
+item: ''
+item_amount: 0
+skill: ''
+skill_amount: 0
 start_effects:
 - fx_DvergerMage_Support_start
 stop_effects:

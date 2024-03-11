@@ -8,8 +8,17 @@ stop_message: ''
 tooltip: ''
 defeat_key: defeated_draugr_elite
 achievement_type: CustomKills
+custom_group_key: ''
+custom_pickable_name: ''
 goal: 100
 duration: 0
+reward_type: StatusEffect
+achievement_group: ''
+achievement_index: 0
+item: ''
+item_amount: 0
+skill: ''
+skill_amount: 0
 start_effects:
 - sfx_coins_placed
 stop_effects: []

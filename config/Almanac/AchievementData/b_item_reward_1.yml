@@ -1,22 +1,22 @@
-unique_name: draugr_1
-display_name: Walkers
-sprite_name: TrophyDraugr
-description: Kill over <color=orange>100</color> Draugrs
-lore: Even the flies around these creatures harm you.
+unique_name: b_item_reward_1
+display_name: Riches
+sprite_name: Coins
+description: Kill over <color=orange>200</color> creatures
+lore: The gods shall reward you for pruning midgard of the overpopulating creatures
 start_message: ''
 stop_message: ''
 tooltip: ''
-defeat_key: defeated_draugr
-achievement_type: CustomKills
+defeat_key: ''
+achievement_type: EnemyKills
 custom_group_key: ''
 custom_pickable_name: ''
-goal: 100
+goal: 200
 duration: 0
-reward_type: StatusEffect
+reward_type: Item
 achievement_group: ''
 achievement_index: 0
-item: ''
-item_amount: 0
+item: Coins
+item_amount: 999
 skill: ''
 skill_amount: 0
 start_effects:
@@ -44,15 +44,15 @@ damage_modifiers:
 - m_type: Spirit
   m_modifier: Normal
 modifiers:
-  Attack: 1.1
+  Attack: 1
   HealthRegen: 1
   StaminaRegen: 1
-  RaiseSkills: 1.05
-  Speed: 0.95
+  RaiseSkills: 1
+  Speed: 1
   Noise: 1
   MaxCarryWeight: 0
   Stealth: 1
-  RunStaminaDrain: 1.1
-  DamageReduction: 0.05
+  RunStaminaDrain: 1
+  DamageReduction: 0
   FallDamage: 1
   EitrRegen: 1
