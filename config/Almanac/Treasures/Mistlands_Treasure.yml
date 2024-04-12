@@ -1,5 +1,7 @@
 name: Mistlands Treasure
 sprite_name: map
+currency: Coins
+cost: 100
 biome: Mistlands
 loot:
 - item_name: Coins

@@ -1,5 +1,7 @@
 name: Deep North Treasure
 sprite_name: map
+currency: Coins
+cost: 150
 biome: DeepNorth
 loot:
 - item_name: Coins

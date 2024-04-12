@@ -9,6 +9,7 @@ item_reward:
 skill_reward:
   type: None
   amount: 0
+experience_reward: 0
 bounty_health: 500
 damage_multiplier: 2
 damages:
@@ -22,3 +23,5 @@ damages:
   spirit: 0
 level: 3
 defeat_key: defeated_neck
+cost: 0
+currency: Coins

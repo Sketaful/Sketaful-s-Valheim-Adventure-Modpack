@@ -1,5 +1,7 @@
 name: Ashlands Treasure
 sprite_name: map
+currency: Coins
+cost: 150
 biome: AshLands
 loot:
 - item_name: Coins

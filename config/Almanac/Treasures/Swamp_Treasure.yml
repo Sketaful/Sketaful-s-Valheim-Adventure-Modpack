@@ -1,5 +1,7 @@
 name: Swamp Treasure
 sprite_name: map
+currency: Coins
+cost: 30
 biome: Swamp
 loot:
 - item_name: Coins

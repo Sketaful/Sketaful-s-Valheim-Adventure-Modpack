@@ -9,6 +9,7 @@ item_reward:
 skill_reward:
   type: Polearms
   amount: 12000
+experience_reward: 0
 bounty_health: 1500
 damage_multiplier: 1.8
 damages:
@@ -22,3 +23,5 @@ damages:
   spirit: 20
 level: 3
 defeat_key: defeated_seekerbrute
+cost: 0
+currency: Coins

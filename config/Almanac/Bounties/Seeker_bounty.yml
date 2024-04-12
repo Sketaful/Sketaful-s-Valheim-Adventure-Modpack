@@ -9,6 +9,7 @@ item_reward:
 skill_reward:
   type: Spears
   amount: 8000
+experience_reward: 0
 bounty_health: 200
 damage_multiplier: 1.2
 damages:
@@ -22,3 +23,5 @@ damages:
   spirit: 10
 level: 2
 defeat_key: defeated_seeker
+cost: 0
+currency: Coins

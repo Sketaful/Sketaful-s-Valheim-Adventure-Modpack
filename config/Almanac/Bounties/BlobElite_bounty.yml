@@ -9,6 +9,7 @@ item_reward:
 skill_reward:
   type: None
   amount: 0
+experience_reward: 0
 bounty_health: 150
 damage_multiplier: 1.3
 damages:
@@ -22,3 +23,5 @@ damages:
   spirit: 0
 level: 3
 defeat_key: defeated_blobelite
+cost: 0
+currency: Coins

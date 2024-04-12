@@ -1,5 +1,7 @@
 name: Plains Treasure
 sprite_name: map
+currency: Coins
+cost: 50
 biome: Plains
 loot:
 - item_name: Coins

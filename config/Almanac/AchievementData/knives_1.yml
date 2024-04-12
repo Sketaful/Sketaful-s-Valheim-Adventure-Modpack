@@ -19,6 +19,7 @@ item: ''
 item_amount: 0
 skill: ''
 skill_amount: 0
+class_experience: 0
 start_effects:
 - vfx_Potion_health_medium
 stop_effects:

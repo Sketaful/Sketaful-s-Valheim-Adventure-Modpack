@@ -1,5 +1,7 @@
 name: Black Forest Treasure
 sprite_name: map
+currency: Coins
+cost: 20
 biome: BlackForest
 loot:
 - item_name: Coins

@@ -1,5 +1,7 @@
 name: Meadow Treasure
 sprite_name: map
+currency: Coins
+cost: 10
 biome: Meadows
 loot:
 - item_name: Coins

@@ -9,6 +9,7 @@ item_reward:
 skill_reward:
   type: Blocking
   amount: 15000
+experience_reward: 0
 bounty_health: 800
 damage_multiplier: 1.5
 damages:
@@ -22,3 +23,5 @@ damages:
   spirit: 0
 level: 3
 defeat_key: defeated_stonegolem
+cost: 0
+currency: Coins

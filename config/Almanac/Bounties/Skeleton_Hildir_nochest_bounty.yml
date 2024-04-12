@@ -9,6 +9,7 @@ item_reward:
 skill_reward:
   type: Swords
   amount: 10000
+experience_reward: 0
 bounty_health: 2400
 damage_multiplier: 1.1
 damages:
@@ -22,3 +23,5 @@ damages:
   spirit: 0
 level: 3
 defeat_key: BossHildir1
+cost: 0
+currency: Coins

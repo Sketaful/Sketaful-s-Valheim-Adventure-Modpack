@@ -9,6 +9,7 @@ item_reward:
 skill_reward:
   type: Polearms
   amount: 8000
+experience_reward: 0
 bounty_health: 100
 damage_multiplier: 1.1
 damages:
@@ -22,3 +23,5 @@ damages:
   spirit: 0
 level: 2
 defeat_key: defeated_goblinshaman
+cost: 0
+currency: Coins

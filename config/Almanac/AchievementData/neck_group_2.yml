@@ -22,6 +22,7 @@ item: Flint
 item_amount: 50
 skill: ''
 skill_amount: 0
+class_experience: 0
 start_effects:
 - sfx_coins_placed
 stop_effects: []
