@@ -1,0 +1,5 @@
+- prefab: Example
+  type: Create
+  swap: Surtling
+  biomes: Meadows
+  bannedObjects: 

@@ -1,0 +1,141 @@
+- biome: Meadows
+  environments:
+  - environment: Clear
+    weight: 5
+  - environment: Rain
+    weight: 0.2
+  - environment: Misty
+    weight: 0.2
+  - environment: ThunderStorm
+    weight: 0.2
+  - environment: LightRain
+    weight: 0.2
+  mapColor:
+    r: 0.5725338
+    g: 0.6551003
+    b: 0.3605249
+    a: 1
+  musicDay: meadows
+- biome: BlackForest
+  environments:
+  - environment: DeepForest Mist
+    weight: 2
+  - environment: Rain
+    weight: 0.1
+  - environment: Misty
+    weight: 0.1
+  - environment: ThunderStorm
+    weight: 0.1
+  color:
+    b: 1
+  mapColor:
+    r: 0.4196384
+    g: 0.4548104
+    b: 0.2466926
+    a: 1
+  musicDay: blackforest
+  musicNight: blackforest
+- biome: Swamp
+  environments:
+  - environment: SwampRain
+  color:
+    r: 1
+  mapColor:
+    r: 0.6394598
+    g: 0.4469825
+    b: 0.3448844
+    a: 1
+  musicDay: swamp
+  musicNight: swamp
+- biome: Mountain
+  environments:
+  - environment: SnowStorm
+  - environment: Snow
+    weight: 5
+  color:
+    g: 1
+  mapColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  musicDay: mountain
+  musicNight: mountain
+- biome: DeepNorth
+  environments:
+  - environment: Twilight_SnowStorm
+    weight: 0.5
+  - environment: Twilight_Snow
+  - environment: Twilight_Clear
+  color:
+    g: 1
+  mapColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+- biome: Plains
+  environments:
+  - environment: Heath clear
+    weight: 2
+  - environment: Misty
+    weight: 0.4
+  - environment: LightRain
+    weight: 0.4
+  color:
+    a: 1
+  mapColor:
+    r: 0.9062028
+    g: 0.6707256
+    b: 0.4704356
+    a: 1
+  musicDay: plains
+  musicNight: plains
+- biome: AshLands
+  environments:
+  - environment: Ashrain
+  color:
+    r: 1
+    a: 1
+  mapColorMultiplier: 0.5
+  mapColor:
+    r: 0.6902724
+    g: 0.1919738
+    b: 0.1919738
+    a: 1
+  musicMorning: '-'
+  musicEvening: '-'
+- biome: Ocean
+  environments:
+  - environment: Rain
+    weight: 0.1
+  - environment: LightRain
+    weight: 0.1
+  - environment: Misty
+    weight: 0.1
+  - environment: Clear
+  - environment: ThunderStorm
+    weight: 0.1
+  mapColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+- biome: Mistlands
+  environments:
+  - environment: Mistlands_clear
+    weight: 1.5
+  - environment: Mistlands_rain
+    weight: 0.1
+  - environment: Mistlands_thunder
+    weight: 0.1
+  color:
+    b: 1
+    a: 1
+  mapColor:
+    r: 0.2
+    g: 0.2
+    b: 0.2
+    a: 1
+  musicDay: mistlands
+  musicNight: mistlands
