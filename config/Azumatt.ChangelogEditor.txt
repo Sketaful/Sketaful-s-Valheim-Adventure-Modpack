@@ -1,8 +1,9 @@
-This servermod is made for fun and curiosity over how well a modpack can be made to work, specially on a server. There will probably be bugs, no question about it, but the tests that have been done so far is stable. 
+2024-04-15
+Since the latest update to Valheim a bunch of things broke. Most of these are fixed but demanded that a couple of mods be removed (for now). When these mods have been updated so they work properly they will be added again.
 
-The modpack will be updated and bugfixed from time to time depending on how busy real life get. 
+Two buttons at the bottom right of this screen have been added. For quiestions, join the discord and for bug reports please just press the issues button and use git hub top report.
 
-THE SERVER
-The server is up for fun as well and is open for anyone to just do whatever on. The server have serverside characters anyone joining it will have to do so with a new character. This is because I need to see how that works and because, well, I just like it that way. There is no whitelist for the server and one click on the Fast Link and choosing a character will log you in, no password needed. If the quicklink would not work for some reason the password is oldies.
-'
+Anyone wanting wanting to make their own server based on this modpack and want it listed in the actual modpack, just give me a heads up and I'll add it.
 
+Thank you.
+/Sketaful
