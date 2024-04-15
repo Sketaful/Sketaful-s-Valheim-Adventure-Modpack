@@ -1,10 +1,11 @@
 {
     "name": "Sketafuls_Adventurepack",
-    "version_number": "1.2.2",
+    "version_number": "1.2.4",
     "website_url": "https://github.com/Sketaful/Sketaful-s-Valheim-Adventure-Modpack",
     "description": "Expanding all parts of Valheim while also trying to fix a lot of the cumbersome parts of the game without making it feel like cheating. Basically balancing and expanding the game with a lot of new things and fixing the empty biomes. Oh, and a server!",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
+        "Smoothbrain-CreatureLevelAndLootControl-4.5.20",
         "ValheimModding-HookGenPatcher-0.0.4",
         "Azumatt-Build_Camera_Custom_Hammers_Edition-1.2.2",
         "MathiasDecrock-PlanBuild-0.14.9",
@@ -82,7 +83,7 @@
         "Therzie-Warfare-1.6.7",
         "Therzie-WarfareFireAndIce-1.1.6",
         "Therzie-Armory-1.1.8",
-        "ValheimModding-Jotunn-2.19.1",
+        "ValheimModding-Jotunn-2.19.2",
         "Searica-AdvancedTerrainModifiers-1.2.6",
         "Searica-More_Vanilla_Build_Prefabs-1.0.7",
         "Meldurson-MountUpRestored-3.3.1",
@@ -90,10 +91,11 @@
         "BentoG-MissingPieces-2.1.0",
         "VentureValheim-Venture_Location_Reset-0.8.2",
         "MSchmoecker-MultiUserChest-0.5.10",
-        "Smoothbrain-Jewelcrafting-1.5.19",
+        "Smoothbrain-Jewelcrafting-1.5.20",
         "OdinPlus-CrystalLights-1.0.16",
         "blacks7ar-MagicPlugin-1.9.1",
         "RustyMods-Almanac-3.2.6",
+        "blacks7ar-SeedBed-1.1.1",
         "nbusseneau-Better_Cartography_Table-0.3.0"
 
     ]

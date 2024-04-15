@@ -1,6 +1,20 @@
+### v1.2.4  - (<small><i>The mini-quick-fix</i></small>)
+<b>FIX</b>
+* Fixed a small error
+---
+### v1.2.3  - (<small><i>The return, part 1</i></small>)
+<b>ADDED</b>
+* CreatureLevelAndLootControl v4.5.20 (Let's see if they fixed it)
+* SeedBed v1.1.1
+
+<b>UPDATED</b>
+* Jotunn updated to v2.19.2
+* Jewelcrafting updated to v1.5.20
+---
 ### v1.2.2 - (<small><i>The fix of the fixes of the major...</i></small>)
 <b>UPDATED</b>
 * TargetPortal updated to v1.1.17
+
 <b>REMOVED (until updated/fixed)</b>
 * Guilds
 * Groups
@@ -12,7 +26,7 @@
 * MonstrumAshlands
 * MonstrumDeepNorth
 
-<b>SERVER & MODPACK</p>
+<b>SERVER & MODPACK</b>
 * It seems like the update changed quite much. It changed monsters/animals behaviors a bit, it switched out the engine for a newer version and a lot more. This sadly made some mods crash. The ones that broke the game have been removed. There is still some errors in the logfiles but atleast it seem to work now.
 * The server have had the mods removed as well and been tested. Some small error in a cfg-file can make it fail to let you connect the first time, but second time you should be fine.
 * Both modpack and server will have mods added again when they've been updated. :)
