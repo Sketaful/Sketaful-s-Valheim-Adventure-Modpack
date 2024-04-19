@@ -1,5 +1,5 @@
 - prefab: Meadows3_RtD
-  amount: 4
+  amount: 1
   biome: Mistlands
   instanced: true
   scaleMin: 2
@@ -11,7 +11,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Mistlands1_RtD
-  amount: 5
+  amount: 2
   biome: Mistlands
   instanced: true
   scaleMax: 1.2
@@ -21,7 +21,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Mistlands2_RtD
-  amount: 5
+  amount: 1
   biome: Mistlands
   instanced: true
   scaleMin: 2
@@ -32,7 +32,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Mistlands3_RtD
-  amount: 5
+  amount: 2
   biome: Mistlands
   instanced: true
   scaleMin: 2
@@ -44,7 +44,7 @@
   fractalThresholdMin: 0.5
 - prefab: MistlandsGrass1_RtD
   enabled: false
-  amount: 2
+  amount: 1
   biome: Mistlands
   instanced: true
   scaleMax: 1.2
@@ -57,7 +57,7 @@
   fractalThresholdMin: 0.5
 - prefab: MistlandsGrass2_RtD
   enabled: false
-  amount: 2
+  amount: 1
   biome: Mistlands
   instanced: true
   scaleMax: 1.2
@@ -105,7 +105,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: DesertGrass2_RtD
-  amount: 2
+  amount: 1
   biome: AshLands
   instanced: true
   maxTilt: 80
@@ -115,7 +115,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: DesertGrass3_RtD
-  amount: 2
+  amount: 1
   biome: AshLands
   instanced: true
   maxTilt: 80
@@ -125,7 +125,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: DesertGrass4_RtD
-  amount: 2
+  amount: 1
   biome: AshLands
   instanced: true
   maxTilt: 80
@@ -135,7 +135,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: DesertGrass5_RtD
-  amount: 2
+  amount: 1
   biome: AshLands
   instanced: true
   maxTilt: 80
@@ -145,7 +145,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: DesertGrass6_RtD
-  amount: 2
+  amount: 1
   biome: AshLands
   instanced: true
   maxTilt: 80
@@ -195,7 +195,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: WormWood_RtD
-  amount: 3
+  amount: 1
   biome: Meadows
   instanced: true
   scaleMax: 1.2
@@ -205,7 +205,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: MeadowsGrass1_RtD
-  amount: 3
+  amount: 1
   biome: Meadows
   instanced: true
   scaleMax: 1.2
@@ -215,7 +215,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: MeadowsGrass2_RtD
-  amount: 3
+  amount: 1
   biome: Meadows
   instanced: true
   scaleMax: 1.2
@@ -225,7 +225,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: MeadowsGrass3_RtD
-  amount: 4
+  amount: 1
   biome: Meadows
   instanced: true
   scaleMax: 1.2
@@ -235,7 +235,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: MeadowsWeed1_RtD
-  amount: 4
+  amount: 1
   biome: Meadows
   instanced: true
   scaleMax: 1.2
@@ -265,7 +265,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: BlackForest1_RtD
-  amount: 5
+  amount: 3
   biome: BlackForest
   instanced: true
   scaleMin: 2
@@ -276,7 +276,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: BlackForest2_RtD
-  amount: 5
+  amount: 3
   biome: BlackForest
   instanced: true
   scaleMin: 2
@@ -307,7 +307,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: Swamps1_RtD
-  amount: 5
+  amount: 3
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -317,7 +317,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Swamps2_RtD
-  amount: 5
+  amount: 3
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -327,7 +327,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Swamps3_RtD
-  amount: 5
+  amount: 3
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -337,7 +337,7 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: SwampGrass1_RtD
-  amount: 3
+  amount: 2
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -347,7 +347,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: SwampGrass2_RtD
-  amount: 3
+  amount: 2
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -357,7 +357,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: SwampGrass3_RtD
-  amount: 3
+  amount: 2
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -367,7 +367,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: SwampGrass4_RtD
-  amount: 3
+  amount: 2
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -377,7 +377,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: SwampPlant_RtD
-  amount: 3
+  amount: 2
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -387,7 +387,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: ForestBush1_RtD
-  amount: 3
+  amount: 2
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -397,7 +397,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: ForestBush2_RtD
-  amount: 3
+  amount: 2
   biome: Swamp
   instanced: true
   scaleMax: 1.2
@@ -407,7 +407,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: Daisy_RtD
-  amount: 5
+  amount: 3
   biome: Plains
   instanced: true
   scaleMin: 1.5
@@ -418,7 +418,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: PlainsGrass1_RtD
-  amount: 5
+  amount: 2
   biome: Plains
   instanced: true
   scaleMin: 1.5
@@ -429,7 +429,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: PlainsGrass2_RtD
-  amount: 5
+  amount: 2
   biome: Plains
   instanced: true
   scaleMax: 1.2
@@ -439,7 +439,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: PlainsGrass3_RtD
-  amount: 5
+  amount: 2
   biome: Plains
   instanced: true
   scaleMax: 1.2

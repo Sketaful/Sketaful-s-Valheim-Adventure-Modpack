@@ -1,9 +1,7 @@
-2024-04-15
-Since the latest update to Valheim a bunch of things broke. Most of these are fixed but demanded that a couple of mods be removed (for now). When these mods have been updated so they work properly they will be added again.
+2024-04-07
 
-Two buttons at the bottom right of this screen have been added. For quiestions, join the discord and for bug reports please just press the issues button and use git hub top report.
+Most bugs from mods not being updated should be fixed. There's always a couple bugs "not found yet" and I'm looking for them.
 
-Anyone wanting wanting to make their own server based on this modpack and want it listed in the actual modpack, just give me a heads up and I'll add it.
+Please. Use the buttons at the bottom of this screen and leave notice me on the github issues page if you find any.
 
-Thank you.
-/Sketaful
+
