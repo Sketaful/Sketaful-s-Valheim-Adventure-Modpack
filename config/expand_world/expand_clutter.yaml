@@ -1,5 +1,5 @@
 - prefab: instanced_meadows_grass
-  amount: 35
+  amount: 30
   biome: Meadows, 128
   instanced: true
   scaleMax: 2.3
@@ -9,7 +9,7 @@
   terrainTilt: true
   fractalScale: 5
 - prefab: instanced_shrub
-  amount: 8
+  amount: 2
   biome: Meadows, 128
   instanced: true
   scaleMax: 1.5
@@ -21,7 +21,7 @@
   fractalThresholdMin: 0.5
 - prefab: clutter_shrub_large
   enabled: false
-  amount: 3
+  amount: 2
   biome: Meadows, 128
   maxTilt: 30
   minAltitude: 0
@@ -30,7 +30,7 @@
   forestTresholdMax: 1.15
   fractalThresholdMin: 0.5
 - prefab: instanced_forest_groundcover_brown
-  amount: 35
+  amount: 30
   biome: BlackForest
   instanced: true
   maxTilt: 25
@@ -39,7 +39,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: instanced_forest_groundcover
-  amount: 35
+  amount: 30
   biome: BlackForest
   instanced: true
   maxTilt: 25
@@ -48,7 +48,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: instanced_swamp_grass
-  amount: 35
+  amount: 30
   biome: Swamp
   instanced: true
   scaleMin: 0.8
@@ -58,7 +58,7 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: instanced_heathgrass
-  amount: 35
+  amount: 30
   biome: Plains
   instanced: true
   scaleMin: 0.7
@@ -69,7 +69,7 @@
   terrainTilt: true
   fractalThresholdMax: 0.8
 - prefab: grasscross_heath_green
-  amount: 35
+  amount: 30
   biome: Plains
   maxTilt: 30
   minAltitude: 1
@@ -77,7 +77,7 @@
   terrainTilt: true
   fractalScale: 3
 - prefab: instanced_meadows_grass_short
-  amount: 35
+  amount: 30
   biome: Meadows, 128
   instanced: true
   scaleMax: 2
