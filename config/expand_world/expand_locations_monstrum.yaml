@@ -1,7 +1,7 @@
 - prefab: AltarAsmodeus_TW
   biome: Meadows
   biomeArea: median
-  quantity: 15
+  quantity: 10
   maxDistance: 1
   minAltitude: 5
   prioritized: true

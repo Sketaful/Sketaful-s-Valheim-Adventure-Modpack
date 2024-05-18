@@ -3489,3 +3489,106 @@
   - position: 0,0,0,180
     type: middlewall
     door: false
+- name: CharredRuins9
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  weight: 2
+  faceCenter: true
+  perimeter: true
+  size: 20,2,4
+  connections: []
+- name: CharredRuins12
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  faceCenter: true
+  size: 10,18,4
+  connections: []
+- name: CharredRuins13
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  size: 8,8,4
+  connections: []
+- name: CharredRuins14
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  faceCenter: true
+  size: 10,18,4
+  connections: []
+- name: CharredRuins15
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  size: 10,10,4
+  connections: []
+- name: CharredRuins16
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  weight: 0.5
+  size: 6,10,4
+  connections: []
+- name: CharredRuins17
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  weight: 0.5
+  size: 10,10,4
+  connections: []
+- name: CharredRuins23
+  theme: AshlandRuins
+  minPlaceOrder: 1
+  weight: 0.5
+  size: 10,10,4
+  connections: []
+- name: CharredRuins24
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  weight: 2
+  faceCenter: true
+  perimeter: true
+  size: 8,2,4
+  connections: []
+- name: CharredRuins25
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  size: 8,6,4
+  connections: []
+- name: CharredRuins_new01
+  theme: AshlandRuins
+  minPlaceOrder: 1
+  weight: 10
+  size: 20,20,4
+  connections: []
+- name: CharredRuins_new02
+  theme: AshlandRuins, FortressRuins
+  minPlaceOrder: 1
+  weight: 5
+  size: 12,12,4
+  connections: []
+- name: CharredRuins_new03
+  theme: AshlandRuins
+  minPlaceOrder: 1
+  weight: 5
+  size: 12,12,4
+  connections: []
+- name: CharredRuins_new04
+  theme: AshlandRuins
+  minPlaceOrder: 1
+  weight: 5
+  size: 12,20,4
+  connections: []
+- name: CharredRuins_new05
+  theme: AshlandRuins
+  minPlaceOrder: 1
+  weight: 5
+  size: 20,20,4
+  connections: []
+- name: FortressRuins23
+  theme: FortressRuins
+  size: 10,10,4
+  connections: []
+- name: FortressRuins_new01
+  theme: FortressRuins
+  size: 20,20,4
+  connections: []
+- name: FortressRuins_shieldgen
+  theme: FortressRuins
+  size: 8,8,4
+  connections: []

@@ -1630,87 +1630,6 @@
   lightIntensityDay: 0.7
   lightIntensityNight: 0.5
   sunAngle: 45
-- name: Ashrain
-  windMin: 0.1
-  windMax: 0.5
-  rainCloudAlpha: 1
-  ambColorDay:
-    r: 0.6691177
-    g: 0.4183004
-    b: 0.3443988
-    a: 1
-  ambColorNight:
-    r: 0.6707256
-    g: 0.4196384
-    b: 0.3448844
-    a: 1
-  sunColorMorning:
-    r: 1
-    g: 0.6707256
-    b: 0.4196384
-    a: 1
-  sunColorDay:
-    r: 0.9491875
-    g: 0.8040894
-    b: 0.5451744
-    a: 1
-  sunColorEvening:
-    r: 1
-    g: 0.4391699
-    b: 0.2667277
-    a: 1
-  sunColorNight:
-    r: 0.4200909
-    g: 0.4405027
-    b: 0.5441177
-    a: 1
-  fogColorMorning:
-    r: 0.5139086
-    g: 0.270634
-    b: 0.270634
-    a: 1
-  fogColorDay:
-    r: 0.5147059
-    g: 0.2724914
-    b: 0.2724914
-    a: 1
-  fogColorEvening:
-    r: 0.5139086
-    g: 0.270634
-    b: 0.270634
-    a: 1
-  fogColorNight:
-    r: 0.4852941
-    g: 0.007136685
-    b: 0.007136685
-    a: 1
-  fogColorSunMorning:
-    r: 0.4338235
-    g: 0.3351338
-    b: 0.2073421
-    a: 1
-  fogColorSunDay:
-    r: 0.6785535
-    g: 0.5178302
-    b: 0.3097124
-    a: 1
-  fogColorSunEvening:
-    r: 0.4705882
-    g: 0.3635349
-    b: 0.2249135
-    a: 1
-  fogColorSunNight:
-    r: 0.4860761
-    g: 0.007812619
-    b: 0.007812619
-    a: 1
-  fogDensityMorning: 0.02
-  fogDensityDay: 0.02
-  fogDensityEvening: 0.02
-  fogDensityNight: 0.02
-  lightIntensityDay: 1.3
-  lightIntensityNight: 0.8
-  sunAngle: 45
 - name: Crypt
   alwaysDark: true
   windMax: 0
@@ -2492,3 +2411,655 @@
   fogDensityEvening: 0.15
   fogDensityNight: 0.15
   lightIntensityDay: 0
+- name: Ashlands_ashrain
+  windMin: 0.1
+  windMax: 0.5
+  rainCloudAlpha: 1.5
+  ambientVol: 0.8
+  ambColorDay:
+    r: 0.6705883
+    g: 0.454902
+    b: 0.427451
+    a: 1
+  ambColorNight:
+    r: 0.2039216
+    g: 0.3333333
+    b: 0.3411765
+    a: 1
+  sunColorMorning:
+    r: 0.6901961
+    g: 0.4941177
+    b: 0.282353
+    a: 1
+  sunColorDay:
+    r: 0.5176471
+    g: 0.3843138
+    b: 0.3058824
+    a: 1
+  sunColorEvening:
+    r: 0.4078432
+    g: 0.3019608
+    b: 0.7529413
+    a: 1
+  sunColorNight:
+    r: 0.1686275
+    g: 0.372549
+    b: 0.6313726
+    a: 1
+  fogColorMorning:
+    r: 0.6117647
+    g: 0.3843138
+    b: 0.1921569
+    a: 1
+  fogColorDay:
+    r: 0.5019608
+    g: 0.1843137
+    b: 0.1294118
+    a: 1
+  fogColorEvening:
+    r: 0.4509804
+    g: 0.2627451
+    b: 0.2627451
+    a: 1
+  fogColorNight:
+    r: 0.172549
+    g: 0.254902
+    b: 0.2745098
+    a: 1
+  fogColorSunMorning:
+    r: 0.5843138
+    g: 0.4901961
+    b: 0.4156863
+    a: 1
+  fogColorSunDay:
+    r: 0.7058824
+    g: 0.4
+    b: 0.2078432
+    a: 1
+  fogColorSunEvening:
+    r: 0.5568628
+    g: 0.1882353
+    b: 0.282353
+    a: 1
+  fogColorSunNight:
+    r: 0.2039216
+    g: 0.2352941
+    b: 0.2627451
+    a: 1
+  fogDensityMorning: 0.05
+  fogDensityDay: 0.02
+  fogDensityNight: 0.03
+  lightIntensityDay: 2.2
+  lightIntensityNight: 0.4
+  sunAngle: 35
+- name: Ashlands_ashrain_clear
+  windMin: 0.1
+  windMax: 0.5
+  rainCloudAlpha: 1.5
+  ambientVol: 0.8
+  ambColorDay:
+    r: 0.6705883
+    g: 0.454902
+    b: 0.427451
+    a: 1
+  ambColorNight:
+    r: 0.2039216
+    g: 0.3333333
+    b: 0.3411765
+    a: 1
+  sunColorMorning:
+    r: 0.6901961
+    g: 0.4941177
+    b: 0.282353
+    a: 1
+  sunColorDay:
+    r: 0.5176471
+    g: 0.3843138
+    b: 0.3058824
+    a: 1
+  sunColorEvening:
+    r: 0.4078432
+    g: 0.3019608
+    b: 0.7529413
+    a: 1
+  sunColorNight:
+    r: 0.1686275
+    g: 0.372549
+    b: 0.6313726
+    a: 1
+  fogColorMorning:
+    r: 0.6117647
+    g: 0.3843138
+    b: 0.1921569
+    a: 1
+  fogColorDay:
+    r: 0.5019608
+    g: 0.1843137
+    b: 0.1294118
+    a: 1
+  fogColorEvening:
+    r: 0.4509804
+    g: 0.2627451
+    b: 0.2627451
+    a: 1
+  fogColorNight:
+    r: 0.172549
+    g: 0.254902
+    b: 0.2745098
+    a: 1
+  fogColorSunMorning:
+    r: 0.5843138
+    g: 0.4901961
+    b: 0.4156863
+    a: 1
+  fogColorSunDay:
+    r: 0.7058824
+    g: 0.4
+    b: 0.2078432
+    a: 1
+  fogColorSunEvening:
+    r: 0.5568628
+    g: 0.1882353
+    b: 0.282353
+    a: 1
+  fogColorSunNight:
+    r: 0.2039216
+    g: 0.2352941
+    b: 0.2627451
+    a: 1
+  fogDensityMorning: 0.05
+  fogDensityDay: 0.02
+  fogDensityNight: 0.03
+  lightIntensityDay: 2.2
+  lightIntensityNight: 0.4
+  sunAngle: 35
+- name: Ashlands_storm
+  windMin: 2.5
+  windMax: 3
+  rainCloudAlpha: 1.5
+  ambientVol: 0.8
+  ambColorDay:
+    r: 0.4062389
+    g: 0.4436855
+    b: 0.4811321
+    a: 1
+  ambColorNight:
+    r: 0.3584906
+    g: 0.2683158
+    b: 0.245194
+    a: 1
+  sunColorMorning:
+    r: 0.5257075
+    g: 0.3559986
+    b: 0.6037736
+    a: 1
+  sunColorDay:
+    r: 0.4901961
+    g: 0.1960784
+    b: 0.1764706
+    a: 1
+  sunColorEvening:
+    r: 0.4078431
+    g: 0.3019608
+    b: 0.7529412
+    a: 1
+  sunColorNight:
+    r: 0.4227038
+    g: 0.4450205
+    b: 0.5566038
+    a: 1
+  fogColorMorning:
+    r: 0.4150943
+    g: 0.1566394
+    b: 0.09202562
+    a: 1
+  fogColorDay:
+    r: 0.4150943
+    g: 0.1390174
+    b: 0.1589748
+    a: 1
+  fogColorEvening:
+    r: 0.4339623
+    g: 0.2272161
+    b: 0.2272161
+    a: 1
+  fogColorNight:
+    r: 0.254717
+    g: 0.09491812
+    b: 0.1065398
+    a: 1
+  fogColorSunMorning:
+    r: 0.4352941
+    g: 0.3333333
+    b: 0.2078431
+    a: 1
+  fogColorSunDay:
+    r: 0.2666667
+    g: 0.2196078
+    b: 0.2745098
+    a: 1
+  fogColorSunEvening:
+    r: 0.5568628
+    g: 0.1882353
+    b: 0.282353
+    a: 1
+  fogColorSunNight:
+    r: 0.1921569
+    g: 0.1607843
+    b: 0.2
+    a: 1
+  fogDensityMorning: 0.02
+  fogDensityDay: 0.02
+  fogDensityEvening: 0.02
+  fogDensityNight: 0.02
+  lightIntensityDay: 1.5
+  lightIntensityNight: 1.5
+  sunAngle: 45
+- name: Ashlands_meteorshower
+  windMin: 0.1
+  windMax: 0.5
+  rainCloudAlpha: 1.5
+  ambientVol: 0.6
+  ambColorDay:
+    r: 0.3867925
+    g: 0.1696778
+    b: 0.2033667
+    a: 1
+  ambColorNight:
+    r: 0.4150943
+    g: 0.1977572
+    b: 0.2685598
+    a: 1
+  sunColorMorning:
+    r: 1
+    g: 0.6707256
+    b: 0.4196384
+    a: 1
+  sunColorDay:
+    r: 0.9490196
+    g: 0.654902
+    b: 0.5450981
+    a: 1
+  sunColorEvening:
+    r: 1
+    g: 0.4391699
+    b: 0.2667277
+    a: 1
+  sunColorNight:
+    r: 0.4941176
+    g: 0.5019608
+    b: 0.5450981
+    a: 1
+  fogColorMorning:
+    r: 0.5647059
+    g: 0.4666667
+    b: 0.3019608
+    a: 1
+  fogColorDay:
+    r: 0.5
+    g: 0.3734813
+    b: 0.3278302
+    a: 1
+  fogColorEvening:
+    r: 0.5139086
+    g: 0.270634
+    b: 0.270634
+    a: 1
+  fogColorNight:
+    r: 0.4862745
+    g: 0.1607843
+    b: 0.1830142
+    a: 1
+  fogColorSunMorning:
+    r: 0.4338235
+    g: 0.3351338
+    b: 0.2073421
+    a: 1
+  fogColorSunDay:
+    r: 0.461
+    g: 0.4152517
+    b: 0.2863788
+    a: 1
+  fogColorSunEvening:
+    r: 0.4705882
+    g: 0.3635349
+    b: 0.2249135
+    a: 1
+  fogColorSunNight:
+    r: 0.2684762
+    g: 0.2180936
+    b: 0.2735849
+    a: 1
+  fogDensityMorning: 0.03
+  fogDensityDay: 0.03
+  fogDensityEvening: 0.03
+  fogDensityNight: 0.03
+  lightIntensityNight: 1
+  sunAngle: 45
+- name: Ashlands_misty
+  windMin: 0.1
+  windMax: 0.5
+  rainCloudAlpha: 1.5
+  ambientVol: 0.8
+  ambColorDay:
+    r: 0.4980392
+    g: 0.5411765
+    b: 0.5843138
+    a: 1
+  ambColorNight:
+    r: 0.1960784
+    g: 0.3294118
+    b: 0.3254902
+    a: 1
+  sunColorMorning:
+    r: 0.6078432
+    g: 0.4117647
+    b: 0.6980392
+    a: 1
+  sunColorDay:
+    r: 0.5176471
+    g: 0.4352942
+    b: 0.3411765
+    a: 1
+  sunColorEvening:
+    r: 0.4078432
+    g: 0.3019608
+    b: 0.7529413
+    a: 1
+  sunColorNight:
+    r: 0.4941177
+    g: 0.5215687
+    b: 0.6588235
+    a: 1
+  fogColorMorning:
+    r: 0.4431373
+    g: 0.3254902
+    b: 0.2078432
+    a: 1
+  fogColorDay:
+    r: 0.3764706
+    g: 0.4156863
+    b: 0.4509804
+    a: 1
+  fogColorEvening:
+    r: 0.5137255
+    g: 0.3921569
+    b: 0.2705882
+    a: 1
+  fogColorNight:
+    r: 0.04313726
+    g: 0.2352941
+    b: 0.2196079
+    a: 1
+  fogColorSunMorning:
+    r: 0.4352942
+    g: 0.3333333
+    b: 0.2078432
+    a: 1
+  fogColorSunDay:
+    r: 0.2705882
+    g: 0.2431373
+    b: 0.2745098
+    a: 1
+  fogColorSunEvening:
+    r: 0.5568628
+    g: 0.427451
+    b: 0.1882353
+    a: 1
+  fogColorSunNight:
+    r: 0.1607843
+    g: 0.2
+    b: 0.1803922
+    a: 1
+  fogDensityMorning: 0.03
+  fogDensityDay: 0.03
+  fogDensityEvening: 0.03
+  fogDensityNight: 0.04
+  lightIntensityDay: 1
+  lightIntensityNight: 0.6
+  sunAngle: 20
+- name: Ashlands_CinderRain
+  windMin: 0.75
+  windMax: 0.7
+  rainCloudAlpha: 1.5
+  ambientVol: 0.8
+  ambColorDay:
+    r: 0.4062389
+    g: 0.4436855
+    b: 0.4811321
+    a: 1
+  ambColorNight:
+    r: 0.3584906
+    g: 0.2683158
+    b: 0.245194
+    a: 1
+  sunColorMorning:
+    r: 0.5257075
+    g: 0.3559986
+    b: 0.6037736
+    a: 1
+  sunColorDay:
+    r: 0.4901961
+    g: 0.1960784
+    b: 0.1764706
+    a: 1
+  sunColorEvening:
+    r: 0.4078431
+    g: 0.3019608
+    b: 0.7529412
+    a: 1
+  sunColorNight:
+    r: 0.4227038
+    g: 0.4450205
+    b: 0.5566038
+    a: 1
+  fogColorMorning:
+    r: 0.4150943
+    g: 0.1566394
+    b: 0.09202562
+    a: 1
+  fogColorDay:
+    r: 0.4150943
+    g: 0.1390174
+    b: 0.1589748
+    a: 1
+  fogColorEvening:
+    r: 0.4339623
+    g: 0.2272161
+    b: 0.2272161
+    a: 1
+  fogColorNight:
+    r: 0.254717
+    g: 0.09491812
+    b: 0.1065398
+    a: 1
+  fogColorSunMorning:
+    r: 0.4352941
+    g: 0.3333333
+    b: 0.2078431
+    a: 1
+  fogColorSunDay:
+    r: 0.2666667
+    g: 0.2196078
+    b: 0.2745098
+    a: 1
+  fogColorSunEvening:
+    r: 0.5568628
+    g: 0.1882353
+    b: 0.282353
+    a: 1
+  fogColorSunNight:
+    r: 0.1921569
+    g: 0.1607843
+    b: 0.2
+    a: 1
+  fogDensityNight: 0.02
+  lightIntensityDay: 1.6
+  lightIntensityNight: 0.5
+  sunAngle: 45
+- name: Ashlands_SeaStorm
+  alwaysDark: true
+  windMin: 0.8
+  rainCloudAlpha: 2
+  ambientVol: 0.8
+  musicDay: sailing_ashlands
+  musicNight: sailing_ashlands
+  ambColorDay:
+    r: 0.6705883
+    g: 0.454902
+    b: 0.427451
+    a: 1
+  ambColorNight:
+    r: 0.2039216
+    g: 0.3333333
+    b: 0.3411765
+    a: 1
+  sunColorMorning:
+    r: 0.6901961
+    g: 0.4941176
+    b: 0.282353
+    a: 1
+  sunColorDay:
+    r: 0.5176471
+    g: 0.3843137
+    b: 0.3058824
+    a: 1
+  sunColorEvening:
+    r: 0.4078431
+    g: 0.3019608
+    b: 0.7529412
+    a: 1
+  sunColorNight:
+    r: 0.1686275
+    g: 0.372549
+    b: 0.6313726
+    a: 1
+  fogColorMorning:
+    r: 0.6117647
+    g: 0.3843137
+    b: 0.1921569
+    a: 1
+  fogColorDay:
+    r: 0.5019608
+    g: 0.1843137
+    b: 0.1294118
+    a: 1
+  fogColorEvening:
+    r: 0.4509804
+    g: 0.2627451
+    b: 0.2627451
+    a: 1
+  fogColorNight:
+    r: 0.172549
+    g: 0.254902
+    b: 0.2745098
+    a: 1
+  fogColorSunMorning:
+    r: 0.5843138
+    g: 0.4901961
+    b: 0.4156863
+    a: 1
+  fogColorSunDay:
+    r: 0.7058824
+    g: 0.4
+    b: 0.2078431
+    a: 1
+  fogColorSunEvening:
+    r: 0.5568628
+    g: 0.1882353
+    b: 0.282353
+    a: 1
+  fogColorSunNight:
+    r: 0.2039216
+    g: 0.2352941
+    b: 0.2627451
+    a: 1
+  fogDensityMorning: 0.03
+  fogDensityDay: 0.03
+  fogDensityEvening: 0.03
+  fogDensityNight: 0.03
+  lightIntensityDay: 0.5
+  lightIntensityNight: 0.77
+  sunAngle: 45
+- name: Fader
+  windMin: 0.1
+  windMax: 0.5
+  rainCloudAlpha: 1.5
+  ambientVol: 0.8
+  ambColorDay:
+    r: 0.4980392
+    g: 0.5411765
+    b: 0.5843138
+    a: 1
+  ambColorNight:
+    r: 0.1960784
+    g: 0.3294118
+    b: 0.3254902
+    a: 1
+  sunColorMorning:
+    r: 0.6637301
+    g: 0.5891451
+    b: 0.6980392
+    a: 1
+  sunColorDay:
+    r: 0.5324737
+    g: 0.5377358
+    b: 0.4388127
+    a: 1
+  sunColorEvening:
+    r: 0.6140857
+    g: 0.5714824
+    b: 0.7529412
+    a: 1
+  sunColorNight:
+    r: 0.6482823
+    g: 0.6500393
+    b: 0.6588235
+    a: 1
+  fogColorMorning:
+    r: 0.2963688
+    g: 0.3396226
+    b: 0.3254396
+    a: 1
+  fogColorDay:
+    r: 0.2552065
+    g: 0.2924528
+    b: 0.263146
+    a: 1
+  fogColorEvening:
+    r: 0.2947223
+    g: 0.3490566
+    b: 0.3006985
+    a: 1
+  fogColorNight:
+    r: 0.2924528
+    g: 0.2579654
+    b: 0.2649855
+    a: 1
+  fogColorSunMorning:
+    r: 0.1690548
+    g: 0.2735849
+    b: 0.2101202
+    a: 1
+  fogColorSunDay:
+    r: 0.2927643
+    g: 0.4056604
+    b: 0.3361859
+    a: 1
+  fogColorSunEvening:
+    r: 0.09892311
+    g: 0.1792453
+    b: 0.1304782
+    a: 1
+  fogColorSunNight:
+    r: 0.0506853
+    g: 0.1603774
+    b: 0.09212454
+    a: 1
+  fogDensityMorning: 0.03
+  fogDensityDay: 0.03
+  fogDensityEvening: 0.03
+  fogDensityNight: 0.04
+  lightIntensityDay: 1
+  lightIntensityNight: 0.6
+  sunAngle: 20

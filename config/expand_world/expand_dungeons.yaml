@@ -1,3 +1,16 @@
+- name: DG_AshlandRuins
+  algorithm: CampRadial
+  maxRooms: 30
+  minRooms: 20
+  minRequiredRooms: 1
+  themes: AshlandRuins
+  doorTypes: []
+  maxTilt: 25
+  campRadiusMin: 30
+  campRadiusMax: 32
+  minAltitude: 1
+  perimeterSections: 12
+  bounds: 64
 - name: DG_Cave
   algorithm: Dungeon
   maxRooms: 64
@@ -67,6 +80,19 @@
   - prefab: dungeon_forestcrypt_door
     connectionType: ''
   doorChance: 0.5
+  bounds: 64
+- name: DG_FortressRuins
+  algorithm: CampRadial
+  maxRooms: 30
+  minRooms: 20
+  minRequiredRooms: 1
+  themes: FortressRuins
+  doorTypes: []
+  maxTilt: 25
+  campRadiusMin: 30
+  campRadiusMax: 32
+  minAltitude: 1
+  perimeterSections: 12
   bounds: 64
 - name: DG_GoblinCamp
   algorithm: CampRadial

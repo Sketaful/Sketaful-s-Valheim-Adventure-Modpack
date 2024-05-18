@@ -23,10 +23,39 @@
   maxTerrainDelta: 3
   forestTresholdMin: 1
   forestTresholdMax: 99
+  exteriorRadius: 12
+  clearArea: true
+- prefab: NecromancerAltar_RtD
+  biome: AshLands
+  biomeArea: median
+  quantity: 6
+  minAltitude: 25
+  maxAltitude: 500
+  prioritized: true
+  minDistanceFromSimilar: 256
+  randomRotation: true
+  maxTerrainDelta: 3
+  forestTresholdMin: 1
+  forestTresholdMax: 99
   exteriorRadius: 35
   clearArea: true
   noBuild: true
 - prefab: Vegvisir_Fader_RtD
+  biome: AshLands
+  biomeArea: median
+  quantity: 12
+  minAltitude: 1
+  maxAltitude: 500
+  minDistanceFromSimilar: 256
+  randomRotation: true
+  slopeRotation: true
+  maxTerrainDelta: 3
+  forestTresholdMin: 1
+  forestTresholdMax: 99
+  exteriorRadius: 20
+  clearArea: true
+  noBuild: true
+- prefab: Vegvisir_Necromancer_RtD
   biome: AshLands
   biomeArea: median
   quantity: 12

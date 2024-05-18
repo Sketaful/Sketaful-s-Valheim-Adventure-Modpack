@@ -5,3 +5,24 @@ PrefabName:
 #   To adjust the mounting location you will need to set Enable Adjust Custom Mounts = true in meldurson.MountUpRestored.cfg
 #   You can also find a bunch of premade configurations *****HERE***** that you can copy/paste parts into this file, or paste the entire config into your config folder
 
+Deer:
+  mountPath: CG/Pelvis/Spine/Spine1
+  stamina: 80
+  saddleTier: 1
+  mountPoint: [-0.444998,-0.257368,0.03999349]
+  saddlePos: [0.04606726,-0.2971615,0.01007945]
+  saddleScale: [1.02,1.155,1]
+  saddleRotation: [1.9,0,0]
+  flyingStamina: -1
+  customSaddle: 
+
+Serpent:
+  mountPath: Armature/Root/Main/Tail2
+  stamina: 200
+  saddleTier: 3
+  mountPoint: [0.0003,0.0341,0.00894]
+  saddlePos: [0,0.029,0.00904]
+  saddleScale: [1,1,1]
+  saddleRotation: [272,90,0]
+  flyingStamina: -1
+  customSaddle: 

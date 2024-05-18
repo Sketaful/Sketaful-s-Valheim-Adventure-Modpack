@@ -1,7 +1,0 @@
-2024-04-07
-
-Most bugs from mods not being updated should be fixed. There's always a couple bugs "not found yet" and I'm looking for them.
-
-Please. Use the buttons at the bottom of this screen and leave notice me on the github issues page if you find any.
-
-
