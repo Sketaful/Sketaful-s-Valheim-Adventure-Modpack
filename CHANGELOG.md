@@ -1,3 +1,14 @@
+|Release v1.3.12|(<small><i>The bughunting update #2</i></small>)|
+|--|--|
+
+<b>UPDATED</b>
+* ConfigurationManager updated to v1.0.12
+
+<b>REMOVED</b>
+* ValheimTexturesSideLoader by NorgerLegacy
+
+---
+
 |Release v1.3.11|(<small><i>The returning quickfix#1</i></small>)|
 |--|--|
 
