@@ -1,5 +1,6 @@
-# 11TH MARS 2024 NOTICE
-### I'm moving to a new apartment within the following 2 month. Because of this I might not have time to update this modpack as I'd like but it will be back to being "fairly" updated as soon as I've settled in. 
+# 18th of May 2024 NOTICE
+
+### So... I'm moving to a new apartment this weekend. Server will be down until middle of next week! 
 
 # What the hell is this? 
 *I usually make modpacks for different games I like to play, but end up modding and running servers for. Games like Minecraft, ARK and so on and since I'm playing a lot of Valheim I just felt it was about time to do something about it.*
