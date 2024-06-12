@@ -1,3 +1,27 @@
+|Release v1.3.14|(<small><i>The bughunting update #2</i></small>)|
+|--|--|
+
+<b>UPDATED</b>
+* Expand_World_Data updated to v1.40.0
+
+<b>ADDED</b>
+* XRayVision v2.2.3 (sorry, didn't thing it was needed by others than admins but server demands it be there.)
+
+---
+
+|Release v1.3.13|(<small><i>The bughunting update #2</i></small>)|
+|--|--|
+
+<b>UPDATED</b>
+* Venture_Location_Reset updated to v0.9.1
+
+<b>ADDED</b>
+* SeaAnimals
+* AzuHoverStats
+* AAACrafting
+
+---
+
 |Release v1.3.12|(<small><i>The bughunting update #2</i></small>)|
 |--|--|
 
