@@ -1,9 +1,9 @@
 # What the hell is this? 
-    *I usually make modpacks for different games I like to play, but end up modding and running servers for. Games like Minecraft, ARK and so on and since I'm playing a lot of Valheim I just felt it was about time to do something about it.*
+*I usually make modpacks for different games I like to play, but end up modding and running servers for. Games like Minecraft, ARK and so on and since I'm playing a lot of Valheim I just felt it was about time to do something about it.*
 
-I love modding. It's really fun to add things that expand the gameplay and to fix things I find could be handled better. Mods that help me sort things make me happy, as an example. I also dislike cheating. I never really been much for the "creative mode" part of any game. If you get everything handled to you, then where's the fun?
+    I love modding. It's really fun to add things that expand the gameplay and to fix things I find could be handled better. Mods that help me sort things make me happy, as an example. I also dislike cheating. I never really been much for the "creative mode" part of any game. If you get everything handled to you, then where's the fun?
 
-So I try to keep my modpacks as balanced as possible between making some parts easier while not taking away the work needed to advance in the game. Like the portals, perfect example. I would never just allow everything through the portals, it would make ships useless and make everything to easy. But... Allowing better portals to be built to let you take some extra thrue for each advance you make in the game? Perfect!
+    So I try to keep my modpacks as balanced as possible between making some parts easier while not taking away the work needed to advance in the game. Like the portals, perfect example. I would never just allow everything through the portals, it would make ships useless and make everything to easy. But... Allowing better portals to be built to let you take some extra thrue for each advance you make in the game? Perfect!
 
 ### So this modpack is my try at expanding the game
 #### You get: 
