@@ -1,5 +1,5 @@
-    What the hell is this? 
-*I usually make modpacks for different games I like to play, but end up modding and running servers for. Games like Minecraft, ARK and so on and since I'm playing a lot of Valheim I just felt it was about time to do something about it.*
+# What the hell is this? 
+    *I usually make modpacks for different games I like to play, but end up modding and running servers for. Games like Minecraft, ARK and so on and since I'm playing a lot of Valheim I just felt it was about time to do something about it.*
 
 I love modding. It's really fun to add things that expand the gameplay and to fix things I find could be handled better. Mods that help me sort things make me happy, as an example. I also dislike cheating. I never really been much for the "creative mode" part of any game. If you get everything handled to you, then where's the fun?
 
