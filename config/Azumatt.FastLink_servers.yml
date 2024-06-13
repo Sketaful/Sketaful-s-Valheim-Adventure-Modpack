@@ -5,6 +5,6 @@
 <color=green>Sketafuls Modded Adventure</color>:
   address: server.sketaful.se
   port: 2500
-  password: oldbutgood
+  password: justanewpassword
   iswhitelisted: false
   iscrossplay: false
