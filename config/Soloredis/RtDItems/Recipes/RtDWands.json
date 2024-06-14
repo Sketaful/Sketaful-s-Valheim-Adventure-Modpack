@@ -1,0 +1,242 @@
+[
+  {
+    "Enabled": true,
+    "Item": "MeadowsAirWand_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 20,
+        "AmountPerLevel": 0
+      },
+      {
+        "Item": "Flint",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MeadowsToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestLightningWand_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 20,
+        "AmountPerLevel": 0
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BlackForestCore_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampPoisonWand_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 20,
+        "AmountPerLevel": 0
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 30,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SwampCore_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainIceWand_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 30,
+        "AmountPerLevel": 0
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "MountainCore_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsVoidWand_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 30,
+        "AmountPerLevel": 0
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 45,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "PlainsCore_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsElementWand_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "YggdrasilWood",
+        "Amount": 35,
+        "AmountPerLevel": 0
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "MistlandsCore_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsFireWand_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Flametal",
+        "Amount": 5,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 10,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 3
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthArcaneWand_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FroWood_RtD",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 10,
+        "AmountPerLevel": 3
+      },
+      {
+        "Item": "IceCrystal_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 3
+      }
+    ]
+  }
+]

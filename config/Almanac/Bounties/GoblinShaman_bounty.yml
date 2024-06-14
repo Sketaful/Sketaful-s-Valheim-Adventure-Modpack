@@ -1,0 +1,27 @@
+creature_prefab_name: GoblinShaman
+bounty_name: Goblin the Hexer
+sprite_name: TrophyGoblinShaman
+biome: BlackForest
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Polearms
+  amount: 8000
+experience_reward: 0
+bounty_health: 100
+damage_multiplier: 1.1
+damages:
+  blunt: 0
+  slash: 10
+  pierce: 5
+  fire: 0
+  frost: 0
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 2
+defeat_key: defeated_goblinshaman
+cost: 0
+currency: Coins
