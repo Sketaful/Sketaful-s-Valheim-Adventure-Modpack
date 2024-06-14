@@ -4,5 +4,5 @@
 
 # You can change the Example Server text to say whatever you want. It is there just for you to name your hooks for differentiation. The 'Hook' property must remain the same, do not rename.
 
-#Example Server:
-  #Hook: https://discord.com/api/webhooks/869937747840888832/Q4dQ_mfrRuwAzC7sCyY3VCC5tcFykOGOqbSU0fLOA6x8RRAzhiDxM72RBWoZav9-vvQ8
+Example Server:
+Hook: https://discord.com/api/webhooks/1187529176404734002/nbLKA7RlPlztNnc4OXYPxMv_YbWAW-AM_6k59i2LfrkzA7tKx4G3bOK6_8q5-nnWCnwi
