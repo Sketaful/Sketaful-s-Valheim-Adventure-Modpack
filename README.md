@@ -1,3 +1,7 @@
+# 18th of May 2024 NOTICE
+
+### So... I'm moving to a new apartment this weekend. Server will be down until middle of next week! 
+
 # What the hell is this? 
 *I usually make modpacks for different games I like to play, but end up modding and running servers for. Games like Minecraft, ARK and so on and since I'm playing a lot of Valheim I just felt it was about time to do something about it.*
 

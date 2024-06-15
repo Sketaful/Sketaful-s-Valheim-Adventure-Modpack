@@ -1,4 +1,17 @@
-|Release v1.3.14|(<small><i>The bughunting update #2</i></small>)|
+|Release v1.3.15|(<small><i>The bughunting update #4</i></small>)|
+|--|--|
+
+<b>UPDATED</b>
+* ConfigurationManagerupdated to v1.0.13
+* AllTameableTamingOverhaul updated to v1.4.4
+
+<b>CHANGES</b>
+* Changed the included password for the server to a longer one because it was to short and made Valheim spam console.
+* Changed some of the harder mobs from RtDSouls not to get any stars since they're to hard as is already.
+
+---
+
+|Release v1.3.14|(<small><i>The bughunting update #3</i></small>)|
 |--|--|
 
 <b>UPDATED</b>
