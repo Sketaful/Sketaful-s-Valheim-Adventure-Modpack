@@ -1,0 +1,27 @@
+items:
+  Wood: 50
+  Stone: 30
+  ArmorLeatherChest: 1
+  ArmorLeatherLegs: 1
+  HelmetLeather: 1
+  CapeOdin: 1
+  Bow: 1
+  ArrowFlint: 100
+  AxeFlint: 1
+  Mushroom: 20
+  CookedDeerMeat: 20
+  CookedMeat: 20
+  ShieldWood: 1
+
+#skills:
+#  Bows: 15
+#  Run: 20
+
+# You can define as many spawn points as you want. If you have multiple spawn points, one will be picked randomly.
+#spawn:
+#  - x: 100
+#    y: 50
+#    z: 150
+#  - x: 200
+#    y: 150
+#    z: 350
