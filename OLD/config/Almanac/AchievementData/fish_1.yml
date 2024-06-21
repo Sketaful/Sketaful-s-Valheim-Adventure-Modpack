@@ -1,0 +1,60 @@
+unique_name: fish_1
+display_name: Fisherman
+sprite_name: fish
+description: Uncover <color=orange>all</color> fishes
+lore: A true conqueror has successfully dominated all ocean dwellers as well as terrestrial beings.
+start_message: ''
+stop_message: ''
+tooltip: ''
+defeat_key: ''
+achievement_type: Fish
+custom_group_key: ''
+custom_pickable_name: ''
+goal: 0
+duration: 0
+reward_type: StatusEffect
+achievement_group: ''
+achievement_index: 0
+item: ''
+item_amount: 0
+skill: ''
+skill_amount: 0
+class_experience: 0
+start_effects:
+- vfx_lox_love
+stop_effects:
+- vfx_GodExplosion
+damage_modifiers:
+- m_type: Blunt
+  m_modifier: Normal
+- m_type: Slash
+  m_modifier: Normal
+- m_type: Pierce
+  m_modifier: Resistant
+- m_type: Chop
+  m_modifier: Normal
+- m_type: Pickaxe
+  m_modifier: Normal
+- m_type: Fire
+  m_modifier: Normal
+- m_type: Frost
+  m_modifier: Normal
+- m_type: Lightning
+  m_modifier: Normal
+- m_type: Poison
+  m_modifier: Normal
+- m_type: Spirit
+  m_modifier: Normal
+modifiers:
+  Attack: 1
+  HealthRegen: 1
+  StaminaRegen: 2
+  RaiseSkills: 2
+  Speed: 1
+  Noise: 1
+  MaxCarryWeight: 100
+  Stealth: 1
+  RunStaminaDrain: 1
+  DamageReduction: 0
+  FallDamage: 1
+  EitrRegen: 1

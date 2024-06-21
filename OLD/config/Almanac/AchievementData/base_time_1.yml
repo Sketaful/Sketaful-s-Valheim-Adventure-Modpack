@@ -1,0 +1,59 @@
+unique_name: base_time_1
+display_name: Homely
+sprite_name: crown
+description: Stay in base for over <color=orange>100000</color> seconds
+lore: To build a home and live in it is the true luxury of life.
+start_message: ''
+stop_message: ''
+tooltip: ''
+defeat_key: ''
+achievement_type: TimeInBase
+custom_group_key: ''
+custom_pickable_name: ''
+goal: 100000
+duration: 0
+reward_type: StatusEffect
+achievement_group: ''
+achievement_index: 0
+item: ''
+item_amount: 0
+skill: ''
+skill_amount: 0
+class_experience: 0
+start_effects:
+- sfx_coins_placed
+stop_effects: []
+damage_modifiers:
+- m_type: Blunt
+  m_modifier: Normal
+- m_type: Slash
+  m_modifier: Normal
+- m_type: Pierce
+  m_modifier: Normal
+- m_type: Chop
+  m_modifier: Normal
+- m_type: Pickaxe
+  m_modifier: Normal
+- m_type: Fire
+  m_modifier: Normal
+- m_type: Frost
+  m_modifier: Normal
+- m_type: Lightning
+  m_modifier: Normal
+- m_type: Poison
+  m_modifier: Normal
+- m_type: Spirit
+  m_modifier: Normal
+modifiers:
+  Attack: 1
+  HealthRegen: 1.1
+  StaminaRegen: 1
+  RaiseSkills: 1
+  Speed: 1
+  Noise: 1
+  MaxCarryWeight: 100
+  Stealth: 1
+  RunStaminaDrain: 1
+  DamageReduction: 0
+  FallDamage: 1
+  EitrRegen: 1

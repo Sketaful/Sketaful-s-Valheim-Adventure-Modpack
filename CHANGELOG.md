@@ -1,3 +1,190 @@
+|Release v1.3.25|(<small><i>The QuickSlots Fix Fix</i></small>)|
+|--|--|
+
+Somehow managed to upload an old file. This is really the 1.3.24 update. Sorry.
+
+IMPORTANT!  
+**Before updating, run the game, put your inventory in a chest or something and then do this update.  
+You will lose your things othervise!**
+
+--|Release v1.3.24|(<small><i>The QuickSlots Fix</i></small>)|
+|--|--|
+
+IMPORTANT!  
+**Before updating, run the game, put your inventory in a chest or something and then do this update.  
+You will lose your things othervise!**
+
+<b>REMOVED</b>
+ComfyMods-ComfyQuickSlots-1.6.0
+
+<b>ADDED</b>
+Azumatt-AzuExtendedPlayerInventory-1.4.3
+
+--
+
+|Release v1.3.23|(<small><i>The fixing my stupidity update</i></small>)|
+|--|--|
+
+<b>ADDED</b>
+* TimeoutLimit by MSchmoecker (for real this time!)
+* Where_You_At by Azumatt
+
+---
+
+|Release v1.3.22|(<small><i>The problematic update #2</i></small>)|
+|--|--|
+
+<b>ADDED</b>
+* TimeoutLimit by MSchmoecker (fixes server's timeout problem)
+
+<b>UPDATED</b>
+* UsefulPaths will be updated to: 1.0.2
+* Almanac will be updated to: 3.3.0
+* AllTameableTamingOverhaul will be updated to: 1.4.5
+* RtDOcean will be updated to: 1.1.1
+* RtDMonsters will be updated to: 1.5.0
+* RtDMonstrum will be updated to: 0.0.9
+* RtDMagic will be updated to: 0.0.5
+* RtDHorrors will be updated to: 0.0.5
+
+<b>REMOVED</b>
+* ShutUp v1.0.2 by Smoothbrain (temporary prob)
+* StartupAccelerator v1.0.3 by Smoothbrain (temporary prob)
+
+<b>IMPORTANT!</b>
+
+    Since StartupAccelerator and ShutUp put themselves as "patchers"  
+	you need to either do a clean install of this modpack or manually  
+    remove the folder for them in BepInEx\Patchers\ of your modfolder.  
+      
+    NEXT UPDATE:  
+    In the next update I will switch from ComfyQuickSlots to  
+    AzuExtendedPlayerInventory because it's just plain better and more  
+    supported by the other mods in this modpack.  
+    
+    To not lose your things in the extra slots on your character,  
+    remove everything from your character, EVERYTHING, and put in a chest  
+    before updating the modpack!
+	
+---
+
+|Release v1.3.21|(<small><i>The problematic update</i></small>)|
+|--|--|
+
+<b>REMOVED</b>
+* PlanBuild
+* RockTheBoat
+
+<b>ADDED</b>
+* RtDAdditions  
+
+    The problem this modpack got when mods changed, mods got split up  
+    and other have driven me half-insane.  
+      
+    I'm not saying it's solved yet, but I found some of the mods that  
+    didn't work well with others. So errors in log is down by 90%.  
+      
+    I will have to look into why Deer is getting worked up when players  
+    get neer, but not scared enough to run away like they should.  
+
+---
+
+|Release v1.3.20|(<small><i>The RtD Mods update #2</i></small>)|
+|--|--|
+
+<b>UPDATED</b>
+* TargetPortal will be updated to: 1.1.20
+* RtDSouls will be updated to: 0.1.5
+* RtDHorrors will be updated to: 0.0.3
+* RtDMagic will be updated to: 0.0.3
+* RtDMonstrum will be updated to: 0.0.4
+
+
+    Remind me to never ever update a mod that's been rewritten, 
+    split up or had any other major change.
+    
+    Hopefully these updates to the RtD mods will let players
+    join the server again. 
+    (Console error was "znet" and the updates says "Fixed double znet")
+
+---
+
+|Release v1.3.19|(<small><i>The RtD Mods update</i></small>)|
+|--|--|
+
+<b>SERVER!</b>
+
+    Server runs new world now. Regular size.
+	
+<b>INFO</b>
+    Solaredis split his mods into smaller ones which ruined a lot for me since I only 
+    watched what updates he released through the modlauncher and only installed mods 
+    show up there.  
+  
+    So here's an update again with the missing parts of his mods. Enjoy.
+
+<b>UPDATED</b>
+* RtDBiomes Updated
+
+<b>ADDED</b>
+* RtDGardening
+* RtDHorrors
+* RtDMonstrum
+* RtDMagic
+
+---
+
+|Release v1.3.18|(<small><i>The oops update</i></small>)|
+|--|--|
+
+Just fixed a typo.
+
+---
+
+|Release v1.3.17|(<small><i>The reborn server update</i></small>)|
+|--|--|
+
+<b>SERVER!</b>
+    The server is reseted.  
+    So for those that want a server to just have fun on trying  
+    out this modpack on, then now's the time.  
+    
+    The server is at its easiest the first 50 days.   
+	After that it get a bit harder over time. 
+	
+
+<b>UPDATED</b>
+RtDSouls updated to v0.1.4
+WackyEpicMMOSystem updated to v1.9.14
+RtDOcean updated to v1.0.9
+RtDMonsters updated to v1.4.7
+RtDBiomes updated to v2.1.24
+RtDItems updated to v0.2.6
+Better_Cartography_Table updated to v0.5.7
+
+---
+
+|Release v1.3.16|(<small><i>The Quickslot Fix, maybe? update</i></small>)|
+|--|--|
+
+<b>ADDED</b>
+* ComfyQuickSlots v1.6.0 by ComfyMods
+
+<b>REMOVED</b>
+* EquipmentAndQuickSlots v2.1.13 by RandyKnapp
+
+<b>UPDATED</b>
+* SearsCatalog updated to v1.5.1
+* Better_Cartography_Table updated to v0.5.6
+* OdinsSteelworks updated to v0.1.25
+
+<b>NOTES</b>
+Changed from Randy's Quickslots to Comfys since it seem to be a problem with losing your things from time to time. Hopefully this is fixed.
+
+Reseted time on server. Should be easier for new players.
+
+---
+
 |Release v1.3.15|(<small><i>The bughunting update #4</i></small>)|
 |--|--|
 

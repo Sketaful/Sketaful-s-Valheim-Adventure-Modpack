@@ -1,0 +1,27 @@
+creature_prefab_name: Skeleton_Hildir_nochest
+bounty_name: Brenna the Wicked
+sprite_name: TrophySkeletonHildir
+biome: AshLands
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Swords
+  amount: 10000
+experience_reward: 0
+bounty_health: 2400
+damage_multiplier: 1.1
+damages:
+  blunt: 0
+  slash: 0
+  pierce: 0
+  fire: 0
+  frost: 0
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 3
+defeat_key: BossHildir1
+cost: 0
+currency: Coins

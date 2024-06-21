@@ -15,7 +15,56 @@ groups:
   My Bosses:
     - The Elder
     - Moder
-
+  RtD SoulsSpirit:
+    - AshLandsDarkS_RtD
+    - AshLandsFairyS_RtD
+    - BlackForestNatureS_RtD
+    - BlackForestShockG_RtD
+    - DeepNorthArcaneS_RtD
+    - DeepNorthFairyS_RtD
+    - MeadowsAirS_RtD
+    - MeadowsNatureS_RtD
+    - MistlandsFairyS_RtD
+    - MistlandsUniverseS_RtD
+    - MountainHolyS_RtD
+    - MountainIceS_RtD
+    - OceanHolyS_RtD
+    - OceanWaterS_RtD
+    - PlainsVoidS_RtD
+    - PlansHolyS_RtD
+    - SwampDarkS_RtD
+    - SwampNatureS_RtD
+  RtD SoulsHorror:
+    - MeadowsHorror_RtD
+    - BlackForestHorror_RtD
+    - BlackForestHorror_RtD
+    - MountainHorror_RtD
+    - PlainsHorror_RtD
+    - MistlandsHorror_RtD
+    - AshLandsHorror_RtD
+    - DeepNorthHorror_RtD
+  RtD SoulsMyth:
+    - MeadowsGolem_RtD
+    - BlackForestGolem_RtD
+    - MountainUndead_RtD
+    - PlainsSizzler_RtD
+    - AshLandsCrawler_RtD
+    - BlackForestLocMur_RtD
+    - DeepNorthDemon1_RtD
+    - DeepNorthDemon2_RtD
+    - DeepNorthDemon3_RtD
+    - DeepNorthDemon4_RtD
+    - MeadowsSnade_RtD
+    - MistlandsSpider1_RtD
+    - MistlandsSpider2_RtD
+    - MistlandsSpider3_RtD
+    - MistlandsSpider4_RtD
+    - MountainWatcher_RtD
+    - PlainsChomper1_RtD
+    - PlainsChomper2_RtD
+    - PlainsChomper3_RtD
+    - PlainsChomper4_RtD
+    - SwampSludger_RtD
 # Set the level up chances for each of your groups here. Start with world level 0 and define the different chances in percent from left to right, starting with 1 star.
 # This will set the level up chances for the Meadows biome und will also disable the Armored effect and the Chaos infusion until you reach world level 2 in this biome.
 Meadows:
@@ -136,7 +185,32 @@ Strong Enemies:
     stars: [50, 100]
     
     
-# General documentation:
+  RtD SoulsSpirit:
+  stars:
+    0: [0]
+    1: [0]
+    2: [0]
+    3: [0]
+    4: [0]
+    5: [0]
+  RtD SoulsHorror:# General documentation:
+  stars:
+    0: [0]
+    1: [0]
+    2: [0]
+    3: [0]
+    4: [0]
+    5: [0]
+  RtD SoulsMyth:
+  stars:
+    0: [0]
+    1: [0]
+    2: [0]
+    3: [0]
+    4: [0]
+    5: [0]
+
+
 #
 # When evaluating a config file, first creature names (internal name, English name or name in the current localization) in the game are evaluated, then custom groups, then the internal biome groups (e.g. Meadows, Black Forest, ... with the same localizations), then special groups 'creature' and 'boss', and finally the special group 'all'.
 # Custom groups are evaluated by their degree of nesting, then by order of definition in the config file.
