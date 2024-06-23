@@ -1,0 +1,16 @@
+name: Recipe_DeepNorthWarriorLegs_RtD
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FairySilk_RtD:18:5:False
+- FroMetalBar_RtD:40:2:False
+- FaeWolfPelt_RtD:18:1:False
+- FaeNectar_RtD:2:1:False

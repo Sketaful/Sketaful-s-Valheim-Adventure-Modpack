@@ -1,0 +1,15 @@
+name: Recipe_SEyeScream_RtD
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- GreydwarfEye:3:0:False
+- FreezeGland:1:0:False
+- SpiritEssense_RtD:1:0:False

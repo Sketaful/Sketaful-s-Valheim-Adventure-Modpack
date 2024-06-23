@@ -1,0 +1,16 @@
+name: VC_UncookedAlfablotStew_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_StonePot:1:0:True
+- VC_Blodpolse:4:0:True
+- VC_ChoppedVeggies:2:0:True
+- VC_SauteMushrooms:2:0:True

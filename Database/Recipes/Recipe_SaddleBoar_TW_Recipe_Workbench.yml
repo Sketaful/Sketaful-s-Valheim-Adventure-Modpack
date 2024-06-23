@@ -1,0 +1,15 @@
+name: SaddleBoar_TW_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RazorbackLeather_TW:12:0:True
+- RazorbackTusk_TW:4:0:True
+- TrophyRazorback_TW:1:0:True

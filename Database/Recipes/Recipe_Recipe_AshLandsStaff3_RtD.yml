@@ -1,0 +1,16 @@
+name: Recipe_AshLandsStaff3_RtD
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Flametal:5:5:False
+- CinderWood_RtD:50:5:False
+- BurningGland_RtD:20:1:False
+- ShadowCrystal_RtD:50:3:False

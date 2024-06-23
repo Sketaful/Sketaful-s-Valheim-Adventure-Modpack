@@ -1,0 +1,16 @@
+name: Recipe_MountainSword2H_RtD
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Crystal:15:5:False
+- Silver:40:2:False
+- SpiritEssense_RtD:21:1:False
+- MountainToken_RtD:1:1:False

@@ -1,0 +1,16 @@
+name: Recipe_StaffGreenRoots
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Blackwood:15:5:True
+- Fiddleheadfern:10:2:True
+- CelestialFeather:3:3:True
+- GemstoneGreen:1:1:True

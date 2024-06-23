@@ -1,0 +1,16 @@
+name: Recipe_MistlandsBow_RtD
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- YggdrasilWood:50:5:False
+- Eitr:5:2:False
+- SpiritEssense_RtD:24:2:False
+- MistlandsToken_RtD:2:2:False

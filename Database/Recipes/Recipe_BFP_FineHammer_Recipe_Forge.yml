@@ -1,0 +1,14 @@
+name: BFP_FineHammer_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Bronze:2:1:True
+- RoundLog:1:1:True

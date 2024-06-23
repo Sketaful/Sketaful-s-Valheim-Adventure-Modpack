@@ -1,0 +1,16 @@
+name: JC_Gem_Box_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $jc_transmution_table
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:15:0:True
+- LeatherScraps:10:0:True
+- Resin:5:0:True
+- GreydwarfEye:5:0:True

@@ -1,0 +1,16 @@
+name: Recipe_SwampSledge_RtD
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ElderBark:40:5:False
+- Iron:35:2:False
+- SpiritEssense_RtD:20:1:False
+- SwampToken_RtD:1:1:False

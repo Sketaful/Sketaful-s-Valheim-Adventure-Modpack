@@ -1,0 +1,15 @@
+name: VC_LoxSvid_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophyLox:1:0:True
+- VC_ChoppedVeggies:2:0:True
+- Thistle:2:0:True

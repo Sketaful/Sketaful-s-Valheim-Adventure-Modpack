@@ -1,0 +1,14 @@
+name: Recipe_FishingBaitSwamp
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FishingBait:20:1:True
+- TrophyAbomination:1:1:True

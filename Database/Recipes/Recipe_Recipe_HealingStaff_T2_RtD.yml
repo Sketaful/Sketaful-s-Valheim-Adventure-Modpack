@@ -1,0 +1,16 @@
+name: Recipe_HealingStaff_T2_RtD
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:50:0:False
+- MountainToken_RtD:3:2:False
+- SpiritEssense_RtD:50:5:False
+- MountainCore_RtD:1:1:False

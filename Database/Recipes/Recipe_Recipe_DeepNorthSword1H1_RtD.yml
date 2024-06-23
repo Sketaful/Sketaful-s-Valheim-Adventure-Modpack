@@ -1,0 +1,16 @@
+name: Recipe_DeepNorthSword1H1_RtD
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FroWood_RtD:5:5:False
+- FroMetalBar_RtD:30:2:False
+- IceCrystal_RtD:24:2:False
+- FaeNectar_RtD:2:2:False

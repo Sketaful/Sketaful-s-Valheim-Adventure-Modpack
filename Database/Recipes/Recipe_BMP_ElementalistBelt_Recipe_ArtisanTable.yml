@@ -1,0 +1,19 @@
+name: BMP_ElementalistBelt_Recipe_ArtisanTable
+clonePrefabName: NO
+craftingStation: $piece_artisanstation
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Thunderstone:6:0:True
+- Ruby:10:0:True
+- BlackMetal:12:6:True
+- ElderBark:18:0:True
+- FreezeGland:0:5:True
+- YggdrasilWood:0:9:True
+- Iron:0:12:True

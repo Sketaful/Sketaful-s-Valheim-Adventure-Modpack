@@ -1,0 +1,14 @@
+name: Recipe_ShieldSilver
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:10:10:True
+- Silver:8:4:True

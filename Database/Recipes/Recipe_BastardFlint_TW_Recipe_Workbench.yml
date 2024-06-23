@@ -1,0 +1,16 @@
+name: BastardFlint_TW_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Flint:12:6:True
+- RoundLog:6:3:True
+- GreydwarfEye:1:0:True
+- LeatherScraps:2:0:True

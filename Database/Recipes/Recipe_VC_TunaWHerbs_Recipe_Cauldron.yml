@@ -1,0 +1,15 @@
+name: VC_TunaWHerbs_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Fish3:2:0:True
+- Thistle:4:0:True
+- Dandelion:4:0:True

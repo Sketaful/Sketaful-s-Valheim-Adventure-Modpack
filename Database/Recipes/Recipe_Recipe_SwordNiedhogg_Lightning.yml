@@ -1,0 +1,15 @@
+name: Recipe_SwordNiedhogg_Lightning
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- SwordNiedhogg:1:0:True
+- FlametalNew:6:6:True
+- GemstoneBlue:1:1:True

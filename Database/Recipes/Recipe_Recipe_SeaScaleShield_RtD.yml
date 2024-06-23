@@ -1,0 +1,16 @@
+name: Recipe_SeaScaleShield_RtD
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:40:5:False
+- ElectrumBar_RtD:20:2:False
+- SeaCrystal_RtD:12:1:False
+- SoulStone_RtD:5:1:False

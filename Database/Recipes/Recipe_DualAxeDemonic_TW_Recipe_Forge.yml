@@ -1,0 +1,16 @@
+name: DualAxeDemonic_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Iron:0:15:True
+- SurtlingCore:0:6:True
+- Bloodbag:0:5:True
+- TrophySvalt_TW:1:1:True

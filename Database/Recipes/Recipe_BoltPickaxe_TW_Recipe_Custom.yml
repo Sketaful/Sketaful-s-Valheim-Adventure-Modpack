@@ -1,0 +1,16 @@
+name: BoltPickaxe_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_fletchertable_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ElderBark:8:0:True
+- Resin:1:0:True
+- SurtlingCore:1:0:True
+- Feathers:2:0:True

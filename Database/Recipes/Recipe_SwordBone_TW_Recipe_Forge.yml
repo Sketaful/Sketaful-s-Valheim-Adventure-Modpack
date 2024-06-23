@@ -1,0 +1,15 @@
+name: SwordBone_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BoneFragments:10:5:True
+- RoundLog:8:4:True
+- Tin:8:4:True

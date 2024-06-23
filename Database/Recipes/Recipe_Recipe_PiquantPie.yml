@@ -1,0 +1,15 @@
+name: Recipe_PiquantPie
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 6
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Vineberry:2:1:True
+- AsksvinMeat:2:1:True
+- BarleyFlour:4:1:True

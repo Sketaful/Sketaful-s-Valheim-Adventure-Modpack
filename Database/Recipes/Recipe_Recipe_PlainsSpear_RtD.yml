@@ -1,0 +1,16 @@
+name: Recipe_PlainsSpear_RtD
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:30:5:False
+- BlackMetal:25:2:False
+- SpiritEssense_RtD:22:2:False
+- PlainsToken_RtD:2:2:False

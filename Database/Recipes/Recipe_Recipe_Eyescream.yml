@@ -1,0 +1,14 @@
+name: Recipe_Eyescream
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- GreydwarfEye:3:1:True
+- FreezeGland:1:1:True

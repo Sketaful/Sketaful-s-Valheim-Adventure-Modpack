@@ -1,0 +1,16 @@
+name: Recipe_SwampEarthStaff_RtD
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ElderBark:25:0:False
+- SwampToken_RtD:3:2:False
+- SpiritEssense_RtD:30:2:False
+- SwampCore_RtD:1:1:False

@@ -1,0 +1,16 @@
+name: Recipe_MeadBaseEitrMinor
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Honey:10:1:True
+- Sap:5:1:True
+- MushroomJotunPuffs:2:1:True
+- MushroomMagecap:5:1:True

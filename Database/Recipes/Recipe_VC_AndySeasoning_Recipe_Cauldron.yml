@@ -1,0 +1,15 @@
+name: VC_AndySeasoning_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 8
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Thistle:4:0:True
+- Dandelion:4:0:True
+- AncientSeed:2:0:True

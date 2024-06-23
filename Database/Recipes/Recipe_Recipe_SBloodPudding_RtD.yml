@@ -1,0 +1,16 @@
+name: Recipe_SBloodPudding_RtD
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Thistle:2:0:False
+- Bloodbag:2:0:False
+- BarleyFlour:4:0:False
+- SpiritEssense_RtD:1:0:False

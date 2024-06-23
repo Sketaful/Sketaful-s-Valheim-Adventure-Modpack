@@ -1,0 +1,12 @@
+name: JC_Legendary_Gembox_Recipe_Disabled
+clonePrefabName: NO
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs: []

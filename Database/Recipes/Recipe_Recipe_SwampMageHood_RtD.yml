@@ -1,0 +1,16 @@
+name: Recipe_SwampMageHood_RtD
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Guck:15:3:False
+- Iron:3:2:False
+- SpiritEssense_RtD:17:1:False
+- SwampToken_RtD:1:1:False

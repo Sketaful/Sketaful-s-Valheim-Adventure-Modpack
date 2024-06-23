@@ -1,0 +1,16 @@
+name: VC_JofurrMixture_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Coal:6:0:True
+- Resin:6:0:True
+- Raspberry:6:0:True
+- TrophyGreydwarfBrute:2:0:True

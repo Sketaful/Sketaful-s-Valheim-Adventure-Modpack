@@ -1,0 +1,16 @@
+name: BMP_FrostArm_Recipe_MageTable
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- DragonTear:1:0:True
+- CelestialFeather:3:1:True
+- FlametalNew:4:2:True
+- Blackwood:10:5:True

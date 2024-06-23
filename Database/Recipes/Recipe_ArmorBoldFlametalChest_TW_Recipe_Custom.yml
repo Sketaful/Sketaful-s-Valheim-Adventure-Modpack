@@ -1,0 +1,16 @@
+name: ArmorBoldFlametalChest_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_armory_TW
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ArmorBoldCarapaceChest_TW:1:0:True
+- FlametalNew:30:15:True
+- BonemawSerpentTooth:24:8:True
+- MorgenHeart:6:2:True

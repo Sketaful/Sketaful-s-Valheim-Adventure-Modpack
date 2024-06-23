@@ -1,0 +1,16 @@
+name: VC_LupineExtract_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophyWolf:1:0:True
+- WolfFang:4:0:True
+- WolfHairBundle:4:0:True
+- MeadStaminaMinor:2:0:True

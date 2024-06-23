@@ -1,0 +1,16 @@
+name: BMR_PolarWolfLegs_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WolfClaw:4:0:True
+- WolfPelt:12:6:True
+- Silver:24:12:True
+- DeerHide:16:8:True

@@ -1,0 +1,16 @@
+name: Recipe_AshLandsWarriorChest_RtD
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FlametalNew:50:5:False
+- DemonHide_RtD:20:5:False
+- SpiritEssense_RtD:18:1:False
+- BurningGland_RtD:3:1:False

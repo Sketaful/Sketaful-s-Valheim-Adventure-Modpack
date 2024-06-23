@@ -1,0 +1,14 @@
+name: JuteBlack_TW_Recipe_MageTable
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- JuteBlue:1:0:True
+- DyeBlack_TW:3:0:True

@@ -1,0 +1,15 @@
+name: MeadBaseLightningResist_TW_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Honey:12:0:True
+- Barley:5:0:True
+- Flax:7:0:True

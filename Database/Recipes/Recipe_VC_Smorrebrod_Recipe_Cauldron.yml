@@ -1,0 +1,16 @@
+name: VC_Smorrebrod_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 3
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_Rugbraud:1:0:True
+- VC_WolfSalami:3:0:True
+- VC_SauteMushrooms:3:0:True
+- VC_Surkal:3:0:True

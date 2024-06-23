@@ -1,0 +1,16 @@
+name: Recipe_PlainsAssassinLegs_RtD
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- LoxPelt:18:5:False
+- LinenThread:18:2:False
+- SpiritEssense_RtD:18:1:False
+- PlainsToken_RtD:2:1:False

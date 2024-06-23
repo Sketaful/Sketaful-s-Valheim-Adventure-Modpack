@@ -1,0 +1,15 @@
+name: MaceChitin_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ElderBark:10:5:True
+- Chitin:20:10:True
+- Bronze:8:4:True

@@ -1,0 +1,16 @@
+name: VC_AdventurerPorridge_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_VegetableSoup:2:0:True
+- MushroomJotunPuffs:6:0:True
+- Barley:6:0:True
+- Thistle:2:0:True

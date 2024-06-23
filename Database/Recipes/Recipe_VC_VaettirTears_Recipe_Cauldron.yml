@@ -1,0 +1,16 @@
+name: VC_VaettirTears_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophyCultist_Hildir:1:0:True
+- VC_Ectoplasm:20:0:True
+- YmirRemains:8:0:True
+- MeadFrostResist:8:0:True

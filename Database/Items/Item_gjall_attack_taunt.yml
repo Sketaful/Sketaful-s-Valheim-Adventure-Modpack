@@ -1,0 +1,86 @@
+name: gjall_attack_taunt
+m_weight: 1
+m_name: gjall taunt
+m_description: ''
+clonePrefabName: 
+mockName: 
+customIcon: 
+material: 
+customVisual: 
+snapshotRotation: 
+snapshotOnMaterialChange: true
+sizeMultiplier: 1
+scale_weight_by_quality: 0
+Primary_Attack: 
+Secondary_Attack: 
+Damage: 
+Damage_Per_Level: 
+Armor:
+  armor: 10
+  armorPerLevel: 1
+FoodStats: 
+Moddifiers:
+  m_movementModifier: 0
+  m_EitrRegen: 0
+  m_homeItemsStaminaModifier: 0
+  m_heatResistanceModifier: 0
+  m_jumpStaminaModifier: 0
+  m_attackStaminaModifier: 0
+  m_blockStaminaModifier: 0
+  m_dodgeStaminaModifier: 0
+  m_swimStaminaModifier: 0
+  m_sneakStaminaModifier: 0
+  m_runStaminaModifier: 0
+SE_Equip: 
+SE_SET_Equip: 
+ShieldStats:
+  m_blockPower: 10
+  m_blockPowerPerLevel: 0
+  m_timedBlockBonus: 1.5
+  m_deflectionForce: 0
+  m_deflectionForcePerLevel: 0
+m_maxStackSize: 1
+m_canBeReparied: true
+m_destroyBroken: true
+m_dodgeable: false
+Attack_status_effect: 
+spawn_on_hit: 
+spawn_on_terrain_hit: 
+m_questItem: false
+m_teleportable: true
+m_backstabbonus: 4
+m_knockback: 0
+m_useDurability: false
+m_useDurabilityDrain: 1
+m_durabilityDrain: 0
+m_maxDurability: 100
+m_durabilityPerLevel: 50
+m_equipDuration: 1
+Attach_Override: None
+m_skillType: Swords
+m_animationState: OneHanded
+m_itemType: OneHandedWeapon
+m_toolTier: 0
+m_maxQuality: 1
+m_value: 0
+ConsumableStatusEffect: 
+damageModifiers: []
+GEffects: 
+GEffectsPLUS:
+  Hit_Effects: []
+  Hit_Terrain_Effects: []
+  Start_Effect: []
+  Hold_Start_Effects: []
+  Trigger_Effect:
+  - name: fx_gjall_taunt
+    m_enabled: true
+    m_variant: 0
+    m_attach: false
+    m_follow: false
+    m_inheritParentRotation: false
+    m_inheritParentScale: false
+    m_multiplyParentVisualScale: false
+    m_randomRotation: false
+    m_scale: false
+    m_childTransform: ''
+  Trail_Effect: []

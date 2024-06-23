@@ -1,0 +1,16 @@
+name: Recipe_AshLandsAtgeir_RtD
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CinderWood_RtD:40:5:False
+- FlametalNew:25:2:False
+- ShadowCrystal_RtD:24:2:False
+- BurningGland_RtD:2:2:False

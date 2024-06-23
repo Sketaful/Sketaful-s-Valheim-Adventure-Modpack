@@ -1,0 +1,14 @@
+name: Recipe_Hammer
+clonePrefabName: NO
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:3:1:True
+- Stone:2:1:True

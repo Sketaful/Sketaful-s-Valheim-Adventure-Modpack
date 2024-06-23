@@ -1,0 +1,14 @@
+name: Recipe_Chisel
+clonePrefabName: NO
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:3:1:True
+- Iron:1:1:True

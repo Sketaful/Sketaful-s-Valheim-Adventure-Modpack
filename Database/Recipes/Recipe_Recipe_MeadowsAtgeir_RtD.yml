@@ -1,0 +1,16 @@
+name: Recipe_MeadowsAtgeir_RtD
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:40:5:False
+- Flint:15:2:False
+- SpiritEssense_RtD:12:1:False
+- MeadowsToken_RtD:1:1:False

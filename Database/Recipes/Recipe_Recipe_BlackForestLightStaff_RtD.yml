@@ -1,0 +1,16 @@
+name: Recipe_BlackForestLightStaff_RtD
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:25:0:False
+- BlackForestToken_RtD:3:2:False
+- SpiritEssense_RtD:20:2:False
+- BlackForestCore_RtD:1:1:False

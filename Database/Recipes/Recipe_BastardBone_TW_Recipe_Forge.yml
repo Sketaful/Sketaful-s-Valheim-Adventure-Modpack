@@ -1,0 +1,15 @@
+name: BastardBone_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BoneFragments:14:7:True
+- Copper:8:4:True
+- TrophySkeleton:1:0:True

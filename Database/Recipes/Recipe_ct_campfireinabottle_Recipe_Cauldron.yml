@@ -1,0 +1,13 @@
+name: ct_campfireinabottle_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- QueensJam:1:0:True

@@ -1,0 +1,15 @@
+name: BeltYmir_TW_Recipe_MageTable
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BeltStrength:1:0:True
+- DemonicEssence_TW:6:0:True
+- YmirIdol_TW:10:0:True

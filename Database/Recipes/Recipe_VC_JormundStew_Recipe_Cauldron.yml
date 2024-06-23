@@ -1,0 +1,16 @@
+name: VC_JormundStew_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophySerpent:1:0:True
+- SerpentMeat:4:0:True
+- VC_ChoppedVeggies:4:0:True
+- VC_AndySeasoning:6:0:True

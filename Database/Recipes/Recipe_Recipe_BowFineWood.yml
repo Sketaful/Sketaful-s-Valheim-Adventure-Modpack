@@ -1,0 +1,15 @@
+name: Recipe_BowFineWood
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:10:5:True
+- RoundLog:10:5:True
+- DeerHide:2:2:True

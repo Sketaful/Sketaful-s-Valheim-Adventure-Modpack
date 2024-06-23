@@ -1,0 +1,14 @@
+name: VC_SerpentSvid_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophySerpent:1:0:True
+- VC_ChoppedVeggies:4:0:True

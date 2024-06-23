@@ -1,0 +1,16 @@
+name: Recipe_MeadowsSword1H_RtD
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:5:5:False
+- Flint:30:2:False
+- SpiritEssense_RtD:10:1:False
+- MeadowsToken_RtD:1:1:False
