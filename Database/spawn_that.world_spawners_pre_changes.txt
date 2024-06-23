@@ -179,7 +179,7 @@ BiomeArea=Everything
 SetFaction=
 
 [WorldSpawner.87]
-Name=Fish1
+Name=Perch
 Enabled=True
 Biomes=Meadows, BlackForest, Plains
 PrefabName=Fish1
@@ -214,7 +214,7 @@ BiomeArea=Everything
 SetFaction=
 
 [WorldSpawner.88]
-Name=Fish2
+Name=Pike
 Enabled=True
 Biomes=Meadows, BlackForest, Plains
 PrefabName=Fish2
@@ -249,7 +249,7 @@ BiomeArea=Everything
 SetFaction=
 
 [WorldSpawner.89]
-Name=Fish3
+Name=Tuna
 Enabled=True
 Biomes=Ocean
 PrefabName=Fish3
@@ -284,7 +284,7 @@ BiomeArea=Everything
 SetFaction=
 
 [WorldSpawner.90]
-Name=Fish5
+Name=Trollfish
 Enabled=True
 Biomes=BlackForest
 PrefabName=Fish5
@@ -319,7 +319,7 @@ BiomeArea=Everything
 SetFaction=
 
 [WorldSpawner.91]
-Name=Fish6
+Name=Giant herring
 Enabled=True
 Biomes=Swamp
 PrefabName=Fish6
@@ -389,7 +389,7 @@ BiomeArea=Everything
 SetFaction=
 
 [WorldSpawner.93]
-Name=Fish8
+Name=Coral cod
 Enabled=True
 Biomes=Ocean
 PrefabName=Fish8
@@ -459,7 +459,7 @@ BiomeArea=Everything
 SetFaction=
 
 [WorldSpawner.95]
-Name=Fish12
+Name=Pufferfish
 Enabled=True
 Biomes=Ocean, Mistlands
 PrefabName=Fish12
