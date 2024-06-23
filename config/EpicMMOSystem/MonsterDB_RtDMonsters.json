@@ -1,9 +1,52 @@
 [
+  #######Oceans#######
+  {
+	"name": "Belzor_RtD",
+	"minExp": 1590,
+    "maxExp": 1660,
+    "level": 70
+  },
+    {
+    "name": "BoneFish_RtD",
+    "minExp": 290,
+    "maxExp": 360,
+    "level": 24
+  },
+    {
+    "name": "BoneSquid_RtD",
+    "minExp": 320,
+    "maxExp": 390,
+    "level": 27
+  },
+	{
+	"name": "Fairy4_RtD",
+	"minExp": 290,
+    "maxExp": 360,
+    "level": 24
+  },
   {
     "name": "LuminousLooker_RtD",
     "minExp": 310,
     "maxExp": 380,
     "level": 26
+  },
+    {
+    "name": "MurkPod_RtD",
+    "minExp": 310,
+    "maxExp": 380,
+    "level": 26
+  },
+    {
+	"name": "Neck_RtD",
+	"minExp": 290,
+    "maxExp": 360,
+    "level": 24
+  }, 
+  {
+	"name": "Reptile_RtD",
+	"minExp": 290,
+    "maxExp": 360,
+    "level": 24
   },
   {
     "name": "Shark_RtD",
@@ -11,22 +54,484 @@
     "maxExp": 410,
     "level": 29
   },
+ 
+ ########Monsters########### 
   {
-    "name": "BoneFish_RtD",
-    "minExp": 290,
-    "maxExp": 360,
-    "level": 24
+	"name": "Assassin_RtD",
+	"minExp": 1010,
+    "maxExp": 1380,
+    "level": 76
   },
   {
-    "name": "MurkPod_RtD",
-    "minExp": 310,
-    "maxExp": 380,
-    "level": 26
+    "name": "Berserker_RtD",
+    "minExp": 910,
+    "maxExp": 1280,
+    "level": 74
   },
   {
-    "name": "BoneSquid_RtD",
-    "minExp": 320,
-    "maxExp": 390,
+    "name": "Demon_RtD",
+    "minExp": 1110,
+    "maxExp": 1480,
+    "level": 77
+  },
+  {
+    "name": "DragonBoar_RtD",
+    "minExp": 800,
+    "maxExp": 1030,
+    "level": 71
+  },
+  {
+	"name": "DragonBoarTamed_RtD",
+	"minExp": 50,
+    "maxExp": 80,
     "level": 27
+  },
+  {
+	"name": "DragonPiglet_RtD",
+	"minExp": 10,
+    "maxExp": 10,
+    "level": 2
+  },
+  {
+    "name": "FallenCrusader_RtD",
+    "minExp": 960,
+    "maxExp": 1130,
+    "level": 76
+  },
+  {
+    "name": "Wizard_RtD",
+    "minExp": 960,
+    "maxExp": 1130,
+    "level": 75
+  },
+  {
+    "name": "ElfHunterF_RtD",
+    "minExp": 1060,
+    "maxExp": 1330,
+    "level": 83
+  },
+  {
+	"name": "ElfHunterM_RtD",
+	"minExp": 1060,
+    "maxExp": 1330,
+    "level": 83
+  },
+  {
+    "name": "ElfPriestM_RtD",
+    "minExp": 1083,
+    "maxExp": 1430,
+    "level": 85
+  },
+  {
+    "name": "ElfWarriorF_RtD",
+    "minExp": 1083,
+    "maxExp": 1430,
+    "level": 84
+  },
+  {
+    "name": "ElfWarriorM_RtD",
+    "minExp": 1083,
+    "maxExp": 1430,
+    "level": 84
+  },
+  {
+    "name": "FaeWolfIce_RtD",
+    "minExp": 1013,
+    "maxExp": 1330,
+    "level": 81
+  },
+  {
+	"name": "FaeWolfIceCub_RtD",
+	"minExp": 200,
+    "maxExp": 200,
+    "level": 5
+  },
+  {
+	"name": "FaeWolfIceTamed_RtD",
+	"minExp": 100,
+    "maxExp": 100,
+    "level": 81
+  },
+  {
+    "name": "FaeWolfLightening_RtD",
+    "minExp": 1013,
+    "maxExp": 1330,
+    "level": 81
+  },
+  {
+	"name": "FaeWolfLighteningCub_RtD",
+	"minExp": 100,
+    "maxExp": 100,
+    "level": 5
+  },
+  {
+	"name": "FaeWolfLighteningTamed_RtD",
+	"minExp": 100,
+    "maxExp": 100,
+    "level": 81
+  },
+  {
+    "name": "Fairy1_RtD",
+    "minExp": 1193,
+    "maxExp": 1412,
+    "level": 87
+  },
+  {
+    "name": "Fairy2_RtD",
+    "minExp": 1193,
+    "maxExp": 1412,
+    "level": 87
+  },
+  {
+    "name": "Fairy3_RtD",
+    "minExp": 1193,
+    "maxExp": 1412,
+    "level": 87
+  },
+  
+#####Monster Bosses######
+  {
+    "name": "Fader_RtD",
+    "minExp": 1400,
+    "maxExp": 1800,
+    "level": 78
+  },
+  {
+    "name": "Necromancer_RtD",
+    "minExp": 1630,
+    "maxExp": 2130,
+    "level": 80
+  },
+  {
+	"name": "Spirit_RtD",
+	"minExp": 2000,
+    "maxExp": 2400,
+    "level": 90
+  },
+
+#######Horrors##########
+{
+	"name": "MeadowsHorror_RtD",
+	"minExp": 35,
+    "maxExp": 50,
+    "level": 13
+  },
+  {
+	"name": "BlackForestHorror_RtD",
+	"minExp": 150,
+    "maxExp": 180,
+    "level": 25
+  },
+  {
+	"name": "SwampChaser_RtD",
+	"minExp": 340,
+    "maxExp": 480,
+    "level": 35
+  },
+    {
+	"name": "MountainHorror_RtD",
+	"minExp": 420,
+    "maxExp": 490,
+    "level": 45
+  },
+  {
+	"name": "PlainsHorror_RtD",
+	"minExp": 640,
+    "maxExp": 690,
+    "level": 55
+  },
+  {
+	"name": "MistlandsHorror_RtD",
+	"minExp": 1020,
+    "maxExp": 1090,
+    "level": 63
+  },
+  {
+	"name": "AshLandsHorror_RtD",
+	"minExp": 1600,
+    "maxExp": 1700,
+    "level": 74
+  },
+  {
+	"name": "DeepNorthHorror_RtD",
+	"minExp": 2020,
+    "maxExp": 2200,
+    "level": 80
+  },
+
+#######Spirits########
+{
+	"name": "AshLandsDarkS_RtD",
+	"minExp": 800,
+    "maxExp": 900,
+    "level": 70
+  },
+  {
+	"name": "AshLandsFairyS_RtD",
+	"minExp": 320,
+    "maxExp": 390,
+    "level": 70
+  },
+  {
+	"name": "BlackForestNatureS_RtD",
+	"minExp": 10,
+    "maxExp": 10,
+    "level": 15
+  },
+  {
+	"name": "BlackForestShockG_RtD",
+	"minExp": 50,
+    "maxExp": 50,
+    "level": 15
+  },
+  {
+	"name": "DeepNorthArcaneS_RtD",
+	"minExp": 900,
+    "maxExp": 800,
+    "level": 75
+  },
+  {
+	"name": "DeepNorthFairyS_RtD",
+	"minExp": 100,
+    "maxExp": 100,
+    "level": 75
+  },
+  {
+	"name": "MeadowsAirS_RtD",
+	"minExp": 10,
+    "maxExp": 10,
+    "level": 5
+  },
+  {
+	"name": "MeadowsNatureS_RtD",
+	"minExp": 10,
+    "maxExp": 10,
+    "level": 5
+  },
+  {
+	"name": "MistlandsFairyS_RtD",
+	"minExp": 400,
+    "maxExp": 400,
+    "level": 60
+  },
+  {
+	"name": "MistlandsUniverseS_RtD",
+	"minExp": 100,
+    "maxExp": 100,
+    "level": 60
+  },
+  {
+	"name": "MountainHolyS_RtD",
+	"minExp": 50,
+    "maxExp": 50,
+    "level": 40
+  },
+  {
+	"name": "MountainIceS_RtD",
+	"minExp": 250,
+    "maxExp": 250,
+    "level": 40
+  },
+  {
+	"name": "OceanHolyS_RtD",
+	"minExp": 30,
+    "maxExp": 30,
+    "level": 25
+  },
+  {
+	"name": "OceanWaterS_RtD",
+	"minExp": 200,
+    "maxExp": 200,
+    "level": 25
+  },
+  {
+	"name": "PlainsVoidS_RtD",
+	"minExp": 350,
+    "maxExp": 350,
+    "level": 50
+  },
+  {
+	"name": "PlansHolyS_RtD",
+	"minExp": 100,
+    "maxExp": 100,
+    "level": 50
+  },
+  {
+	"name": "SwampDarkS_RtD",
+	"minExp": 150,
+    "maxExp": 150,
+    "level": 30
+  },
+  {
+	"name": "SwampNatureS_RtD",
+	"minExp": 50,
+    "maxExp": 50,
+    "level": 30
+  },
+
+######Monstrum########
+{
+	"name": "MeadowsGolem_RtD",
+	"minExp": 25,
+    "maxExp": 40,
+    "level": 11
+  },
+  {
+	"name": "BlackForestGolem_RtD",
+	"minExp": 120,
+    "maxExp": 160,
+    "level": 21
+  },
+  {
+	"name": "MountainUndead_RtD",
+	"minExp": 280,
+    "maxExp": 300,
+    "level": 40
+  },
+  {
+	"name": "PlainsSizzler_RtD",
+	"minExp": 380,
+    "maxExp": 410,
+    "level": 50
+  },
+  {
+	"name": "AshLandsCrawler_RtD",
+	"minExp": 1120,
+    "maxExp": 1190,
+    "level": 72
+  },
+  {
+	"name": "BlackForestLocMur_RtD",
+	"minExp": 120,
+    "maxExp": 160,
+    "level": 20
+  },
+  {
+	"name": "DeepNorthDemon1_RtD",
+	"minExp": 1520,
+    "maxExp": 1620,
+    "level": 82
+  },
+  {
+	"name": "DeepNorthDemon2_RtD",
+	"minExp": 1520,
+    "maxExp": 1620,
+    "level": 82
+  },
+  {
+	"name": "DeepNorthDemon3_RtD",
+	"minExp": 1520,
+    "maxExp": 1620,
+    "level": 82
+  },
+  {
+	"name": "DeepNorthDemon4_RtD",
+	"minExp": 1520,
+    "maxExp": 1620,
+    "level": 82
+  },
+  {
+	"name": "MeadowsSnade_RtD",
+	"minExp": 30,
+    "maxExp": 90,
+    "level": 10
+  },
+  {
+	"name": "MistlandsSpider1_RtD",
+	"minExp": 420,
+    "maxExp": 490,
+    "level": 60
+  },
+  {
+	"name": "MistlandsSpider2_RtD",
+	"minExp": 420,
+    "maxExp": 490,
+    "level": 60
+  },
+  {
+	"name": "MistlandsSpider3_RtD",
+	"minExp": 420,
+    "maxExp": 490,
+    "level": 60
+  },
+  {
+	"name": "MistlandsSpider4_RtD",
+	"minExp": 420,
+    "maxExp": 490,
+    "level": 60
+  },
+  {
+	"name": "MountainWatcher_RtD",
+	"minExp": 320,
+    "maxExp": 390,
+    "level": 42
+  },
+  {
+	"name": "PlainsChomper1_RtD",
+	"minExp": 420,
+    "maxExp": 450,
+    "level": 52
+  },
+  {
+	"name": "PlainsChomper2_RtD",
+	"minExp": 420,
+    "maxExp": 450,
+    "level": 52
+  },
+  {
+	"name": "PlainsChomper3_RtD",
+	"minExp": 420,
+    "maxExp": 450,
+    "level": 52
+  },
+  {
+	"name": "PlainsChomper4_RtD",
+	"minExp": 420,
+    "maxExp": 450,
+    "level": 52
+  },
+  {
+	"name": "SwampSludger_RtD",
+	"minExp": 120,
+    "maxExp": 190,
+    "level": 30
+  },
+
+######Monstrum Bosses######
+{
+	"name": "EikthyrSpirit_RtD",
+	"minExp": 190,
+    "maxExp": 220,
+    "level": 18
+  },
+  {
+	"name": "MountainBoss_RtD",
+	"minExp": 1400,
+    "maxExp": 1800,
+    "level": 49
+  },
+  {
+	"name": "PlainsBoss_RtD",
+	"minExp": 1700,
+    "maxExp": 1890,
+    "level": 59
+  },
+  {
+	"name": "SpiderQueen_RtD",
+	"minExp": 3520,
+    "maxExp": 4700,
+    "level": 69
+  },
+  {
+	"name": "SwampBoss_RtD",
+  	"minExp": 820,
+    "maxExp": 1090,
+    "level": 39
+  },
+  {
+	"name": "TrollKing_RtD",
+	"minExp": 450,
+    "maxExp": 600,
+    "level": 29
   }
 ]
