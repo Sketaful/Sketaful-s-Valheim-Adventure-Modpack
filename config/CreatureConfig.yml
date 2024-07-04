@@ -185,7 +185,7 @@ Strong Enemies:
     stars: [50, 100]
     
     
-  RtD SoulsSpirit:
+RtD SoulsSpirit:
   stars:
     0: [0]
     1: [0]
@@ -193,7 +193,7 @@ Strong Enemies:
     3: [0]
     4: [0]
     5: [0]
-  RtD SoulsHorror:# General documentation:
+RtD SoulsHorror:# General documentation:
   stars:
     0: [0]
     1: [0]
@@ -201,7 +201,7 @@ Strong Enemies:
     3: [0]
     4: [0]
     5: [0]
-  RtD SoulsMyth:
+RtD SoulsMyth:
   stars:
     0: [0]
     1: [0]
