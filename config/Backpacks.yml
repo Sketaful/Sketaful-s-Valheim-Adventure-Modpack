@@ -105,7 +105,7 @@
     PouchFront: hidden
     PouchLeft: hidden
   crafting:
-    station: Forge
+    station: workbench
     level: 2
     costs:
       LeatherScraps: 10
