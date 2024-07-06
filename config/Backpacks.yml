@@ -47,10 +47,6 @@
     - Pukeberries
     - RoyalJelly
     - ChickenEgg
-    - MushroomWitcheye_TW
-    - MushroomDeathcap_TW
-    - MushroomWizardbutter_TW
-    - MushroomDevilstongue_TW
   upgrade:
     1:
       GrizzlyBearPelt_TW: 5
@@ -89,4 +85,88 @@
       MoltenCore: 1
       size: 8x4
   weight factor: 1
+  teleport: true
+"Seed bag":
+  description: "Keep your seeds together."
+  size: 2x4 # Initial size with 2 columns and 4 rows.
+  unique: type
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: hidden
+    Pot: 000064
+    BackpackBody: 640000
+    Teapot: hidden
+    Pickaxe: hidden
+    Knife: hidden
+    Knifesheath: hidden
+    ToolstrapBottom: hidden
+    MetalclipLeft: hidden
+    PouchFront: hidden
+    PouchLeft: hidden
+  crafting:
+    station: Forge
+    level: 2
+    costs:
+      LeatherScraps: 10
+      DeerHide: 1
+      FoxPelt_TW: 1
+      GrizzlyBearPelt_TW: 1
+  valid items:
+    - MushroomWitcheye_TW
+    - MushroomDeathcap_TW
+    - MushroomWizardbutter_TW
+    - MushroomDevilstongue_TW
+    - PlantSeedAshLands_RtD
+    - PlantSeedBlackForest_RtD
+    - PlantSeedDeepNorth_RtD
+    - PlantSeedMeadows_RtD
+    - PlantSeedMistlands_RtD
+    - PlantSeedMountain_RtD
+    - PlantSeedPlains_RtD
+    - PlantSeedSwamp_RtD
+    - MapleSeed_RtD
+    - AshLandsSeed1_RtD
+    - AshLandsSeed2_RtD
+    - MagicSeed1_RtD
+    - Acorns
+    - BeechSeeds 
+    - BirchSeeds
+    - CarrotSeeds
+    - FirCone
+    - OnionSeeds
+    - PineCone
+    - TurnipSeeds
+    1:
+      GrizzlyBearPelt_TW: 2
+      RazorbackLeather_TW: 2
+      TrollHide: 1
+      size: 3x4
+    2:
+      Entrails: 2
+      Bloodbag: 3
+      RottenPelt_TW: 1
+      size: 4x4
+    3:
+      WolfPelt: 4
+      GrizzlyBearPelt_TW: 2
+      WolfHairBundle: 1
+      Chitin: 1
+      size: 5x4
+    4:
+      Flax: 5
+      LinenThread: 1
+      LoxPelt: 1
+      size: 6x4
+    5:
+      ScaleHide: 2
+      Carapace: 2
+      Bilebag: 1
+      size: 7x4
+    6:
+      AskHide: 5
+      CelestialFeather: 1
+      MorgenSinew: 1
+      size: 8x4
+  weight factor: 0.1
   teleport: true
