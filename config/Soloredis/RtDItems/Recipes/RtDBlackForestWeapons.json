@@ -1,0 +1,302 @@
+[
+  {
+    "Enabled": true,
+    "Item": "BlackForestAtgeir_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestAxe1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 10,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestAxe2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestBow_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestClub_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestDagger_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestSledge_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 35,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 17,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestSpear_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestSword1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 5,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 30,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestSword2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Wood",
+        "Amount": 15,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 40,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  }
+]

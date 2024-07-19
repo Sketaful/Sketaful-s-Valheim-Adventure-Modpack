@@ -1,5 +1,5 @@
-"Forager/Farming Basket":
-  description: "A small wicker basket perfect for farmers and herbalists. Designed to carry flowers, plants, berries, veggies and other natural items."
+"Forager/Farming Bag":
+  description: "A small bag perfect for farmers and herbalists. Designed to carry flowers, plants, berries, veggies and other natural items."
   size: 2x4 # Initial size with 2 columns and 4 rows.
   unique: type
   appearance:
@@ -47,10 +47,6 @@
     - Pukeberries
     - RoyalJelly
     - ChickenEgg
-    - MushroomWitcheye_TW
-    - MushroomDeathcap_TW
-    - MushroomWizardbutter_TW
-    - MushroomDevilstongue_TW
   upgrade:
     1:
       GrizzlyBearPelt_TW: 5

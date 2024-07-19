@@ -1,0 +1,34 @@
+- faction: Players
+  id: 0
+  friendly: Players
+- faction: AnimalsVeg
+  id: 1
+  friendly: AnimalsVeg
+- faction: ForestMonsters
+  id: 2
+  friendly: AnimalsVeg, Boss, ForestMonsters
+- faction: Undead
+  id: 3
+  friendly: Boss, Demon, Undead
+- faction: Demon
+  id: 4
+  friendly: Boss, Demon, Undead
+- faction: MountainMonsters
+  id: 5
+  friendly: Boss, MountainMonsters
+- faction: PlainsMonsters
+  id: 7
+  friendly: Boss, PlainsMonsters
+- faction: SeaMonsters
+  id: 6
+  friendly: Boss, SeaMonsters
+- faction: Boss
+  id: 8
+  friendly: All
+- faction: MistlandsMonsters
+  id: 9
+  friendly: AnimalsVeg, Boss, MistlandsMonsters
+- faction: Dverger
+  id: 10
+  friendly: AnimalsVeg, Boss, Dverger, Players
+  aggravatedFriendly: AnimalsVeg, Boss, Dverger

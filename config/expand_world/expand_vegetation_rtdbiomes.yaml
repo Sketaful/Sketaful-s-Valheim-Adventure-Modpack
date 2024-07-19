@@ -1,3 +1,14 @@
+- prefab: MagicTree6_RtD
+  enabled: true
+  max: 1
+  scaleMin: 2
+  scaleMax: 2.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 20
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
 - prefab: MagicTree7_RtD
   enabled: true
   max: 1
@@ -18,6 +29,154 @@
   maxAltitude: 500
   maxOceanDepth: 100
   maxTilt: 20
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: MagicTree9_RtD
+  enabled: true
+  max: 1
+  scaleMin: 2
+  scaleMax: 2.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 20
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: MagicTree10_RtD
+  enabled: true
+  max: 1
+  scaleMin: 2
+  scaleMax: 2.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 20
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeadTree1_RtD
+  enabled: true
+  max: 1
+  scaleMax: 1.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 10
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeadTree2_RtD
+  enabled: true
+  max: 1
+  scaleMax: 1.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 10
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeadTree3_RtD
+  enabled: true
+  max: 1
+  scaleMax: 1.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 10
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeadTree4_RtD
+  enabled: true
+  max: 1
+  scaleMax: 1.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 10
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeadTree5_RtD
+  enabled: true
+  max: 1
+  scaleMax: 1.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 10
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeadTree6_RtD
+  enabled: true
+  max: 1
+  scaleMax: 1.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 10
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeadTree7_RtD
+  enabled: true
+  max: 1
+  scaleMax: 1.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 10
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeadTree8_RtD
+  enabled: true
+  max: 1
+  scaleMax: 1.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 10
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeadTree9_RtD
+  enabled: true
+  max: 1
+  scaleMax: 1.5
+  biome: None
+  maxAltitude: 500
+  maxOceanDepth: 100
+  maxTilt: 10
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: RedShroom1_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 550
+  maxOceanDepth: 450
+  maxTilt: 15
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: RedShroom2_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 550
+  maxOceanDepth: 450
+  maxTilt: 15
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: RedShroom3_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 550
+  maxOceanDepth: 450
+  maxTilt: 15
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: RedShroom4_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 550
+  maxOceanDepth: 450
+  maxTilt: 15
   minTerrainDelta: 1
   maxTerrainDelta: 2
 - prefab: CrystalFormation5_RtD
@@ -54,6 +213,33 @@
   maxAltitude: 600
   maxOceanDepth: 450
   maxTilt: 15
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: AshLandsRock1_RtD
+  enabled: true
+  max: 1
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 20
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: AshLandsRock2_RtD
+  enabled: true
+  max: 1
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 20
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: AshLandsRock3_RtD
+  enabled: true
+  max: 1
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 20
   minTerrainDelta: 1
   maxTerrainDelta: 2
 - prefab: AshLandsRock4_RtD
@@ -438,6 +624,51 @@
   maxTilt: 20
   minTerrainDelta: 1
   maxTerrainDelta: 2
+- prefab: DeepNorthBush2_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 20
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeepNorthBush7_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 80
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeepNorthBush8_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 80
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeepNorthBush9_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 80
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeepNorthBush10_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 80
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
 - prefab: EverGreen1_RtD
   enabled: true
   max: 1
@@ -590,6 +821,15 @@
   maxAltitude: 35
   maxOceanDepth: 450
   maxTilt: 15
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
+- prefab: DeepNorthBush1_RtD
+  enabled: false
+  max: 1
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 80
   minTerrainDelta: 1
   maxTerrainDelta: 2
 - prefab: DeepNorthBush3_RtD
@@ -1385,6 +1625,17 @@
   maxTilt: 40
   minTerrainDelta: 1
   maxTerrainDelta: 2
+- prefab: VanillaSwampTree_RtD
+  enabled: true
+  max: 1
+  scaleMin: 1.5
+  scaleMax: 2
+  biome: None
+  maxAltitude: 600
+  maxOceanDepth: 450
+  maxTilt: 50
+  minTerrainDelta: 1
+  maxTerrainDelta: 2
 - prefab: SwampTree2_log_RtD
   enabled: true
   max: 8
@@ -2100,7 +2351,7 @@
   minTerrainDelta: 1
   maxTerrainDelta: 2
 - prefab: MeadowsBush01_RtD
-  enabled: false
+  enabled: true
   max: 2
   scaleMin: 1.5
   scaleMax: 3

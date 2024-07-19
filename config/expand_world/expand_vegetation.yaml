@@ -227,8 +227,8 @@
   forestTresholdMax: 1.1
 - prefab: Beech1
   enabled: true
-  min: 12
-  max: 18
+  min: 8
+  max: 10
   scaleMin: 0.8
   scaleMax: 1.5
   randTilt: 4
@@ -342,8 +342,8 @@
   forestTresholdMax: 1.1
 - prefab: Pinetree_01
   enabled: true
-  min: 10
-  max: 12
+  min: 6
+  max: 8
   scaleMax: 2.5
   randTilt: 4
   chanceToUseGroundTilt: 0.05
@@ -1591,10 +1591,33 @@
   groupRadius: 20
 - prefab: GemstoneSpawner
   enabled: true
-  max: 2
+  max: 4
   forcePlacement: true
   maxAltitude: 1000
   maxTerrainDelta: 2
   groupSizeMin: 2
   groupSizeMax: 6
-  groupRadius: 6
+  groupRadius: 7
+- prefab: GemstoneSpawner
+  enabled: true
+  max: 4
+  forcePlacement: true
+  biome: AshLands
+  biomeArea: edge
+  maxAltitude: 1000
+  maxTerrainDelta: 2
+  groupSizeMin: 2
+  groupSizeMax: 6
+  groupRadius: 7
+- prefab: GemstoneSpawner
+  enabled: true
+  max: 5
+  forcePlacement: true
+  biome: AshLands
+  biomeArea: median
+  maxAltitude: 1000
+  maxVegetation: 0.5
+  maxTerrainDelta: 2
+  groupSizeMin: 2
+  groupSizeMax: 6
+  groupRadius: 7

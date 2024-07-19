@@ -1,0 +1,302 @@
+[
+  {
+    "Enabled": true,
+    "Item": "PlainsAtgeir_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 22,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsAxe1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 22,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsAxe2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 22,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsBow_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 22,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsClub_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 22,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsDagger_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 22,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsSledge_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 35,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsSpear_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 22,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsSword1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 5,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 30,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 22,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "PlainsSword2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "FineWood",
+        "Amount": 25,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "BlackMetal",
+        "Amount": 40,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 22,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "PlainsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  }
+]

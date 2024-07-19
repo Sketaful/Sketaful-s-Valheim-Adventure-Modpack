@@ -1,5 +1,4 @@
 [
-  #######Oceans#######
   {
 	"name": "Belzor_RtD",
 	"minExp": 1590,
@@ -30,13 +29,13 @@
     "maxExp": 380,
     "level": 26
   },
-    {
+  {
     "name": "MurkPod_RtD",
     "minExp": 310,
     "maxExp": 380,
     "level": 26
   },
-    {
+  {
 	"name": "Neck_RtD",
 	"minExp": 290,
     "maxExp": 360,
@@ -54,8 +53,6 @@
     "maxExp": 410,
     "level": 29
   },
- 
- ########Monsters########### 
   {
 	"name": "Assassin_RtD",
 	"minExp": 1010,
@@ -189,7 +186,7 @@
     "level": 87
   },
   
-#####Monster Bosses######
+///
   {
     "name": "Fader_RtD",
     "minExp": 1400,
@@ -208,9 +205,7 @@
     "maxExp": 2400,
     "level": 90
   },
-
-#######Horrors##########
-{
+  {
 	"name": "MeadowsHorror_RtD",
 	"minExp": 35,
     "maxExp": 50,
@@ -228,7 +223,7 @@
     "maxExp": 480,
     "level": 35
   },
-    {
+  {
 	"name": "MountainHorror_RtD",
 	"minExp": 420,
     "maxExp": 490,
@@ -259,8 +254,7 @@
     "level": 80
   },
 
-#######Spirits########
-{
+ {
 	"name": "AshLandsDarkS_RtD",
 	"minExp": 800,
     "maxExp": 900,
@@ -368,9 +362,7 @@
     "maxExp": 50,
     "level": 30
   },
-
-######Monstrum########
-{
+  {
 	"name": "MeadowsGolem_RtD",
 	"minExp": 25,
     "maxExp": 40,
@@ -496,9 +488,7 @@
     "maxExp": 190,
     "level": 30
   },
-
-######Monstrum Bosses######
-{
+  {
 	"name": "EikthyrSpirit_RtD",
 	"minExp": 190,
     "maxExp": 220,

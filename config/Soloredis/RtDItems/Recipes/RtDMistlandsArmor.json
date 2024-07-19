@@ -1,0 +1,362 @@
+[
+  {
+    "Enabled": true,
+    "Item": "MistlandsAssassinChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Eitr",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "ScaleHide",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsAssassinHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ScaleHide",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Carapace",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsAssassinLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ScaleHide",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Eitr",
+        "Amount": 18,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsArcherChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Eitr",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "ScaleHide",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsArcherHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ScaleHide",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Carapace",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsArcherLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ScaleHide",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Eitr",
+        "Amount": 18,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsArcherCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Eitr",
+        "Amount": 10,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "ScaleHide",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 8,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsAssassinCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Eitr",
+        "Amount": 10,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "ScaleHide",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 8,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsMonkCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ScaleHide",
+        "Amount": 18,
+        "AmountPerLevel": 3
+      },
+      {
+        "Item": "Carapace",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsMonkChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Eitr",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Carapace",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsMonkHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ScaleHide",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Carapace",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MistlandsMonkLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ScaleHide",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Carapace",
+        "Amount": 10,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MistlandsToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 - prefab: Meadows1_RtD
-  amount: 0
+  amount: 1
   biome: Meadows
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   minAltitude: 1
   maxAltitude: 500
@@ -9,9 +9,9 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Meadows2_RtD
-  amount: 0
+  amount: 1
   biome: Meadows
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   minAltitude: 1
   maxAltitude: 500
@@ -19,9 +19,9 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: WormWood_RtD
-  amount: 0
+  amount: 3
   biome: Meadows
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 3
   minAltitude: 1
@@ -31,7 +31,7 @@
 - prefab: MeadowsGrass1_RtD
   amount: 0
   biome: Meadows
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 1
   minAltitude: 1
@@ -41,7 +41,7 @@
 - prefab: MeadowsGrass2_RtD
   amount: 0
   biome: Meadows
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 1
   minAltitude: 1
@@ -51,7 +51,7 @@
 - prefab: MeadowsGrass3_RtD
   amount: 0
   biome: Meadows
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 1
   minAltitude: 1
@@ -61,7 +61,7 @@
 - prefab: MeadowsWeed1_RtD
   amount: 0
   biome: Meadows
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 1
   minAltitude: 1
@@ -71,7 +71,7 @@
 - prefab: MeadowsClutter2_RtD
   amount: 0
   biome: Meadows
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 50
   minAltitude: 1
@@ -81,7 +81,7 @@
 - prefab: MeadowsClutter3_RtD
   amount: 0
   biome: Meadows
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 50
   minAltitude: 1
@@ -89,9 +89,9 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: BlackForest1_RtD
-  amount: 0
+  amount: 5
   biome: BlackForest
-  instanced: false
+  instanced: true
   scaleMin: 2
   scaleMax: 2.6
   minAltitude: 1
@@ -100,9 +100,9 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: BlackForest2_RtD
-  amount: 0
+  amount: 5
   biome: BlackForest
-  instanced: false
+  instanced: true
   scaleMin: 2
   scaleMax: 2.6
   minAltitude: 1
@@ -112,9 +112,9 @@
   fractalThresholdMin: 0.5
 - prefab: GreenGrass1_RtD
   enabled: false
-  amount: 05
+  amount: 0
   biome: BlackForest
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   minAltitude: 1
   maxAltitude: 500
@@ -123,7 +123,7 @@
 - prefab: MeadowsClutter1_RtD
   amount: 0
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 5
   minAltitude: 1
@@ -131,9 +131,9 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: Swamps1_RtD
-  amount: 0
+  amount: 5
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   minAltitude: 1
   maxAltitude: 500
@@ -141,9 +141,9 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Swamps2_RtD
-  amount: 0
+  amount: 5
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   minAltitude: 1
   maxAltitude: 500
@@ -151,9 +151,9 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Swamps3_RtD
-  amount: 0
+  amount: 5
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   minAltitude: 1
   maxAltitude: 500
@@ -163,7 +163,7 @@
 - prefab: SwampGrass1_RtD
   amount: 0
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 30
   minAltitude: 1
@@ -173,7 +173,7 @@
 - prefab: SwampGrass2_RtD
   amount: 0
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 30
   minAltitude: 1
@@ -183,7 +183,7 @@
 - prefab: SwampGrass3_RtD
   amount: 0
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 30
   minAltitude: 1
@@ -193,7 +193,7 @@
 - prefab: SwampGrass4_RtD
   amount: 0
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 30
   minAltitude: 1
@@ -203,7 +203,7 @@
 - prefab: SwampPlant_RtD
   amount: 0
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 5
   minAltitude: 1
@@ -213,7 +213,7 @@
 - prefab: ForestBush1_RtD
   amount: 0
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 5
   minAltitude: 1
@@ -223,7 +223,7 @@
 - prefab: ForestBush2_RtD
   amount: 0
   biome: Swamp
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 5
   minAltitude: 1
@@ -233,7 +233,7 @@
 - prefab: Daisy_RtD
   amount: 0
   biome: Plains
-  instanced: false
+  instanced: true
   scaleMin: 1.5
   scaleMax: 2.2
   maxTilt: 30
@@ -244,7 +244,7 @@
 - prefab: PlainsGrass1_RtD
   amount: 0
   biome: Plains
-  instanced: false
+  instanced: true
   scaleMin: 1.5
   scaleMax: 2.2
   maxTilt: 30
@@ -255,7 +255,7 @@
 - prefab: PlainsGrass2_RtD
   amount: 0
   biome: Plains
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 30
   minAltitude: 1
@@ -265,7 +265,7 @@
 - prefab: PlainsGrass3_RtD
   amount: 0
   biome: Plains
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 30
   minAltitude: 1
@@ -273,9 +273,9 @@
   terrainTilt: true
   fractalThresholdMin: 0.5
 - prefab: Meadows3_RtD
-  amount: 0
+  amount: 4
   biome: Mistlands
-  instanced: false
+  instanced: true
   scaleMin: 2
   scaleMax: 2.2
   maxTilt: 30
@@ -285,9 +285,9 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Mistlands1_RtD
-  amount: 0
+  amount: 5
   biome: Mistlands
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   minAltitude: 1
   maxAltitude: 500
@@ -295,9 +295,9 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Mistlands2_RtD
-  amount: 0
+  amount: 5
   biome: Mistlands
-  instanced: false
+  instanced: true
   scaleMin: 2
   scaleMax: 3.2
   minAltitude: 1
@@ -306,9 +306,9 @@
   maxOceanDepth: 500
   fractalThresholdMin: 0.5
 - prefab: Mistlands3_RtD
-  amount: 0
+  amount: 5
   biome: Mistlands
-  instanced: false
+  instanced: true
   scaleMin: 2
   scaleMax: 3.2
   minAltitude: 1
@@ -320,7 +320,7 @@
   enabled: false
   amount: 0
   biome: Mistlands
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 0
   minAltitude: 1
@@ -333,7 +333,7 @@
   enabled: false
   amount: 0
   biome: Mistlands
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 0
   minAltitude: 0
@@ -346,7 +346,7 @@
   enabled: false
   amount: 0
   biome: Mistlands
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 0
   minAltitude: 1
@@ -359,7 +359,7 @@
   enabled: false
   amount: 0
   biome: Mistlands
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   maxTilt: 0
   minAltitude: 1
@@ -371,7 +371,7 @@
 - prefab: DesertGrass1_RtD
   amount: 0
   biome: AshLands
-  instanced: false
+  instanced: true
   maxTilt: 80
   minAltitude: 1
   maxAltitude: 500
@@ -381,7 +381,7 @@
 - prefab: DesertGrass2_RtD
   amount: 0
   biome: AshLands
-  instanced: false
+  instanced: true
   maxTilt: 80
   minAltitude: 1
   maxAltitude: 500
@@ -391,7 +391,7 @@
 - prefab: DesertGrass3_RtD
   amount: 0
   biome: AshLands
-  instanced: false
+  instanced: true
   maxTilt: 80
   minAltitude: 1
   maxAltitude: 500
@@ -401,7 +401,7 @@
 - prefab: DesertGrass4_RtD
   amount: 0
   biome: AshLands
-  instanced: false
+  instanced: true
   maxTilt: 80
   minAltitude: 1
   maxAltitude: 500
@@ -411,7 +411,7 @@
 - prefab: DesertGrass5_RtD
   amount: 0
   biome: AshLands
-  instanced: false
+  instanced: true
   maxTilt: 80
   minAltitude: 1
   maxAltitude: 500
@@ -421,7 +421,7 @@
 - prefab: DesertGrass6_RtD
   amount: 0
   biome: AshLands
-  instanced: false
+  instanced: true
   maxTilt: 80
   minAltitude: 1
   maxAltitude: 500
@@ -431,7 +431,7 @@
 - prefab: NorthGrass1_RtD
   amount: 0
   biome: DeepNorth
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   minAltitude: 1
   maxAltitude: 500
@@ -441,7 +441,7 @@
 - prefab: NorthGrass2_RtD
   amount: 0
   biome: DeepNorth
-  instanced: false
+  instanced: true
   scaleMax: 1.2
   minAltitude: 1
   maxAltitude: 500

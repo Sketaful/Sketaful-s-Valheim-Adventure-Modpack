@@ -65,6 +65,7 @@ groups:
     - PlainsChomper3_RtD
     - PlainsChomper4_RtD
     - SwampSludger_RtD
+
 # Set the level up chances for each of your groups here. Start with world level 0 and define the different chances in percent from left to right, starting with 1 star.
 # This will set the level up chances for the Meadows biome und will also disable the Armored effect and the Chaos infusion until you reach world level 2 in this biome.
 Meadows:
@@ -185,30 +186,30 @@ Strong Enemies:
     stars: [50, 100]
     
     
-RtD SoulsSpirit:
+  RtD SoulsSpirit:
   stars:
     0: [0]
-    1: [0]
-    2: [0]
-    3: [0]
-    4: [0]
-    5: [0]
-RtD SoulsHorror:# General documentation:
+    1: [1]
+    2: [1]
+    3: [1]
+    4: [1]
+    5: [1]
+  RtD SoulsHorror:# General documentation:
   stars:
     0: [0]
-    1: [0]
-    2: [0]
-    3: [0]
-    4: [0]
-    5: [0]
-RtD SoulsMyth:
+    1: [1]
+    2: [1]
+    3: [1]
+    4: [1]
+    5: [1]
+  RtD SoulsMyth:
   stars:
     0: [0]
-    1: [0]
-    2: [0]
-    3: [0]
-    4: [0]
-    5: [0]
+    1: [1]
+    2: [1]
+    3: [1]
+    4: [1]
+    5: [1]
 
 
 #

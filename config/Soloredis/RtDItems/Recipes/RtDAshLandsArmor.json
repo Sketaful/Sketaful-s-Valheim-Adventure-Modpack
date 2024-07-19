@@ -1,0 +1,482 @@
+[
+  {
+    "Enabled": true,
+    "Item": "AshLandsAssassinChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FlametalNew",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsAssassinHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsAssassinLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 18,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsWarriorChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FlametalNew",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsWarriorHelmet_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FlametalNew",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsWarriorLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 40,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsArcherChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FlametalNew",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsArcherHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsArcherLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 18,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsArcherCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FlametalNew",
+        "Amount": 10,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 8,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsAssassinCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FlametalNew",
+        "Amount": 10,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 8,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsHybridCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FlametalNew",
+        "Amount": 10,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 8,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsMonkCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 3
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsMonkChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FlametalNew",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsMonkHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsMonkLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DemonHide_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 10,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  }
+]

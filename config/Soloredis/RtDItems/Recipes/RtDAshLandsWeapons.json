@@ -1,0 +1,362 @@
+[
+  {
+    "Enabled": true,
+    "Item": "AshLandsAtgeir_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsAxe1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsShieldBow_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsShield_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsAxe2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsBow_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsClub_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsDagger_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsSledge_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 35,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsSpear_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsSword1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 30,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "AshLandsSword2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 2,
+    "Requirements": [
+      {
+        "Item": "CinderWood_RtD",
+        "Amount": 25,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FlametalNew",
+        "Amount": 40,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "ShadowCrystal_RtD",
+        "Amount": 24,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BurningGland_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 2
+      }
+    ]
+  }
+]

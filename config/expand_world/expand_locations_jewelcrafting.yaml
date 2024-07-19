@@ -1,6 +1,6 @@
 - prefab: JC_Gacha_Location
   biome: Meadows
-  quantity: 5
+  quantity: 6
   minDistance: 0.1
   maxDistance: 0.3
   minAltitude: 10
