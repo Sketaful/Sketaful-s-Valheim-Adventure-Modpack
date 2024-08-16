@@ -1,0 +1,163 @@
+name: piece_oven
+piecehammer: Hammer
+m_name: $piece_oven
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_artisanstation
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+wearNTearData:
+  health: 500
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Resistant
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData: 
+smelterData: 
+cookingStationData:
+  addItemTooltip: $piece_oven_additem
+  overcookedItem: Coal
+  fuelItem: Wood
+  requireFire: false
+  maxFuel: 10
+  secPerFuel: 2000
+  cookConversion:
+  - FromName: LoxPieUncooked
+    ToName: LoxPie
+    CookTime: 50
+    Remove: false
+  - FromName: BreadDough
+    ToName: Bread
+    CookTime: 50
+    Remove: false
+  - FromName: FishAndBreadUncooked
+    ToName: FishAndBread
+    CookTime: 50
+    Remove: false
+  - FromName: MeatPlatterUncooked
+    ToName: MeatPlatter
+    CookTime: 50
+    Remove: false
+  - FromName: HoneyGlazedChickenUncooked
+    ToName: HoneyGlazedChicken
+    CookTime: 50
+    Remove: false
+  - FromName: MisthareSupremeUncooked
+    ToName: MisthareSupreme
+    CookTime: 50
+    Remove: false
+  - FromName: MagicallyStuffedShroomUncooked
+    ToName: MagicallyStuffedShroom
+    CookTime: 50
+    Remove: false
+  - FromName: RoastedCrustPieUncooked
+    ToName: RoastedCrustPie
+    CookTime: 50
+    Remove: false
+  - FromName: PiquantPieUncooked
+    ToName: PiquantPie
+    CookTime: 50
+    Remove: false
+  - FromName: VC_RugbraudDough
+    ToName: VC_Rugbraud
+    CookTime: 50
+    Remove: false
+  - FromName: VC_UnbakedRaspberryPie
+    ToName: VC_RaspberryPie
+    CookTime: 50
+    Remove: false
+  - FromName: VC_UncookedJuggedNeck
+    ToName: VC_JuggedNeck
+    CookTime: 60
+    Remove: false
+  - FromName: VC_UncookedWrappedTetra
+    ToName: VC_WrappedTetra
+    CookTime: 80
+    Remove: false
+  - FromName: VC_PaltbrodDough
+    ToName: VC_Paltbrod
+    CookTime: 50
+    Remove: false
+  - FromName: VC_UncookedJuggedHare
+    ToName: VC_JuggedHare
+    CookTime: 60
+    Remove: false
+  - FromName: VC_UncookedOvernightBroth
+    ToName: VC_OvernightBroth
+    CookTime: 80
+    Remove: false
+  - FromName: VC_JourneyBreadDough
+    ToName: VC_JourneyBread
+    CookTime: 50
+    Remove: false
+  - FromName: VC_UnbakedHoneyCookies
+    ToName: VC_HoneyCookies
+    CookTime: 50
+    Remove: false
+  - FromName: VC_BraidedBreadDough
+    ToName: VC_BraidedBread
+    CookTime: 60
+    Remove: false
+  - FromName: VC_UncookedGlazedVolture
+    ToName: VC_GlazedVolture
+    CookTime: 60
+    Remove: false
+  - FromName: VC_UnbakedStuffedTurnips
+    ToName: VC_StuffedTurnips
+    CookTime: 40
+    Remove: false
+  - FromName: VC_UncookedVingolfMeal
+    ToName: VC_VingolfMeal
+    CookTime: 80
+    Remove: false
+  - FromName: VC_UncookedJuggedSalmon
+    ToName: VC_JuggedSalmon
+    CookTime: 60
+    Remove: false
+  - FromName: VC_UnbakedGlazedCod
+    ToName: VC_GlazedCod
+    CookTime: 60
+    Remove: false
+  - FromName: VC_UnbakedOozedSerpent
+    ToName: VC_OozedSerpent
+    CookTime: 80
+    Remove: false
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+build:
+- Iron:15:1:True
+- Stone:20:1:True
+- SurtlingCore:4:1:True

@@ -1,0 +1,214 @@
+name: fermenter
+piecehammer: Hammer
+m_name: $piece_fermenter
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_forge
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+wearNTearData:
+  health: 1000
+  damageModifiers:
+    m_blunt: Resistant
+    m_slash: Resistant
+    m_pierce: Resistant
+    m_chop: Resistant
+    m_pickaxe: Normal
+    m_fire: Immune
+    m_frost: Immune
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData:
+  fermDuration: 2400
+  fermConversion:
+  - FromName: MeadBaseHealthMinor
+    ToName: MeadHealthMinor
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseHealthMedium
+    ToName: MeadHealthMedium
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseStaminaMinor
+    ToName: MeadStaminaMinor
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseStaminaMedium
+    ToName: MeadStaminaMedium
+    Amount: 6
+    Remove: false
+  - FromName: MeadBasePoisonResist
+    ToName: MeadPoisonResist
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseFrostResist
+    ToName: MeadFrostResist
+    Amount: 6
+    Remove: false
+  - FromName: BarleyWineBase
+    ToName: BarleyWine
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseTasty
+    ToName: MeadTasty
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseHealthMajor
+    ToName: MeadHealthMajor
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseStaminaLingering
+    ToName: MeadStaminaLingering
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseEitrMinor
+    ToName: MeadEitrMinor
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseEitrLingering
+    ToName: MeadEitrLingering
+    Amount: 6
+    Remove: false
+  - FromName: MeadBaseHealthLingering
+    ToName: MeadHealthLingering
+    Amount: 6
+    Remove: false
+  - FromName: VC_HerbalRemedyBase
+    ToName: VC_HerbalRemedy
+    Amount: 6
+    Remove: false
+  - FromName: VC_HaulerMeadBase
+    ToName: VC_HaulerMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_HunterMeadBase
+    ToName: VC_HunterMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_SkjaldmaerMeadBase
+    ToName: VC_SkjaldmaerMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_HuskarlMeadBase
+    ToName: VC_HuskarlMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_HersirMeadBase
+    ToName: VC_HersirMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_DrengrMeadBase
+    ToName: VC_DrengrMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_VikingrMeadBase
+    ToName: VC_VikingrMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_HermadrMeadBase
+    ToName: VC_HermadrMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_BrawlerMeadBase
+    ToName: VC_BrawlerMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_BlaandBase
+    ToName: VC_Blaand
+    Amount: 6
+    Remove: false
+  - FromName: VC_BeastmasterBlaandBase
+    ToName: VC_BeastmasterBlaand
+    Amount: 6
+    Remove: false
+  - FromName: VC_FulingMedicineBase
+    ToName: VC_FulingMedicine
+    Amount: 6
+    Remove: false
+  - FromName: VC_CloudberryAleBase
+    ToName: VC_CloudberryAle
+    Amount: 6
+    Remove: false
+  - FromName: VC_SeidkonaMeadBase
+    ToName: VC_SeidkonaMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_DvergrMeadBase
+    ToName: VC_DvergrMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_MediumEitrMeadBase
+    ToName: VC_MediumEitrMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_VineberryAleBase
+    ToName: VC_VineberryAle
+    Amount: 6
+    Remove: false
+  - FromName: VC_GefjunMeadBase
+    ToName: VC_GefjunMead
+    Amount: 6
+    Remove: false
+  - FromName: VC_UnfermentedShroomMead
+    ToName: VC_ShroomMead
+    Amount: 10
+    Remove: false
+  - FromName: VC_UnfermentedSkyr
+    ToName: VC_Skyr
+    Amount: 6
+    Remove: false
+  - FromName: VC_UnfermentedShroomBeer
+    ToName: VC_ShroomBeer
+    Amount: 10
+    Remove: false
+  - FromName: VC_UnfermentedBonemawHakarl
+    ToName: VC_BonemawHakarl
+    Amount: 5
+    Remove: false
+  - FromName: VC_UnfermentedRakfisk
+    ToName: VC_Rakfisk
+    Amount: 5
+    Remove: false
+  - FromName: VC_UnfermentedLutefisk
+    ToName: VC_Lutefisk
+    Amount: 5
+    Remove: false
+  - FromName: VC_UnfermentedHakarl
+    ToName: VC_Hakarl
+    Amount: 5
+    Remove: false
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+build:
+- FineWood:30:1:True
+- Bronze:5:1:True
+- Resin:10:1:True

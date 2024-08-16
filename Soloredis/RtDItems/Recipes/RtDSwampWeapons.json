@@ -1,0 +1,302 @@
+[
+  {
+    "Enabled": true,
+    "Item": "SwampAtgeir_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampAxe1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 10,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampAxe2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampBow_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampClub_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampDagger_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampSledge_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 35,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampSpear_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampSword1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 5,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 30,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "SwampSword2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "ElderBark",
+        "Amount": 15,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Iron",
+        "Amount": 40,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SwampToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  }
+]

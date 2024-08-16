@@ -1,0 +1,422 @@
+[
+  {
+    "Enabled": true,
+    "Item": "DeepNorthAssassinChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthAssassinHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "IceCrystal_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthAssassinLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthWarriorChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthWarriorHelmet_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthWarriorLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 40,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthArcherChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthArcherHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "IceCrystal_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthArcherLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthHybridCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 10,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 8,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthMonkCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 3
+      },
+      {
+        "Item": "IceCrystal_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthMonkChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FroMetalBar_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "IceCrystal_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthMonkHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "IceCrystal_RtD",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "DeepNorthMonkLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "blackforge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "FairySilk_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "IceCrystal_RtD",
+        "Amount": 10,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "FaeWolfPelt_RtD",
+        "Amount": 18,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "FaeNectar_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  }
+]

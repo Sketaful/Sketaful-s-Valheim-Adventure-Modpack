@@ -1,0 +1,27 @@
+creature_prefab_name: StoneGolem
+bounty_name: Golem the Guardian
+sprite_name: TrophySGolem
+biome: Mountain
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Blocking
+  amount: 15000
+experience_reward: 0
+bounty_health: 800
+damage_multiplier: 1.5
+damages:
+  blunt: 30
+  slash: 0
+  pierce: 10
+  fire: 0
+  frost: 0
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 3
+defeat_key: defeated_stonegolem
+cost: 0
+currency: Coins

@@ -1,0 +1,27 @@
+creature_prefab_name: gd_king
+bounty_name: Elder the Ancient
+sprite_name: TrophyTheElder
+biome: Swamp
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Polearms
+  amount: 15000
+experience_reward: 0
+bounty_health: 2500
+damage_multiplier: 1.8
+damages:
+  blunt: 50
+  slash: 0
+  pierce: 20
+  fire: 0
+  frost: 0
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 3
+defeat_key: defeated_gdking
+cost: 0
+currency: Coins

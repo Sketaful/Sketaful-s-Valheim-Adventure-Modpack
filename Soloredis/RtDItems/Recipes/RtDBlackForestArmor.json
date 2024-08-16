@@ -1,0 +1,242 @@
+[
+  {
+    "Enabled": true,
+    "Item": "BlackForestArcherChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DeerHide",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "TrollHide",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestArcherHelmet_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "TrollHide",
+        "Amount": 15,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestArcherLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "TrollHide",
+        "Amount": 15,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "DeerHide",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 2,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestHardLeatherCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DeerHide",
+        "Amount": 10,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "TrollHide",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 8,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestMonkCape_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "TrollHide",
+        "Amount": 15,
+        "AmountPerLevel": 3
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestMonkChest_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "DeerHide",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 3,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestMonkHood_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "TrollHide",
+        "Amount": 15,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 5,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "BlackForestMonkLegs_RtD",
+    "Amount": 1,
+    "CraftingStation": "piece_workbench",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "TrollHide",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Bronze",
+        "Amount": 10,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 15,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "BlackForestToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  }
+]

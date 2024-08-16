@@ -1,0 +1,88 @@
+"Forager/Farming Bag":
+  description: "A small bag perfect for farmers and herbalists. Designed to carry flowers, plants, berries, veggies and other natural items. DON'T USE CTRL-R-MOUSE TO MOVEW BETWEEN CHEST AND INVENTORY, A BUG WILL MAKE THE BAG DISAPPEAR!"
+  size: 2x4 # Initial size with 2 columns and 4 rows.
+  unique: type
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 006400
+    Pot: 006400
+    BackpackBody: 006400
+    Teapot: hidden
+    Pickaxe: hidden
+    Knife: 006400
+    Knifesheath: hidden
+    ToolstrapBottom: hidden
+    MetalclipLeft: 006400
+    PouchFront: 006400
+    PouchLeft: 006400
+  crafting:
+    station: Forge
+    level: 1
+    costs:
+      LeatherScraps: 4
+      DeerHide: 3
+      FoxPelt_TW: 2
+      BlackBearPelt_TW: 2
+  valid items:
+    - Dandelion
+    - Thistle
+    - Mushroom
+    - Raspberry
+    - Blueberries
+    - Cloudberry
+    - MushroomYellow
+    - MushroomSmokePuff
+    - Fiddleheadfern
+    - MushroomMagecap
+    - MushroomJotunPuffs
+    - Turnip
+    - Onion
+    - Carrot
+    - Flax
+    - Barley
+    - LinenThread
+    - Vineberry
+    - Honey
+    - Pukeberries
+    - RoyalJelly
+    - ChickenEgg
+  upgrade:
+    1:
+      GrizzlyBearPelt_TW: 5
+      RazorbackLeather_TW: 5
+      TrollHide: 2
+      SurtlingCore: 1
+      size: 3x4
+    2:
+      Entrails: 5
+      Bloodbag: 5
+      RottenPelt_TW: 2
+      Root: 1
+      size: 4x4
+    3:
+      WolfPelt: 5
+      GrizzlyBearPelt_TW: 5
+      WolfHairBundle: 2
+      Chitin: 1
+      size: 5x4
+    4:
+      Flax: 5
+      LinenThread: 5
+      LoxPelt: 2
+      SerpentScale: 1
+      size: 6x4
+    5:
+      ScaleHide: 5
+      Carapace: 5
+      Bilebag: 2
+      BlackCore: 1
+      size: 7x4
+    6:
+      AskHide: 5
+      CelestialFeather: 5
+      MorgenSinew: 2
+      MoltenCore: 1
+      size: 8x4
+  weight factor: 1
+  teleport: true

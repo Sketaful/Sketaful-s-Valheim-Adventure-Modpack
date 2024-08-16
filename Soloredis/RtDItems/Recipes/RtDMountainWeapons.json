@@ -1,0 +1,302 @@
+[
+  {
+    "Enabled": true,
+    "Item": "MountainAtgeir_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 21,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainAxe1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 10,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 21,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainAxe2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 20,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 21,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainBow_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 50,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 5,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 21,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainClub_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 25,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 21,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainDagger_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 20,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 21,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainSledge_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 40,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 35,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 20,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainSpear_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 30,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 15,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 21,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainSword1H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 5,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 30,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 21,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  },
+  {
+    "Enabled": true,
+    "Item": "MountainSword2H_RtD",
+    "Amount": 1,
+    "CraftingStation": "forge",
+    "RepairStation": null,
+    "MinStationLevel": 1,
+    "Requirements": [
+      {
+        "Item": "Crystal",
+        "Amount": 15,
+        "AmountPerLevel": 5
+      },
+      {
+        "Item": "Silver",
+        "Amount": 40,
+        "AmountPerLevel": 2
+      },
+      {
+        "Item": "SpiritEssense_RtD",
+        "Amount": 21,
+        "AmountPerLevel": 1
+      },
+      {
+        "Item": "MountainToken_RtD",
+        "Amount": 1,
+        "AmountPerLevel": 1
+      }
+    ]
+  }
+]
