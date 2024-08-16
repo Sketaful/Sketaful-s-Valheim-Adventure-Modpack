@@ -1,7 +1,0 @@
-#   To start setup for mounting a creature, add the creature prefab name on its own line followed by a colon : such as
-PrefabName:
-#   Once loading into the game and coming across this creature it will attempt to snap the saddle to the correct bone and complete the rest of the config in this file
-#   By default the required saddle is a Tier 3 saddle (Advanced Saddle) that you will need to use on the creature to mount it.
-#   To adjust the mounting location you will need to set Enable Adjust Custom Mounts = true in meldurson.MountUpRestored.cfg
-#   You can also find a bunch of premade configurations *****HERE***** that you can copy/paste parts into this file, or paste the entire config into your config folder
-
