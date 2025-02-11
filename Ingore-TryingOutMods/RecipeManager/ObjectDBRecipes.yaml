@@ -1,0 +1,6482 @@
+recipeModifications:
+  Recipe_Adze:
+    action: Enable
+    prefab: 
+    recipeName: Recipe_Adze
+    craftedAt: 
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Stone
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_ArmorBronzeChest:
+    action: Enable
+    prefab: ArmorBronzeChest
+    recipeName: Recipe_ArmorBronzeChest
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Bronze
+        craftCost: 5
+        upgradeCost: 3
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_ArmorBronzeLegs:
+    action: Enable
+    prefab: ArmorBronzeLegs
+    recipeName: Recipe_ArmorBronzeLegs
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Bronze
+        craftCost: 5
+        upgradeCost: 3
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_ArmorCarapaceChest:
+    action: Enable
+    prefab: ArmorCarapaceChest
+    recipeName: Recipe_ArmorCarapaceChest
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Carapace
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: ScaleHide
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 5
+        upgradeCost: 0
+      - prefab: Eitr
+        craftCost: 4
+        upgradeCost: 2
+  Recipe_ArmorCarapaceLegs:
+    action: Enable
+    prefab: ArmorCarapaceLegs
+    recipeName: Recipe_ArmorCarapaceLegs
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Carapace
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: ScaleHide
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 5
+        upgradeCost: 0
+      - prefab: Eitr
+        craftCost: 4
+        upgradeCost: 2
+  Recipe_ArmorDress1:
+    action: Enable
+    prefab: ArmorDress1
+    recipeName: Recipe_ArmorDress1
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorDress10:
+    action: Enable
+    prefab: ArmorDress10
+    recipeName: Recipe_ArmorDress10
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorDress2:
+    action: Enable
+    prefab: ArmorDress2
+    recipeName: Recipe_ArmorDress2
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorDress3:
+    action: Enable
+    prefab: ArmorDress3
+    recipeName: Recipe_ArmorDress3
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorDress4:
+    action: Enable
+    prefab: ArmorDress4
+    recipeName: Recipe_ArmorDress4
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorDress5:
+    action: Enable
+    prefab: ArmorDress5
+    recipeName: Recipe_ArmorDress5
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorDress6:
+    action: Enable
+    prefab: ArmorDress6
+    recipeName: Recipe_ArmorDress6
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorDress7:
+    action: Enable
+    prefab: ArmorDress7
+    recipeName: Recipe_ArmorDress7
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorDress8:
+    action: Enable
+    prefab: ArmorDress8
+    recipeName: Recipe_ArmorDress8
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorDress9:
+    action: Enable
+    prefab: ArmorDress9
+    recipeName: Recipe_ArmorDress9
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorFenrirChest:
+    action: Enable
+    prefab: ArmorFenringChest
+    recipeName: Recipe_ArmorFenrirChest
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: WolfHairBundle
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: WolfPelt
+        craftCost: 5
+        upgradeCost: 3
+      - prefab: LeatherScraps
+        craftCost: 10
+        upgradeCost: 4
+  Recipe_ArmorFenrirLegs:
+    action: Enable
+    prefab: ArmorFenringLegs
+    recipeName: Recipe_ArmorFenrirLegs
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: WolfHairBundle
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: WolfPelt
+        craftCost: 5
+        upgradeCost: 3
+      - prefab: LeatherScraps
+        craftCost: 10
+        upgradeCost: 4
+  Recipe_ArmorFlametalChest:
+    action: Enable
+    prefab: ArmorFlametalChest
+    recipeName: Recipe_ArmorFlametalChest
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FlametalNew
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: AskHide
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: CharredBone
+        craftCost: 5
+        upgradeCost: 0
+      - prefab: MorgenHeart
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_ArmorFlametalLegs:
+    action: Enable
+    prefab: ArmorFlametalLegs
+    recipeName: Recipe_ArmorFlametalLegs
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FlametalNew
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: AskHide
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: CharredBone
+        craftCost: 5
+        upgradeCost: 0
+  Recipe_ArmorHarvester1:
+    action: Enable
+    prefab: ArmorHarvester1
+    recipeName: Recipe_ArmorHarvester1
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorHarvester2:
+    action: Enable
+    prefab: ArmorHarvester2
+    recipeName: Recipe_ArmorHarvester2
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorIronChest:
+    action: Enable
+    prefab: ArmorIronChest
+    recipeName: Recipe_ArmorIronChest
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_ArmorIronLegs:
+    action: Enable
+    prefab: ArmorIronLegs
+    recipeName: Recipe_ArmorIronLegs
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_ArmorLeatherChest:
+    action: Enable
+    prefab: ArmorLeatherChest
+    recipeName: Recipe_ArmorLeatherChest
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: BoneFragments
+        craftCost: 0
+        upgradeCost: 5
+  Recipe_ArmorLeatherLegs:
+    action: Enable
+    prefab: ArmorLeatherLegs
+    recipeName: Recipe_ArmorLeatherLegs
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: BoneFragments
+        craftCost: 0
+        upgradeCost: 5
+  Recipe_ArmorMageChest:
+    action: Enable
+    prefab: ArmorMageChest
+    recipeName: Recipe_ArmorMageChest
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: Eitr
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: Feathers
+        craftCost: 10
+        upgradeCost: 0
+      - prefab: ScaleHide
+        craftCost: 5
+        upgradeCost: 0
+  Recipe_ArmorMageChest_Ashlands:
+    action: Enable
+    prefab: ArmorMageChest_Ashlands
+    recipeName: Recipe_ArmorMageChest_Ashlands
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: Eitr
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: AskHide
+        craftCost: 10
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 5
+        upgradeCost: 2
+  Recipe_ArmorMageLegs:
+    action: Enable
+    prefab: ArmorMageLegs
+    recipeName: Recipe_ArmorMageLegs
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: Eitr
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: ScaleHide
+        craftCost: 10
+        upgradeCost: 0
+  Recipe_ArmorMageLegs_Ashlands:
+    action: Enable
+    prefab: ArmorMageLegs_Ashlands
+    recipeName: Recipe_ArmorMageLegs_Ashlands
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: Eitr
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: AskHide
+        craftCost: 10
+        upgradeCost: 0
+  Recipe_ArmorMediumChest_Ashlands:
+    action: Enable
+    prefab: ArmorAshlandsMediumChest
+    recipeName: Recipe_ArmorMediumChest_Ashlands
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 15
+        upgradeCost: 10
+      - prefab: LoxPelt
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: AskHide
+        craftCost: 10
+        upgradeCost: 5
+  Recipe_ArmorMediumLegs_Ashlands:
+    action: Enable
+    prefab: ArmorAshlandsMediumlegs
+    recipeName: Recipe_ArmorMediumLegs_Ashlands
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 15
+        upgradeCost: 10
+      - prefab: LoxPelt
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: AskHide
+        craftCost: 10
+        upgradeCost: 5
+  Recipe_ArmorPaddedCuirass:
+    action: Enable
+    prefab: ArmorPaddedCuirass
+    recipeName: Recipe_ArmorPaddedCuirass
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Iron
+        craftCost: 10
+        upgradeCost: 3
+      - prefab: LinenThread
+        craftCost: 20
+        upgradeCost: 10
+  Recipe_ArmorPaddedGreaves:
+    action: Enable
+    prefab: ArmorPaddedGreaves
+    recipeName: Recipe_ArmorPaddedGreaves
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Iron
+        craftCost: 10
+        upgradeCost: 3
+      - prefab: LinenThread
+        craftCost: 20
+        upgradeCost: 10
+  Recipe_ArmorRagsChest:
+    action: Enable
+    prefab: ArmorRagsChest
+    recipeName: Recipe_ArmorRagsChest
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LeatherScraps
+        craftCost: 5
+        upgradeCost: 5
+  Recipe_ArmorRagsLegs:
+    action: Enable
+    prefab: ArmorRagsLegs
+    recipeName: Recipe_ArmorRagsLegs
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LeatherScraps
+        craftCost: 5
+        upgradeCost: 5
+  Recipe_ArmorRootChest:
+    action: Enable
+    prefab: ArmorRootChest
+    recipeName: Recipe_ArmorRootChest
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Root
+        craftCost: 10
+        upgradeCost: 2
+      - prefab: ElderBark
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_ArmorRootLegs:
+    action: Enable
+    prefab: ArmorRootLegs
+    recipeName: Recipe_ArmorRootLegs
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Root
+        craftCost: 10
+        upgradeCost: 2
+      - prefab: ElderBark
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_ArmorTrollLeatherChest:
+    action: Enable
+    prefab: ArmorTrollLeatherChest
+    recipeName: Recipe_ArmorTrollLeatherChest
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: TrollHide
+        craftCost: 5
+        upgradeCost: 2
+  Recipe_ArmorTrollLeatherLegs:
+    action: Enable
+    prefab: ArmorTrollLeatherLegs
+    recipeName: Recipe_ArmorTrollLeatherLegs
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: TrollHide
+        craftCost: 5
+        upgradeCost: 2
+  Recipe_ArmorTunic1:
+    action: Enable
+    prefab: ArmorTunic1
+    recipeName: Recipe_ArmorTunic1
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorTunic10:
+    action: Enable
+    prefab: ArmorTunic10
+    recipeName: Recipe_ArmorTunic10
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorTunic2:
+    action: Enable
+    prefab: ArmorTunic2
+    recipeName: Recipe_ArmorTunic2
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorTunic3:
+    action: Enable
+    prefab: ArmorTunic3
+    recipeName: Recipe_ArmorTunic3
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorTunic4:
+    action: Enable
+    prefab: ArmorTunic4
+    recipeName: Recipe_ArmorTunic4
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorTunic5:
+    action: Enable
+    prefab: ArmorTunic5
+    recipeName: Recipe_ArmorTunic5
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorTunic6:
+    action: Enable
+    prefab: ArmorTunic6
+    recipeName: Recipe_ArmorTunic6
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorTunic7:
+    action: Enable
+    prefab: ArmorTunic7
+    recipeName: Recipe_ArmorTunic7
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorTunic8:
+    action: Enable
+    prefab: ArmorTunic8
+    recipeName: Recipe_ArmorTunic8
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorTunic9:
+    action: Enable
+    prefab: ArmorTunic9
+    recipeName: Recipe_ArmorTunic9
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_ArmorWolfChest:
+    action: Enable
+    prefab: ArmorWolfChest
+    recipeName: Recipe_ArmorWolfChest
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Silver
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: WolfPelt
+        craftCost: 5
+        upgradeCost: 2
+      - prefab: Chain
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_ArmorWolfLegs:
+    action: Enable
+    prefab: ArmorWolfLegs
+    recipeName: Recipe_ArmorWolfLegs
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Silver
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: WolfPelt
+        craftCost: 5
+        upgradeCost: 2
+      - prefab: WolfFang
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_ArrowBronze:
+    action: Enable
+    prefab: ArrowBronze
+    recipeName: Recipe_ArrowBronze
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Bronze
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_ArrowCarapace:
+    action: Enable
+    prefab: ArrowCarapace
+    recipeName: Recipe_ArrowCarapace
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Carapace
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+  Recipe_ArrowCharred:
+    action: Enable
+    prefab: ArrowCharred
+    recipeName: Recipe_ArrowCharred
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CharredBone
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Blackwood
+        craftCost: 8
+        upgradeCost: 1
+  Recipe_ArrowFire:
+    action: Enable
+    prefab: ArrowFire
+    recipeName: Recipe_ArrowFire
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Resin
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_ArrowFlint:
+    action: Enable
+    prefab: ArrowFlint
+    recipeName: Recipe_ArrowFlint
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Flint
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_ArrowFrost:
+    action: Enable
+    prefab: ArrowFrost
+    recipeName: Recipe_ArrowFrost
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Obsidian
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: FreezeGland
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_ArrowIron:
+    action: Enable
+    prefab: ArrowIron
+    recipeName: Recipe_ArrowIron
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_ArrowNeedle:
+    action: Enable
+    prefab: ArrowNeedle
+    recipeName: Recipe_ArrowNeedle
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Needle
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_ArrowObsidian:
+    action: Enable
+    prefab: ArrowObsidian
+    recipeName: Recipe_ArrowObsidian
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Obsidian
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_ArrowPoison:
+    action: Enable
+    prefab: ArrowPoison
+    recipeName: Recipe_ArrowPoison
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Obsidian
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Ooze
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_ArrowSilver:
+    action: Enable
+    prefab: ArrowSilver
+    recipeName: Recipe_ArrowSilver
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Silver
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_ArrowWood:
+    action: Enable
+    prefab: ArrowWood
+    recipeName: Recipe_ArrowWood
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 2
+  Recipe_AtgeirBlackmetal:
+    action: Enable
+    prefab: AtgeirBlackmetal
+    recipeName: Recipe_AtgeirBlackmetal
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 10
+        upgradeCost: 0
+      - prefab: BlackMetal
+        craftCost: 30
+        upgradeCost: 15
+      - prefab: LinenThread
+        craftCost: 5
+        upgradeCost: 5
+  Recipe_AtgeirBronze:
+    action: Enable
+    prefab: AtgeirBronze
+    recipeName: Recipe_AtgeirBronze
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 10
+        upgradeCost: 0
+      - prefab: Bronze
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_AtgeirHimminAfl:
+    action: Enable
+    prefab: AtgeirHimminAfl
+    recipeName: Recipe_AtgeirHimminAfl
+    craftedAt: blackforge
+    repairAt: blackforge
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: YggdrasilWood
+        craftCost: 10
+        upgradeCost: 0
+      - prefab: Eitr
+        craftCost: 15
+        upgradeCost: 15
+      - prefab: Silver
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: Mandible
+        craftCost: 2
+        upgradeCost: 2
+  Recipe_AtgeirIron:
+    action: Enable
+    prefab: AtgeirIron
+    recipeName: Recipe_AtgeirIron
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 10
+        upgradeCost: 0
+      - prefab: Iron
+        craftCost: 30
+        upgradeCost: 15
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_AxeBerzerkr:
+    action: Enable
+    prefab: AxeBerzerkr
+    recipeName: Recipe_AxeBerzerkr
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CharredBone
+        craftCost: 15
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 24
+        upgradeCost: 15
+      - prefab: AskHide
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_AxeBerzerkr_Blood:
+    action: Enable
+    prefab: AxeBerzerkrBlood
+    recipeName: Recipe_AxeBerzerkr_Blood
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: AxeBerzerkr
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_AxeBerzerkr_Lightning:
+    action: Enable
+    prefab: AxeBerzerkrLightning
+    recipeName: Recipe_AxeBerzerkr_Lightning
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: AxeBerzerkr
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: GemstoneBlue
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_AxeBerzerkr_Nature:
+    action: Enable
+    prefab: AxeBerzerkrNature
+    recipeName: Recipe_AxeBerzerkr_Nature
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: AxeBerzerkr
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: GemstoneGreen
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_AxeBlackMetal:
+    action: Enable
+    prefab: AxeBlackMetal
+    recipeName: Recipe_AxeBlackMetal
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 6
+        upgradeCost: 0
+      - prefab: BlackMetal
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: LinenThread
+        craftCost: 5
+        upgradeCost: 5
+  Recipe_AxeBronze:
+    action: Enable
+    prefab: AxeBronze
+    recipeName: Recipe_AxeBronze
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 4
+        upgradeCost: 0
+      - prefab: Bronze
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_AxeFlint:
+    action: Enable
+    prefab: AxeFlint
+    recipeName: Recipe_AxeFlint
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 4
+        upgradeCost: 0
+      - prefab: Flint
+        craftCost: 6
+        upgradeCost: 3
+      - prefab: LeatherScraps
+        craftCost: 0
+        upgradeCost: 2
+  Recipe_AxeIron:
+    action: Enable
+    prefab: AxeIron
+    recipeName: Recipe_AxeIron
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 4
+        upgradeCost: 0
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_AxeJotunBane:
+    action: Enable
+    prefab: AxeJotunBane
+    recipeName: Recipe_AxeJotunBane
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: YggdrasilWood
+        craftCost: 5
+        upgradeCost: 0
+      - prefab: Iron
+        craftCost: 15
+        upgradeCost: 10
+      - prefab: Bilebag
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Eitr
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_AxeStone:
+    action: Enable
+    prefab: AxeStone
+    recipeName: Recipe_AxeStone
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 5
+        upgradeCost: 0
+      - prefab: Stone
+        craftCost: 4
+        upgradeCost: 2
+  Recipe_BarleyWineBase:
+    action: Enable
+    prefab: BarleyWineBase
+    recipeName: Recipe_BarleyWineBase
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Barley
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Cloudberry
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_Battleaxe:
+    action: Enable
+    prefab: Battleaxe
+    recipeName: Recipe_Battleaxe
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ElderBark
+        craftCost: 30
+        upgradeCost: 5
+      - prefab: Iron
+        craftCost: 35
+        upgradeCost: 15
+      - prefab: LeatherScraps
+        craftCost: 4
+        upgradeCost: 0
+  Recipe_Battleaxe_Crystal:
+    action: Enable
+    prefab: BattleaxeCrystal
+    recipeName: Recipe_Battleaxe_Crystal
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ElderBark
+        craftCost: 40
+        upgradeCost: 5
+      - prefab: Silver
+        craftCost: 30
+        upgradeCost: 15
+      - prefab: Crystal
+        craftCost: 10
+        upgradeCost: 0
+  Recipe_Bell:
+    action: Enable
+    prefab: Bell
+    recipeName: Recipe_Bell
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BellFragment
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_Blacksoup:
+    action: Enable
+    prefab: BlackSoup
+    recipeName: Recipe_Blacksoup
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Bloodbag
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Honey
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Turnip
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_BloodPudding:
+    action: Enable
+    prefab: BloodPudding
+    recipeName: Recipe_BloodPudding
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Thistle
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Bloodbag
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: BarleyFlour
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_BoarJerky:
+    action: Enable
+    prefab: BoarJerky
+    recipeName: Recipe_BoarJerky
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 2
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: RawMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Honey
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_BoltBlackmetal:
+    action: Enable
+    prefab: BoltBlackmetal
+    recipeName: Recipe_BoltBlackmetal
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BlackMetal
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_BoltBone:
+    action: Enable
+    prefab: BoltBone
+    recipeName: Recipe_BoltBone
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BoneFragments
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_BoltCarapace:
+    action: Enable
+    prefab: BoltCarapace
+    recipeName: Recipe_BoltCarapace
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Carapace
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_BoltCharred:
+    action: Enable
+    prefab: BoltCharred
+    recipeName: Recipe_BoltCharred
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CharredBone
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Blackwood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_BoltIron:
+    action: Enable
+    prefab: BoltIron
+    recipeName: Recipe_BoltIron
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_BombBile:
+    action: Enable
+    prefab: BombBile
+    recipeName: Recipe_BombBile
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 3
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Sap
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Bilebag
+        craftCost: 1
+        upgradeCost: 2
+      - prefab: Resin
+        craftCost: 3
+        upgradeCost: 2
+  Recipe_BombLava:
+    action: Enable
+    prefab: BombLava
+    recipeName: Recipe_BombLava
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 5
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: AskHide
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: AskBladder
+        craftCost: 1
+        upgradeCost: 2
+      - prefab: ProustitePowder
+        craftCost: 3
+        upgradeCost: 2
+  Recipe_BombOoze:
+    action: Enable
+    prefab: BombOoze
+    recipeName: Recipe_BombOoze
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 5
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LeatherScraps
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Ooze
+        craftCost: 5
+        upgradeCost: 2
+      - prefab: Resin
+        craftCost: 3
+        upgradeCost: 2
+  Recipe_BombSiege:
+    action: Enable
+    prefab: BombSiege
+    recipeName: Recipe_BombSiege
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 5
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: AskHide
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: SulfurStone
+        craftCost: 2
+        upgradeCost: 2
+      - prefab: ProustitePowder
+        craftCost: 3
+        upgradeCost: 2
+  Recipe_BombSmoke:
+    action: Enable
+    prefab: BombSmoke
+    recipeName: Recipe_BombSmoke
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 10
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: MushroomSmokePuff
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: AskBladder
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_Bow:
+    action: Enable
+    prefab: Bow
+    recipeName: Recipe_Bow
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: LeatherScraps
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: DeerHide
+        craftCost: 0
+        upgradeCost: 1
+  Recipe_BowAshlands:
+    action: Enable
+    prefab: BowAshlands
+    recipeName: Recipe_BowAshlands
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Blackwood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: CharredBone
+        craftCost: 16
+        upgradeCost: 10
+      - prefab: FlametalNew
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: BonemawSerpentTooth
+        craftCost: 5
+        upgradeCost: 5
+  Recipe_BowAshlands_Blood:
+    action: Enable
+    prefab: BowAshlandsBlood
+    recipeName: Recipe_BowAshlands_Blood
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BowAshlands
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_BowAshlands_Lightning:
+    action: Enable
+    prefab: BowAshlandsStorm
+    recipeName: Recipe_BowAshlands_Lightning
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BowAshlands
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: GemstoneBlue
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_BowAshlands_Nature:
+    action: Enable
+    prefab: BowAshlandsRoot
+    recipeName: Recipe_BowAshlands_Nature
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BowAshlands
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: GemstoneGreen
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_BowDraugrFang:
+    action: Enable
+    prefab: BowDraugrFang
+    recipeName: Recipe_BowDraugrFang
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ElderBark
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Silver
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 2
+      - prefab: Guck
+        craftCost: 10
+        upgradeCost: 2
+  Recipe_BowFineWood:
+    action: Enable
+    prefab: BowFineWood
+    recipeName: Recipe_BowFineWood
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: RoundLog
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 2
+  Recipe_BowHuntsman:
+    action: Enable
+    prefab: BowHuntsman
+    recipeName: Recipe_BowHuntsman
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: Feathers
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 2
+  Recipe_BowSpineSnap:
+    action: Enable
+    prefab: BowSpineSnap
+    recipeName: Recipe_BowSpineSnap
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: BoneFragments
+        craftCost: 40
+        upgradeCost: 20
+      - prefab: Eitr
+        craftCost: 10
+        upgradeCost: 0
+  Recipe_Bread:
+    action: Enable
+    prefab: BreadDough
+    recipeName: Recipe_Bread
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 2
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BarleyFlour
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_Bronze:
+    action: Enable
+    prefab: Bronze
+    recipeName: Recipe_Bronze
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Copper
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Tin
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_Bronze5:
+    action: Enable
+    prefab: Bronze
+    recipeName: Recipe_Bronze5
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 5
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Copper
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Tin
+        craftCost: 5
+        upgradeCost: 1
+  Recipe_BronzeNails:
+    action: Enable
+    prefab: BronzeNails
+    recipeName: Recipe_BronzeNails
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Bronze
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_CapeAsh:
+    action: Enable
+    prefab: CapeAsh
+    recipeName: Recipe_CapeAsh
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: AskHide
+        craftCost: 6
+        upgradeCost: 2
+      - prefab: MorgenSinew
+        craftCost: 2
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 5
+        upgradeCost: 0
+  Recipe_CapeAsksvin:
+    action: Enable
+    prefab: CapeAsksvin
+    recipeName: Recipe_CapeAsksvin
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: AskHide
+        craftCost: 6
+        upgradeCost: 2
+      - prefab: MorgenSinew
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_CapeDeerHide:
+    action: Enable
+    prefab: CapeDeerHide
+    recipeName: Recipe_CapeDeerHide
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 4
+        upgradeCost: 4
+      - prefab: BoneFragments
+        craftCost: 5
+        upgradeCost: 5
+  Recipe_CapeFeather:
+    action: Enable
+    prefab: CapeFeather
+    recipeName: Recipe_CapeFeather
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Feathers
+        craftCost: 10
+        upgradeCost: 2
+      - prefab: ScaleHide
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: Eitr
+        craftCost: 20
+        upgradeCost: 3
+  Recipe_CapeLinen:
+    action: Enable
+    prefab: CapeLinen
+    recipeName: Recipe_CapeLinen
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 20
+        upgradeCost: 4
+      - prefab: Silver
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_CapeLox:
+    action: Enable
+    prefab: CapeLox
+    recipeName: Recipe_CapeLox
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LoxPelt
+        craftCost: 6
+        upgradeCost: 2
+      - prefab: Silver
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_CapeOdin:
+    action: Enable
+    prefab: CapeOdin
+    recipeName: Recipe_CapeOdin
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LeatherScraps
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Coal
+        craftCost: 4
+        upgradeCost: 2
+  Recipe_CapeTrollHide:
+    action: Enable
+    prefab: CapeTrollHide
+    recipeName: Recipe_CapeTrollHide
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: TrollHide
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: BoneFragments
+        craftCost: 10
+        upgradeCost: 5
+  Recipe_CapeWolf:
+    action: Enable
+    prefab: CapeWolf
+    recipeName: Recipe_CapeWolf
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: WolfPelt
+        craftCost: 6
+        upgradeCost: 4
+      - prefab: Silver
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: TrophyWolf
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_CarrotSoup:
+    action: Enable
+    prefab: CarrotSoup
+    recipeName: Recipe_CarrotSoup
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Mushroom
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Carrot
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_CatapultPayload_Grausten:
+    action: Enable
+    prefab: Catapult_ammo
+    recipeName: Recipe_CatapultPayload_Grausten
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 5
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Grausten
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_CeramicPlate:
+    action: Enable
+    prefab: CeramicPlate
+    recipeName: Recipe_CeramicPlate
+    craftedAt: piece_artisanstation
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 5
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BlackMarble
+        craftCost: 5
+        upgradeCost: 3
+  Recipe_Chisel:
+    action: Enable
+    prefab: 
+    recipeName: Recipe_Chisel
+    craftedAt: 
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_Club:
+    action: Enable
+    prefab: Club
+    recipeName: Recipe_Club
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 6
+        upgradeCost: 0
+      - prefab: BoneFragments
+        craftCost: 0
+        upgradeCost: 5
+  Recipe_CookedEgg:
+    action: Enable
+    prefab: CookedEgg
+    recipeName: Recipe_CookedEgg
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ChickenEgg
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_CrossbowArbalest:
+    action: Enable
+    prefab: CrossbowArbalest
+    recipeName: Recipe_CrossbowArbalest
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Iron
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: Root
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_CrossbowRipper:
+    action: Enable
+    prefab: CrossbowRipper
+    recipeName: Recipe_CrossbowRipper
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Blackwood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: FlametalNew
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: MorgenSinew
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: BonemawSerpentTooth
+        craftCost: 4
+        upgradeCost: 4
+  Recipe_CrossbowRipper_Blood:
+    action: Enable
+    prefab: CrossbowRipperBlood
+    recipeName: Recipe_CrossbowRipper_Blood
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CrossbowRipper
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 8
+        upgradeCost: 8
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_CrossbowRipper_Lightning:
+    action: Enable
+    prefab: CrossbowRipperLightning
+    recipeName: Recipe_CrossbowRipper_Lightning
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CrossbowRipper
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 8
+        upgradeCost: 8
+      - prefab: GemstoneBlue
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_CrossbowRipper_Nature:
+    action: Enable
+    prefab: CrossbowRipperNature
+    recipeName: Recipe_CrossbowRipper_Nature
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CrossbowRipper
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 8
+        upgradeCost: 8
+      - prefab: GemstoneGreen
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_Cultivator:
+    action: Enable
+    prefab: Cultivator
+    recipeName: Recipe_Cultivator
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: RoundLog
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Bronze
+        craftCost: 5
+        upgradeCost: 1
+  Recipe_DeerStew:
+    action: Enable
+    prefab: DeerStew
+    recipeName: Recipe_DeerStew
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CookedDeerMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Blueberries
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Carrot
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_Demister:
+    action: Enable
+    prefab: Demister
+    recipeName: Recipe_Demister
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Silver
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Wisp
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_DvergrKey:
+    action: Enable
+    prefab: DvergrKey
+    recipeName: Recipe_DvergrKey
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DvergrKeyFragment
+        craftCost: 9
+        upgradeCost: 1
+  Recipe_Eyescream:
+    action: Enable
+    prefab: Eyescream
+    recipeName: Recipe_Eyescream
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: GreydwarfEye
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: FreezeGland
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FeastAshlands:
+    action: Enable
+    prefab: FeastAshlands_Material
+    recipeName: Recipe_FeastAshlands
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CookedAsksvinMeat
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Vineberry
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: ScorchingMedley
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: SpiceAshlands
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FeastBlackforest:
+    action: Enable
+    prefab: FeastBlackforest_Material
+    recipeName: Recipe_FeastBlackforest
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerStew
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Thistle
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: QueensJam
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: SpiceForests
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_Feaster:
+    action: Enable
+    prefab: Feaster
+    recipeName: Recipe_Feaster
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_FeastMeadows:
+    action: Enable
+    prefab: FeastMeadows_Material
+    recipeName: Recipe_FeastMeadows
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CookedDeerMeat
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: CookedMeat
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Dandelion
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: SpiceForests
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FeastMistlands:
+    action: Enable
+    prefab: FeastMistlands_Material
+    recipeName: Recipe_FeastMistlands
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: MisthareSupreme
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: CookedBugMeat
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: YggdrasilPorridge
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: SpiceMistlands
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FeastMountains:
+    action: Enable
+    prefab: FeastMountains_Material
+    recipeName: Recipe_FeastMountains
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: WolfMeatSkewer
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: OnionSoup
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Carrot
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: SpiceMountains
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FeastOceans:
+    action: Enable
+    prefab: FeastOceans_Material
+    recipeName: Recipe_FeastOceans
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishCooked
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Thistle
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: SerpentMeatCooked
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: SpiceOceans
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FeastPlains:
+    action: Enable
+    prefab: FeastPlains_Material
+    recipeName: Recipe_FeastPlains
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Bread
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: LoxPie
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Cloudberry
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: SpicePlains
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FeastSwamps:
+    action: Enable
+    prefab: FeastSwamps_Material
+    recipeName: Recipe_FeastSwamps
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Sausages
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Bloodbag
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: TurnipStew
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: SpiceForests
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FierySvinstew:
+    action: Enable
+    prefab: FierySvinstew
+    recipeName: Recipe_FierySvinstew
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 5
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: AsksvinMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Vineberry
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: MushroomSmokePuff
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FireworksBlue:
+    action: Enable
+    prefab: FireworksRocket_Blue
+    recipeName: Recipe_FireworksBlue
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FireworksRocket_White
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: Blueberries
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_FireworksCyan:
+    action: Enable
+    prefab: FireworksRocket_Cyan
+    recipeName: Recipe_FireworksCyan
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FireworksRocket_White
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: GreydwarfEye
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_FireworksGreen:
+    action: Enable
+    prefab: FireworksRocket_Green
+    recipeName: Recipe_FireworksGreen
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FireworksRocket_White
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: Guck
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_FireworksPurple:
+    action: Enable
+    prefab: FireworksRocket_Purple
+    recipeName: Recipe_FireworksPurple
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FireworksRocket_White
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: Turnip
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_FireworksRed:
+    action: Enable
+    prefab: FireworksRocket_Red
+    recipeName: Recipe_FireworksRed
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FireworksRocket_White
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: Raspberry
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_FireworksYellow:
+    action: Enable
+    prefab: FireworksRocket_Yellow
+    recipeName: Recipe_FireworksYellow
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FireworksRocket_White
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: Dandelion
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_Fish1:
+    action: Enable
+    prefab: FishRaw
+    recipeName: Recipe_Fish1
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: true
+      noRecipeCost: false
+      ingredients:
+      - prefab: Fish1
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish2
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish3
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish4_cave
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish5
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish6
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish7
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish8
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish9
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish10
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish11
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish12
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FishAndBread:
+    action: Enable
+    prefab: FishAndBreadUncooked
+    recipeName: Recipe_FishAndBread
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Fish9
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: BreadDough
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_FishingBaitAshlands:
+    action: Enable
+    prefab: FishingBaitAshlands
+    recipeName: Recipe_FishingBaitAshlands
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishingBait
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: TrophyCharredMelee
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FishingBaitCave:
+    action: Enable
+    prefab: FishingBaitCave
+    recipeName: Recipe_FishingBaitCave
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishingBait
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: TrophyFenring
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FishingBaitDeepNorth:
+    action: Enable
+    prefab: FishingBaitDeepNorth
+    recipeName: Recipe_FishingBaitDeepNorth
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishingBait
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: TrophyHatchling
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FishingBaitForest:
+    action: Enable
+    prefab: FishingBaitForest
+    recipeName: Recipe_FishingBaitForest
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishingBait
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: TrophyFrostTroll
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FishingBaitMistlands:
+    action: Enable
+    prefab: FishingBaitMistlands
+    recipeName: Recipe_FishingBaitMistlands
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishingBait
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: TrophyLox
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FishingBaitOcean:
+    action: Enable
+    prefab: FishingBaitOcean
+    recipeName: Recipe_FishingBaitOcean
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishingBait
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: TrophySerpent
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FishingBaitPlains:
+    action: Enable
+    prefab: FishingBaitPlains
+    recipeName: Recipe_FishingBaitPlains
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishingBait
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: TrophyGoblin
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FishingBaitSwamp:
+    action: Enable
+    prefab: FishingBaitSwamp
+    recipeName: Recipe_FishingBaitSwamp
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishingBait
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: TrophyAbomination
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_FishWraps:
+    action: Enable
+    prefab: FishWraps
+    recipeName: Recipe_FishWraps
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FishCooked
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: BarleyFlour
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_FistFenrirClaw:
+    action: Enable
+    prefab: FistFenrirClaw
+    recipeName: Recipe_FistFenrirClaw
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: WolfHairBundle
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: WolfClaw
+        craftCost: 6
+        upgradeCost: 1
+      - prefab: Silver
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_Hammer:
+    action: Enable
+    prefab: Hammer
+    recipeName: Recipe_Hammer
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Stone
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_HelmetBronze:
+    action: Enable
+    prefab: HelmetBronze
+    recipeName: Recipe_HelmetBronze
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Bronze
+        craftCost: 5
+        upgradeCost: 3
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_HelmetCarapace:
+    action: Enable
+    prefab: HelmetCarapace
+    recipeName: Recipe_HelmetCarapace
+    craftedAt: blackforge
+    repairAt: blackforge
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Carapace
+        craftCost: 16
+        upgradeCost: 8
+      - prefab: ScaleHide
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Mandible
+        craftCost: 2
+        upgradeCost: 0
+      - prefab: Eitr
+        craftCost: 4
+        upgradeCost: 2
+  Recipe_HelmetDrake:
+    action: Enable
+    prefab: HelmetDrake
+    recipeName: Recipe_HelmetDrake
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Silver
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: WolfPelt
+        craftCost: 2
+        upgradeCost: 0
+      - prefab: TrophyHatchling
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_HelmetFenrir:
+    action: Enable
+    prefab: HelmetFenring
+    recipeName: Recipe_HelmetFenrir
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: WolfHairBundle
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: WolfPelt
+        craftCost: 2
+        upgradeCost: 4
+      - prefab: TrophyCultist
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_HelmetFishingHat:
+    action: Enable
+    prefab: HelmetFishingHat
+    recipeName: Recipe_HelmetFishingHat
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Fish1
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish2
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish3
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish4_cave
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish5
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish6
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish7
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish8
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish9
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish10
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish11
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fish12
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_HelmetFlametal:
+    action: Enable
+    prefab: HelmetFlametal
+    recipeName: Recipe_HelmetFlametal
+    craftedAt: blackforge
+    repairAt: blackforge
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FlametalNew
+        craftCost: 16
+        upgradeCost: 8
+      - prefab: AskHide
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: CharredBone
+        craftCost: 2
+        upgradeCost: 0
+      - prefab: Eitr
+        craftCost: 4
+        upgradeCost: 2
+  Recipe_HelmetHat1:
+    action: Enable
+    prefab: HelmetHat1
+    recipeName: Recipe_HelmetHat1
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetHat10:
+    action: Enable
+    prefab: HelmetHat10
+    recipeName: Recipe_HelmetHat10
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetHat2:
+    action: Enable
+    prefab: HelmetHat2
+    recipeName: Recipe_HelmetHat2
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetHat3:
+    action: Enable
+    prefab: HelmetHat3
+    recipeName: Recipe_HelmetHat3
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetHat4:
+    action: Enable
+    prefab: HelmetHat4
+    recipeName: Recipe_HelmetHat4
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetHat5:
+    action: Enable
+    prefab: HelmetHat5
+    recipeName: Recipe_HelmetHat5
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetHat6:
+    action: Enable
+    prefab: HelmetHat6
+    recipeName: Recipe_HelmetHat6
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetHat7:
+    action: Enable
+    prefab: HelmetHat7
+    recipeName: Recipe_HelmetHat7
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetHat8:
+    action: Enable
+    prefab: HelmetHat8
+    recipeName: Recipe_HelmetHat8
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetHat9:
+    action: Enable
+    prefab: HelmetHat9
+    recipeName: Recipe_HelmetHat9
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetIron:
+    action: Enable
+    prefab: HelmetIron
+    recipeName: Recipe_HelmetIron
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_HelmetLeather:
+    action: Enable
+    prefab: HelmetLeather
+    recipeName: Recipe_HelmetLeather
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: BoneFragments
+        craftCost: 0
+        upgradeCost: 5
+  Recipe_HelmetMage:
+    action: Enable
+    prefab: HelmetMage
+    recipeName: Recipe_HelmetMage
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 16
+        upgradeCost: 8
+      - prefab: Eitr
+        craftCost: 15
+        upgradeCost: 5
+      - prefab: Iron
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_HelmetMage_Ashlands:
+    action: Enable
+    prefab: HelmetMage_Ashlands
+    recipeName: Recipe_HelmetMage_Ashlands
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 16
+        upgradeCost: 8
+      - prefab: Eitr
+        craftCost: 15
+        upgradeCost: 5
+      - prefab: AskHide
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_HelmetMedium_Ashlands:
+    action: Enable
+    prefab: HelmetAshlandsMediumHood
+    recipeName: Recipe_HelmetMedium_Ashlands
+    craftedAt: blackforge
+    repairAt: blackforge
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LinenThread
+        craftCost: 15
+        upgradeCost: 10
+      - prefab: LoxPelt
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: AskHide
+        craftCost: 10
+        upgradeCost: 5
+  Recipe_HelmetMidsummerCrown:
+    action: Enable
+    prefab: HelmetMidsummerCrown
+    recipeName: Recipe_HelmetMidsummerCrown
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Dandelion
+        craftCost: 10
+        upgradeCost: 6
+  Recipe_HelmetOdin:
+    action: Enable
+    prefab: HelmetOdin
+    recipeName: Recipe_HelmetOdin
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LeatherScraps
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Coal
+        craftCost: 4
+        upgradeCost: 2
+  Recipe_HelmetPadded:
+    action: Enable
+    prefab: HelmetPadded
+    recipeName: Recipe_HelmetPadded
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Iron
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: LinenThread
+        craftCost: 15
+        upgradeCost: 10
+  Recipe_HelmetPointyHat:
+    action: Enable
+    prefab: HelmetPointyHat
+    recipeName: Recipe_HelmetPointyHat
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 3
+        upgradeCost: 5
+      - prefab: Coal
+        craftCost: 5
+        upgradeCost: 0
+      - prefab: Bronze
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_HelmetRoot:
+    action: Enable
+    prefab: HelmetRoot
+    recipeName: Recipe_HelmetRoot
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Root
+        craftCost: 10
+        upgradeCost: 2
+      - prefab: ElderBark
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: LeatherScraps
+        craftCost: 4
+        upgradeCost: 0
+  Recipe_HelmetStrawhat:
+    action: Enable
+    prefab: HelmetStrawHat
+    recipeName: Recipe_HelmetStrawhat
+    craftedAt: 
+    repairAt: piece_workbench
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DeerHide
+        craftCost: 6
+        upgradeCost: 6
+  Recipe_HelmetTrollLeather:
+    action: Enable
+    prefab: HelmetTrollLeather
+    recipeName: Recipe_HelmetTrollLeather
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: TrollHide
+        craftCost: 5
+        upgradeCost: 2
+      - prefab: BoneFragments
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_Hoe:
+    action: Enable
+    prefab: Hoe
+    recipeName: Recipe_Hoe
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Stone
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_HoneyGlazedChicken:
+    action: Enable
+    prefab: HoneyGlazedChickenUncooked
+    recipeName: Recipe_HoneyGlazedChicken
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ChickenMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Honey
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: MushroomJotunPuffs
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_IronNails:
+    action: Enable
+    prefab: IronNails
+    recipeName: Recipe_IronNails
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 10
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Iron
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_KnifeBlackmetal:
+    action: Enable
+    prefab: KnifeBlackMetal
+    recipeName: Recipe_KnifeBlackmetal
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 4
+        upgradeCost: 0
+      - prefab: BlackMetal
+        craftCost: 10
+        upgradeCost: 4
+      - prefab: LinenThread
+        craftCost: 5
+        upgradeCost: 5
+  Recipe_KnifeButcher:
+    action: Enable
+    prefab: KnifeButcher
+    recipeName: Recipe_KnifeButcher
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 2
+        upgradeCost: 0
+      - prefab: Tin
+        craftCost: 4
+        upgradeCost: 0
+  Recipe_KnifeChitin:
+    action: Enable
+    prefab: KnifeChitin
+    recipeName: Recipe_KnifeChitin
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 4
+        upgradeCost: 0
+      - prefab: Chitin
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_KnifeCopper:
+    action: Enable
+    prefab: KnifeCopper
+    recipeName: Recipe_KnifeCopper
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 2
+        upgradeCost: 0
+      - prefab: Copper
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: GreydwarfEye
+        craftCost: 0
+        upgradeCost: 8
+  Recipe_KnifeFlint:
+    action: Enable
+    prefab: KnifeFlint
+    recipeName: Recipe_KnifeFlint
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 2
+        upgradeCost: 0
+      - prefab: Flint
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 0
+  Recipe_KnifeSilver:
+    action: Enable
+    prefab: KnifeSilver
+    recipeName: Recipe_KnifeSilver
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Silver
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: LeatherScraps
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_KnifeSkollAndHati:
+    action: Enable
+    prefab: KnifeSkollAndHati
+    recipeName: Recipe_KnifeSkollAndHati
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 4
+        upgradeCost: 0
+      - prefab: Iron
+        craftCost: 10
+        upgradeCost: 4
+      - prefab: BlackMetal
+        craftCost: 10
+        upgradeCost: 4
+  Recipe_Lantern:
+    action: Enable
+    prefab: Lantern
+    recipeName: Recipe_Lantern
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Bronze
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: SurtlingCore
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Crystal
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_LoxPie:
+    action: Enable
+    prefab: LoxPieUncooked
+    recipeName: Recipe_LoxPie
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Cloudberry
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: LoxMeat
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: BarleyFlour
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_MaceBronze:
+    action: Enable
+    prefab: MaceBronze
+    recipeName: Recipe_MaceBronze
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 4
+        upgradeCost: 0
+      - prefab: Bronze
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: LeatherScraps
+        craftCost: 3
+        upgradeCost: 0
+  Recipe_MaceEldner:
+    action: Enable
+    prefab: MaceEldner
+    recipeName: Recipe_MaceEldner
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CharredBone
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: FlametalNew
+        craftCost: 15
+        upgradeCost: 8
+      - prefab: SulfurStone
+        craftCost: 5
+        upgradeCost: 3
+      - prefab: AskHide
+        craftCost: 3
+        upgradeCost: 2
+  Recipe_MaceEldner_Blood:
+    action: Enable
+    prefab: MaceEldnerBlood
+    recipeName: Recipe_MaceEldner_Blood
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: MaceEldner
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 8
+        upgradeCost: 8
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MaceEldner_Lightning:
+    action: Enable
+    prefab: MaceEldnerLightning
+    recipeName: Recipe_MaceEldner_Lightning
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: MaceEldner
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 8
+        upgradeCost: 8
+      - prefab: GemstoneBlue
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MaceEldner_Nature:
+    action: Enable
+    prefab: MaceEldnerNature
+    recipeName: Recipe_MaceEldner_Nature
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: MaceEldner
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 8
+        upgradeCost: 8
+      - prefab: GemstoneGreen
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MaceIron:
+    action: Enable
+    prefab: MaceIron
+    recipeName: Recipe_MaceIron
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 4
+        upgradeCost: 0
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: LeatherScraps
+        craftCost: 3
+        upgradeCost: 0
+  Recipe_MaceNeedle:
+    action: Enable
+    prefab: MaceNeedle
+    recipeName: Recipe_MaceNeedle
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 5
+        upgradeCost: 0
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 2
+      - prefab: Needle
+        craftCost: 5
+        upgradeCost: 2
+      - prefab: LinenThread
+        craftCost: 10
+        upgradeCost: 0
+  Recipe_MaceSilver:
+    action: Enable
+    prefab: MaceSilver
+    recipeName: Recipe_MaceSilver
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ElderBark
+        craftCost: 10
+        upgradeCost: 0
+      - prefab: Silver
+        craftCost: 30
+        upgradeCost: 15
+      - prefab: YmirRemains
+        craftCost: 5
+        upgradeCost: 0
+      - prefab: FreezeGland
+        craftCost: 5
+        upgradeCost: 0
+  Recipe_MagicallyStuffedShroom:
+    action: Enable
+    prefab: MagicallyStuffedShroomUncooked
+    recipeName: Recipe_MagicallyStuffedShroom
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: MushroomMagecap
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: GiantBloodSack
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Turnip
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_MarinatedGreens:
+    action: Enable
+    prefab: MarinatedGreens
+    recipeName: Recipe_MarinatedGreens
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 6
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Sap
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: MushroomMagecap
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Fiddleheadfern
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: MushroomSmokePuff
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_MashedMeat:
+    action: Enable
+    prefab: MashedMeat
+    recipeName: Recipe_MashedMeat
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 6
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: AsksvinMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: VoltureMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fiddleheadfern
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseBugRepellent:
+    action: Enable
+    prefab: MeadBaseBugRepellent
+    recipeName: Recipe_MeadBaseBugRepellent
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Cloudberry
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Fish7
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: FragrantBundle
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseBzerker:
+    action: Enable
+    prefab: MeadBaseBzerker
+    recipeName: Recipe_MeadBaseBzerker
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Mushroom
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: MushroomYellow
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: MushroomBzerker
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseEitrLingering:
+    action: Enable
+    prefab: MeadBaseEitrLingering
+    recipeName: Recipe_MeadBaseEitrLingering
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Sap
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Vineberry
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: MushroomMagecap
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_MeadBaseEitrMinor:
+    action: Enable
+    prefab: MeadBaseEitrMinor
+    recipeName: Recipe_MeadBaseEitrMinor
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Sap
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: MushroomJotunPuffs
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: MushroomMagecap
+        craftCost: 5
+        upgradeCost: 1
+  Recipe_MeadBaseFrostResist:
+    action: Enable
+    prefab: MeadBaseFrostResist
+    recipeName: Recipe_MeadBaseFrostResist
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Thistle
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Bloodbag
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: GreydwarfEye
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseHasty:
+    action: Enable
+    prefab: MeadBaseHasty
+    recipeName: Recipe_MeadBaseHasty
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Blueberries
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: CuredSquirrelHamstring
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseHealthLingering:
+    action: Enable
+    prefab: MeadBaseHealthLingering
+    recipeName: Recipe_MeadBaseHealthLingering
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Sap
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Vineberry
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: MushroomSmokePuff
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_MeadBaseHealthMajor:
+    action: Enable
+    prefab: MeadBaseHealthMajor
+    recipeName: Recipe_MeadBaseHealthMajor
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: GiantBloodSack
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: RoyalJelly
+        craftCost: 5
+        upgradeCost: 1
+  Recipe_MeadBaseHealthMedium:
+    action: Enable
+    prefab: MeadBaseHealthMedium
+    recipeName: Recipe_MeadBaseHealthMedium
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Bloodbag
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Raspberry
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Dandelion
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseHealthMinor:
+    action: Enable
+    prefab: MeadBaseHealthMinor
+    recipeName: Recipe_MeadBaseHealthMinor
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Blueberries
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Raspberry
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Dandelion
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseLightFoot:
+    action: Enable
+    prefab: MeadBaseLightFoot
+    recipeName: Recipe_MeadBaseLightFoot
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ScaleHide
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: MushroomMagecap
+        craftCost: 5
+        upgradeCost: 1
+  Recipe_MeadBasePoisonResist:
+    action: Enable
+    prefab: MeadBasePoisonResist
+    recipeName: Recipe_MeadBasePoisonResist
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Thistle
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: NeckTail
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Coal
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_MeadBaseStaminaLingering:
+    action: Enable
+    prefab: MeadBaseStaminaLingering
+    recipeName: Recipe_MeadBaseStaminaLingering
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Sap
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Cloudberry
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: MushroomJotunPuffs
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_MeadBaseStaminaMedium:
+    action: Enable
+    prefab: MeadBaseStaminaMedium
+    recipeName: Recipe_MeadBaseStaminaMedium
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Cloudberry
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: MushroomYellow
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_MeadBaseStaminaMinor:
+    action: Enable
+    prefab: MeadBaseStaminaMinor
+    recipeName: Recipe_MeadBaseStaminaMinor
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Raspberry
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: MushroomYellow
+        craftCost: 10
+        upgradeCost: 1
+  Recipe_MeadBaseStrength:
+    action: Enable
+    prefab: MeadBaseStrength
+    recipeName: Recipe_MeadBaseStrength
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Fish5
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: PowderedDragonEgg
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseSwimmer:
+    action: Enable
+    prefab: MeadBaseSwimmer
+    recipeName: Recipe_MeadBaseSwimmer
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Dandelion
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Fish1
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: FreshSeaweed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseTamer:
+    action: Enable
+    prefab: MeadBaseTamer
+    recipeName: Recipe_MeadBaseTamer
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Onion
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Carrot
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: PungentPebbles
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MeadBaseTasty:
+    action: Enable
+    prefab: MeadBaseTasty
+    recipeName: Recipe_MeadBaseTasty
+    craftedAt: piece_MeadCauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Honey
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Raspberry
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: Blueberries
+        craftCost: 5
+        upgradeCost: 1
+  Recipe_MeatPlatter:
+    action: Enable
+    prefab: MeatPlatterUncooked
+    recipeName: Recipe_MeatPlatter
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BugMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: LoxMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: HareMeat
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MechanicalSpring:
+    action: Enable
+    prefab: MechanicalSpring
+    recipeName: Recipe_MechanicalSpring
+    craftedAt: piece_artisanstation
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Eitr
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_MinceMeatSauce:
+    action: Enable
+    prefab: MinceMeatSauce
+    recipeName: Recipe_MinceMeatSauce
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: RawMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: NeckTail
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Carrot
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_MisthareSupreme:
+    action: Enable
+    prefab: MisthareSupremeUncooked
+    recipeName: Recipe_MisthareSupreme
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: HareMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: MushroomJotunPuffs
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Carrot
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_MushroomOmelette:
+    action: Enable
+    prefab: MushroomOmelette
+    recipeName: Recipe_MushroomOmelette
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 5
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ChickenEgg
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: MushroomJotunPuffs
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_Onionsoup:
+    action: Enable
+    prefab: OnionSoup
+    recipeName: Recipe_Onionsoup
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Onion
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_PickaxeAntler:
+    action: Enable
+    prefab: PickaxeAntler
+    recipeName: Recipe_PickaxeAntler
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 10
+        upgradeCost: 4
+      - prefab: HardAntler
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_PickaxeBlackMetal:
+    action: Enable
+    prefab: PickaxeBlackMetal
+    recipeName: Recipe_PickaxeBlackMetal
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: YggdrasilWood
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: BlackMetal
+        craftCost: 25
+        upgradeCost: 15
+  Recipe_PickaxeBronze:
+    action: Enable
+    prefab: PickaxeBronze
+    recipeName: Recipe_PickaxeBronze
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: RoundLog
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Bronze
+        craftCost: 10
+        upgradeCost: 5
+  Recipe_PickaxeIron:
+    action: Enable
+    prefab: PickaxeIron
+    recipeName: Recipe_PickaxeIron
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: RoundLog
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 10
+  Recipe_PickaxeStone:
+    action: Enable
+    prefab: PickaxeStone
+    recipeName: Recipe_PickaxeStone
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Stone
+        craftCost: 10
+        upgradeCost: 5
+  Recipe_PiquantPie:
+    action: Enable
+    prefab: PiquantPieUncooked
+    recipeName: Recipe_PiquantPie
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Vineberry
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: AsksvinMeat
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: BarleyFlour
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_PotionHealthMinor:
+    action: Enable
+    prefab: MeadHealthMinor
+    recipeName: Recipe_PotionHealthMinor
+    craftedAt: 
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Mushroom
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Blueberries
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Dandelion
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_PotionStaminaMinor:
+    action: Enable
+    prefab: MeadStaminaMinor
+    recipeName: Recipe_PotionStaminaMinor
+    craftedAt: 
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: MushroomYellow
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Raspberry
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Honey
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_QueensJam:
+    action: Enable
+    prefab: QueensJam
+    recipeName: Recipe_QueensJam
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 4
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Raspberry
+        craftCost: 8
+        upgradeCost: 1
+      - prefab: Blueberries
+        craftCost: 6
+        upgradeCost: 1
+  Recipe_RoastedCrustPie:
+    action: Enable
+    prefab: RoastedCrustPieUncooked
+    recipeName: Recipe_RoastedCrustPie
+    craftedAt: piece_preptable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Vineberry
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: VoltureEgg
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: BarleyFlour
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_SaddleAsksvin:
+    action: Enable
+    prefab: SaddleAsksvin
+    recipeName: Recipe_SaddleAsksvin
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FlametalNew
+        craftCost: 6
+        upgradeCost: 1
+      - prefab: LinenThread
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: MorgenSinew
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_SadleLox:
+    action: Enable
+    prefab: SaddleLox
+    recipeName: Recipe_SadleLox
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: LeatherScraps
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: LinenThread
+        craftCost: 20
+        upgradeCost: 1
+      - prefab: BlackMetal
+        craftCost: 15
+        upgradeCost: 1
+  Recipe_Salad:
+    action: Enable
+    prefab: Salad
+    recipeName: Recipe_Salad
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 5
+    craftAmount: 3
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: MushroomJotunPuffs
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Onion
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Cloudberry
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_Sausages:
+    action: Enable
+    prefab: Sausages
+    recipeName: Recipe_Sausages
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 4
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Entrails
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: RawMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Thistle
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_ScorchingMedley:
+    action: Enable
+    prefab: ScorchingMedley
+    recipeName: Recipe_ScorchingMedley
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 6
+    craftAmount: 3
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: MushroomJotunPuffs
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Onion
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Fiddleheadfern
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_Scythe:
+    action: Enable
+    prefab: Scythe
+    recipeName: Recipe_Scythe
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ScytheHandle
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: Silver
+        craftCost: 6
+        upgradeCost: 5
+  Recipe_SeekerAspic:
+    action: Enable
+    prefab: SeekerAspic
+    recipeName: Recipe_SeekerAspic
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 5
+    craftAmount: 2
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BugMeat
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: MushroomMagecap
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: RoyalJelly
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SerpentStew:
+    action: Enable
+    prefab: SerpentStew
+    recipeName: Recipe_SerpentStew
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Mushroom
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: SerpentMeatCooked
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Honey
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SharpeningStone:
+    action: Enable
+    prefab: SharpeningStone
+    recipeName: Recipe_SharpeningStone
+    craftedAt: piece_stonecutter
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Stone
+        craftCost: 5
+        upgradeCost: 1
+  Recipe_ShieldBanded:
+    action: Enable
+    prefab: ShieldBanded
+    recipeName: Recipe_ShieldBanded
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 10
+        upgradeCost: 10
+      - prefab: Iron
+        craftCost: 8
+        upgradeCost: 4
+  Recipe_ShieldBlackmetal:
+    action: Enable
+    prefab: ShieldBlackmetal
+    recipeName: Recipe_ShieldBlackmetal
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 10
+        upgradeCost: 10
+      - prefab: BlackMetal
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: Chain
+        craftCost: 5
+        upgradeCost: 2
+  Recipe_ShieldBlackmetalTower:
+    action: Enable
+    prefab: ShieldBlackmetalTower
+    recipeName: Recipe_ShieldBlackmetalTower
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 15
+        upgradeCost: 10
+      - prefab: BlackMetal
+        craftCost: 10
+        upgradeCost: 4
+      - prefab: Chain
+        craftCost: 7
+        upgradeCost: 2
+  Recipe_ShieldBoneTower:
+    action: Enable
+    prefab: ShieldBoneTower
+    recipeName: Recipe_ShieldBoneTower
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: BoneFragments
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: TrophySkeleton
+        craftCost: 3
+        upgradeCost: 0
+  Recipe_ShieldBronzeBuckler:
+    action: Enable
+    prefab: ShieldBronzeBuckler
+    recipeName: Recipe_ShieldBronzeBuckler
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Bronze
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Wood
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_ShieldCarapace:
+    action: Enable
+    prefab: ShieldCarapace
+    recipeName: Recipe_ShieldCarapace
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Carapace
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: ScaleHide
+        craftCost: 3
+        upgradeCost: 3
+      - prefab: Eitr
+        craftCost: 10
+        upgradeCost: 3
+  Recipe_ShieldCarapaceBuckler:
+    action: Enable
+    prefab: ShieldCarapaceBuckler
+    recipeName: Recipe_ShieldCarapaceBuckler
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Carapace
+        craftCost: 16
+        upgradeCost: 8
+      - prefab: ScaleHide
+        craftCost: 3
+        upgradeCost: 3
+      - prefab: Eitr
+        craftCost: 10
+        upgradeCost: 3
+  Recipe_ShieldCore:
+    action: Enable
+    prefab: ShieldCore
+    recipeName: Recipe_ShieldCore
+    craftedAt: piece_artisanstation
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BlackCore
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: SurtlingCore
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: CeramicPlate
+        craftCost: 5
+        upgradeCost: 1
+  Recipe_ShieldFlametal:
+    action: Enable
+    prefab: ShieldFlametal
+    recipeName: Recipe_ShieldFlametal
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Blackwood
+        craftCost: 10
+        upgradeCost: 10
+      - prefab: FlametalNew
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: AskHide
+        craftCost: 2
+        upgradeCost: 2
+  Recipe_ShieldFlametalTower:
+    action: Enable
+    prefab: ShieldFlametalTower
+    recipeName: Recipe_ShieldFlametalTower
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Blackwood
+        craftCost: 15
+        upgradeCost: 10
+      - prefab: FlametalNew
+        craftCost: 10
+        upgradeCost: 4
+      - prefab: AskHide
+        craftCost: 5
+        upgradeCost: 2
+  Recipe_ShieldIronBuckler:
+    action: Enable
+    prefab: ShieldIronBuckler
+    recipeName: Recipe_ShieldIronBuckler
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Iron
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: ElderBark
+        craftCost: 4
+        upgradeCost: 1
+  Recipe_ShieldIronSquare:
+    action: Enable
+    prefab: ShieldIronSquare
+    recipeName: Recipe_ShieldIronSquare
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 10
+        upgradeCost: 10
+      - prefab: Iron
+        craftCost: 6
+        upgradeCost: 3
+  Recipe_ShieldIronTower:
+    action: Enable
+    prefab: ShieldIronTower
+    recipeName: Recipe_ShieldIronTower
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 15
+        upgradeCost: 10
+      - prefab: Iron
+        craftCost: 10
+        upgradeCost: 5
+  Recipe_ShieldSerpentscale:
+    action: Enable
+    prefab: ShieldSerpentscale
+    recipeName: Recipe_ShieldSerpentscale
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 10
+        upgradeCost: 10
+      - prefab: Iron
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: SerpentScale
+        craftCost: 8
+        upgradeCost: 4
+  Recipe_ShieldSilver:
+    action: Enable
+    prefab: ShieldSilver
+    recipeName: Recipe_ShieldSilver
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 10
+        upgradeCost: 10
+      - prefab: Silver
+        craftCost: 8
+        upgradeCost: 4
+  Recipe_ShieldWood:
+    action: Enable
+    prefab: ShieldWood
+    recipeName: Recipe_ShieldWood
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Resin
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: LeatherScraps
+        craftCost: 4
+        upgradeCost: 2
+  Recipe_ShieldWoodTower:
+    action: Enable
+    prefab: ShieldWoodTower
+    recipeName: Recipe_ShieldWoodTower
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: LeatherScraps
+        craftCost: 6
+        upgradeCost: 3
+  Recipe_ShocklateSmoothie:
+    action: Enable
+    prefab: ShocklateSmoothie
+    recipeName: Recipe_ShocklateSmoothie
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Ooze
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Raspberry
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Blueberries
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SizzlingBerryBroth:
+    action: Enable
+    prefab: SizzlingBerryBroth
+    recipeName: Recipe_SizzlingBerryBroth
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 5
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Sap
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Fiddleheadfern
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Vineberry
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SledgeDemolisher:
+    action: Enable
+    prefab: SledgeDemolisher
+    recipeName: Recipe_SledgeDemolisher
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: YggdrasilWood
+        craftCost: 10
+        upgradeCost: 2
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 15
+      - prefab: Eitr
+        craftCost: 10
+        upgradeCost: 2
+  Recipe_SledgeIron:
+    action: Enable
+    prefab: SledgeIron
+    recipeName: Recipe_SledgeIron
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ElderBark
+        craftCost: 10
+        upgradeCost: 2
+      - prefab: Iron
+        craftCost: 30
+        upgradeCost: 15
+      - prefab: YmirRemains
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: TrophyDraugrElite
+        craftCost: 1
+        upgradeCost: 0
+  Recipe_SledgeStagbreaker:
+    action: Enable
+    prefab: SledgeStagbreaker
+    recipeName: Recipe_SledgeStagbreaker
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: RoundLog
+        craftCost: 20
+        upgradeCost: 5
+      - prefab: TrophyDeer
+        craftCost: 5
+        upgradeCost: 2
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: BoneFragments
+        craftCost: 0
+        upgradeCost: 10
+  Recipe_SparklingShroomshake:
+    action: Enable
+    prefab: SparklingShroomshake
+    recipeName: Recipe_SparklingShroomshake
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 6
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Sap
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Vineberry
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: MushroomSmokePuff
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: MushroomMagecap
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SpearBronze:
+    action: Enable
+    prefab: SpearBronze
+    recipeName: Recipe_SpearBronze
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 5
+        upgradeCost: 3
+      - prefab: Bronze
+        craftCost: 6
+        upgradeCost: 4
+      - prefab: DeerHide
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SpearCarapace:
+    action: Enable
+    prefab: SpearCarapace
+    recipeName: Recipe_SpearCarapace
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: YggdrasilWood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Carapace
+        craftCost: 4
+        upgradeCost: 4
+      - prefab: Mandible
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SpearChitin:
+    action: Enable
+    prefab: SpearChitin
+    recipeName: Recipe_SpearChitin
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 8
+        upgradeCost: 0
+      - prefab: Chitin
+        craftCost: 30
+        upgradeCost: 0
+      - prefab: LeatherScraps
+        craftCost: 3
+        upgradeCost: 0
+  Recipe_SpearElderbark:
+    action: Enable
+    prefab: SpearElderbark
+    recipeName: Recipe_SpearElderbark
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: TrollHide
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: ElderBark
+        craftCost: 10
+        upgradeCost: 5
+  Recipe_SpearFlint:
+    action: Enable
+    prefab: SpearFlint
+    recipeName: Recipe_SpearFlint
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 5
+        upgradeCost: 3
+      - prefab: Flint
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SpearSplitner:
+    action: Enable
+    prefab: SpearSplitner
+    recipeName: Recipe_SpearSplitner
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Blackwood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: FlametalNew
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: AskHide
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: BonemawSerpentTooth
+        craftCost: 3
+        upgradeCost: 3
+  Recipe_SpearSplitner_Blood:
+    action: Enable
+    prefab: SpearSplitner_Blood
+    recipeName: Recipe_SpearSplitner_Blood
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: SpearSplitner
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_SpearSplitner_Lightning:
+    action: Enable
+    prefab: SpearSplitner_Lightning
+    recipeName: Recipe_SpearSplitner_Lightning
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: SpearSplitner
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: GemstoneBlue
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_SpearSplitner_Nature:
+    action: Enable
+    prefab: SpearSplitner_Nature
+    recipeName: Recipe_SpearSplitner_Nature
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: SpearSplitner
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: GemstoneGreen
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_SpearWolfFang:
+    action: Enable
+    prefab: SpearWolfFang
+    recipeName: Recipe_SpearWolfFang
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: ElderBark
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: WolfFang
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Silver
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SpiceInducedMarmalade:
+    action: Enable
+    prefab: SpicyMarmalade
+    recipeName: Recipe_SpiceInducedMarmalade
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 5
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Vineberry
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Honey
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Fiddleheadfern
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_StaffClusterbomb:
+    action: Enable
+    prefab: StaffClusterbomb
+    recipeName: Recipe_StaffClusterbomb
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CharredBone
+        craftCost: 15
+        upgradeCost: 5
+      - prefab: Blackwood
+        craftCost: 5
+        upgradeCost: 3
+      - prefab: ProustitePowder
+        craftCost: 8
+        upgradeCost: 1
+  Recipe_StaffFireball:
+    action: Enable
+    prefab: StaffFireball
+    recipeName: Recipe_StaffFireball
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: YggdrasilWood
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: SurtlingCore
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: Eitr
+        craftCost: 16
+        upgradeCost: 8
+  Recipe_StaffGreenRoots:
+    action: Enable
+    prefab: StaffGreenRoots
+    recipeName: Recipe_StaffGreenRoots
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Blackwood
+        craftCost: 15
+        upgradeCost: 5
+      - prefab: Fiddleheadfern
+        craftCost: 10
+        upgradeCost: 2
+      - prefab: CelestialFeather
+        craftCost: 3
+        upgradeCost: 3
+      - prefab: GemstoneGreen
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_StaffIceShards:
+    action: Enable
+    prefab: StaffIceShards
+    recipeName: Recipe_StaffIceShards
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: YggdrasilWood
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: FreezeGland
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: Eitr
+        craftCost: 16
+        upgradeCost: 8
+  Recipe_StaffLightning:
+    action: Enable
+    prefab: StaffLightning
+    recipeName: Recipe_StaffLightning
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Blackwood
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: FlametalNew
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: CelestialFeather
+        craftCost: 3
+        upgradeCost: 3
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_StaffRedTroll:
+    action: Enable
+    prefab: StaffRedTroll
+    recipeName: Recipe_StaffRedTroll
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CharredBone
+        craftCost: 15
+        upgradeCost: 5
+      - prefab: TrophyFrostTroll
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: FlametalNew
+        craftCost: 3
+        upgradeCost: 3
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_StaffShield:
+    action: Enable
+    prefab: StaffShield
+    recipeName: Recipe_StaffShield
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: YggdrasilWood
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: GiantBloodSack
+        craftCost: 4
+        upgradeCost: 2
+      - prefab: Eitr
+        craftCost: 16
+        upgradeCost: 8
+  Recipe_StaffSkeleton:
+    action: Enable
+    prefab: StaffSkeleton
+    recipeName: Recipe_StaffSkeleton
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: BoneFragments
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Eitr
+        craftCost: 16
+        upgradeCost: 8
+      - prefab: TrophySkeleton
+        craftCost: 4
+        upgradeCost: 2
+  Recipe_SwordBlackmetal:
+    action: Enable
+    prefab: SwordBlackmetal
+    recipeName: Recipe_SwordBlackmetal
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 2
+        upgradeCost: 0
+      - prefab: BlackMetal
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: LinenThread
+        craftCost: 5
+        upgradeCost: 5
+  Recipe_SwordBronze:
+    action: Enable
+    prefab: SwordBronze
+    recipeName: Recipe_SwordBronze
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Bronze
+        craftCost: 8
+        upgradeCost: 4
+      - prefab: LeatherScraps
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_SwordFire:
+    action: Enable
+    prefab: SwordDyrnwyn
+    recipeName: Recipe_SwordFire
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: DyrnwynHiltFragment
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: DyrnwynBladeFragment
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: DyrnwynTipFragment
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_SwordIron:
+    action: Enable
+    prefab: SwordIron
+    recipeName: Recipe_SwordIron
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: LeatherScraps
+        craftCost: 3
+        upgradeCost: 2
+  Recipe_SwordKrom:
+    action: Enable
+    prefab: THSwordKrom
+    recipeName: Recipe_SwordKrom
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Iron
+        craftCost: 30
+        upgradeCost: 15
+      - prefab: Bronze
+        craftCost: 20
+        upgradeCost: 10
+      - prefab: ScaleHide
+        craftCost: 5
+        upgradeCost: 5
+  Recipe_SwordMistwalker:
+    action: Enable
+    prefab: SwordMistwalker
+    recipeName: Recipe_SwordMistwalker
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 3
+        upgradeCost: 0
+      - prefab: Iron
+        craftCost: 15
+        upgradeCost: 10
+      - prefab: Eitr
+        craftCost: 10
+        upgradeCost: 5
+      - prefab: Wisp
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_SwordNiedhogg:
+    action: Enable
+    prefab: SwordNiedhogg
+    recipeName: Recipe_SwordNiedhogg
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: CharredBone
+        craftCost: 3
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 12
+        upgradeCost: 10
+      - prefab: AskHide
+        craftCost: 2
+        upgradeCost: 2
+  Recipe_SwordNiedhogg_Blood:
+    action: Enable
+    prefab: SwordNiedhoggBlood
+    recipeName: Recipe_SwordNiedhogg_Blood
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: SwordNiedhogg
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_SwordNiedhogg_Lightning:
+    action: Enable
+    prefab: SwordNiedhoggLightning
+    recipeName: Recipe_SwordNiedhogg_Lightning
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: SwordNiedhogg
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: GemstoneBlue
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_SwordNiedhogg_Nature:
+    action: Enable
+    prefab: SwordNiedhoggNature
+    recipeName: Recipe_SwordNiedhogg_Nature
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: SwordNiedhogg
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 6
+        upgradeCost: 6
+      - prefab: GemstoneGreen
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_SwordSilver:
+    action: Enable
+    prefab: SwordSilver
+    recipeName: Recipe_SwordSilver
+    craftedAt: forge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Silver
+        craftCost: 40
+        upgradeCost: 20
+      - prefab: LeatherScraps
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 5
+        upgradeCost: 3
+  Recipe_SwordSlayer:
+    action: Enable
+    prefab: THSwordSlayer
+    recipeName: Recipe_SwordSlayer
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FlametalNew
+        craftCost: 30
+        upgradeCost: 15
+      - prefab: AskHide
+        craftCost: 5
+        upgradeCost: 5
+      - prefab: MorgenSinew
+        craftCost: 3
+        upgradeCost: 3
+  Recipe_SwordSlayer_Blood:
+    action: Enable
+    prefab: THSwordSlayerBlood
+    recipeName: Recipe_SwordSlayer_Blood
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: THSwordSlayer
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 15
+        upgradeCost: 15
+      - prefab: GemstoneRed
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_SwordSlayer_Lightning:
+    action: Enable
+    prefab: THSwordSlayerLightning
+    recipeName: Recipe_SwordSlayer_Lightning
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: THSwordSlayer
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 15
+        upgradeCost: 15
+      - prefab: GemstoneBlue
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_SwordSlayer_Nature:
+    action: Enable
+    prefab: THSwordSlayerNature
+    recipeName: Recipe_SwordSlayer_Nature
+    craftedAt: blackforge
+    repairAt: 
+    minStationLevel: 4
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: THSwordSlayer
+        craftCost: 1
+        upgradeCost: 0
+      - prefab: FlametalNew
+        craftCost: 15
+        upgradeCost: 15
+      - prefab: GemstoneGreen
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_Tankard:
+    action: Enable
+    prefab: Tankard
+    recipeName: Recipe_Tankard
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Resin
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_TankardAnniversary:
+    action: Enable
+    prefab: TankardAnniversary
+    recipeName: Recipe_TankardAnniversary
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Bronze
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: TrollHide
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Iron
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_TankardOdin:
+    action: Enable
+    prefab: TankardOdin
+    recipeName: Recipe_TankardOdin
+    craftedAt: piece_workbench
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: FineWood
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: TrophyDeer
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Resin
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_Torch:
+    action: Enable
+    prefab: Torch
+    recipeName: Recipe_Torch
+    craftedAt: 
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Resin
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_TorchMist:
+    action: Enable
+    prefab: TorchMist
+    recipeName: Recipe_TorchMist
+    craftedAt: piece_magetable
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Crystal
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Resin
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_TurnipStew:
+    action: Enable
+    prefab: TurnipStew
+    recipeName: Recipe_TurnipStew
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 2
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: RawMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Turnip
+        craftCost: 3
+        upgradeCost: 1
+  Recipe_TurretBolt:
+    action: Enable
+    prefab: TurretBolt
+    recipeName: Recipe_TurretBolt
+    craftedAt: piece_artisanstation
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Wood
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: BlackMetal
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_TurretBoltFlametal:
+    action: Enable
+    prefab: TurretBoltFlametal
+    recipeName: Recipe_TurretBoltFlametal
+    craftedAt: piece_artisanstation
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Blackwood
+        craftCost: 10
+        upgradeCost: 1
+      - prefab: FlametalNew
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_TurretBoltWood:
+    action: Enable
+    prefab: TurretBoltWood
+    recipeName: Recipe_TurretBoltWood
+    craftedAt: piece_artisanstation
+    repairAt: 
+    minStationLevel: 1
+    craftAmount: 20
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: RoundLog
+        craftCost: 5
+        upgradeCost: 1
+      - prefab: Feathers
+        craftCost: 2
+        upgradeCost: 1
+  Recipe_WolfJerky:
+    action: Enable
+    prefab: WolfJerky
+    recipeName: Recipe_WolfJerky
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 2
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: WolfMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Honey
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_WolfSkewer:
+    action: Enable
+    prefab: WolfMeatSkewer
+    recipeName: Recipe_WolfSkewer
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 3
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: WolfMeat
+        craftCost: 1
+        upgradeCost: 1
+      - prefab: Mushroom
+        craftCost: 2
+        upgradeCost: 1
+      - prefab: Onion
+        craftCost: 1
+        upgradeCost: 1
+  Recipe_YggdrasilPorridge:
+    action: Enable
+    prefab: YggdrasilPorridge
+    recipeName: Recipe_YggdrasilPorridge
+    craftedAt: piece_cauldron
+    repairAt: 
+    minStationLevel: 5
+    craftAmount: 1
+    recipe:
+      anyOneResource: false
+      noRecipeCost: false
+      ingredients:
+      - prefab: Sap
+        craftCost: 4
+        upgradeCost: 1
+      - prefab: Barley
+        craftCost: 3
+        upgradeCost: 1
+      - prefab: RoyalJelly
+        craftCost: 2
+        upgradeCost: 1
+

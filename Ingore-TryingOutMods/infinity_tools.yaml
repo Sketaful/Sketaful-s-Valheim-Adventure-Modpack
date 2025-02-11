@@ -1,0 +1,155 @@
+hammer:
+- name: Pipette
+  description: |-
+    Press <mod1> to pick up.
+    Press <mod2> to freeze.
+  icon: hammer
+  command: hammer pick=<mod1> freeze=<mod2>
+  index: 1
+- name: Building pipette
+  description: |-
+    Select entire buildings.
+    Press <mod1> to pick up.
+    Press <mod2> to freeze.
+  icon: hammer
+  command: hammer connect pick=<mod1> freeze=<mod2>
+- name: Area pipette
+  description: |-
+    Select multiple objects.
+    Press <mod1> to pick up.
+    Press <mod2> to freeze.
+  icon: hammer
+  command: hammer pick=<mod1> freeze=<mod2> height=<h> <area>
+  initialHeight: 0
+  highlight: true
+hoe:
+- name: Level
+  description: |-
+    Flattens terrain.
+    Hold <mod1> to smooth.
+    Hold <mod2> for free mode.
+    Hold <alt> for player height.
+  icon: mud_road
+  command: terrain level smooth=<mod1>?.5:0 <area>
+  index: 10
+  terrainGrid: -<mod2>
+  playerHeight: <alt>
+- name: Raise
+  description: |-
+    Raises terrain.
+    Hold <mod1> to smooth.
+    Hold <mod2> for free mode.
+  icon: raise
+  command: terrain raise=<h> smooth=<mod1>?.5:0 <area>
+  initialHeight: 0.2
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: Pave
+  description: |-
+    Paves terrain.
+    Hold <mod1> for single use.
+    Hold <mod2> for free mode.
+  icon: paved_road
+  command: terrain paint=paved <area>
+  continuous: -<mod1>
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: Grass
+  description: |-
+    Grass.
+    Hold <mod1> for single use.
+    Hold <mod2> for free mode.
+  icon: replant
+  command: terrain paint=grass <area>
+  continuous: -<mod1>
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: Dirt
+  description: |-
+    Dirt.
+    Hold <mod1> for single use.
+    Hold <mod2> for free mode.
+  icon: Hoe
+  command: terrain paint=dirt <area>
+  continuous: -<mod1>
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: Cultivate
+  description: |-
+    Cultivates terrain.
+    Hold <mod1> for single use.
+    Hold <mod2> for free mode.
+  icon: cultivate
+  command: terrain paint=cultivated <area>
+  continuous: -<mod1>
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: DarkGrass
+  description: |-
+    Dark Grass.
+    Hold <mod1> for single use.
+    Hold <mod2> for free mode.
+  icon: trophyabomination
+  command: terrain paint=grass_dark <area>
+  continuous: -<mod1>
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: PatchyGrass
+  description: |-
+    Patchy Grass.
+    Hold <mod1> for single use.
+    Hold <mod2> for free mode.
+  icon: iron_wall_2x2
+  command: terrain paint=patches <area>
+  continuous: -<mod1>
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: MossyPaving
+  description: |-
+    Paving with moss.
+    Hold <mod1> for single use.
+    Hold <mod2> for free mode.
+  icon: trophygreydwarfshaman
+  command: terrain paint=paved_moss <area>
+  continuous: -<mod1>
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: DarkPaving
+  description: |-
+    Dark Paving.
+    Hold <mod1> for single use.
+    Hold <mod2> for free mode.
+  icon: tar
+  command: terrain paint=paved_dark <area>
+  continuous: -<mod1>
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: Reset
+  description: |-
+    Resets terrain.
+    Hold <mod1> for single use.
+    Hold <mod2> for free mode.
+  icon: Hoe
+  command: terrain reset <area>
+  continuous: -<mod1>
+  terrainGrid: -<mod2>
+  snapGround : true
+- name: Slope
+  description: Slope between you and aim point.
+  icon: wood_wall_roof_45
+  command: terrain slope <to>
+  targetEdge: true
+  initialShape: rectangle
+- name: Remove
+  description: |-
+    Removes objects.
+    Hold <mod1> to also reset the terrain.
+  icon: softdeath
+  command: object remove id=* <area>;terrain keys=<mod1> reset <area>
+  highlight: true
+- name: Tame
+  description: |-
+    Tames creatures.
+    Hold <mod1> to untame
+  icon: Carrot
+  command: object tame keys=-<mod1> <area>;object wild keys=<mod1> <area>
