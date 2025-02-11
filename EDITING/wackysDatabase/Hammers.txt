@@ -1,7 +1,0 @@
-JVLmock__ShovelPieceTable (PieceTable) 
-_ShovelPieceTable (PieceTable) 
-BFP_FineHammerPieceTable (PieceTable) 
-_CrystalHammer_Table (PieceTable) 
-_HoePieceTable (PieceTable) 
-_HammerPieceTable (PieceTable) 
-_CultivatorPieceTable (PieceTable) 
