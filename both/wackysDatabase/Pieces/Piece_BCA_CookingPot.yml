@@ -1,0 +1,67 @@
+name: BCA_CookingPot
+piecehammer: Hammer
+m_name: $bca_cookingpot
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: true
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 100
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Normal
+    m_pickaxe: Normal
+    m_fire: Resistant
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: false
+  triggerPrivateArea: true
+craftingStationData:
+  cStationCustomIcon: 
+  discoveryRange: 4
+  buildRange: 20
+  craftRequiresRoof: false
+  craftRequiresFire: true
+  showBasicRecipes: false
+  useDistance: 2
+  useAnimation: 3
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+build:
+- Copper:3:1:True
+- Tin:12:1:True

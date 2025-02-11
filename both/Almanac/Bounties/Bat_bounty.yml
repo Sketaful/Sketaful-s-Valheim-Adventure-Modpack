@@ -1,0 +1,27 @@
+creature_prefab_name: Bat
+bounty_name: Bat the Nocturnal
+sprite_name: skull
+biome: Mountain
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Bows
+  amount: 5000
+experience_reward: 0
+bounty_health: 10
+damage_multiplier: 1
+damages:
+  blunt: 0
+  slash: 0
+  pierce: 5
+  fire: 0
+  frost: 0
+  lightning: 0
+  poison: 2
+  spirit: 0
+level: 3
+defeat_key: KilledBat
+cost: 0
+currency: Coins

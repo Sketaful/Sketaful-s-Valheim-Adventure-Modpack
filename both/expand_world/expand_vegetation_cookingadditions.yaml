@@ -1,0 +1,18 @@
+- prefab: BCA_Wild_Tomato
+  enabled: true
+  max: 2
+  biome: Meadows, BlackForest, Plains
+  biomeArea: edge
+  maxAltitude: 1000
+  maxTerrainDelta: 2
+  groupSizeMax: 3
+  groupRadius: 32
+- prefab: BCA_Wild_ChiliPepper
+  enabled: true
+  max: 2
+  biome: Meadows, BlackForest, Plains
+  biomeArea: median
+  maxAltitude: 1000
+  maxTerrainDelta: 2
+  groupSizeMax: 3
+  groupRadius: 32

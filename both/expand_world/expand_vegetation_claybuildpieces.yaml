@@ -1,0 +1,20 @@
+- prefab: BFP_Pickable_Clay
+  enabled: true
+  max: 20
+  chanceToUseGroundTilt: 1
+  biome: Meadows, Swamp, BlackForest, Plains, Mistlands
+  minAltitude: -0.5
+  maxAltitude: 2
+  maxTerrainDelta: 2
+  groupSizeMin: 2
+  groupSizeMax: 6
+  groupRadius: 2
+- prefab: BFP_Pickable_ClayBig
+  enabled: true
+  max: 5
+  chanceToUseGroundTilt: 1
+  biome: Meadows, Swamp, BlackForest, Plains, Mistlands
+  minAltitude: -0.5
+  maxAltitude: 2
+  maxTerrainDelta: 2
+  groupRadius: 20

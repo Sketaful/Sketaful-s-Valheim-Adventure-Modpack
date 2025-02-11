@@ -1,0 +1,27 @@
+creature_prefab_name: Wraith
+bounty_name: Wraith the Specter
+sprite_name: TrophyWraith
+biome: BlackForest
+reward_type: Item
+item_reward:
+  item_name: Crystal
+  amount: 30
+skill_reward:
+  type: None
+  amount: 0
+experience_reward: 0
+bounty_health: 100
+damage_multiplier: 1.2
+damages:
+  blunt: 0
+  slash: 15
+  pierce: 0
+  fire: 0
+  frost: 10
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 2
+defeat_key: defeated_wraith
+cost: 0
+currency: Coins

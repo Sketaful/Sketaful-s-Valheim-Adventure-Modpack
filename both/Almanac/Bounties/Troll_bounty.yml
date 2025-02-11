@@ -1,0 +1,27 @@
+creature_prefab_name: Troll
+bounty_name: Troll the Frozen
+sprite_name: TrophyFrostTroll
+biome: DeepNorth
+reward_type: Skill
+item_reward:
+  item_name: ''
+  amount: 0
+skill_reward:
+  type: Knives
+  amount: 20000
+experience_reward: 0
+bounty_health: 3000
+damage_multiplier: 1.5
+damages:
+  blunt: 10
+  slash: 0
+  pierce: 0
+  fire: 0
+  frost: 50
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 3
+defeat_key: defeated_goblinking
+cost: 0
+currency: Coins
