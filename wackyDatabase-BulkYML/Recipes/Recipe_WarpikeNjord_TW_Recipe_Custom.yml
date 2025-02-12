@@ -1,0 +1,16 @@
+name: WarpikeNjord_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TyraniumBar_TW:22:11:True
+- RuneRage_TW:14:7:True
+- BorealPineWood_TW:22:11:True
+- TrophyJotunnBrute_TW:1:1:True

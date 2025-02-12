@@ -1,0 +1,13 @@
+name: CWS_Crucible_Finished_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $cws_forge
+minStationLevel: 30
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CWS_Material_Placeholder:1:0:True

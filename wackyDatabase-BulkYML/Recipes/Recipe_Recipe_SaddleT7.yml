@@ -1,0 +1,16 @@
+name: Recipe_SaddleT7
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- LoxPelt:10:0:False
+- MorgenHeart:2:0:False
+- FlametalNew:6:0:False
+- Tar:5:0:False

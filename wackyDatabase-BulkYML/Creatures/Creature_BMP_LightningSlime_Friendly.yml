@@ -1,0 +1,4 @@
+name: BMP_LightningSlime_Friendly
+mob_display_name: $bmp_lightningslime
+clone_creature: 
+creature_replacer: 

@@ -1,0 +1,16 @@
+name: KnifeSurtr_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RagnoriteBar_TW:20:10:True
+- RuneDestruction_TW:14:7:True
+- DemonicSoulstone_TW:8:4:True
+- TrophySurtrSeer_TW:1:1:True

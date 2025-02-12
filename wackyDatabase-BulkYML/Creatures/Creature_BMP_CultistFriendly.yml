@@ -1,0 +1,4 @@
+name: BMP_CultistFriendly
+mob_display_name: $bmp_cultist_summon
+clone_creature: 
+creature_replacer: 

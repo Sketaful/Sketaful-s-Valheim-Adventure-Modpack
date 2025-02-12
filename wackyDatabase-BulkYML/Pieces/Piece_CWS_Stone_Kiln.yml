@@ -1,0 +1,83 @@
+name: CWS_Stone_Kiln
+piecehammer: Hammer
+m_name: $cws_stone_kiln
+sizeMultiplier: 1
+m_description: $cws_stone_kiln_description
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $cws_forge
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 2000
+  damageModifiers:
+    m_blunt: Resistant
+    m_slash: Resistant
+    m_pierce: Resistant
+    m_chop: Resistant
+    m_pickaxe: Normal
+    m_fire: Immune
+    m_frost: Immune
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+  materialType: Stone
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList:
+- MainCraftingStationName: CWS_Forge
+  maxStationDistance: 5
+  continousConnection: false
+  stack: false
+contData: 
+smelterData:
+  addOreTooltip: Add Ore
+  emptyOreTooltip: Empty
+  fuelItem:
+    name: CWS_SurtlingCoal
+  maxOre: 20
+  maxFuel: 30
+  fuelPerProduct: 1
+  secPerProduct: 20
+  spawnStack: false
+  requiresRoof: false
+  addOreAnimationLength: 0
+  smelterConversion:
+  - FromName: CWS_Crucible_Full
+    ToName: CWS_Crucible_Finished
+    Remove: false
+  - FromName: CWS_Cold_Steel
+    ToName: CWS_Hot_Steel_Finished
+    Remove: false
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+build:
+- CWS_SurtlingCoal:4:1:True
+- Iron:5:1:True
+- Stone:20:1:True

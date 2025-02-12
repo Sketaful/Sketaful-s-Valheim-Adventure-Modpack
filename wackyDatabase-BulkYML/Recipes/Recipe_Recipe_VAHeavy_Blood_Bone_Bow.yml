@@ -1,0 +1,17 @@
+name: Recipe_VAHeavy_Blood_Bone_Bow
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- YggdrasilWood:14:7:False
+- Iron:10:6:False
+- Carapace:24:10:False
+- TrophyTick:2:0:False
+- Eitr:0:10:False

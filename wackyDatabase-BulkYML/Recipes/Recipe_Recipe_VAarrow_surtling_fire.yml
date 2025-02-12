@@ -1,0 +1,16 @@
+name: Recipe_VAarrow_surtling_fire
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:8:0:False
+- Obsidian:4:0:False
+- Feathers:2:0:False
+- SurtlingCore:1:0:False

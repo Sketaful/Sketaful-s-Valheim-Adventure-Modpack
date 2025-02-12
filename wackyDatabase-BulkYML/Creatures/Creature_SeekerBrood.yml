@@ -1,0 +1,4 @@
+name: SeekerBrood
+mob_display_name: $enemy_babyseeker
+clone_creature: 
+creature_replacer: 

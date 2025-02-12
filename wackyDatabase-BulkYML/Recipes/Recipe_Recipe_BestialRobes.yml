@@ -1,0 +1,16 @@
+name: Recipe_BestialRobes
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WolfPelt:10:5:True
+- AT_HasTamed_Item:10:7:True
+- LinenThread:10:6:True
+- Needle:5:5:True

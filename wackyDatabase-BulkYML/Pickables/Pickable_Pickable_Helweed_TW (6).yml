@@ -1,0 +1,12 @@
+name: Pickable_Helweed_TW (6)
+itemPrefab: Helweed_TW
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 300
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: Helweed
+extraDrops: 

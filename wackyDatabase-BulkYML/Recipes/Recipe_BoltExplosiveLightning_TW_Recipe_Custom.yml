@@ -1,0 +1,15 @@
+name: BoltExplosiveLightning_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_fletchertable_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- YggdrasilWood:8:0:True
+- Carapace:2:0:True
+- Eitr:1:0:True

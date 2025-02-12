@@ -1,0 +1,12 @@
+name: hanging_hairstrands
+itemPrefab: WolfHairBundle
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 10
+hiddenChildWhenPicked: new
+extraDrops: 

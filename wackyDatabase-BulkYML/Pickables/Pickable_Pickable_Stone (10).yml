@@ -1,0 +1,12 @@
+name: Pickable_Stone (10)
+itemPrefab: Stone
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops: 

@@ -1,0 +1,16 @@
+name: BCA_VeggieSoup_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $bca_cookingpot
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Carrot:2:0:True
+- Turnip:2:0:True
+- Onion:4:0:True
+- Mushroom:8:0:True

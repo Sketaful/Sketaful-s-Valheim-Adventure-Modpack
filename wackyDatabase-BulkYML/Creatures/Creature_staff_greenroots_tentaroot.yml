@@ -1,0 +1,4 @@
+name: staff_greenroots_tentaroot
+mob_display_name: $enemy_summonedroot
+clone_creature: 
+creature_replacer: 

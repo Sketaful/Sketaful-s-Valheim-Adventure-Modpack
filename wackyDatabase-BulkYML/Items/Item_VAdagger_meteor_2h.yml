@@ -1,0 +1,299 @@
+name: VAdagger_meteor_2h
+m_weight: 0.3
+m_name: $item_dagger_meteor_2h
+m_description: $item_dagger_meteor_2h_description
+clonePrefabName: 
+mockName: 
+customIcon: 
+material: 
+materials: 
+customVisual: 
+snapshotRotation: 
+snapshotOnMaterialChange: true
+sizeMultiplier: 1
+scale_weight_by_quality: 0
+Primary_Attack:
+  AttackType: Horizontal
+  Attack_Animation: dual_knives
+  Attack_Random_Animation: 0
+  Chain_Attacks: 3
+  Hit_Terrain: true
+  Hit_Friendly: false
+  Custom_AttackSpeed: 1
+  m_attackStamina: 15
+  m_eitrCost: 0
+  AttackHealthCost: 0
+  m_attackHealthPercentage: 0
+  SpeedFactor: 0.3
+  Attack_Start_Noise: 1
+  Attack_Hit_Noise: 5
+  Dmg_Multiplier_Per_Missing_Health: 0
+  Damage_Multiplier_By_Health_Deficit_Percent: 0
+  Stamina_Return_Per_Missing_HP: 0
+  DmgMultiplier: 1
+  ForceMultiplier: 1
+  StaggerMultiplier: 1
+  RecoilMultiplier: 0
+  SelfDamage: 0
+  Attack_Kills_Self: false
+  AttackRange: 1.8
+  AttackHeight: 0.8
+  Spawn_On_Trigger: 
+  Requires_Reload: false
+  Reload_Animation: ''
+  ReloadTime: 2
+  ReloadTimeMultiplier: 1
+  Reload_Stamina_Drain: 0
+  Reload_Eitr_Drain: 0
+  Bow_Draw: false
+  Bow_Duration_Min: 0
+  Bow_Stamina_Drain: 0
+  Bow_Animation_State: ''
+  Attack_Angle: 60
+  Attack_Ray_Width: 0.2
+  Lower_Dmg_Per_Hit: true
+  Hit_Through_Walls: false
+  Multi_Hit: true
+  Pickaxe_Special: false
+  Last_Chain_Dmg_Multiplier: 1
+  Reset_Chain_If_hit: None
+  SpawnOnHit: 
+  SpawnOnHit_Chance: 0
+  Attack_status_effect: 
+  Attack_status_effect_chance: 
+  Raise_Skill_Amount: 1
+  Skill_Hit_Type: Character
+  Special_Hit_Skill: None
+  Special_Hit_Type: None
+  Attack_Projectile: 
+  Projectile_Vel: 10
+  Projectile_Accuraccy: 10
+  Projectiles: 1
+  Skill_Accuracy: false
+  Launch_Angle: 0
+  Projectile_Burst: 1
+  Burst_Interval: 0
+  Destroy_Previous_Projectile: false
+  PerBurst_Resource_usage: false
+  Looping_Attack: false
+  Consume_Item: false
+  AEffects: 
+  AEffectsPLUS:
+    Hit_Effects: []
+    Hit_Terrain_Effects: []
+    Start_Effect: []
+    Trigger_Effect: []
+    Trail_Effect: []
+    Burst_Effect: []
+Secondary_Attack:
+  AttackType: Horizontal
+  Attack_Animation: dual_knives_secondary
+  Attack_Random_Animation: 0
+  Chain_Attacks: 0
+  Hit_Terrain: true
+  Hit_Friendly: false
+  Custom_AttackSpeed: 1
+  m_attackStamina: 45
+  m_eitrCost: 0
+  AttackHealthCost: 0
+  m_attackHealthPercentage: 0
+  SpeedFactor: 0
+  Attack_Start_Noise: 2
+  Attack_Hit_Noise: 5
+  Dmg_Multiplier_Per_Missing_Health: 0
+  Damage_Multiplier_By_Health_Deficit_Percent: 0
+  Stamina_Return_Per_Missing_HP: 0
+  DmgMultiplier: 3
+  ForceMultiplier: 4
+  StaggerMultiplier: 1
+  RecoilMultiplier: 0
+  SelfDamage: 0
+  Attack_Kills_Self: false
+  AttackRange: 1.8
+  AttackHeight: 0.5
+  Spawn_On_Trigger: 
+  Requires_Reload: false
+  Reload_Animation: ''
+  ReloadTime: 
+  ReloadTimeMultiplier: 1
+  Reload_Stamina_Drain: 0
+  Reload_Eitr_Drain: 
+  Bow_Draw: false
+  Bow_Duration_Min: 0
+  Bow_Stamina_Drain: 0
+  Bow_Animation_State: ''
+  Attack_Angle: 45
+  Attack_Ray_Width: 0.3
+  Lower_Dmg_Per_Hit: true
+  Hit_Through_Walls: false
+  Multi_Hit: true
+  Pickaxe_Special: false
+  Last_Chain_Dmg_Multiplier: 2
+  Reset_Chain_If_hit: None
+  SpawnOnHit: 
+  SpawnOnHit_Chance: 0
+  Attack_status_effect: 
+  Attack_status_effect_chance: 
+  Raise_Skill_Amount: 1
+  Skill_Hit_Type: Character
+  Special_Hit_Skill: None
+  Special_Hit_Type: None
+  Attack_Projectile: 
+  Projectile_Vel: 10
+  Projectile_Accuraccy: 10
+  Projectiles: 1
+  Skill_Accuracy: false
+  Launch_Angle: 0
+  Projectile_Burst: 1
+  Burst_Interval: 0
+  Destroy_Previous_Projectile: false
+  PerBurst_Resource_usage: false
+  Looping_Attack: false
+  Consume_Item: false
+  AEffects: 
+  AEffectsPLUS:
+    Hit_Effects: []
+    Hit_Terrain_Effects: []
+    Start_Effect: []
+    Trigger_Effect: []
+    Trail_Effect: []
+    Burst_Effect: []
+Damage:
+  Blunt: 0
+  Chop: 0
+  Damage: 0
+  Fire: 0
+  Frost: 0
+  Lightning: 0
+  Pickaxe: 0
+  Pierce: 52
+  Poison: 0
+  Slash: 52
+  Spirit: 0
+Damage_Per_Level:
+  Blunt: 0
+  Chop: 0
+  Damage: 0
+  Fire: 0
+  Frost: 0
+  Lightning: 0
+  Pickaxe: 0
+  Pierce: 1
+  Poison: 0
+  Slash: 1
+  Spirit: 0
+Armor:
+  armor: 20
+  armorPerLevel: 1
+FoodStats: 
+Moddifiers:
+  m_movementModifier: 0
+  m_EitrRegen: 0
+  m_homeItemsStaminaModifier: 0
+  m_heatResistanceModifier: 0
+  m_jumpStaminaModifier: 0
+  m_attackStaminaModifier: 0
+  m_blockStaminaModifier: 0
+  m_dodgeStaminaModifier: 0
+  m_swimStaminaModifier: 0
+  m_sneakStaminaModifier: 0
+  m_runStaminaModifier: 0
+SE_Equip: 
+SE_SET_Equip: 
+ShieldStats:
+  m_blockPower: 28
+  m_blockPowerPerLevel: 0
+  m_timedBlockBonus: 4
+  m_deflectionForce: 10
+  m_deflectionForcePerLevel: 5
+m_maxStackSize: 1
+m_canBeReparied: true
+m_destroyBroken: false
+m_dodgeable: true
+Attack_status_effect: 
+Attack_status_effect_chance: 1
+spawn_on_hit: 
+spawn_on_terrain_hit: 
+m_questItem: false
+m_teleportable: true
+m_backstabbonus: 6
+m_knockback: 10
+m_useDurability: true
+m_useDurabilityDrain: 1
+m_durabilityDrain: 0
+m_maxDurability: 200
+m_durabilityPerLevel: 50
+m_equipDuration: 0.2
+Attach_Override: Utility
+m_skillType: Knives
+m_animationState: Knives
+m_itemType: TwoHandedWeapon
+m_toolTier: 6
+m_maxQuality: 4
+m_value: 0
+ConsumableStatusEffect: 
+AppendToolTip: 
+damageModifiers: []
+GEffects: 
+GEffectsPLUS:
+  Hit_Effects:
+  - name: vfx_HitSparks
+    m_enabled: true
+    m_variant: -1
+    m_attach: false
+    m_follow: false
+    m_inheritParentRotation: false
+    m_inheritParentScale: false
+    m_multiplyParentVisualScale: false
+    m_randomRotation: false
+    m_scale: false
+    m_childTransform: ''
+  - name: sfx_arrow_hit
+    m_enabled: true
+    m_variant: -1
+    m_attach: false
+    m_follow: false
+    m_inheritParentRotation: false
+    m_inheritParentScale: false
+    m_multiplyParentVisualScale: false
+    m_randomRotation: false
+    m_scale: false
+    m_childTransform: ''
+  - name: fx_hit_camshake_knife
+    m_enabled: true
+    m_variant: -1
+    m_attach: false
+    m_follow: false
+    m_inheritParentRotation: false
+    m_inheritParentScale: false
+    m_multiplyParentVisualScale: false
+    m_randomRotation: false
+    m_scale: false
+    m_childTransform: ''
+  Hit_Terrain_Effects: []
+  Start_Effect: []
+  Hold_Start_Effects: []
+  Trigger_Effect:
+  - name: fx_swing_camshake
+    m_enabled: true
+    m_variant: -1
+    m_attach: false
+    m_follow: false
+    m_inheritParentRotation: false
+    m_inheritParentScale: false
+    m_multiplyParentVisualScale: false
+    m_randomRotation: false
+    m_scale: false
+    m_childTransform: ''
+  Trail_Effect:
+  - name: sfx_knife_swing
+    m_enabled: true
+    m_variant: -1
+    m_attach: false
+    m_follow: false
+    m_inheritParentRotation: false
+    m_inheritParentScale: false
+    m_multiplyParentVisualScale: false
+    m_randomRotation: false
+    m_scale: false
+    m_childTransform: ''

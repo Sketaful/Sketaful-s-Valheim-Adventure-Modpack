@@ -1,0 +1,59 @@
+name: Piece_grausten_pillarbeam_small
+piecehammer: Hammer
+m_name: $piece_grausten_beamsmall
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_stonecutter
+piecehammerCategory: BuildingStonecutter
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 400
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Resistant
+    m_pierce: Resistant
+    m_chop: Normal
+    m_pickaxe: Weak
+    m_fire: Resistant
+    m_frost: Resistant
+    m_lightning: Resistant
+    m_poison: Ignore
+    m_spirit: Ignore
+  noRoofWear: false
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: false
+  materialType: Ashstone
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+build:
+- Grausten:1:0:True

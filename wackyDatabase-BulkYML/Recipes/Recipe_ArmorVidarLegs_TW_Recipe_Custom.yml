@@ -1,0 +1,16 @@
+name: ArmorVidarLegs_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_armory_TW
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ArmorWolfLegs:1:0:True
+- Silver:12:12:True
+- Bronze:10:6:True
+- WolfHairBundle:10:8:True

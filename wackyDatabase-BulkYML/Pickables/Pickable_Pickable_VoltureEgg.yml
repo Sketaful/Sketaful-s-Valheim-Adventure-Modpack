@@ -1,0 +1,12 @@
+name: Pickable_VoltureEgg
+itemPrefab: VoltureEgg
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops: 

@@ -1,0 +1,16 @@
+name: BMP_DruidsTome_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- GoblinTotem:3:0:True
+- LoxPelt:12:0:True
+- LinenThread:16:0:True
+- ElderBark:8:0:True

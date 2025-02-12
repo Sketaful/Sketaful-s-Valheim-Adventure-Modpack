@@ -1,0 +1,16 @@
+name: ArmorSpellslingerLegs_Plains_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_weavingloom_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FabricBundle_Plains_TW:8:4:True
+- Needle:12:6:True
+- ShardYagluth_TW:7:3:True
+- Tar:8:0:True

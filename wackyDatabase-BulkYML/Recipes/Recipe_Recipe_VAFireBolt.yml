@@ -1,0 +1,15 @@
+name: Recipe_VAFireBolt
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:8:0:False
+- Resin:8:0:False
+- Feathers:2:0:False

@@ -1,0 +1,16 @@
+name: Recipe_VASilverAtgeir
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:10:0:False
+- Silver:25:10:False
+- Iron:4:2:False
+- LeatherScraps:3:1:False

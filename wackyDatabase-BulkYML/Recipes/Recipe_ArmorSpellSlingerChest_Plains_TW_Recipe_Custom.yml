@@ -1,0 +1,16 @@
+name: ArmorSpellSlingerChest_Plains_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_weavingloom_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FabricBundle_Plains_TW:10:5:True
+- BlackMetal:30:15:True
+- ShardYagluth_TW:8:3:True
+- LoxPelt:8:0:True

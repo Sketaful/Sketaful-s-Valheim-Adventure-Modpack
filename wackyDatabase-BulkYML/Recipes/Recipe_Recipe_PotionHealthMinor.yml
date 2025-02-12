@@ -1,0 +1,15 @@
+name: Recipe_PotionHealthMinor
+clonePrefabName: NO
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Mushroom:1:1:True
+- Blueberries:1:1:True
+- Dandelion:1:1:True

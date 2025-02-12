@@ -1,0 +1,14 @@
+name: PickaxeFader_TW_Recipe_BlackForge
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FlametalNew:15:8:True
+- FaderDrop:2:2:True

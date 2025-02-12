@@ -1,0 +1,4 @@
+name: DvergerTest
+mob_display_name: $enemy_dverger
+clone_creature: 
+creature_replacer: 

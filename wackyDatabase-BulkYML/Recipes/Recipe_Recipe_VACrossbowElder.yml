@@ -1,0 +1,16 @@
+name: Recipe_VACrossbowElder
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Bronze:4:2:False
+- RoundLog:20:10:False
+- CryptKey:1:0:False
+- TrophyTheElder:1:0:False

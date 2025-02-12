@@ -1,0 +1,4 @@
+name: Mistile
+mob_display_name: $enemy_mistile
+clone_creature: 
+creature_replacer: 

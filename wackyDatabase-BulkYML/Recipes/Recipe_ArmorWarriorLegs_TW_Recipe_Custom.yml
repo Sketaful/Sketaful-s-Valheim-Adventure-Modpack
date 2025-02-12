@@ -1,0 +1,16 @@
+name: ArmorWarriorLegs_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_armory_TW
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ArmorIronLegs:1:0:True
+- Iron:12:12:True
+- Ooze:5:4:True
+- Entrails:6:4:True

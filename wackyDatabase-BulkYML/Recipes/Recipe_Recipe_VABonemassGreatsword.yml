@@ -1,0 +1,18 @@
+name: Recipe_VABonemassGreatsword
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WitheredBone:15:5:False
+- Iron:30:15:False
+- Wishbone:1:0:False
+- TrophyBonemass:1:0:False
+- ElderBark:0:2:False
+- LeatherScraps:0:2:False

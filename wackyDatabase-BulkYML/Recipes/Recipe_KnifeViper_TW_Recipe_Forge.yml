@@ -1,0 +1,16 @@
+name: KnifeViper_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Bronze:22:11:True
+- HardAntler:12:6:True
+- SurtlingCore:4:2:True
+- TrophyAsmodeus_TW:1:1:True

@@ -1,0 +1,15 @@
+name: Recipe_VAdagger_meteor_nature
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VAdagger_meteor:1:0:False
+- FlametalNew:4:4:False
+- GemstoneGreen:1:1:False

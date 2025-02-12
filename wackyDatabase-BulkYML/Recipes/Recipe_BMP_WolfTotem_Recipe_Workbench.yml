@@ -1,0 +1,16 @@
+name: BMP_WolfTotem_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophyWolf:2:0:True
+- YmirRemains:5:2:True
+- WolfPelt:22:11:True
+- Silver:18:9:True

@@ -1,0 +1,15 @@
+name: RingMountain_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_arcaneanvil_TW
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ShardModer_TW:4:0:True
+- Silver:4:0:True
+- Diamond_TW:1:1:True

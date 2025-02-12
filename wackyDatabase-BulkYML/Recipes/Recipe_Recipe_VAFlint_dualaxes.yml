@@ -1,0 +1,15 @@
+name: Recipe_VAFlint_dualaxes
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:10:2:False
+- Flint:12:6:False
+- LeatherScraps:0:2:False

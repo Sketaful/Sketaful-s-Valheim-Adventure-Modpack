@@ -1,0 +1,16 @@
+name: BBA_SmallHull_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $bba_boatyard
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:30:0:True
+- Wood:15:0:True
+- RoundLog:4:0:True
+- BronzeNails:100:0:True

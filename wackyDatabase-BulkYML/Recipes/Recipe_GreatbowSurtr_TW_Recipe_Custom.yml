@@ -1,0 +1,16 @@
+name: GreatbowSurtr_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RagnoriteBar_TW:16:8:True
+- RuneDestruction_TW:18:9:True
+- BorealPineWood_TW:30:15:True
+- TrophySurtrDrake_TW:1:1:True

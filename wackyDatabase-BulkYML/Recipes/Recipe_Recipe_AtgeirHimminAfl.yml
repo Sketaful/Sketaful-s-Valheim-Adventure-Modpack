@@ -1,0 +1,16 @@
+name: Recipe_AtgeirHimminAfl
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_blackforge
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- YggdrasilWood:10:0:True
+- Eitr:15:15:True
+- Silver:5:5:True
+- Mandible:2:2:True

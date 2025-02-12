@@ -1,0 +1,4 @@
+name: Fenring_Cultist_Hildir
+mob_display_name: $enemy_fenringcultist_hildir
+clone_creature: 
+creature_replacer: 

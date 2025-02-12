@@ -1,0 +1,15 @@
+name: CudgelIron_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ElderBark:8:4:True
+- Iron:20:10:True
+- RottenPelt_TW:4:2:True

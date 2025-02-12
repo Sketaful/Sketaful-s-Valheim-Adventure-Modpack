@@ -1,0 +1,12 @@
+name: Pickable_Flax_Wild
+itemPrefab: Flax
+cloneOfWhatPickable: 
+material: 
+amount: 2
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 1
+hiddenChildWhenPicked: 
+extraDrops: 

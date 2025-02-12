@@ -1,0 +1,16 @@
+name: Recipe_SledgeStagbreaker
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RoundLog:20:5:True
+- TrophyDeer:5:2:True
+- LeatherScraps:2:1:True
+- BoneFragments:0:10:True

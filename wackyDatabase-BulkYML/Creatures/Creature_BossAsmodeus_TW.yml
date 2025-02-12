@@ -1,0 +1,4 @@
+name: BossAsmodeus_TW
+mob_display_name: $boss_asmodeus_TW
+clone_creature: 
+creature_replacer: 

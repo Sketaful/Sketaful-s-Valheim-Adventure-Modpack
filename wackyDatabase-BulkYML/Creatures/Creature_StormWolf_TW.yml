@@ -1,0 +1,4 @@
+name: StormWolf_TW
+mob_display_name: $stormwolf_TW
+clone_creature: 
+creature_replacer: 

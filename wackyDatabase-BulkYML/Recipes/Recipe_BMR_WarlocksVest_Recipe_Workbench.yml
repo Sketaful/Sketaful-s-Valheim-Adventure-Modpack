@@ -1,0 +1,16 @@
+name: BMR_WarlocksVest_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Chain:4:0:True
+- LoxPelt:36:18:True
+- JuteRed:14:7:True
+- LinenThread:12:6:True

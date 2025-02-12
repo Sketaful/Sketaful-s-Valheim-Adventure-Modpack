@@ -1,0 +1,17 @@
+name: Recipe_VAElderHammer
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Bronze:4:2:False
+- Stone:30:15:False
+- CryptKey:1:0:False
+- TrophyTheElder:1:0:False
+- RoundLog:0:8:False

@@ -1,0 +1,17 @@
+name: HelmetCircletIron_Sneak_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_arcaneanvil_TW
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- HelmetCircletIron_TW:1:0:True
+- Onyx_TW:1:1:True
+- ShardBonemass_TW:4:2:True
+- Entrails:8:1:True
+- Iron:0:5:True

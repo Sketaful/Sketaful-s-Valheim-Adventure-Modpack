@@ -1,0 +1,16 @@
+name: Recipe_FeastOceans
+clonePrefabName: NO
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FishCooked:5:1:True
+- Thistle:4:1:True
+- SerpentMeatCooked:2:1:True
+- SpiceOceans:1:1:True

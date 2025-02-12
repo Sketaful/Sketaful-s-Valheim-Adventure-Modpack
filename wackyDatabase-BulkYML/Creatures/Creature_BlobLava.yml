@@ -1,0 +1,4 @@
+name: BlobLava
+mob_display_name: $enemy_bloblava
+clone_creature: 
+creature_replacer: 

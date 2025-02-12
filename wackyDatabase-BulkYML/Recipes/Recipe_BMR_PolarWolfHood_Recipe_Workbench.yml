@@ -1,0 +1,16 @@
+name: BMR_PolarWolfHood_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WolfFang:3:0:True
+- WolfPelt:10:5:True
+- FreezeGland:6:3:True
+- TrollHide:2:1:True

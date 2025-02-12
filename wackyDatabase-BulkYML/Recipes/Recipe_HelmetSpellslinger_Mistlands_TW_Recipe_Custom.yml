@@ -1,0 +1,16 @@
+name: HelmetSpellslinger_Mistlands_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_weavingloom_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FabricBundle_Mistlands_TW:8:4:True
+- Eitr:12:6:True
+- ShardQueen_TW:8:4:True
+- TrophyGjall:1:0:True

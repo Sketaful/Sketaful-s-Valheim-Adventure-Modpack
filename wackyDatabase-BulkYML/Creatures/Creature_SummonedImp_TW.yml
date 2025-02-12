@@ -1,0 +1,4 @@
+name: SummonedImp_TW
+mob_display_name: $summonedimp_TW
+clone_creature: 
+creature_replacer: 

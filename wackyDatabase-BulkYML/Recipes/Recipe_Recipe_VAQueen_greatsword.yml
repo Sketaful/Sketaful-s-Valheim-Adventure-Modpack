@@ -1,0 +1,17 @@
+name: Recipe_VAQueen_greatsword
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- YggdrasilWood:10:5:False
+- Eitr:20:10:False
+- JuteBlue:4:2:False
+- TrophySeekerQueen:1:0:False
+- Carapace:0:8:False

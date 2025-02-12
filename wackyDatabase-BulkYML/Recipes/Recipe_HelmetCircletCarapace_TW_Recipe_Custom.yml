@@ -1,0 +1,13 @@
+name: HelmetCircletCarapace_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_wizardtable_TW
+minStationLevel: 7
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Carapace:18:0:True

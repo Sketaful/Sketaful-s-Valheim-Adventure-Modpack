@@ -1,0 +1,17 @@
+name: Recipe_VACrossbowModer
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ElderBark:10:5:False
+- Obsidian:20:10:False
+- DragonTear:10:0:False
+- TrophyDragonQueen:1:0:False
+- Silver:0:6:False

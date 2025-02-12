@@ -1,0 +1,16 @@
+name: Recipe_MeadBaseHealthMedium
+clonePrefabName: NO
+craftingStation: $piece_meadcauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Honey:10:1:True
+- Bloodbag:4:1:True
+- Raspberry:10:1:True
+- Dandelion:1:1:True

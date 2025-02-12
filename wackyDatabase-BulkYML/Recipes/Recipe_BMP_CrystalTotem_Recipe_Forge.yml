@@ -1,0 +1,16 @@
+name: BMP_CrystalTotem_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- DragonTear:2:0:True
+- BlackMetal:24:12:True
+- Silver:22:11:True
+- Iron:20:10:True

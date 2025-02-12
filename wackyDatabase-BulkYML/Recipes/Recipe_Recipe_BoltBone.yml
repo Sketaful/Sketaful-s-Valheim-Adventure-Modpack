@@ -1,0 +1,14 @@
+name: Recipe_BoltBone
+clonePrefabName: NO
+craftingStation: $piece_fletchertable_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BoneFragments:8:1:True
+- Feathers:2:1:True

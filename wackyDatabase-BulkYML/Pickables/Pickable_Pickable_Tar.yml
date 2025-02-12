@@ -1,0 +1,12 @@
+name: Pickable_Tar
+itemPrefab: Tar
+cloneOfWhatPickable: 
+material: 
+amount: 4
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops: 

@@ -1,0 +1,4 @@
+name: Draugr_Ranged
+mob_display_name: $enemy_draugr
+clone_creature: 
+creature_replacer: 

@@ -1,0 +1,12 @@
+name: Pickable_Branch (1)
+itemPrefab: Wood
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: $item_pickable_branch
+respawnTimer: 240
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: model
+extraDrops: 

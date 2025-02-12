@@ -1,0 +1,16 @@
+name: Recipe_VAdagger_silver_2h
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:4:2:False
+- Silver:12:6:False
+- Iron:4:2:False
+- LeatherScraps:6:3:False

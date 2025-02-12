@@ -1,0 +1,16 @@
+name: Recipe_FeastMistlands
+clonePrefabName: NO
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- MisthareSupreme:1:1:True
+- CookedBugMeat:3:1:True
+- YggdrasilPorridge:1:1:True
+- SpiceMistlands:1:1:True

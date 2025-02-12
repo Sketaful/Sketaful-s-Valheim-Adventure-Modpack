@@ -1,0 +1,12 @@
+name: Pickable_ForestCryptRemains_04_TW
+itemPrefab: BoneFragments
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: $item_pickable_skeletalremains
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: crypt_skeleton_pile02
+extraDrops: 

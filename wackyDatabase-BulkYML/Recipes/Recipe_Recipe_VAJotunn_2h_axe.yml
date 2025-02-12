@@ -1,0 +1,16 @@
+name: Recipe_VAJotunn_2h_axe
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Eitr:30:20:False
+- Iron:20:15:False
+- YggdrasilWood:14:5:False
+- Bilebag:6:2:False

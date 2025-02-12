@@ -1,0 +1,15 @@
+name: Recipe_MeadBaseBugRepellent
+clonePrefabName: NO
+craftingStation: $piece_meadcauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Cloudberry:10:1:True
+- Fish7:3:1:True
+- FragrantBundle:1:1:True

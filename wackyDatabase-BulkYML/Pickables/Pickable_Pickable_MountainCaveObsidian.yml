@@ -1,0 +1,18 @@
+name: Pickable_MountainCaveObsidian
+itemPrefab: Obsidian
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: $item_obsidian
+respawnTimer: 0
+spawnOffset: 0.3
+ifHasHealth: 10
+hiddenChildWhenPicked: 
+extraDrops:
+  drops:
+  - Obsidian
+  dropMin: 1
+  dropMax: 1
+  dropChance: 1
+  dropOneOfEach: false

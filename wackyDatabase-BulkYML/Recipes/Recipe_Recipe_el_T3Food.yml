@@ -1,0 +1,16 @@
+name: Recipe_el_T3Food
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: $piece_cauldron
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- MeadEitrMinor:4:3:True
+- MeadHealthMajor:2:2:True
+- Fish9:1:1:True
+- MushroomMagecap:5:4:True

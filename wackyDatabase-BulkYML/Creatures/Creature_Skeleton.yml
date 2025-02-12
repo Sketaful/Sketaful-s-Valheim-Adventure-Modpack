@@ -1,0 +1,4 @@
+name: Skeleton
+mob_display_name: $enemy_skeleton
+clone_creature: 
+creature_replacer: 

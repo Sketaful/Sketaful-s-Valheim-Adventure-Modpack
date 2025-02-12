@@ -1,0 +1,4 @@
+name: Hen
+mob_display_name: $enemy_hen
+clone_creature: 
+creature_replacer: 

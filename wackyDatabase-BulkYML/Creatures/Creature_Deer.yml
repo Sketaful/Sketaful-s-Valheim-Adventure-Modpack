@@ -1,0 +1,4 @@
+name: Deer
+mob_display_name: $enemy_deer
+clone_creature: 
+creature_replacer: 

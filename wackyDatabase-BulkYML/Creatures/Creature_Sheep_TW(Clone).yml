@@ -1,0 +1,4 @@
+name: Sheep_TW(Clone)
+mob_display_name: $sheep_TW
+clone_creature: 
+creature_replacer: 

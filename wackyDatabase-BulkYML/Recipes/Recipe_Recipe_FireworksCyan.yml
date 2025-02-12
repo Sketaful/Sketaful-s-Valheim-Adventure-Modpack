@@ -1,0 +1,14 @@
+name: Recipe_FireworksCyan
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FireworksRocket_White:1:0:False
+- GreydwarfEye:1:0:False

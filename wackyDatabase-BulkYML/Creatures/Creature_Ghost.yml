@@ -1,0 +1,4 @@
+name: Ghost
+mob_display_name: $enemy_ghost
+clone_creature: 
+creature_replacer: 

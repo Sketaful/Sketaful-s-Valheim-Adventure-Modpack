@@ -1,0 +1,15 @@
+name: Recipe_VAsilver_tower
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:15:10:False
+- Silver:10:6:False
+- TrophyUlv:1:1:False

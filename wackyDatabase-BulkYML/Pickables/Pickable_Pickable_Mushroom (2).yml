@@ -1,0 +1,12 @@
+name: Pickable_Mushroom (2)
+itemPrefab: Mushroom
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 240
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: visual
+extraDrops: 

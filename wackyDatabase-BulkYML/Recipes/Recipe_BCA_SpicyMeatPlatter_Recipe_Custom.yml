@@ -1,0 +1,16 @@
+name: BCA_SpicyMeatPlatter_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $bca_cookingpot
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CookedWolfMeat:2:0:True
+- CookedMeat:2:0:True
+- CookedDeerMeat:2:0:True
+- BCA_ChiliPepper:12:0:True

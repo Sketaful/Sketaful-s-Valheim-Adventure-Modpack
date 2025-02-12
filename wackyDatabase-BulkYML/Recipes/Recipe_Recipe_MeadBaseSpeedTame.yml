@@ -1,0 +1,16 @@
+name: Recipe_MeadBaseSpeedTame
+clonePrefabName: NO
+craftingStation: $piece_meadcauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_meadcauldron
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophyWolf:3:2:True
+- BarleyFlour:5:4:True
+- AT_HasTamed_Item:5:4:True
+- Honey:10:8:True

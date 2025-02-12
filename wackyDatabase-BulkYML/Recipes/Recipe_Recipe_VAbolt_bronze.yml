@@ -1,0 +1,15 @@
+name: Recipe_VAbolt_bronze
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:8:0:False
+- Bronze:1:0:False
+- Feathers:2:0:False

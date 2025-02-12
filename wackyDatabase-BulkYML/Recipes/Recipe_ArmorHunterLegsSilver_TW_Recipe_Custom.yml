@@ -1,0 +1,16 @@
+name: ArmorHunterLegsSilver_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_armory_TW
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WolfPelt:8:4:True
+- Silver:12:6:True
+- WolfHairBundle:6:3:True
+- ArmorHunterLegsIron_TW:1:0:True

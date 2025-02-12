@@ -1,0 +1,4 @@
+name: Asksvin
+mob_display_name: $enemy_asksvin
+clone_creature: 
+creature_replacer: 

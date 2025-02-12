@@ -1,0 +1,12 @@
+name: goblin_totempole
+itemPrefab: GoblinTotem
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 1.7
+ifHasHealth: 
+hiddenChildWhenPicked: Totem
+extraDrops: 

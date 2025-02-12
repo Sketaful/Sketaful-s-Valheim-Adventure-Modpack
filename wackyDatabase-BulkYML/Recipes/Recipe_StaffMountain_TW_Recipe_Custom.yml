@@ -1,0 +1,15 @@
+name: StaffMountain_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_wizardtable_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Staffbase_Mountain_TW:1:0:True
+- Staffcore_Mountain_TW:1:0:True
+- ArcaneScroll_Mountain_TW:0:2:True

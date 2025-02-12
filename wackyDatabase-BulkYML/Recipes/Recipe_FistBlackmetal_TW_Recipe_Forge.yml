@@ -1,0 +1,16 @@
+name: FistBlackmetal_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BlackMetal:25:12:True
+- LoxBone_TW:6:3:True
+- ProwlerFang_TW:8:4:True
+- TrophyDeathsquito:1:0:True

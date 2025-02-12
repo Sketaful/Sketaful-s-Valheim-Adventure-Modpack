@@ -1,0 +1,12 @@
+name: Pickable_GrownMushroomWizardbutter_TW
+itemPrefab: MushroomWizardbutter_TW
+cloneOfWhatPickable: 
+material: 
+amount: 2
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 1
+ifHasHealth: 15
+hiddenChildWhenPicked: 
+extraDrops: 

@@ -1,0 +1,4 @@
+name: BMP_NeckFriendly
+mob_display_name: $bmp_neck_summon
+clone_creature: 
+creature_replacer: 

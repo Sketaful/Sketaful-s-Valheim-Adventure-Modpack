@@ -1,0 +1,15 @@
+name: Recipe_VAIron_dualaxes
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ElderBark:8:0:False
+- Iron:40:20:False
+- LeatherScraps:4:2:False

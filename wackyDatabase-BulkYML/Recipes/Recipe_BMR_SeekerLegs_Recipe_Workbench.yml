@@ -1,0 +1,16 @@
+name: BMR_SeekerLegs_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Mandible:12:0:True
+- ScaleHide:28:14:True
+- Carapace:26:13:True
+- Eitr:28:14:True

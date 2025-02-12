@@ -1,0 +1,12 @@
+name: RaspberryBush
+itemPrefab: Raspberry
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 300
+spawnOffset: 1
+ifHasHealth: 30
+hiddenChildWhenPicked: Berrys
+extraDrops: 

@@ -1,0 +1,16 @@
+name: ScytheVampiric_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Iron:40:20:True
+- WitheredBone:18:9:True
+- Bloodbag:16:8:True
+- TrophyVrykolathas_TW:1:1:True

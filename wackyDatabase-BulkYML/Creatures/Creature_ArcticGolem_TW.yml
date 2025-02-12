@@ -1,0 +1,4 @@
+name: ArcticGolem_TW
+mob_display_name: $arcticgolem_TW
+clone_creature: 
+creature_replacer: 

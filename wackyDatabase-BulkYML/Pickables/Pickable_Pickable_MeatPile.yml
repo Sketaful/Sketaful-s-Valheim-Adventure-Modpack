@@ -1,0 +1,20 @@
+name: Pickable_MeatPile
+itemPrefab: Entrails
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: $item_pickable_meatpile
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops:
+  drops:
+  - Coins
+  - Entrails
+  - SilverNecklace
+  dropMin: 1
+  dropMax: 3
+  dropChance: 0.5
+  dropOneOfEach: false

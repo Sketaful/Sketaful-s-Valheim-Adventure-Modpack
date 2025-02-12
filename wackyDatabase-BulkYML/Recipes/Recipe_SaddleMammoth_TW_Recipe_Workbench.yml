@@ -1,0 +1,15 @@
+name: SaddleMammoth_TW_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ArcticMammothPelt_TW:6:0:True
+- ArcticMammothTusk_TW:2:0:True
+- TrophyArcticMammoth_TW:1:0:True

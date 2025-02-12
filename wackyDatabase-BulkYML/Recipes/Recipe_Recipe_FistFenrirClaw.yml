@@ -1,0 +1,15 @@
+name: Recipe_FistFenrirClaw
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WolfHairBundle:10:1:True
+- WolfClaw:6:1:True
+- Silver:10:1:True

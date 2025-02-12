@@ -1,0 +1,15 @@
+name: Recipe_StaffShield
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- YggdrasilWood:20:10:True
+- GiantBloodSack:4:2:True
+- Eitr:16:8:True

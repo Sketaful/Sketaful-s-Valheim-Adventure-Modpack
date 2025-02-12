@@ -1,0 +1,12 @@
+name: BGP_Pickable_SilicaOre
+itemPrefab: BGP_SilicaOre
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops: 

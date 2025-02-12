@@ -1,0 +1,16 @@
+name: ArmorSpellslingerLegs_Mountain_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_weavingloom_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FabricBundle_Mountain_TW:6:3:True
+- WolfPelt:4:2:True
+- ShardModer_TW:5:2:True
+- FreezeGland:4:0:True

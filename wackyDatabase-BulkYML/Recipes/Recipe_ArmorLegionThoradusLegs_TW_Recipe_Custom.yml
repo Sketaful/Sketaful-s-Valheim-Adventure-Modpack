@@ -1,0 +1,16 @@
+name: ArmorLegionThoradusLegs_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ThoradusBar_TW:20:10:True
+- HelHideBundle_TW:14:7:True
+- RuneWrath_TW:12:6:True
+- DaggerfangScaleHide_TW:6:4:True

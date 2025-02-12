@@ -1,0 +1,16 @@
+name: Recipe_VACrossbowBronze
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:10:5:False
+- RoundLog:10:5:False
+- Bronze:4:0:False
+- DeerHide:2:2:False

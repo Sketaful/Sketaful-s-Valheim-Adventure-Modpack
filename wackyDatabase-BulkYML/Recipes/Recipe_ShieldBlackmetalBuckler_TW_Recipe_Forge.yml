@@ -1,0 +1,16 @@
+name: ShieldBlackmetalBuckler_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BlackMetal:20:10:True
+- FineWood:12:6:True
+- LinenThread:6:3:True
+- TrophyLox:1:0:True

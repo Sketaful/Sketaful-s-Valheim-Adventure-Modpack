@@ -1,0 +1,15 @@
+name: ShieldChitin_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Chitin:15:8:True
+- ElderBark:12:6:True
+- Bronze:10:5:True

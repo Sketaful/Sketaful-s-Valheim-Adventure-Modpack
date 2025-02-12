@@ -1,0 +1,16 @@
+name: BCA_SpicyMeatSupreme_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $bca_cookingpot
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CookedMeat:6:0:True
+- Onion:4:0:True
+- BCA_Tomato:4:0:True
+- BCA_ChiliPepper:8:0:True

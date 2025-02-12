@@ -1,0 +1,15 @@
+name: Recipe_SeekerAspic
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BugMeat:2:1:True
+- MushroomMagecap:2:1:True
+- RoyalJelly:2:1:True

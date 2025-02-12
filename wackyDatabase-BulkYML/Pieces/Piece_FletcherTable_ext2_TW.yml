@@ -1,0 +1,66 @@
+name: FletcherTable_ext2_TW
+piecehammer: Hammer
+m_name: $piece_fletchertable_ext2_TW
+sizeMultiplier: 1
+m_description: $piece_fletchertable_ext2_description_TW
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_fletchertable_TW
+piecehammerCategory: Warfare
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 100
+  damageModifiers:
+    m_blunt: Ignore
+    m_slash: Normal
+    m_pierce: Ignore
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Immune
+    m_frost: Immune
+    m_lightning: Immune
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: false
+  supports: false
+  triggerPrivateArea: true
+  materialType: Wood
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList:
+- MainCraftingStationName: FletcherTable_TW
+  maxStationDistance: 30
+  continousConnection: false
+  stack: false
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+build:
+- BronzeNails:20:1:True
+- RoundLog:8:1:True
+- TrollHide:10:1:True
+- TrollBone_TW:2:1:True

@@ -1,0 +1,16 @@
+name: Recipe_VAMeteorAtgeir_blood
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VAMeteorAtgeir:1:0:False
+- FlametalNew:8:8:False
+- Blackwood:5:0:False
+- GemstoneRed:1:1:False

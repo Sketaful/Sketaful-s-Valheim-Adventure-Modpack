@@ -1,0 +1,16 @@
+name: Recipe_FeastMeadows
+clonePrefabName: NO
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CookedDeerMeat:2:1:True
+- CookedMeat:5:1:True
+- Dandelion:4:1:True
+- SpiceForests:1:1:True

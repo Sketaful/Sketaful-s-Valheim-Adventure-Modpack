@@ -1,0 +1,16 @@
+name: FishPieUncooked_TW_Recipe_PrepTable
+clonePrefabName: NO
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- MushroomWintercap_TW:2:0:True
+- Helweed_TW:3:0:True
+- PrimalLeak_TW:1:0:True
+- ArcticSerpentMeat_TW:1:0:True
