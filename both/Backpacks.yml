@@ -118,6 +118,8 @@
     - CarrotSeeds
     - OnionSeeds
     - TurnipSeeds
+    - BCA_ChiliPepperSeeds
+    - BCA_TomatoSeeds
   upgrade:
     1:
       BlackBearPelt_TW: 1
