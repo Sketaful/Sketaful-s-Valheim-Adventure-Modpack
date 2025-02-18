@@ -47,6 +47,8 @@
     - Pukeberries
     - RoyalJelly
     - ChickenEgg
+    - BCA_ChiliPepper
+    - BCA_Tomato
   upgrade:
     1:
       GrizzlyBearPelt_TW: 5
