@@ -1,5 +1,6 @@
 # Resin and Tar Exclusion List
 # Add the PrefabName of pieces to exclude from Resin or Tar protection visuals.
+# 
 
 Resin:
   - PrefabNameToExclude1
