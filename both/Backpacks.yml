@@ -90,7 +90,7 @@
   teleport: true
 "Seed Bag":
   description: "Keep all those seeds together.\nDON'T USE CTRL-R-MOUSE TO MOVE BETWEEN CHEST AND INVENTORY, A BUG WILL MAKE THE BAG DISAPPEAR!" 
-  size: 2x4 # Initial size with 2 columns and 4 rows.
+  size: 5x2 # 5 columns, 2 rows.
   unique: type
   appearance:
     Sleepbag: hidden    
