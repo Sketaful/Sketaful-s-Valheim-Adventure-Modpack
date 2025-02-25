@@ -15,3 +15,4 @@ Hold resin in your hand and right-click a building piece to make it withstand mo
 You can hold SHIFT while swimming to swim faster but it will use a lot more stamina.
 If you're out of stamina while swimming just stop for a while and you'll slowly regain it.
 All workbenches, forges etc. can use ingrediences directly from chests that are close by.
+You van make a backpack for extra storage. Everything in a backpack have their weight reduced.
