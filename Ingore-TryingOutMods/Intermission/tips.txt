@@ -16,3 +16,6 @@ You can hold SHIFT while swimming to swim faster but it will use a lot more stam
 If you're out of stamina while swimming just stop for a while and you'll slowly regain it.
 All workbenches, forges etc. can use ingrediences directly from chests that are close by.
 You van make a backpack for extra storage. Everything in a backpack have their weight reduced.
+Beware the wizards of the biomes. They're a lot more dangerous than the regular mobs.
+If you're running a public server with this modpack contact Sketaful on discord and he'll can add it to the menu.
+If you kill a boss you can build your own boss stone and put up the trophy in your base instead.
