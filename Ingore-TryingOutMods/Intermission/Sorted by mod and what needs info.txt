@@ -1,7 +1,7 @@
-License Plate:
+LicensePlate v1.3.0 by ComfyMods
 If you look at the rudder of your ship and press SHIFT+E you can name it so everyone can see it's your ship.
 
-More Pins
+MorePins
 The map have been enhanced with many more different pins.\nThe standard pins are still there as well but coloured.
 
 CustomRaids
@@ -10,16 +10,23 @@ The raids you can get on your base is not always the ones you've seen before. *h
 DualWield
 You can now dual wield and not only weapons but also tools.\nTry holding two axes and do a special attack (middle mouse) and see how quickly you can chop down a tree.
 
-Instant Monster loot
+InstantMonsterLootDrop
 It's annoying to hit a creature and see it glide down a hillside before despawning so you can loot it.\nWell, fear not! All creatures despawn and now drop their loot the instant they're killed!
 
-Itemstand all item
+Item_Stand_All_Items
 The item stands can hold next to every item in the game now so go nuts decorating with whatever you can come up with.
 
-Groups & Guilds
+Groups/Guilds/Friends
 If you play on a server with many players you can add friends, make a guild and make a group. Whichever suits you best.]\nGuilds and Friends are added through the UI when pressing TAB ingame, Groups need an /invite [playername] in chat.
 
-World Size
+Heightmap_Unlimited_Remake
+You can lower or raise the ground by 50 meters instead of the regular 8 meters.
+
+TargetPortal
+Portals do not need to be connected anymore. When using one portal a map will show up with all other portals on it. Just click the portal you need to go to.\n
+You can make your portals show up on the map for everyone, only for yourself or for your guild/group/friends.
+
+Expand_World_Size
 The world is not locked to one size any more. Make the world 2x, 4x or 16 larger. Just remember to add the extra amount of places to find or it will feel empty.
 
 PlantEverything
@@ -38,3 +45,101 @@ Itemhopper
 You can make item hoppers and connect to furnaces and more to be able to add more things at a time to be used.\n
 Warning! If you leave the area so it get unloaded things might fall out and have to be picked up.
 
+
+BetterZeeLog
+ColorfulDamage
+ReportCard
+ComfyLoadingScreens <- TA BORT!!!
+Intermission
+More_Vanilla_Build_Prefabs
+
+MagicPlugin
+WackysDatabase
+Custom_Raids
+MissingPieces
+JsonDotNET
+TravelingHaldor
+
+SmoothSave
+
+
+ResourceUnloadOptimizer
+
+
+
+AzuAntiCheat
+CustomTutorials
+CombatOwner
+
+LocalizationCache
+SearsCatalog
+
+PlantEverything
+WieldEquipmentWhileSwimming v1.1.1 by blacks7ar
+Recycle_N_Reclaim v1.3.5 by Azumatt
+BuildableBossStones v1.0.9 by RustyMods
+ItemHopper v2.0.0 by MSchmoecker
+SteadyRegeneration v1.0.3 by Smoothbrain
+CreatureLevelAndLootControl v4.6.2 by Smoothbrain
+AzuClock v1.0.4 by Azumatt
+AzuExtendedPlayerInventory v1.4.6 by Azumatt
+Logo_Changer v1.0.11 by Azumatt
+TarCollector v1.1.6 by blacks7ar
+GlassPieces v1.2.3 by blacks7ar
+FineWoodBuildPieces v1.1.6 by blacks7ar
+FeatherCollector v1.1.7 by blacks7ar
+CrystalCollector v1.1.5 by blacks7ar
+CoreWoodPieces v1.2.2 by blacks7ar
+CookingAdditions v1.2.0 by blacks7ar
+MajesticButton v1.0.5 by Azumatt
+BoatAdditions v1.3.5 by blacks7ar
+Quick_Stack_Store_Sort_Trash_Restock v1.4.11 by Goldenrevolver
+ResinGuard v1.2.3 by Azumatt
+Professions v1.4.4 by Smoothbrain
+Build_Camera_Custom_Hammers_Edition v1.2.6 by Azumatt
+Cooking v1.2.1 by Smoothbrain
+Blacksmithing v1.3.2 by Smoothbrain
+Digitalroots_Slope_Combat_Assistance v2.0.27 by Digitalroot
+Eternal_Fire v1.0.17 by Digitalroot
+Farming v2.2.1 by Smoothbrain
+OdinsSteelworks v0.2.3 by OdinPlus
+Wizardry_Raids v0.0.3 by JewelHeim
+PlantEasily v2.0.2 by Advize
+AdvancedTerrainModifiers v1.4.1 by Searica
+SearchableBuildMenu v1.0.4 by Azumatt
+KillMeForMyPower v1.1.2 by turbero
+StaminaRegenerationFromFood v1.5.6 by Smoothbrain
+Backpacks v1.3.6 by Smoothbrain
+ClayBuildPieces v1.2.3 by blacks7ar
+Monstrum_Raids v1.0.0 by JewelHeim
+Almanac v3.4.0 by RustyMods
+Armory v1.3.0 by Therzie
+NetworkTweaks v0.1.4 by Searica
+UsefulPaths v1.0.4 by RustyMods
+Waypoints v1.1.2 by RustyMods
+MadHatter v2.2.2 by OdinPlus
+Warfare v1.8.8 by Therzie
+VikingsDoSwim v1.3.7 by blacks7ar
+MountUpRestored v3.4.1 by Meldurson
+AllTameableTamingOverhaul v1.5.1 by Meldurson
+Wizardry v1.1.7 by Therzie
+Expand_World_Data v1.51.0 by JereKuusela
+AAA_Crafting v1.6.4 by Azumatt
+Jewelcrafting v1.5.32 by Smoothbrain
+ConfigurationManager v1.0.24 by shudnal
+Gizmo v1.14.0 by ComfyMods
+Chatter v2.10.0 by ComfyMods
+Jotunn v2.23.2 by ValheimModding
+CrystalLights v1.1.4 by OdinPlus
+GuckCollector v1.1.5 by blacks7ar
+MultiUserChest v0.6.1 by MSchmoecker
+Drop_That v3.1.0 by ASharpPen
+MonstrumDeepNorth v2.0.4 by Therzie
+WarfareFireAndIce v2.0.7 by Therzie
+WackyEpicMMOSystem v1.9.36 by WackyMole
+DiscoveryPins v0.3.9 by Searica
+AzuCraftyBoxes v1.6.1 by Azumatt
+Monstrum v1.5.0 by Therzie
+BepInExPack_Valheim v5.4.2202 by denikson
+Soulcatcher_JC_KG_Additions v4.5.8 by KGvalheim
+Wagon v1.1.3 by CookieMilk
