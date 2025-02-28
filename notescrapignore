@@ -1,0 +1,92 @@
+Just my notes to keep the prefabs settings listed and easy to get to (cause sometimes I clear a config and froget to backup the prefabs I spent hours going through :P
+
+AdvancedTerrainModifiers:
+ATM_Shovel,1,1000,defeated_bonemass
+
+Mad Hatter:
+Catears,1,1500,defeated_eikthyr
+catmask,1,1500,defeated_serpen
+CatTail,1,500,defeated_eikthyr
+DarkRavenCowl,1,2000,defeated_dragon
+DeathKnightHelm,1,1000,defeated_serpent
+DemonMask,1,1500,defeated_eikthyr
+DragonHeaddress,1,2000,defeated_dragon
+EphemeralHelm,1,2000,defeated_bonemass
+FallenWarriorHelm,1,1500,defeated_eikthyr
+GrimAgeWarlord,1,1500,defeated_eikthyr
+GrimAgeChaosWarrior,1,2000,defeated_gdking
+GrimAgeHornedHelm,1,2000,defeated_bonemass
+HoodofYggdrasil,1,2000,defeated_gdking
+LunarCrown,1,2000,defeated_goblinking
+MerchantsHat,1,1500,defeated_eikthyr
+neckhead,1,2000,defeated_gdking
+SamuraiHelm,1,2000,defeated_queen
+Sheida,1,1000,killed_surtling
+SGTLShogunHat,1,1500,KilledTroll
+Goblinhat,1,2000,defeated_dragon
+greydwarfhat,1,1000,killed_surtling
+wolfhead,1,2000,defeated_bonemass
+Magehat,1,2000,defeated_goblinking
+
+Waypoints:
+WaypointShrine
+WaypointShrinePortal
+
+Vanilla saddles:
+SaddleLox
+SaddleAsksvin
+
+Therzie's Saddles:
+-Monstrum-
+SaddleBoar_TW
+SaddleBear_TWS
+addleProwler_TW
+-MonstrumDeepNorth-
+SaddleMammoth_TW
+
+
+Mount Up Restored:
+SaddleT0
+SaddleT1
+SaddleT2
+SaddleT3
+SaddleT4
+SaddleT5
+SaddleT6
+SaddleT7
+SaddleT8
+
+
+Needing fuel:
+BFP_ClayLightPost
+BFP_StoneLightPost
+
+Finewood Stone Roofs (they look horrible)
+BFP_StoneRoof26
+BFP_StoneRoof45
+BFP_StoneRoofICorner26
+BFP_StoneRoofICorner45
+BFP_StoneRoofOCorner26
+BFP_StoneRoofOCorner45
+BFP_StoneRoofTop26
+BFP_StoneRoofTop45
+
+Backpacks:
+bp_explorer
+ForagerFarmingBag
+SeedBag
+
+Boss stones:
+piece_BossStone_Eikthyr
+piece_BossStone_TheElder
+piece_BossStone_Bonemass
+Boss Stone DragonQueen
+piece_BossStone_Yagluth
+Boss Stone TheQueen
+piece_BossStone_Fader
+
+
+
+
+
+
