@@ -16,7 +16,7 @@ Hold resin in your hand and right-click a building piece to make it withstand mo
 You can hold SHIFT while swimming to swim faster but it will use a lot more stamina.
 If you're out of stamina while swimming just stop for a while and you'll slowly regain it.
 All workbenches, forges etc. can use ingrediences directly from chests that are close by.
-You can make a backpack for extra storage. Everything in a backpack have their weight reduced.
+You can make a backpack for extra storage. Everything in a backpack have their weight reduced.\nRight now there's only three types of backpacks but more will be available.\nYou can only have one of each type in your inventory at the same time.
 Beware the wizards of the biomes. They're a lot more dangerous than the regular mobs.
 If you're running a public server with this modpack contact Sketaful on discord and he'll can add it to the menu.
 If you kill a boss you can build your own boss stone and put up the trophy in your base instead.
