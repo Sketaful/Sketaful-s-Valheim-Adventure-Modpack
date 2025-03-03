@@ -13,16 +13,16 @@ You can unlock achievements to gain extra things. Press TAB for inventory and ch
 You used to only be able to raise/lower the ground by 8 meter, now you have 50 meters to play with.
 Hold tar in your hand and right-click a building piece to make it waterproof.
 Hold resin in your hand and right-click a building piece to make it withstand more damage for a while.
-You can hold SHIFT while swimming to swim faster but it will use a lot more stamina.
+You can <i>hold SHIFT while swimming</i> to swim faster but it will use a lot more stamina.
 If you're out of stamina while swimming just stop for a while and you'll slowly regain it.
 All workbenches, forges etc. can use ingrediences directly from chests that are close by.
-You can make a backpack for extra storage. Everything in a backpack have their weight reduced.
+You can make a backpack for extra storage. Everything in a backpack have their weight reduced.\nRight now there's only three types of backpacks but more will be available.\nYou can only have one of each type in your inventory at the same time.
 Beware the wizards of the biomes. They're a lot more dangerous than the regular mobs.
 If you're running a public server with this modpack contact Sketaful on discord and he'll can add it to the menu.
 If you kill a boss you can build your own boss stone and put up the trophy in your base instead.
-If you type <#FFFFFF> on a sign, where FFFFFF is the HEX colour code, the text typed after will be in that colour (works in vanilla as well).
 Did you know that signs in valheim can show unicode images?\nTry holding ALT and press 3 on the numpad and then release when writing on a sign for a nice heart.\nJust google "unicode images" and see test which ones work and which doesnt.
 Are you playing online with friends and mix up who's ship is who's?\nLook at the rudder and press SHIFT+E to name your ship.
 You don't have to wait for creatures you kill to despawn and drop their loot anymore, they'll do that instantly.
 If you like to decorate with item stands you'd be happy to know that almost anything can be placed on them now.
 You can dual wield most weapons and tools. Special attacks are different when dual wielding.\nTry holding two axes and use special attack when chopping trees.
+When placing object on item stands the stand turns invisible and only shows the object.
