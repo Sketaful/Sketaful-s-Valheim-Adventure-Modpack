@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: SurtrOverseer_mat_TW
+_Color:
+  r: 0.4056604
+  g: 0.4056604
+  b: 0.4056604
+  a: 1
+_MainTex: T_DemonLordBody_BaseColor
+_EmissionColor:
+  r: 2.378414
+  g: 0.1562355
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

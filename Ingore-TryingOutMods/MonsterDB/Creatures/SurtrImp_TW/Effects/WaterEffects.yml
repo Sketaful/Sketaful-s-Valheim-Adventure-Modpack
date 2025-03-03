@@ -1,0 +1,11 @@
+- PrefabName: vfx_water_surface_TW
+  Enabled: true
+  Variant: -1
+  Attach: true
+  Follow: false
+  InheritParentRotation: false
+  InheritParentScale: false
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: ''

@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: Tentaroot_mat
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Tentaroot_d
+_EmissionColor:
+  r: 19.07337
+  g: 0
+  b: 2.606299
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

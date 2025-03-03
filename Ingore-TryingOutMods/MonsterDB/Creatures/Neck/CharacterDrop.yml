@@ -1,0 +1,14 @@
+- PrefabName: NeckTail
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.7
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false
+- PrefabName: TrophyNeck
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.2
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

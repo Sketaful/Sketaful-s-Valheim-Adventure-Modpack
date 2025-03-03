@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: meteor_TW
+_Color:
+  r: 0.4433962
+  g: 0.02588853
+  b: 0.02258807
+  a: 1
+_MainTex: iron
+_EmissionColor:
+  r: 2.832001
+  g: 0.6994171
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

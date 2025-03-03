@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: AshenDemonGear_mat_TW
+_Color:
+  r: 0.7830188
+  g: 0.7830188
+  b: 0.7830188
+  a: 1
+_MainTex: T_DemonWarriorGear_BaseColor
+_EmissionColor:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,39 @@
+Visual
+	Bear
+	root
+		BEAR_
+			BEAR_ Footsteps
+			BEAR_ Pelvis
+				BEAR_ Spine
+					BEAR_ L Thigh
+						BEAR_ L Calf
+							BEAR_ L Foot
+								BEAR_ L Toe0
+									BEAR_ L Toe01
+										BEAR_ L Toe02
+					BEAR_ R Thigh
+						BEAR_ R Calf
+							BEAR_ R Foot
+								BEAR_ R Toe0
+									BEAR_ R Toe01
+										BEAR_ R Toe02
+					BEAR_ Spine1
+						BEAR_ Neck
+							BEAR_ L Clavicle
+								BEAR_ L UpperArm
+									BEAR_ L Forearm
+										BEAR_ L Hand
+											BEAR_ L Finger0
+												BEAR_ L Finger01
+							BEAR_ Neck1
+								BEAR_ Head
+									BEAR_ Queue de cheval 1
+							BEAR_ R Clavicle
+								BEAR_ R UpperArm
+									BEAR_ R Forearm
+										BEAR_ R Hand
+											BEAR_ R Finger0
+												BEAR_ R Finger01
+					Mount.001
+						attachpoint
+							SaddlebearWithoutExtras

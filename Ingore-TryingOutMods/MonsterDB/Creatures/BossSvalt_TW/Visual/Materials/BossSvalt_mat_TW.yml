@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: BossSvalt_mat_TW
+_Color:
+  r: 0.6037736
+  g: 0.6037736
+  b: 0.6037736
+  a: 1
+_MainTex: T_vendigotexturing_Vendigo_BaseMap
+_EmissionColor:
+  r: 1
+  g: 0.01997434
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

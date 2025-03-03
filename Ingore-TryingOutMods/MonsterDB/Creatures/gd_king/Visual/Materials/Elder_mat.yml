@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: Elder_mat
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Elder_d
+_EmissionColor:
+  r: 1.059274
+  g: 0
+  b: 0.3272102
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: Skeleton_burned
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Skeleton_d
+_EmissionColor:
+  r: 6.422235
+  g: 1.075976
+  b: 0
+  a: 0
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

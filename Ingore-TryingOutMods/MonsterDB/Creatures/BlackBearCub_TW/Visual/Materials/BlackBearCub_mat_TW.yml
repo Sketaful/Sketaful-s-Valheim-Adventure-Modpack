@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: BlackBearCub_mat_TW
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Black Bear Cub_AlbedoTransparency804 666
+_EmissionColor:
+  r: 0.6901961
+  g: 0.6313726
+  b: 0.2392156
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

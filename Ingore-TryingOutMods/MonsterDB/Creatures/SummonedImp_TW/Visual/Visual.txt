@@ -1,0 +1,65 @@
+Visual
+	root
+		DemonMinion_
+			DemonMinion_ Pelvis
+				DemonMinion_ L Thigh
+					DemonMinion_ L Calf
+						DemonMinion_ L Foot
+							DemonMinion_ L Toe0
+								DemonMinion_ L Toe01
+							DemonMinion_ L Toe1
+								DemonMinion_ L Toe11
+							DemonMinion_ L Toe2
+								DemonMinion_ L Toe21
+				DemonMinion_ R Thigh
+					DemonMinion_ R Calf
+						DemonMinion_ R Foot
+							DemonMinion_ R Toe0
+								DemonMinion_ R Toe01
+							DemonMinion_ R Toe1
+								DemonMinion_ R Toe11
+							DemonMinion_ R Toe2
+								DemonMinion_ R Toe21
+				DemonMinion_ Spine
+					DemonMinion_ Spine1
+						DemonMinion_ L Clavicle
+							DemonMinion_ L UpperArm
+								DemonMinion_ L Forearm
+									DemonMinion_ L Hand
+										DemonMinion_ L Finger0
+											DemonMinion_ L Finger01
+										DemonMinion_ L Finger1
+											DemonMinion_ L Finger11
+										DemonMinion_ L Finger2
+											DemonMinion_ L Finger21
+									SM_Bracelet
+						DemonMinion_ Neck
+							DemonMinion_ Head
+								DemonMinion_ Ponytail1
+									DemonMinion_Tongue1
+										DemonMinion_Tongue2
+											DemonMinion_Tongue3
+											Fireball
+								DemonMinion_EarL
+								DemonMinion_EarR
+						DemonMinion_ R Clavicle
+							DemonMinion_ R UpperArm
+								DemonMinion_ R Forearm
+									DemonMinion_ R Hand
+										DemonMinion_ R Finger0
+											DemonMinion_ R Finger01
+										DemonMinion_ R Finger1
+											DemonMinion_ R Finger11
+										DemonMinion_ R Finger2
+											DemonMinion_ R Finger21
+									SM_ChainBracelet
+						VFX1
+							Smoke_VFX_V1
+					DemonMinion_ Tail
+						DemonMinion_ Tail1
+							DemonMinion_ Tail2
+								DemonMinion_ Tail3
+									DemonMinion_ Tail4
+										DemonMinion_ Tail5
+											DemonMinion_ Tail6
+	SK_DemonMinion

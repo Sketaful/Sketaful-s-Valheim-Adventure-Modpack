@@ -1,0 +1,37 @@
+Visual
+	root
+		GOLEM_
+			GOLEM_ Pelvis
+				GOLEM_ L Thigh
+					GOLEM_ L Calf
+						GOLEM_ L Foot
+				GOLEM_ R Thigh
+					GOLEM_ R Calf
+						GOLEM_ R Foot
+				GOLEM_ Spine
+					GOLEM_ Spine1
+						GOLEM_ L Clavicle
+							GOLEM_ L UpperArm
+								GOLEM_ L Forearm
+									GOLEM_ L Hand
+										GOLEM_ L Finger0
+											GOLEM_ L Finger01
+										GOLEM_ L Finger1
+											GOLEM_ L Finger11
+										GOLEM_ L Finger2
+											GOLEM_ L Finger21
+						GOLEM_ Neck
+							GOLEM_ Head
+								GOLEM_ Queue de cheval 1
+						GOLEM_ R Clavicle
+							GOLEM_ R UpperArm
+								GOLEM_ R Forearm
+									GOLEM_ R Hand
+										GOLEM_ R Finger0
+											GOLEM_ R Finger01
+										GOLEM_ R Finger1
+											GOLEM_ R Finger11
+										GOLEM_ R Finger2
+											GOLEM_ R Finger21
+					wetsplsh
+	TarGolem

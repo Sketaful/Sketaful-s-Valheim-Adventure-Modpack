@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: purple_lavagem_TW
+_Color:
+  r: 0.4958929
+  g: 0
+  b: 1
+  a: 0.869
+_MainTex: ''
+_EmissionColor:
+  r: 0.740014
+  g: 0
+  b: 0.9411765
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

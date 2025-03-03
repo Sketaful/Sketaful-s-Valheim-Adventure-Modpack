@@ -1,0 +1,14 @@
+- PrefabName: DrakeScale_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false
+- PrefabName: TrophySurtrDrake_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.2
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

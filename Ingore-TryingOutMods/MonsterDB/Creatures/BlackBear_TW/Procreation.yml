@@ -1,0 +1,10 @@
+UpdateInterval: 30
+TotalCheckRange: 10
+MaxCreatures: 4
+PartnerCheckRange: 3
+PregnancyChance: 0.25
+PregnancyDuration: 90
+RequiredLovePoints: 3
+Offspring: BlackBearCub_TW
+MinOffspringLevel: 0
+SpawnOffset: 1

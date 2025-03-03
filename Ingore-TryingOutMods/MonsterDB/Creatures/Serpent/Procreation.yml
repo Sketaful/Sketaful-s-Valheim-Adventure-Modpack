@@ -1,0 +1,10 @@
+UpdateInterval: 20
+TotalCheckRange: 20
+MaxCreatures: 4
+PartnerCheckRange: 8
+PregnancyChance: 0.33
+PregnancyDuration: 240
+RequiredLovePoints: 4
+Offspring: SerpentEgg_AT
+MinOffspringLevel: 0
+SpawnOffset: 2

@@ -1,0 +1,17 @@
+ShaderType: Standard Double Sided
+Name: DamnedSkelly_DoubleSidedmaterial_TW
+_Color:
+  r: 0.4338235
+  g: 0.4338235
+  b: 0.4338235
+  a: 1
+_MainTex: (Wood 26) tree bark seamless texture 2048x2048
+_EmissionColor:
+  r: 1.289
+  g: 1.289
+  b: 1.289
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

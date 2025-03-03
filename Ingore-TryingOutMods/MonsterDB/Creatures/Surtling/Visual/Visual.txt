@@ -1,0 +1,34 @@
+Visual
+	model
+		Kakari
+		mixamorig:Hips
+			mixamorig:LeftUpLeg
+				mixamorig:LeftLeg
+					mixamorig:LeftFoot
+						mixamorig:LeftToeBase
+							mixamorig:LeftToe_End
+			mixamorig:RightUpLeg
+				mixamorig:RightLeg
+					mixamorig:RightFoot
+						mixamorig:RightToeBase
+							mixamorig:RightToe_End
+			mixamorig:Spine
+				mixamorig:Spine1
+					mixamorig:Spine2
+						mixamorig:LeftShoulder
+							mixamorig:LeftArm
+								mixamorig:LeftForeArm
+									mixamorig:LeftHand
+						mixamorig:Neck
+							mixamorig:Head
+								mixamorig:HeadTop_End
+						mixamorig:RightShoulder
+							mixamorig:RightArm
+								mixamorig:RightForeArm
+									mixamorig:RightHand
+	flames
+	flames_world
+	flames_world_Purple
+		Purple Sparks
+	flames_world_BLUE
+		Blue Sparks

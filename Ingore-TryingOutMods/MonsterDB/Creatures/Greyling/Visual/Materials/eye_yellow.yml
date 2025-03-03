@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: eye_yellow
+_Color:
+  r: 0.8745098
+  g: 0.7528162
+  b: 0.2941177
+  a: 1
+_MainTex: ''
+_EmissionColor:
+  r: 2.959508
+  g: 2.532519
+  b: 0.7437505
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

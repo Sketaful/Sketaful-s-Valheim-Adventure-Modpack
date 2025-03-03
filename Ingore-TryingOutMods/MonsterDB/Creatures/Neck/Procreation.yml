@@ -1,0 +1,10 @@
+UpdateInterval: 20
+TotalCheckRange: 10
+MaxCreatures: 5
+PartnerCheckRange: 4
+PregnancyChance: 0
+PregnancyDuration: 33
+RequiredLovePoints: 4
+Offspring: MiniNeck
+MinOffspringLevel: 0
+SpawnOffset: 2

@@ -1,0 +1,17 @@
+ShaderType: Custom/FlowOpaque
+Name: LavaBlob_mat
+_Color:
+  r: 1
+  g: 0.4081632
+  b: 0
+  a: 1
+_MainTex: Unstable_d 1
+_EmissionColor:
+  r: 1.498039
+  g: 0.07058824
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

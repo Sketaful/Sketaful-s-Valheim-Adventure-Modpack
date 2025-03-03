@@ -3,7 +3,7 @@ Pressing "P" while having the map up will toggle showing/hiding all portals you 
 Holding down CTRL or ALT while rotating building parts will rotate them on different axis.
 If you press "O" while building you'll reset all axis of the building piece.
 While near chests you can press "P" to automatically move all things from your inventory to chests that already have atleast one of the material.
-Rugs made from Foxes, Bears and Rotten Deer stacks so you can gain extra rested time by haveing multiple rugs.
+Rugs made from Foxes, Bears and Rotten Deer stacks so you can gain extra rested time by having multiple rugs.
 If you play multiplayer only those thathave been near when killing a boss can use their power.
 Portals don't need to be connected. They all show up on a map when using a portal and you just click the one you want to go to.
 Using wood and flint you can make an early sword before you even neeed to leave the meadows.
@@ -25,4 +25,3 @@ Are you playing online with friends and mix up who's ship is who's?\nLook at the
 You don't have to wait for creatures you kill to despawn and drop their loot anymore, they'll do that instantly.
 If you like to decorate with item stands you'd be happy to know that almost anything can be placed on them now.
 You can dual wield most weapons and tools. Special attacks are different when dual wielding.\nTry holding two axes and use special attack when chopping trees.
-When placing object on item stands the stand turns invisible and only shows the object.

@@ -1,0 +1,57 @@
+Visual
+	Armature
+		Hip
+			1
+				2
+					3
+						4
+							5
+								6
+									7
+								character collider (3)
+						character collider (3)
+				character collider (3)
+			8
+				9
+					10
+						11
+							12
+								13
+									14
+										15
+											16
+												17
+													head
+														jaw
+															flow
+																blob_splat
+															drops-withdecals
+														l-1
+															l-2
+																l-3
+														l-mandible2
+															l-mandible3
+																l-mandible4
+														r-1
+															r-2
+																r-3
+														r-mandible2
+															r-mandible3
+																r-mandible4
+														WeakSpot_head
+														PukePoint
+								l-overupperarm
+									l-overlowerarm
+										l-overlclaw
+								r-overupperarm
+									r-overlowerarm
+										r-overlclaw
+							l-underupperarm
+								l-underlowerarm
+									l-underclaw
+							r-underupperarm
+								r-underlowerarm
+									r-underclaw
+	Cube
+	Plane
+	Attack collider

@@ -1,0 +1,14 @@
+- PrefabName: KnifeViper_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.06
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false
+- PrefabName: TrophyAsmodeus_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

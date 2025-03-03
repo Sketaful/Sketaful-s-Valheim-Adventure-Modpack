@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: DevilBodyA_2
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: DevilBodyA_albedoOpacity
+_EmissionColor:
+  r: 1.304119
+  g: 0
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

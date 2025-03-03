@@ -1,0 +1,14 @@
+- PrefabName: Chain
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false
+- PrefabName: TrophyWraith
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.24
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

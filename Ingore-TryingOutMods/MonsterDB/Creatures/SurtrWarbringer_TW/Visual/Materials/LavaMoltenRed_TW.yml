@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: LavaMoltenRed_TW
+_Color:
+  r: 0.5188679
+  g: 0.5188679
+  b: 0.5188679
+  a: 1
+_MainTex: T_Lava73 666_basecolor
+_EmissionColor:
+  r: 1
+  g: 0.183337
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

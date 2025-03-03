@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: GdAncientShaman_mat_TW
+_Color:
+  r: 0.490566
+  g: 0.36557
+  b: 0.1036667
+  a: 1
+_MainTex: greydwarf_shaman_diffuse
+_EmissionColor:
+  r: 1.262588
+  g: 0.4514905
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

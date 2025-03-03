@@ -1,0 +1,17 @@
+ShaderType: Standard Double Sided
+Name: DamnedSkelly_DoubleSidedmaterial_TW1
+_Color:
+  r: 0
+  g: 0
+  b: 0
+  a: 1
+_MainTex: flame
+_EmissionColor:
+  r: 0.8604582
+  g: 0
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

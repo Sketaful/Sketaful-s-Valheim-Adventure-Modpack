@@ -1,0 +1,44 @@
+Visual
+	StormWolf
+	root
+		FantasyWolf_
+			FantasyWolf_ Pelvis
+				FantasyWolf_ L Thigh
+					FantasyWolf_ L Calf
+						FantasyWolf_ L HorseLink
+							FantasyWolf_ L Foot
+								FantasyWolf_ L Toe0
+				FantasyWolf_ R Thigh
+					FantasyWolf_ R Calf
+						FantasyWolf_ R HorseLink
+							FantasyWolf_ R Foot
+								FantasyWolf_ R Toe0
+				FantasyWolf_ Spine
+					FantasyWolf_ Spine1
+						FantasyWolf_ L Clavicle
+							FantasyWolf_ L UpperArm
+								FantasyWolf_ L Forearm
+									FantasyWolf_ L Hand
+										FantasyWolf_ L Finger0
+						FantasyWolf_ Neck
+							FantasyWolf_ Neck1
+								FantasyWolf_ Neck2
+									FantasyWolf_ Head
+										FantasyWolf_ Ponytail1
+										VFX eyes
+											flames (1)
+											flames (2)
+						FantasyWolf_ R Clavicle
+							FantasyWolf_ R UpperArm
+								FantasyWolf_ R Forearm
+									FantasyWolf_ R Hand
+										FantasyWolf_ R Finger0
+						VFX sparks
+							Sparcs
+							Sparcs (1)
+				FantasyWolf_ Tail
+					FantasyWolf_ Tail1
+						FantasyWolf_ Tail2
+							FantasyWolf_ Tail3
+								FantasyWolf_ Tail4
+									FantasyWolf_ Tail5

@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: lox_calf
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Lox_calf_d
+_EmissionColor:
+  r: 1.015396
+  g: 1.868682
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: lox
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Halstein_d
+_EmissionColor:
+  r: 2.393
+  g: 1.138738
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

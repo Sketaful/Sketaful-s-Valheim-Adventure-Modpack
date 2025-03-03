@@ -1,0 +1,64 @@
+Name: Dvergr
+MaxRange: 20
+GreetRange: 10
+ByeRange: 15
+Offset: 2
+MinTalkInterval: 3
+HideDialogueDelay: 9
+RandomTalkInterval: 30
+RandomTalkChance: 0.2
+RandomTalk:
+- $npc_dvergrmage_random_talk1
+- $npc_dvergrmage_random_talk2
+- $npc_dvergrmage_random_talk3
+- $npc_dvergrmage_random_talk4
+- $npc_dvergrmage_random_talk5
+- $npc_dvergrmage_random_talk6
+- $npc_dvergrmage_random_talk7
+- $npc_dvergrmage_random_talk8
+- $npc_dvergrmage_random_talk9
+- $npc_dvergrmage_random_talk10
+RandomTalkInFactionBase:
+- $npc_dvergrmage_random_talk_in_faction_base1
+- $npc_dvergrmage_random_talk_in_faction_base2
+- $npc_dvergrmage_random_talk_in_faction_base3
+- $npc_dvergrmage_random_talk_in_faction_base4
+- $npc_dvergrmage_random_talk_in_faction_base5
+- $npc_dvergrmage_random_talk_in_faction_base6
+- $npc_dvergrmage_random_talk_in_faction_base7
+- $npc_dvergrmage_random_talk_in_faction_base8
+- $npc_dvergrmage_random_talk_in_faction_base9
+- $npc_dvergrmage_random_talk_in_faction_base10
+RandomGreets:
+- $npc_dvergrmage_random_greet1
+- $npc_dvergrmage_random_greet2
+- $npc_dvergrmage_random_greet3
+- $npc_dvergrmage_random_greet4
+- $npc_dvergrmage_random_greet5
+RandomGoodbye:
+- $npc_dvergrmage_random_goodbye1
+- $npc_dvergrmage_random_goodbye2
+- $npc_dvergrmage_random_goodbye3
+- $npc_dvergrmage_random_goodbye4
+- $npc_dvergrmage_random_goodbye5
+PrivateAreaAlarm:
+- $npc_dvergrmage_random_private_area_alarm1
+- $npc_dvergrmage_random_private_area_alarm2
+- $npc_dvergrmage_random_private_area_alarm3
+- $npc_dvergrmage_random_private_area_alarm4
+- $npc_dvergrmage_random_private_area_alarm5
+- $npc_dvergrmage_random_private_area_alarm6
+- $npc_dvergrmage_random_private_area_alarm7
+- $npc_dvergrmage_random_private_area_alarm8
+Aggravated:
+- $npc_dvergrmage_random_aggravated1
+- $npc_dvergrmage_random_aggravated2
+- $npc_dvergrmage_random_aggravated3
+- $npc_dvergrmage_random_aggravated4
+- $npc_dvergrmage_random_aggravated5
+- $npc_dvergrmage_random_aggravated6
+- $npc_dvergrmage_random_aggravated7
+- $npc_dvergrmage_random_aggravated8
+- $npc_dvergrmage_random_aggravated9
+- $npc_dvergrmage_random_aggravated10
+- $npc_dvergrmage_random_aggravated11

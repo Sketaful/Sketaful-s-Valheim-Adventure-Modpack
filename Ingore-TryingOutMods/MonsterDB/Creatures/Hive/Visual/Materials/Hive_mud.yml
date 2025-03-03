@@ -1,0 +1,17 @@
+ShaderType: Custom/Bonemass
+Name: Hive_mud
+_Color:
+  r: 0.4852104
+  g: 0.05553578
+  b: 0.9056604
+  a: 1
+_MainTex: Bonemass_D
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 0
+  a: 0
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

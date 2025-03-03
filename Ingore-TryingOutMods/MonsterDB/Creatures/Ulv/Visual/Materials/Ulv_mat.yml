@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: Ulv_mat
+_Color:
+  r: 0.6764706
+  g: 0.6764706
+  b: 0.6764706
+  a: 1
+_MainTex: Ulv_d
+_EmissionColor:
+  r: 5.454976
+  g: 2.426823
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

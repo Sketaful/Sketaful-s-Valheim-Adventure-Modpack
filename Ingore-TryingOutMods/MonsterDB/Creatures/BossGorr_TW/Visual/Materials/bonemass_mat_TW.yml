@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: bonemass_mat_TW
+_Color:
+  r: 1
+  g: 0.883508
+  b: 0.7547169
+  a: 1
+_MainTex: bonemass_bonebone_d
+_EmissionColor:
+  r: 0.04716978
+  g: 0.02872092
+  b: 0.002892489
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

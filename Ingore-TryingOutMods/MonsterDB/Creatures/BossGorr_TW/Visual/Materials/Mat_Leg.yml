@@ -1,0 +1,17 @@
+ShaderType: Standard Double Sided
+Name: Mat_Leg
+_Color:
+  r: 0.3277394
+  g: 0.5180218
+  b: 0.909434
+  a: 1
+_MainTex: T_Ogre_Warrior_Leg_BaseColor
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

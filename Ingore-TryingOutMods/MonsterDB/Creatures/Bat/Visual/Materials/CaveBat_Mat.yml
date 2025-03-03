@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: CaveBat_Mat
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Bat_d
+_EmissionColor:
+  r: 7.464264
+  g: 1.990471
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

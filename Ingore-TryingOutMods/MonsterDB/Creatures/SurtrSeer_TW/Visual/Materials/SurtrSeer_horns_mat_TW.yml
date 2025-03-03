@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: SurtrSeer_horns_mat_TW
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: DevilHornsA_albedoOpacity
+_EmissionColor:
+  r: 2
+  g: 0
+  b: 0.04086301
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

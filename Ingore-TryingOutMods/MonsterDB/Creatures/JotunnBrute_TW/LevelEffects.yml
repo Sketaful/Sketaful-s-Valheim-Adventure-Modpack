@@ -1,0 +1,22 @@
+- Scale: 1.01
+  Hue: -0.1
+  Saturation: -0.1
+  Value: 0
+  SetEmissiveColor: false
+  EmissiveColor:
+    r: 0
+    g: 0.3102169
+    b: 1
+    a: 1
+  EnableObject: LegArmor
+- Scale: 1.02
+  Hue: -0.18
+  Saturation: 0
+  Value: 0
+  SetEmissiveColor: false
+  EmissiveColor:
+    r: 0
+    g: 0.02334642
+    b: 1
+    a: 1
+  EnableObject: LeftArmArmor

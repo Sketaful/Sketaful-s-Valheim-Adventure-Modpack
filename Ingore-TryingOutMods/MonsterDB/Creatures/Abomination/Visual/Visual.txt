@@ -1,0 +1,43 @@
+Visual
+	particles
+		flies
+		ooz
+		wetsplsh
+		wetsplsh (1)
+	Abomination
+	Armature.001
+		l.lowerarm.001
+		root
+			hip
+				hip.004
+					hip.005
+				l.upperleg
+					l.lowerleg
+						l.foot
+				r.upperleg
+					r.lowerleg
+						r.foot
+				root1.003
+					root1.004
+				root1.006
+					root1.007
+				spine1
+					head
+					l.shoulder
+						l.upperarm
+							l.lowerarm
+								l.hand
+									l.finger
+					r.shoulder
+						r.upperarm
+							r.lowerarm
+								r.hand
+									r.finger
+								trail
+									base
+									tip
+					spine1.002
+						spine1.003
+					mud particle (1)
+				hip.002
+					hip.003

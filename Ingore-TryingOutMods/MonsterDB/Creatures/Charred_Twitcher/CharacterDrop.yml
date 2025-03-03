@@ -1,0 +1,7 @@
+- PrefabName: CharredBone
+  AmountMin: 1
+  AmountMax: 2
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false

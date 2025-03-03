@@ -1,0 +1,11 @@
+- PrefabName: fx_creature_tamed_TW
+  Enabled: true
+  Variant: -1
+  Attach: false
+  Follow: false
+  InheritParentRotation: false
+  InheritParentScale: false
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: ''

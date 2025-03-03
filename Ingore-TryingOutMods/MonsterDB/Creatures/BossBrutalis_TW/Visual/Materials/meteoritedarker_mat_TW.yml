@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: meteoritedarker_mat_TW
+_Color:
+  r: 0.1698113
+  g: 0.1448202
+  b: 0.1448202
+  a: 1
+_MainTex: iron
+_EmissionColor:
+  r: 1.139
+  g: 0.6834
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

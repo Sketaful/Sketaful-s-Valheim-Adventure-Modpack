@@ -1,0 +1,14 @@
+- PrefabName: Entrails
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.5
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false
+- PrefabName: TrophyDraugr
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.1
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false

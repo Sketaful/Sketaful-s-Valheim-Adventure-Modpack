@@ -1,0 +1,49 @@
+Visual
+	Armature
+		l.bc
+			l.backpole
+		r.bc
+			r.backpole
+		root
+			root2
+				hip
+					l.hip
+						l.backleg1
+							l.backleg2
+								l.backleg3
+									l.backfoot
+									character collider (1)
+					r.hip
+						r.backleg1
+							r.backleg2
+								r.backleg3
+									r.backfoot
+									character collider (1)
+					spine
+						l.shoulder
+							l.frontarm1
+								l.frontarm2
+									l.frontarm3
+										l.frontfoot
+										character collider (1)
+						neck
+							head
+								l.bigmandible
+								l.mandible1
+								l.mandible2
+								l.mandible3
+								r.bigmandible
+								r.mandible1
+								r.mandible2
+								r.mandible3
+								character collider (1)
+						r.shoulder
+							r.frontarm1
+								r.frontarm2
+									r.frontarm3
+										r.frontfoot
+										character collider (1)
+					tail
+						WeakSpot_ass
+				character collider
+	SeekerBrute

@@ -1,0 +1,14 @@
+- PrefabName: TrophyStormFenring_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.2
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false
+- PrefabName: FenrirArtifact_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.65
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

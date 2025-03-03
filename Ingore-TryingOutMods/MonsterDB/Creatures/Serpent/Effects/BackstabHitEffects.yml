@@ -1,0 +1,11 @@
+- PrefabName: fx_backstab
+  Enabled: true
+  Variant: -1
+  Attach: false
+  Follow: false
+  InheritParentRotation: false
+  InheritParentScale: false
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: ''

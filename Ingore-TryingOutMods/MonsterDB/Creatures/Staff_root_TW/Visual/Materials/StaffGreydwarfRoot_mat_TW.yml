@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: StaffGreydwarfRoot_mat_TW
+_Color:
+  r: 0.4235294
+  g: 0.3179585
+  b: 0.2509804
+  a: 1
+_MainTex: Tentaroot_d
+_EmissionColor:
+  r: 5.620816
+  g: 2.058736
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

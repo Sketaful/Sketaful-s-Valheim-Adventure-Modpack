@@ -1,0 +1,14 @@
+- PrefabName: DemonicHorn_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.4
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false
+- PrefabName: TrophySurtrImp_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.16
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

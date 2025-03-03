@@ -1,0 +1,33 @@
+Visual
+	effects
+		SFX
+		Point light
+		Particle System Force Field
+		flame
+			flames
+			smoke (1)
+			flames_local
+			flare
+			embers
+			distortiion
+			energy
+			sparks
+	Armature
+		Root
+			Root2
+				Thorax
+					Bone.003
+						Head
+					Bone.005
+						Abdomen
+					L.leg1
+						L.leg2
+							L.leg3
+								L.leg4
+					L.Wing
+					R.leg1
+						R.leg2
+							R.leg3
+								R.leg4
+					R.Wing
+	Cube

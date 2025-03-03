@@ -1,0 +1,13 @@
+Visual
+	Armature
+		root
+			Head
+				Jaw
+					Jaw_end
+			Spine1
+				Spine2
+					Spine3
+						Spine4
+							Spine5
+								Spine5_end
+	Cube

@@ -1,0 +1,72 @@
+Visual
+	Armature
+		Root
+			Root2
+				Hip
+					L.upperleg
+						L.lowerleg
+							L.Foot
+					R.upperleg
+						R.lowerleg
+							R.Foot
+					Spine1
+						Spine2
+							Spine3
+								L.Shoulder
+									L.upperarm
+										L.lowerarm
+											L.Hand
+												L.Index1
+													L.Index2
+														L.Index3
+												L.Little1
+													L.Little2
+														L.Little3
+												L.Middle1
+													L.Middle2
+														L.Middle3
+												L.Ring1
+													L.Ring2
+														L.Ring3
+												L.Thumb1
+													L.Thumb2
+														L.Thumb3
+											Capsule (1)
+										Capsule
+								Neck
+									Bone.007
+										Jaw
+										L.Eye
+										R.Eye
+										Particle System
+										Particle System (1)
+										head_collider
+										Point light (2)
+										BeamRoot
+								R.Shoulder
+									R.upperarm
+										R.lowerarm
+											Capsule (1)
+											R.Hand
+												R.Index1
+													R.Index2
+														R.Index3
+												R.Little1
+													R.Little2
+														R.Little3
+												R.Middle1
+													R.Middle2
+														R.Middle3
+												R.Ring1
+													R.Ring2
+														R.Ring3
+												R.Thumb1
+													R.Thumb2
+														R.Thumb3
+										Capsule
+								Point light
+								Particle System (2)
+								smoke
+								chest_collider
+	Yagluth
+	Yagluth_Hair

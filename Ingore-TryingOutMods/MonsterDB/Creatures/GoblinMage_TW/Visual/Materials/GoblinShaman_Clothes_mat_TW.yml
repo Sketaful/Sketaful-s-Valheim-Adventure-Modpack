@@ -1,0 +1,17 @@
+ShaderType: Standard Double Sided
+Name: GoblinShaman_Clothes_mat_TW
+_Color:
+  r: 0.3018867
+  g: 0.001139173
+  b: 0.001139173
+  a: 1
+_MainTex: GoblinStuff_d
+_EmissionColor:
+  r: 1
+  g: 0.001894124
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

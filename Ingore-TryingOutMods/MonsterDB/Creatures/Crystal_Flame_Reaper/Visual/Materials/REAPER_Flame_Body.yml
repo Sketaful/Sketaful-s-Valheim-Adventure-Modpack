@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: REAPER_Flame_Body
+_Color:
+  r: 0.2641509
+  g: 0
+  b: 0
+  a: 1
+_MainTex: REAPER_BODY_AO
+_EmissionColor:
+  r: 0.1415094
+  g: 0
+  b: 0
+  a: 0
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

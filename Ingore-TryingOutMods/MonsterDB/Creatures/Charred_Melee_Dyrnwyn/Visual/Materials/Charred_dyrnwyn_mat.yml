@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: Charred_dyrnwyn_mat
+_Color:
+  r: 0
+  g: 0.2196078
+  b: 0.5215686
+  a: 1
+_MainTex: Charred_d
+_EmissionColor:
+  r: 0
+  g: 0.1987606
+  b: 1.192564
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

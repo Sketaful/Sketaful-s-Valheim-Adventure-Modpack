@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: bmp_icycleslime
+_Color:
+  r: 0.4674261
+  g: 0.9811321
+  b: 0.972783
+  a: 1
+_MainTex: ''
+_EmissionColor:
+  r: 0.354085
+  g: 0.6229922
+  b: 0.6886792
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

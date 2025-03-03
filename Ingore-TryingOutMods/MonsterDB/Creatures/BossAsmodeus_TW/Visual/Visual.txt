@@ -1,0 +1,34 @@
+Visual
+	GIANT_VIPER
+	ROOT_
+		GIANT_VIPER_
+			GIANT_VIPER_ Footsteps
+			GIANT_VIPER_ Spine
+				GIANT_VIPER_ Spine1
+					GIANT_VIPER_ Spine2
+						GIANT_VIPER_ Spine3
+							GIANT_VIPER_ Spine4
+								GIANT_VIPER_ Spine5
+									GIANT_VIPER_ Spine6
+										GIANT_VIPER_ Spine7
+											GIANT_VIPER_ Neck
+												GIANT_VIPER_ Head
+													GIANT_VIPER_ Ponytail1
+														GIANT_VIPER_Tongue_01
+															GIANT_VIPER_Tongue_02
+																GIANT_VIPER_Tongue_03
+																	GIANT_VIPER_Tongue_04
+																		GIANT_VIPER_Tongue_05
+													GIANT_VIPER_HOOK_Left
+														SpitJoint
+													GIANT_VIPER_HOOK_Right
+			GIANT_VIPER_ Tail
+				GIANT_VIPER_ Tail1
+					GIANT_VIPER_ Tail2
+						GIANT_VIPER_ Tail3
+							GIANT_VIPER_ Tail4
+								GIANT_VIPER_ Tail5
+									GIANT_VIPER_ Tail6
+										GIANT_VIPER_ Tail7
+											GIANT_VIPER_ Tail8
+												GIANT_VIPER_ Tail9

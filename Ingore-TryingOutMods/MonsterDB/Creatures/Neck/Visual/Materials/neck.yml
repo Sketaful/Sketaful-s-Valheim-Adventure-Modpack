@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: neck
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: neck_d
+_EmissionColor:
+  r: 1.091912
+  g: 1.5
+  b: 1.229818
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

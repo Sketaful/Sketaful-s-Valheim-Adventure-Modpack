@@ -1,0 +1,22 @@
+- Scale: 1.1
+  Hue: 0
+  Saturation: 0
+  Value: 0
+  SetEmissiveColor: false
+  EmissiveColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  EnableObject: flames_world_BLUE
+- Scale: 1.2
+  Hue: 0
+  Saturation: 0
+  Value: 0
+  SetEmissiveColor: false
+  EmissiveColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  EnableObject: flames_world_Purple

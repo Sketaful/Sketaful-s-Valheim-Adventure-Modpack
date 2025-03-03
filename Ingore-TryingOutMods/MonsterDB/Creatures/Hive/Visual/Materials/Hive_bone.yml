@@ -1,0 +1,17 @@
+ShaderType: Custom/Bonemass
+Name: Hive_bone
+_Color:
+  r: 0.523962
+  g: 0.2028302
+  b: 0.8113207
+  a: 1
+_MainTex: bonemass_bonebone_d
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 0
+  a: 0
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,17 @@
+ShaderType: Standard Double Sided
+Name: JotunnShamanHair_mat_TW
+_Color:
+  r: 0.09323598
+  g: 0.2537232
+  b: 0.3660378
+  a: 1
+_MainTex: T_Hair_BaseColor
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

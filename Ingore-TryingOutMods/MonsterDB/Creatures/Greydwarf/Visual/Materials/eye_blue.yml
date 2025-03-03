@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: eye_blue
+_Color:
+  r: 0.2959559
+  g: 0.4800689
+  b: 0.875
+  a: 1
+_MainTex: ''
+_EmissionColor:
+  r: 0.7398769
+  g: 1.214419
+  b: 2.959508
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

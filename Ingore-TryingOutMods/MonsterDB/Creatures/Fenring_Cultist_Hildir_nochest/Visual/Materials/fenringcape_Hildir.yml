@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: fenringcape_Hildir
+_Color:
+  r: 0.6698113
+  g: 0.6698113
+  b: 0.6698113
+  a: 1
+_MainTex: WolfLeaderCloth_d
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

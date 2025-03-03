@@ -1,0 +1,14 @@
+- PrefabName: DualAxeDemonic_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.07
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false
+- PrefabName: TrophySvalt_TW
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

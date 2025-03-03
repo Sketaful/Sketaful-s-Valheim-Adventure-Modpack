@@ -1,0 +1,39 @@
+Visual
+	root
+		Fox_
+			Fox_ Pelvis
+				Fox_ L Thigh
+					Fox_ L Calf
+						Fox_ L HorseLink
+							Fox_ L Foot
+				Fox_ R Thigh
+					Fox_ R Calf
+						Fox_ R HorseLink
+							Fox_ R Foot
+				Fox_ Spine
+					Fox_ Spine1
+						Fox_ L Clavicle
+							Fox_ L UpperArm
+								Fox_ L Forearm
+									Fox_ L Hand
+										Fox_ L Finger0
+						Fox_ Neck
+							Fox_ Neck1
+								Fox_ Neck2
+									Fox_ Head
+										Fox_ Queue de cheval 1
+						Fox_ R Clavicle
+							Fox_ R UpperArm
+								Fox_ R Forearm
+									Fox_ R Hand
+										Fox_ R Finger0
+				Fox_ Tail
+					Fox_ Tail1
+						Fox_ Tail2
+							Fox_ Tail3
+								Fox_ Tail4
+									Fox_ Tail5
+	SK_Fox_LOD0
+	SK_Fox_LOD1
+	SK_Fox_LOD2
+	SK_Fox_LOD3

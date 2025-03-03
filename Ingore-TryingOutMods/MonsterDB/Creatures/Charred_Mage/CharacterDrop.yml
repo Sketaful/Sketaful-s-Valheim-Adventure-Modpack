@@ -1,0 +1,14 @@
+- PrefabName: CharredBone
+  AmountMin: 1
+  AmountMax: 3
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false
+- PrefabName: TrophyCharredMage
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.05
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

@@ -1,0 +1,17 @@
+ShaderType: Standard (Specular setup) 2-sided
+Name: FenringChosenIce_mat_TW
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: arcticfenring809 666
+_EmissionColor:
+  r: 0
+  g: 0.6741259
+  b: 1.363744
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

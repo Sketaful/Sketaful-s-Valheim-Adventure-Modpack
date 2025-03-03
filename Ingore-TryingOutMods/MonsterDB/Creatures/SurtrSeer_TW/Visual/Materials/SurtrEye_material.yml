@@ -1,0 +1,17 @@
+ShaderType: Autodesk Interactive
+Name: SurtrEye_material
+_Color:
+  r: 1
+  g: 0
+  b: 0
+  a: 1
+_MainTex: T_Creature_Eyes_Roughness
+_EmissionColor:
+  r: 2.462289
+  g: 0.004803052
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

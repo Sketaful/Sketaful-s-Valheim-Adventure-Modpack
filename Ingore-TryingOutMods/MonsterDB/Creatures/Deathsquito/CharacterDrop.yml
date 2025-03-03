@@ -1,0 +1,14 @@
+- PrefabName: Needle
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false
+- PrefabName: TrophyDeathsquito
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.05
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

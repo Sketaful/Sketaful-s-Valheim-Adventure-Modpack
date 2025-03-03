@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: Hatchling_mountain_mat
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Hatchling_D
+_EmissionColor:
+  r: 0
+  g: 2.131035
+  b: 3
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

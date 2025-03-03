@@ -1,0 +1,11 @@
+- PrefabName: sfx_fenring_jump_start
+  Enabled: true
+  Variant: 0
+  Attach: false
+  Follow: false
+  InheritParentRotation: false
+  InheritParentScale: false
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: ''

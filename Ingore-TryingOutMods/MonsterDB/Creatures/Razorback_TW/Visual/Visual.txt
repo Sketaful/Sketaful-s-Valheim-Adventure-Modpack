@@ -1,0 +1,40 @@
+Visual
+	root
+		BOAR_
+			BOAR_ Pelvis
+				BOAR_ L Thigh
+					BOAR_ L Calf
+						BOAR_ L HorseLink
+							BOAR_ L Foot
+								BOAR_ L Toe0
+				BOAR_ R Thigh
+					BOAR_ R Calf
+						BOAR_ R HorseLink
+							BOAR_ R Foot
+								BOAR_ R Toe0
+				BOAR_ Spine
+					BOAR_ Spine1
+						BOAR_ L Clavicle
+							BOAR_ L UpperArm
+								BOAR_ L Forearm
+									BOAR_ L Hand
+										BOAR_ L Finger0
+						BOAR_ Neck
+							BOAR_ Neck1
+								BOAR_ Head
+									BOAR_ Queue de cheval 1
+						BOAR_ R Clavicle
+							BOAR_ R UpperArm
+								BOAR_ R Forearm
+									BOAR_ R Hand
+										BOAR_ R Finger0
+						Mount
+							Mount_001
+								attachpoint
+									Saddle
+				BOAR_ Tail
+					BOAR_ Tail1
+						BOAR_ Tail2
+							BOAR_ Tail3
+								BOAR_ Tail4
+	Boar

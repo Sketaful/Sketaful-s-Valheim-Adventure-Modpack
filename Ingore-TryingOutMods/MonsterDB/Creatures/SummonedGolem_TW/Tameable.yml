@@ -1,0 +1,20 @@
+FedDuration: 30
+TamingTime: 1800
+StartTamed: true
+Commandable: false
+UnsummonDistance: 150
+UnsummonOnOwnerLogoutSeconds: 120
+LevelUpOwnerSkill: BloodMagic
+LevelUpFactor: 0.5
+DropSaddleOnDeath: true
+RandomStartingName:
+- $tamed_golemname_01
+- $tamed_golemname_02
+- $tamed_golemname_03
+- $tamed_golemname_04
+- $tamed_golemname_05
+- $tamed_golemname_06
+- $tamed_golemname_07
+- $tamed_golemname_08
+- $tamed_golemname_09
+- $tamed_golemname_10

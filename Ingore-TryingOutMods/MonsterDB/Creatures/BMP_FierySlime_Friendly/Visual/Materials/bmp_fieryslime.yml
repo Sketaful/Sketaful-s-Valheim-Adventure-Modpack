@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: bmp_fieryslime
+_Color:
+  r: 1
+  g: 0.2286555
+  b: 0
+  a: 1
+_MainTex: ''
+_EmissionColor:
+  r: 1.050981
+  g: 0.1242138
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,14 @@
+- PrefabName: chest_hildir1
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: true
+- PrefabName: TrophySkeletonHildir
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: true

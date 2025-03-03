@@ -1,0 +1,17 @@
+ShaderType: Autodesk Interactive
+Name: JotunnBerserker_bodymat_TW
+_Color:
+  r: 0.5405482
+  g: 0.8075718
+  b: 0.9811321
+  a: 1
+_MainTex: JotunnEnforcer_texture
+_EmissionColor:
+  r: 0
+  g: 0.7727103
+  b: 1
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,4 @@
+GrowTime: 3000
+InheritTame: true
+GrownPrefab: Sheep_TW
+AltGrownPrefabs: []

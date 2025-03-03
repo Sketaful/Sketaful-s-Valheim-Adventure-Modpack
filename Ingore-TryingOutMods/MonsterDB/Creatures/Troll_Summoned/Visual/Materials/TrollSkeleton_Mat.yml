@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: TrollSkeleton_Mat
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: TrollSkeleton_d
+_EmissionColor:
+  r: 8.858848
+  g: 2.778788
+  b: 1.955632
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

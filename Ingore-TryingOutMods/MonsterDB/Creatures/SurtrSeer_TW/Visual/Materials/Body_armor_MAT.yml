@@ -1,0 +1,17 @@
+ShaderType: Autodesk Interactive
+Name: Body_armor_MAT
+_Color:
+  r: 0.5
+  g: 0.5
+  b: 0.5
+  a: 1
+_MainTex: DevilBodyArmor_albedoOpacity
+_EmissionColor:
+  r: 1
+  g: 0
+  b: 0.122107
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

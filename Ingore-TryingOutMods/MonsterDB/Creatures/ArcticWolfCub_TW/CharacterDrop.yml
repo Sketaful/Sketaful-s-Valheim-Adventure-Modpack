@@ -1,0 +1,7 @@
+- PrefabName: Wood
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false

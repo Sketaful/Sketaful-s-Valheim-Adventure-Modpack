@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: Draugr_elite_mat
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Draugr_d
+_EmissionColor:
+  r: 3.114676
+  g: 0
+  b: 8.335246
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

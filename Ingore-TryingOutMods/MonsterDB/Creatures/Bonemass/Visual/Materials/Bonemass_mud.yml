@@ -1,0 +1,17 @@
+ShaderType: Custom/Bonemass
+Name: Bonemass_mud
+_Color:
+  r: 0.7547169
+  g: 0.6609009
+  b: 0.5268779
+  a: 1
+_MainTex: Bonemass_D
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 0
+  a: 0
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

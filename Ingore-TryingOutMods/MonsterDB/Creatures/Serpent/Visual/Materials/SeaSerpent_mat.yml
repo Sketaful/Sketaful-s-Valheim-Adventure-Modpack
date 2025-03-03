@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: SeaSerpent_mat
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: SeaSerpent_d
+_EmissionColor:
+  r: 0
+  g: 1.678
+  b: 0.7753518
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

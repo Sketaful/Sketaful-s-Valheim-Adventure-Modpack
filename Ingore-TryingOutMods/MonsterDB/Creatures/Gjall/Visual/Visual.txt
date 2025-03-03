@@ -1,0 +1,61 @@
+Visual
+	Armature
+		Root
+			Hip
+				BackHead_Back.l
+				BackHead_Back.r
+				BackHead_Bottom.l
+				BackHead_Bottom.r
+				BackHead_Front.l
+				BackHead_Front.r
+				BackHead_Side.l
+				BackHead_Side.r
+				BackHead_Top.l
+				BackHead_Top.r
+				BackTentacle1.l
+					BackTentacle2.l
+						BackTentacle3.l
+				BackTentacle1.r
+					BackTentacle2.r
+						BackTentacle3.r
+				Forehead
+					MouthOpening.l
+						MouthTentacle1.l
+							MouthTentacle2.l
+					MouthOpening.r
+						MouthTentacle1.r
+							MouthTentacle2.r
+					MouthSide.l
+					MouthSide.r
+					MouthTop
+					Point Light
+				FrontHead_Back.l
+				FrontHead_Back.r
+				FrontHead_Bottom.l
+				FrontHead_Bottom.r
+				FrontHead_Front.l
+				FrontHead_Front.r
+				FrontHead_Side.l
+				FrontHead_Side.r
+				FrontHead_Top.l
+				FrontHead_Top.r
+				FrontTentacle1.l
+					FrontTentacle2.l
+						FrontTentacle3.l
+				FrontTentacle1.r
+					FrontTentacle2.r
+						FrontTentacle3.r
+				MiddleTentacle1.l
+					MiddleTentacle2.l
+						MiddleTentacle3.l
+				MiddleTentacle1.r
+					MiddleTentacle2.r
+						MiddleTentacle3.r
+				collider
+				collider (1)
+				collider (2)
+				collider (3)
+				Point Light (1)
+				WEAKSPOT_EGGS
+				Effects
+	Gjall

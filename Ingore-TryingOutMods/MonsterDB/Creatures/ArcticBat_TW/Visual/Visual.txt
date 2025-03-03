@@ -1,0 +1,17 @@
+Visual
+	CaveBat
+		Armature
+			Root
+				Hip
+					Spine
+						Head
+							Jaw
+						L.Shoulder
+							L.UpperArm
+								L.LowerArm
+									L.Hand
+						R.Shoulder
+							R.UpperArm
+								R.LowerArm
+									R.Hand
+		Bat

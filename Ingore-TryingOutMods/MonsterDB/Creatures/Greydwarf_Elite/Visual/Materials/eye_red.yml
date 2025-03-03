@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: eye_red
+_Color:
+  r: 1
+  g: 0
+  b: 0.1862073
+  a: 1
+_MainTex: ''
+_EmissionColor:
+  r: 2.959509
+  g: 0.3046552
+  b: 0.3046552
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

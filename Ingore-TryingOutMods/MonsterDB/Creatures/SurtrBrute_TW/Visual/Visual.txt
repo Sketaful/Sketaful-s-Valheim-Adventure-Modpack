@@ -1,0 +1,75 @@
+Visual
+	root
+		DemonBrute_
+			DemonBrute_ Pelvis
+				DemonBrute_ L Thigh
+					DemonBrute_ L Calf
+						DemonBrute_ L HorseLink
+							DemonBrute_ L Foot
+								DemonBrute_ L Toe0
+				DemonBrute_ R Thigh
+					DemonBrute_ R Calf
+						DemonBrute_ R HorseLink
+							DemonBrute_ R Foot
+								DemonBrute_ R Toe0
+							SM_AnkleBracelet
+				DemonBrute_ Spine
+					DemonBrute_ Spine1
+						DemonBrute_ L Clavicle
+							DemonBrute_ L UpperArm
+								DemonBrute_ L Forearm
+									DemonBrute_ L Hand
+										DemonBrute_ L Finger0
+											DemonBrute_ L Finger01
+												DemonBrute_ L Finger02
+										DemonBrute_ L Finger1
+											DemonBrute_ L Finger11
+												DemonBrute_ L Finger12
+										DemonBrute_ L Finger2
+											DemonBrute_ L Finger21
+												DemonBrute_ L Finger22
+							DemonBrute_ShoudlerPad
+						DemonBrute_ Neck
+							DemonBrute_ Neck1
+								DemonBrute_ Head
+									DemonBrute_ Ponytail1
+									SM_HornBracelet
+						DemonBrute_ R Clavicle
+							DemonBrute_ R UpperArm
+								DemonBrute_ R Forearm
+									DemonBrute_ R Hand
+										DemonBrute_ R Finger0
+											DemonBrute_ R Finger01
+												DemonBrute_ R Finger02
+										DemonBrute_ R Finger1
+											DemonBrute_ R Finger11
+												DemonBrute_ R Finger12
+										DemonBrute_ R Finger2
+											DemonBrute_ R Finger21
+												DemonBrute_ R Finger22
+										SM_DemonBruteWeapon
+											FireEffect
+												PS_Fire_ALPHA
+												PS_Fire_ADD
+												PS_Glow
+				DemonBrute_ Tail
+					DemonBrute_ Tail1
+						DemonBrute_ Tail2
+							DemonBrute_ Tail3
+								DemonBrute_ Tail4
+									DemonBrute_ Tail5
+										DemonBrute_ Tail6
+											DemonBrute_ Tail7
+												DemonBrute_ Tail8
+				DemonBrute_SkirtFront_1
+					DemonBrute_SkirtFront_2
+						DemonBrute_SkirtFront_3
+				DemonBrute_SkirtLeft_1
+					DemonBrute_SkirtLeft_2
+						DemonWBrute_SkirtLeft_3
+				DemonBrute_SkirtRight_1
+					DemonBrute_SkirtRight_2
+						DemonBrute_SkirtRight_3
+	SK_DemonBruteBody
+	SK_ShoulderPad
+	SK_SkirtArmor

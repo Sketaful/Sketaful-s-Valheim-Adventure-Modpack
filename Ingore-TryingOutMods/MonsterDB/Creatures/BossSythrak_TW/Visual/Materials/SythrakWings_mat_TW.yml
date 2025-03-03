@@ -1,0 +1,17 @@
+ShaderType: Standard (Specular setup)
+Name: SythrakWings_mat_TW
+_Color:
+  r: 0.3207547
+  g: 0.3207547
+  b: 0.3207547
+  a: 1
+_MainTex: T_DragonRexAlphaWing_BaseColor
+_EmissionColor:
+  r: 1
+  g: 0.7395067
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

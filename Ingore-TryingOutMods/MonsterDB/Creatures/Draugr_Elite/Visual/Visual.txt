@@ -1,0 +1,40 @@
+Visual
+	_draugr_base
+		Armature
+			Hips
+				Spine0
+					Spine1
+						Spine2
+							RightShoulder
+								RightArm
+									RightForeArm
+										RightHand
+											RightHand_end
+											RightAttach
+							Head
+								Head_end
+								eye_r
+									evil_smoke
+								HelmetAttach
+							LeftShoulder
+								LeftArm
+									LeftForeArm
+										LeftHand
+											LeftHand_end
+											LeftAttach
+						vfx_drippingwater
+						evil_smoke
+						evil_smoke _local
+						flies
+						evil_smoke (1)
+				LeftHip
+					LeftUpLeg
+						LeftLeg
+							LeftFoot
+								LeftFoot_end
+				RightHip
+					RightUpLeg
+						RightLeg
+							RightFoot
+								RightFoot_end
+		Cube.001

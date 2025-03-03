@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: ArcticBat_mat_TW
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: FrostBat_texture
+_EmissionColor:
+  r: 0
+  g: 4.050122
+  b: 7.464265
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

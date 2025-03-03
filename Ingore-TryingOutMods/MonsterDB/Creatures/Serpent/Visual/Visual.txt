@@ -1,0 +1,23 @@
+Visual
+	Armature
+		Root
+			Main
+				Tail2
+					Tail1
+						Head
+							Bone.004
+							Bone.005
+							l.fin
+							r.fin
+				Tail3
+					Tail4
+						Tail5
+							Tail6
+								Tail7
+									Tail8
+										Tail9
+											Tail10
+												Tail11
+													Tail12
+														Tail13
+	Serpant

@@ -1,0 +1,45 @@
+Visual
+	root
+		LION_
+			LION_ Pelvis
+				LION_ Spine
+					LION_ L Thigh
+						LION_ L Calf
+							LION_ L HorseLink
+								LION_ L Foot
+									LION_ L Toe0
+					LION_ R Thigh
+						LION_ R Calf
+							LION_ R HorseLink
+								LION_ R Foot
+									LION_ R Toe0
+					LION_ Spine1
+						LION_ Spine2
+							LION_ L Clavicle
+								LION_ L UpperArm
+									LION_ L Forearm
+										LION_ L Hand
+											LION_ L Finger0
+							LION_ Neck
+								LION_ Neck1
+									LION_ Head
+										LION_ Queue de cheval 1
+							LION_ R Clavicle
+								LION_ R UpperArm
+									LION_ R Forearm
+										LION_ R Hand
+											LION_ R Finger0
+						Mount
+							Mount.001
+								attachpoint
+									SaddleProwler
+				LION_ Tail
+					LION_ Tail1
+						LION_ Tail2
+							LION_ Tail3
+								LION_ Tail4
+									LION_ Tail5
+										LION_ Tail6
+											LION_ Tail7
+												LION_ Tail8
+	Prowler

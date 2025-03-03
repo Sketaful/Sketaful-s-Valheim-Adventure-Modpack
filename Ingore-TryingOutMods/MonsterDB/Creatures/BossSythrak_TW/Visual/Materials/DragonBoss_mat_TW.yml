@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: DragonBoss_mat_TW
+_Color:
+  r: 0.4150943
+  g: 0.4150943
+  b: 0.4150943
+  a: 1
+_MainTex: T_DragonRexAlpha_BaseColor
+_EmissionColor:
+  r: 1
+  g: 0.03871727
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,12 @@
+Visual
+	blob
+		Cube.004
+		Armature
+			Bone
+				Bone.002
+	Point light
+	particles
+		Sparks
+			HeatDistort
+			Burnin
+			Smoke

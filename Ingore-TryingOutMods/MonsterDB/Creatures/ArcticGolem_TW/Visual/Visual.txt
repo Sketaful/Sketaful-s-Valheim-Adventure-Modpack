@@ -1,0 +1,29 @@
+Visual
+	Armature
+		Root
+			Hip
+				Spine0
+					Spine1
+						Spine2
+							Head
+							Shoulder.l
+								Upperarm.l
+									Particle System
+									Underarm.l
+										Wrist.l
+											Particle System
+							Shoulder.r
+								Upperarm.r
+									Underarm.r
+										Wrist.r
+											Particle System
+									Particle System
+				UpperLeg.l
+					LowerLeg.l
+						Foot.l
+							Foot2.l
+				UpperLeg.r
+					LowerLeg.r
+						Foot.r
+							Foot2.r
+	Cube.001

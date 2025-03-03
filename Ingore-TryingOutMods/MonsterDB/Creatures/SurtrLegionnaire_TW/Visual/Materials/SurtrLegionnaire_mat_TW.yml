@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: SurtrLegionnaire_mat_TW
+_Color:
+  r: 0.7075471
+  g: 0.7075471
+  b: 0.7075471
+  a: 1
+_MainTex: SurtrImpaler_texture 1
+_EmissionColor:
+  r: 1
+  g: 0
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

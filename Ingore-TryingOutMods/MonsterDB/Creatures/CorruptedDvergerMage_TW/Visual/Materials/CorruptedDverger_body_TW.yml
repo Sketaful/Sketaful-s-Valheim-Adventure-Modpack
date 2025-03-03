@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: CorruptedDverger_body_TW
+_Color:
+  r: 0.4212174
+  g: 0.8207547
+  b: 0.5556913
+  a: 1
+_MainTex: DvergrBody
+_EmissionColor:
+  r: 0
+  g: 2.619777
+  b: 2.142597
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

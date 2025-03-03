@@ -1,0 +1,14 @@
+- PrefabName: TrophyBlob
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false
+- PrefabName: Ooze
+  AmountMin: 1
+  AmountMax: 2
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false

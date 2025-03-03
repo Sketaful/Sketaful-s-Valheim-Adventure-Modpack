@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: TyraniumDarker
+_Color:
+  r: 0
+  g: 0.1944216
+  b: 0.2830189
+  a: 1
+_MainTex: blackmetal_d N
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 2.090623
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

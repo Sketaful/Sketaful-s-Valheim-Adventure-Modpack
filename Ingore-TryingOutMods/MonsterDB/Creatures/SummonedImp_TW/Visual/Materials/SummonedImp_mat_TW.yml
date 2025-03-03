@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: SummonedImp_mat_TW
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: SummonedImp_texture3
+_EmissionColor:
+  r: 0.597188
+  g: 0
+  b: 1
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,50 @@
+Visual
+	WolfSmooth
+		CG
+			Pelvis
+				Spine
+					L Thigh
+						L Calf
+							L HorseLink
+								L Foot
+									L Foot_end
+					R Thigh
+						R Calf
+							R HorseLink
+								R Foot
+									R Foot_end
+					Spine1
+						Spine2
+							Neck
+								Head
+									Eye L
+										Eye L_end
+									Eye R
+										Eye R_end
+									Jaw
+										Tongue
+											Tongue_end
+									L Cheek
+										L Cheek_end
+									L Ear
+										L Ear_end
+									R Cheek
+										R Cheek_end
+									R Ear
+										R Ear_end
+								L Clavicle
+									L UpperArm
+										L Forearm
+											L Hand
+												L Hand_end
+								R Clavicle
+									R UpperArm
+										R Forearm
+											R Hand
+												R Hand_end
+					Tail
+						Tail1
+							Tail2
+								Tail3
+									Tail3_end
+		M

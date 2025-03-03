@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: LeatherBlue_mat_TW
+_Color:
+  r: 0.07990385
+  g: 0.3239439
+  b: 0.6320754
+  a: 1
+_MainTex: (Wood 26) tree bark seamless texture 2048x2048
+_EmissionColor:
+  r: 0.03759341
+  g: 0.2934762
+  b: 0.9056604
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

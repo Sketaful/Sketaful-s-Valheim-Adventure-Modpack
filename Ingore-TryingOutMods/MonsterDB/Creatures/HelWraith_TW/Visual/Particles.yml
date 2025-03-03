@@ -1,0 +1,5 @@
+evil_smoke _bottom (1): true
+evil_smoke _local: true
+evil_smoke _world: false
+evil_smoke _bottom: false
+Point light: true

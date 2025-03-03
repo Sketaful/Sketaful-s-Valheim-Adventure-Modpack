@@ -1,0 +1,10 @@
+UpdateInterval: 30
+TotalCheckRange: 10
+MaxCreatures: 5
+PartnerCheckRange: 4
+PregnancyChance: 0.33
+PregnancyDuration: 120
+RequiredLovePoints: 3
+Offspring: Boar_piggy
+MinOffspringLevel: 0
+SpawnOffset: 1

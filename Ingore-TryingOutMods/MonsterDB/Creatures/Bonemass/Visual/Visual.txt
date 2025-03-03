@@ -1,0 +1,64 @@
+Visual
+	model
+		Armature
+			root
+				l_hip
+					l_leg1
+						l_leg2
+							l_foot
+				r_hip
+					r_leg1
+						r_leg2
+							r_foot
+				spine1
+					spine2
+						spine3
+							head
+								jaw
+								LeftEye
+									QUAD
+									QUAD (1)
+								RightEye
+									QUAD
+									QUAD (1)
+							l_shoulder
+								l_upperarm
+									l_lowerarm
+										l_hand
+											l_hand.004
+												l_hand.005
+													l_hand.006
+											l_hand.007
+												l_hand.008
+													l_hand.009
+											l_hand.010
+												l_hand.011
+													l_hand.012
+											l_tumb1
+												l_thumb2
+													l_thumb3
+							r_shoulder
+								r_upperarm
+									r_lowerarm
+										r_hand
+											r_hand.004
+												r_hand.005
+													r_hand.006
+											r_hand.007
+												r_hand.008
+													r_hand.009
+											r_hand.010
+												r_hand.011
+													r_hand.012
+											r_tumb1
+												r_thumb2
+													r_thumb3
+		bonemass
+		heads
+	particles
+		flies
+		ooz
+		interior_dust
+		wetsplsh
+		wetsplsh (1)
+	Point light

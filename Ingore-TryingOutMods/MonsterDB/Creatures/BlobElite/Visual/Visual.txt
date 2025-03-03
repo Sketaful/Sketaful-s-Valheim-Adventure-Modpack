@@ -1,0 +1,13 @@
+Visual
+	blob
+		Armature
+			Bone
+				Bone.002
+					Bone.002_end
+		Cube
+	Point light
+	particles
+		flies
+		ooz
+		wetsplsh
+		wetsplsh_local

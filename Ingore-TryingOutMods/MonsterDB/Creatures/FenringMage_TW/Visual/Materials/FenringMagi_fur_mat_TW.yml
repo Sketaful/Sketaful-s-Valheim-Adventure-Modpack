@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: FenringMagi_fur_mat_TW
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: FenringMagi_fur_texture
+_EmissionColor:
+  r: 0.5707485
+  g: 0
+  b: 1.820705
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

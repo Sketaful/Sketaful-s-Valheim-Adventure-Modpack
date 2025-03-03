@@ -1,0 +1,96 @@
+Visual
+	root
+		DEMON_LORD_
+			DEMON_LORD_ Pelvis
+				DEMON_LORD_ L Thigh
+					DEMON_LORD_ L Calf
+						DEMON_LORD_ L HorseLink
+							DEMON_LORD_ L Foot
+								DEMON_LORD_ L Toe0
+									DEMON_LORD_ L Toe01
+				DEMON_LORD_ R Thigh
+					DEMON_LORD_ R Calf
+						DEMON_LORD_ R HorseLink
+							DEMON_LORD_ R Foot
+								DEMON_LORD_ R Toe0
+									DEMON_LORD_ R Toe01
+				DEMON_LORD_ Spine
+					DEMON_LORD_ Spine1
+						DEMON_LORD_ Spine2
+							DEMON_LORD_ L Clavicle
+								DEMON_LORD_ L UpperArm
+									DEMON_LORD_ L Forearm
+										DEMON_LORD_ L Hand
+											DEMON_LORD_ L Finger0
+												DEMON_LORD_ L Finger01
+													DEMON_LORD_ L Finger02
+											DEMON_LORD_ L Finger1
+												DEMON_LORD_ L Finger11
+													DEMON_LORD_ L Finger12
+											DEMON_LORD_ L Finger2
+												DEMON_LORD_ L Finger21
+													DEMON_LORD_ L Finger22
+											DEMON_LORD_ L Finger3
+												DEMON_LORD_ L Finger31
+													DEMON_LORD_ L Finger32
+											DEMON_LORD_SWORD
+											SwordHitJoint
+							DEMON_LORD_ Neck
+								DEMON_LORD_ Neck1
+									DEMON_LORD_ Head
+										DEMON_LORD_ Ponytail1
+							DEMON_LORD_ R Clavicle
+								DEMON_LORD_ R UpperArm
+									DEMON_LORD_ R Forearm
+										DEMON_LORD_ R Hand
+											DEMON_LORD_ R Finger0
+												DEMON_LORD_ R Finger01
+													DEMON_LORD_ R Finger02
+											DEMON_LORD_ R Finger1
+												DEMON_LORD_ R Finger11
+													DEMON_LORD_ R Finger12
+											DEMON_LORD_ R Finger2
+												DEMON_LORD_ R Finger21
+													DEMON_LORD_ R Finger22
+											DEMON_LORD_ R Finger3
+												DEMON_LORD_ R Finger31
+													DEMON_LORD_ R Finger32
+											DEMON_LORD_WHIP_HANDLE
+												DEMON_LORD_WHIP_01
+													DEMON_LORD_WHIP_02
+														DEMON_LORD_WHIP_03
+															DEMON_LORD_WHIP_04
+																DEMON_LORD_WHIP_05
+																	DEMON_LORD_WHIP_06
+																		DEMON_LORD_WHIP_07
+																			DEMON_LORD_WHIP_08
+																				DEMON_LORD_WHIP_09
+																					DEMON_LORD_WHIP_010
+																						DEMON_LORD_WHIP_011
+							DEMON_LORD_WING_L_ARM
+								DEMON_LORD_WING_L_FOREARM
+									DEMON_LORD_WING_L_HAND
+										DEMON_LORD_WING_L_FINGER_A_1
+											DEMON_LORD_WING_L_FINGER_A_2
+												DEMON_LORD_WING_L_FINGER_A_3
+										DEMON_LORD_WING_L_FINGER_B_1
+											DEMON_LORD_WING_L_FINGER_B_2
+												DEMON_LORD_WING_L_FINGER_B_3
+										DEMON_LORD_WING_L_FINGER_C_1
+											DEMON_LORD_WING_L_FINGER_C_2
+												DEMON_LORD_WING_L_FINGER_C_3
+							DEMON_LORD_WING_R_ARM
+								DEMON_LORD_WING_R_FOREARM
+									DEMON_LORD_WING_R_HAND
+										DEMON_LORD_WING_R_FINGER_A_1
+											DEMON_LORD_WING_R_FINGER_A_2
+												DEMON_LORD_WING_R_FINGER_A_3
+										DEMON_LORD_WING_R_FINGER_B_1
+											DEMON_LORD_WING_R_FINGER_B_2
+												DEMON_LORD_WING_R_FINGER_B_3
+										DEMON_LORD_WING_R_FINGER_C_1
+											DEMON_LORD_WING_R_FINGER_C_2
+												DEMON_LORD_WING_R_FINGER_C_3
+	SK_DemonLord
+	SK_FireSword
+	SK_LavaWhip

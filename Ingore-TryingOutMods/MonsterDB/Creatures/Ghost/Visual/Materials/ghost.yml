@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: ghost
+_Color:
+  r: 0
+  g: 0
+  b: 0
+  a: 1
+_MainTex: ''
+_EmissionColor:
+  r: 0.09537194
+  g: 0.1525951
+  b: 0.2647059
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: eye_shaman
+_Color:
+  r: 0.4332009
+  g: 0.8602941
+  b: 0.2973075
+  a: 1
+_MainTex: ''
+_EmissionColor:
+  r: 0.2823202
+  g: 2.676614
+  b: 0.1968099
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: REAPER_GEAR 1
+_Color:
+  r: 0.3773585
+  g: 0.03381985
+  b: 0.03381985
+  a: 1
+_MainTex: REAPER_GEAR
+_EmissionColor:
+  r: 0.1886792
+  g: 0
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: FenringMagi_cape_mat_TW
+_Color:
+  r: 0.6415094
+  g: 0.6257743
+  b: 0.6257743
+  a: 1
+_MainTex: FenringMagi_cloak_texture
+_EmissionColor:
+  r: 0.2374059
+  g: 0.1686274
+  b: 0.509804
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,11 @@
+- PrefabName: sfx_seeker_flying
+  Enabled: true
+  Variant: 0
+  Attach: true
+  Follow: false
+  InheritParentRotation: false
+  InheritParentScale: false
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: ''

@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: asksvinsaddle_mat4
+_Color:
+  r: 1
+  g: 0.003921568
+  b: 0.7401307
+  a: 1
+_MainTex: Untitled-2
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,10 @@
+UpdateInterval: 30
+TotalCheckRange: 10
+MaxCreatures: 10
+PartnerCheckRange: 4
+PregnancyChance: 0.33
+PregnancyDuration: 60
+RequiredLovePoints: 3
+Offspring: ChickenEgg
+MinOffspringLevel: 0
+SpawnOffset: 0

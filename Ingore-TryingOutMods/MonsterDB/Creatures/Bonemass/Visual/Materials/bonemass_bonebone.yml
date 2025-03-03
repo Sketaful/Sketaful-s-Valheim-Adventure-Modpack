@@ -1,0 +1,17 @@
+ShaderType: Custom/Bonemass
+Name: bonemass_bonebone
+_Color:
+  r: 1
+  g: 0.883508
+  b: 0.7547169
+  a: 1
+_MainTex: bonemass_bonebone_d
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 0
+  a: 0
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

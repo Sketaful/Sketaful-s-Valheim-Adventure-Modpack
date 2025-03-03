@@ -1,0 +1,11 @@
+- PrefabName: sfx_charred_archer_volley_draw
+  Enabled: true
+  Variant: -1
+  Attach: false
+  Follow: false
+  InheritParentRotation: false
+  InheritParentScale: false
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: ''

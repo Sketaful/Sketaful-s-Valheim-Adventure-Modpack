@@ -1,0 +1,85 @@
+Visual
+	root
+		DemonDog_
+			DemonDog_ Pelvis
+				DemonDog_ Spine
+					DemonDog_ L Thigh
+						DemonDog_ L Calf
+							DemonDog_ L HorseLink
+								DemonDog_ L Foot
+									DemonDog_ L Toe0
+									DemonDog_ L Toe1
+									DemonDog_ L Toe2
+									DemonDog_ L Toe3
+									DemonDog_ L Toe4
+					DemonDog_ R Thigh
+						DemonDog_ R Calf
+							DemonDog_ R HorseLink
+								DemonDog_ R Foot
+									DemonDog_ R Toe0
+									DemonDog_ R Toe1
+									DemonDog_ R Toe2
+									DemonDog_ R Toe3
+									DemonDog_ R Toe4
+					DemonDog_ Spine1
+						DemonDog_ Spine2
+							DemonDog_ L Clavicle
+								DemonDog_ L UpperArm
+									DemonDog_ L Forearm
+										DemonDog_ L Hand
+											DemonDog_ L Finger0
+											DemonDog_ L Finger1
+											DemonDog_ L Finger2
+											DemonDog_ L Finger3
+											DemonDog_ L Finger4
+							DemonDog_ Neck
+								DemonDog_ Head
+									DemonDog_ Ponytail1
+									DemonDog_EarL
+									DemonDog_EarR
+								DemonDog_Collar
+							DemonDog_ R Clavicle
+								DemonDog_ R UpperArm
+									DemonDog_ R Forearm
+										DemonDog_ R Hand
+											DemonDog_ R Finger0
+											DemonDog_ R Finger1
+											DemonDog_ R Finger2
+											DemonDog_ R Finger3
+											DemonDog_ R Finger4
+							DemonDog_SpikeL_1
+							DemonDog_SpikeL_2
+							DemonDog_SpikeL_3
+							DemonDog_SpikeL_4
+							DemonDog_SpikeL_5
+							DemonDog_SpikeL_6
+							DemonDog_SpikeL_7
+							DemonDog_SpikeL_8
+							DemonDog_SpikeL_9
+							DemonDog_SpikeR_1
+							DemonDog_SpikeR_2
+							DemonDog_SpikeR_3
+							DemonDog_SpikeR_4
+							DemonDog_SpikeR_5
+								nub
+							DemonDog_SpikeR_6
+							DemonDog_SpikeR_7
+							DemonDog_SpikeR_8
+							DemonDog_SpikeR_9
+						DemonDog_SpikeL_10
+						DemonDog_SpikeL_11
+						DemonDog_SpikeL_12
+						DemonDog_SpikeR_10
+						DemonDog_SpikeR_11
+						DemonDog_SpikeR_12
+				DemonDog_ Tail
+					DemonDog_ Tail1
+						DemonDog_ Tail2
+							DemonDog_ Tail3
+								DemonDog_ Tail4
+									DemonDog_ Tail5
+										DemonDog_ Tail6
+											DemonDog_ Tail7
+												DemonDog_ Tail8
+	SK_Collar
+	SK_DemonDog

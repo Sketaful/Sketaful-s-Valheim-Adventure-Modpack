@@ -1,0 +1,33 @@
+Name: Haldor
+MaxRange: 20
+GreetRange: 10
+ByeRange: 15
+Offset: 2
+MinTalkInterval: 1.5
+HideDialogueDelay: 5
+RandomTalkInterval: 30
+RandomTalkChance: 1
+RandomTalk:
+- Stay away from our stuff
+- You can warm your self at our fire
+- Did i just hear something?
+- Think I saw a Seeker over there.
+- No building here
+RandomTalkInFactionBase: []
+RandomGreets:
+- Look a human
+- Greetings Northman
+- We have been expecting you
+RandomGoodbye:
+- Dont get lost
+- See you again some day
+PrivateAreaAlarm:
+- Dont do that
+- Im warning you
+- Stop
+- This is our land
+Aggravated:
+- Now you done it
+- Get em
+- HUMAN!!
+- NORTHMAN!

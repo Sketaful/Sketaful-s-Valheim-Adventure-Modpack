@@ -1,0 +1,14 @@
+- PrefabName: chest_hildir2
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: true
+- PrefabName: TrophyCultist_Hildir
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: true

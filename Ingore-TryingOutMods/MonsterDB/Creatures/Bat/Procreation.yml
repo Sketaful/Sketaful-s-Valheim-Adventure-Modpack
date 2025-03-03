@@ -1,0 +1,10 @@
+UpdateInterval: 20
+TotalCheckRange: 10
+MaxCreatures: 6
+PartnerCheckRange: 4
+PregnancyChance: 0.33
+PregnancyDuration: 120
+RequiredLovePoints: 4
+Offspring: MiniBat
+MinOffspringLevel: 0
+SpawnOffset: 2

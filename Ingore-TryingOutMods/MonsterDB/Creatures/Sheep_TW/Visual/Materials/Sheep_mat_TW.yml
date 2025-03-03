@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: Sheep_mat_TW
+_Color:
+  r: 0.8490566
+  g: 0.8490566
+  b: 0.8490566
+  a: 1
+_MainTex: Sheep_Texture 3
+_EmissionColor:
+  r: 1
+  g: 0.4734374
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

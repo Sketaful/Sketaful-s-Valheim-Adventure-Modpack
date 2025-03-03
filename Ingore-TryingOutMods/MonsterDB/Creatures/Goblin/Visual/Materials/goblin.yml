@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: goblin
+_Color:
+  r: 0.8308824
+  g: 0.8308824
+  b: 0.8308824
+  a: 1
+_MainTex: goblin_d
+_EmissionColor:
+  r: 0
+  g: 0
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

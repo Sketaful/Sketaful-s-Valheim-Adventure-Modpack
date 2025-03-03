@@ -1,0 +1,14 @@
+- PrefabName: WolfFang
+  AmountMin: 1
+  AmountMax: 2
+  Chance: 0.5
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false
+- PrefabName: TrophyUlv
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

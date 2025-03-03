@@ -1,0 +1,11 @@
+- PrefabName: fx_chicken_lay_egg
+  Enabled: true
+  Variant: -1
+  Attach: false
+  Follow: false
+  InheritParentRotation: false
+  InheritParentScale: false
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: ''

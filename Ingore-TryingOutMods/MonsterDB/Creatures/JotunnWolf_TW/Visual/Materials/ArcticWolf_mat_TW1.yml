@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: ArcticWolf_mat_TW1
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: JotunnWolf_texture
+_EmissionColor:
+  r: 1
+  g: 0.708288
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

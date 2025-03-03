@@ -1,0 +1,14 @@
+- PrefabName: TrophySeekerQueen
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false
+- PrefabName: QueenDrop
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: true
+  LevelMultiplier: false
+  DoNotScale: false

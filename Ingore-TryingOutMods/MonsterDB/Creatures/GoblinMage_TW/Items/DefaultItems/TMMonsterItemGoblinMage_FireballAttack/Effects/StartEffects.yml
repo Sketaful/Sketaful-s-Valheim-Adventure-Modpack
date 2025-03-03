@@ -1,0 +1,11 @@
+- PrefabName: fx_firecast_WarfareWizardry_TW
+  Enabled: true
+  Variant: 0
+  Attach: true
+  Follow: false
+  InheritParentRotation: false
+  InheritParentScale: false
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: R_Hand

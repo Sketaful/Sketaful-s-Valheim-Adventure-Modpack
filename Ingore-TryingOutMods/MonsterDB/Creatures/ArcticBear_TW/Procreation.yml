@@ -1,0 +1,10 @@
+UpdateInterval: 30
+TotalCheckRange: 10
+MaxCreatures: 3
+PartnerCheckRange: 4
+PregnancyChance: 0.25
+PregnancyDuration: 300
+RequiredLovePoints: 3
+Offspring: ArcticBearCub_TW
+MinOffspringLevel: 0
+SpawnOffset: 1

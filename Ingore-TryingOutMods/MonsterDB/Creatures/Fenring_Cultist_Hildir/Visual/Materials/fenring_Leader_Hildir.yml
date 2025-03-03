@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: fenring_Leader_Hildir
+_Color:
+  r: 1
+  g: 1
+  b: 1
+  a: 1
+_MainTex: Fenring_d
+_EmissionColor:
+  r: 2
+  g: 0.3724139
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

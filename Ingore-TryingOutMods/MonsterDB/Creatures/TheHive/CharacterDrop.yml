@@ -1,0 +1,14 @@
+- PrefabName: TrophyHatchling
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false
+- PrefabName: FreezeGland
+  AmountMin: 1
+  AmountMax: 2
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: true
+  DoNotScale: false

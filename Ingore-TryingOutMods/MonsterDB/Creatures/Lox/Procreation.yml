@@ -1,0 +1,10 @@
+UpdateInterval: 30
+TotalCheckRange: 20
+MaxCreatures: 4
+PartnerCheckRange: 8
+PregnancyChance: 0.33
+PregnancyDuration: 240
+RequiredLovePoints: 4
+Offspring: Lox_Calf
+MinOffspringLevel: 0
+SpawnOffset: 2

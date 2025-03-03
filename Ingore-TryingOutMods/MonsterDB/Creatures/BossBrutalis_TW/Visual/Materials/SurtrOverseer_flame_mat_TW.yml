@@ -1,0 +1,17 @@
+ShaderType: Particles/Standard Unlit
+Name: SurtrOverseer_flame_mat_TW
+_Color:
+  r: 1
+  g: 0
+  b: 0
+  a: 1
+_MainTex: T_Flame_tileXY
+_EmissionColor:
+  r: 0.6792453
+  g: 0.6792453
+  b: 0.6792453
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

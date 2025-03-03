@@ -1,0 +1,22 @@
+- Scale: 1.1
+  Hue: 0
+  Saturation: 0
+  Value: 0
+  SetEmissiveColor: false
+  EmissiveColor:
+    r: 0
+    g: 0
+    b: 0
+    a: 0
+  EnableObject: 1-Star FX
+- Scale: 1.2
+  Hue: 0
+  Saturation: 0
+  Value: 0
+  SetEmissiveColor: false
+  EmissiveColor:
+    r: 0
+    g: 0
+    b: 0
+    a: 0
+  EnableObject: 2-Star FX

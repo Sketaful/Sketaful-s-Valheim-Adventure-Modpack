@@ -1,0 +1,74 @@
+Visual
+	Capsule
+	Hatchling_mountain
+		Armature
+			Root
+				Spine1
+					Spine2
+						Neck1
+							Neck2
+								Neck3
+									Head
+										Jaw
+											Jaw_end
+						Shoulder.r
+							Uwing.r
+								Mwing.r
+									Lwing.r
+										Lwing.r_end
+									Mwingfold.r
+										Mwingfold.r_end
+									Lwingfold.r
+										Lwingfold.r_end
+								Uwingfold.r
+									Uwingfold.r_end
+						Shoulder.l
+							Uwing.l
+								Mwing.l
+									Lwing.l
+										Lwing.l_end
+									Mwingfold.l
+										Mwingfold.l_end
+									Lwingfold.l
+										Lwingfold.l_end
+								Uwingfold.l
+									Uwingfold.l_end
+				Tail1
+					Tail2
+						Tail3
+							Tail4
+								Tail5
+									Tail6
+										Tail6_end
+		eyes
+		Hatchling
+		Hatchling.001
+		Horns
+	Sphere
+	Cube
+	Cube (1)
+	Cube (2)
+	Cube (4)
+	Cube (5)
+	Cube (6)
+	Cube (7)
+	Cube (8)
+	Cube (9)
+	Cube (10)
+	Cube (11)
+	Cube (12)
+	low
+	low (1)
+	low (2)
+	low (3)
+	low (4)
+	low (5)
+	low (6)
+	Pine_tree_lod0
+	Pine_tree_lod0 (1)
+	Pine_tree_lod0 (2)
+	Pine_tree_lod0 (3)
+	Pine_tree_lod0 (4)
+	Pine_tree_lod0 (5)
+	EYE
+	EYE (1)

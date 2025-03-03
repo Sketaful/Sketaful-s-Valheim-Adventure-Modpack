@@ -1,0 +1,17 @@
+ShaderType: Standard Double Sided
+Name: LeatherDarkerRed_mat_TW1
+_Color:
+  r: 0.2358491
+  g: 0.04983977
+  b: 0.06428713
+  a: 1
+_MainTex: (Wood 26) tree bark seamless texture 2048x2048
+_EmissionColor:
+  r: 1
+  g: 0
+  b: 0.2085995
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

@@ -1,0 +1,8 @@
+Visual
+	Armature
+		Root
+			Shaft
+				Head_01
+					Head_02
+						Head_03
+	Cube

@@ -1,0 +1,7 @@
+- PrefabName: chest_hildir3
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 1
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

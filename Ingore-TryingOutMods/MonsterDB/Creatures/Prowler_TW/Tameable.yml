@@ -1,0 +1,10 @@
+FedDuration: 600
+TamingTime: 1980
+StartTamed: false
+Commandable: true
+UnsummonDistance: 0
+UnsummonOnOwnerLogoutSeconds: 0
+LevelUpOwnerSkill: None
+LevelUpFactor: 1
+DropSaddleOnDeath: true
+RandomStartingName: []

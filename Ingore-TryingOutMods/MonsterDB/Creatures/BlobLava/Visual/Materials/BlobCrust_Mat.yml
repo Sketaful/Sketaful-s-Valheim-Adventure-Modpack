@@ -1,0 +1,17 @@
+ShaderType: Custom/FlowOpaque
+Name: BlobCrust_Mat
+_Color:
+  r: 1
+  g: 0.4081632
+  b: 0
+  a: 1
+_MainTex: Crust_d
+_EmissionColor:
+  r: 2.038594
+  g: 0.1661592
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

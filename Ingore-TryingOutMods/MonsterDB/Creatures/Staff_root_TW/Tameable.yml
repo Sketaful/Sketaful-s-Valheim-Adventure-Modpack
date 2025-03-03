@@ -1,0 +1,10 @@
+FedDuration: 30
+TamingTime: 1800
+StartTamed: true
+Commandable: false
+UnsummonDistance: 150
+UnsummonOnOwnerLogoutSeconds: 120
+LevelUpOwnerSkill: ElementalMagic
+LevelUpFactor: 0.25
+DropSaddleOnDeath: true
+RandomStartingName: []

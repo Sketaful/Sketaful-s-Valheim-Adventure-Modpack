@@ -1,0 +1,98 @@
+Visual
+	REAPER_
+		REAPER_ Pelvis
+			REAPER_ Spine
+				REAPER_ Spine1
+					Factice001
+						REAPER_WING_RIGHT_1
+							REAPER_WING_RIGHT_2
+								REAPER_WING_RIGHT_3
+									REAPER_WING_RIGHT_FINGER_A_1
+										REAPER_WING_RIGHT_FINGER_A_2
+											REAPER_WING_RIGHT_FINGER_A_3
+									REAPER_WING_RIGHT_FINGER_B_1
+										REAPER_WING_RIGHT_FINGER_B_2
+											REAPER_WING_RIGHT_FINGER_B_3
+									REAPER_WING_RIGHT_FINGER_C_1
+										REAPER_WING_RIGHT_FINGER_C_2
+											REAPER_WING_RIGHT_FINGER_C_3
+					Factice002
+						REAPER_WING_LEFT_1
+							REAPER_WING_LEFT_2
+								REAPER_WING_LEFT_3
+									REAPER_WING_LEFT_FINGER_A_1
+										REAPER_WING_LEFT_FINGER_A_2
+											REAPER_WING_LEFT_FINGER_A_3
+									REAPER_WING_LEFT_FINGER_B_1
+										REAPER_WING_LEFT_FINGER_B_2
+											REAPER_WING_LEFT_FINGER_B_3
+									REAPER_WING_LEFT_FINGER_C_1
+										REAPER_WING_LEFT_FINGER_C_2
+											REAPER_WING_LEFT_FINGER_C_3
+					REAPER_ Neck
+						REAPER_ L Clavicle
+							REAPER_ L UpperArm
+								REAPER_ L Forearm
+									REAPER_ L Hand
+										REAPER_ L Finger0
+											REAPER_ L Finger01
+												REAPER_ L Finger02
+										REAPER_ L Finger1
+											REAPER_ L Finger11
+												REAPER_ L Finger12
+										REAPER_ L Finger2
+											REAPER_ L Finger21
+												REAPER_ L Finger22
+										REAPER_ L Finger3
+											REAPER_ L Finger31
+												REAPER_ L Finger32
+										REAPER_ L Finger4
+											REAPER_ L Finger41
+												REAPER_ L Finger42
+						REAPER_ Neck1
+							REAPER_ Head
+								eye_l
+									evil_smoke
+								eye_r
+									evil_smoke
+						1_3
+							Point light
+						REAPER_ R Clavicle
+							REAPER_ R UpperArm
+								REAPER_ R Forearm
+									REAPER_ R Hand
+										REAPER_ R Finger0
+											REAPER_ R Finger01
+												REAPER_ R Finger02
+										REAPER_ R Finger1
+											REAPER_ R Finger11
+												REAPER_ R Finger12
+										REAPER_ R Finger2
+											REAPER_ R Finger21
+												REAPER_ R Finger22
+										REAPER_ R Finger3
+											REAPER_ R Finger31
+												REAPER_ R Finger32
+										REAPER_ R Finger4
+											REAPER_ R Finger41
+												REAPER_ R Finger42
+										REAPER_SCYTHE
+											Staff08
+											Point light
+				REAPER_ Tail
+					REAPER_ Tail1
+						REAPER_ Tail2
+							REAPER_ Tail3
+								REAPER_ Tail4
+								REAPER_ Tail5
+			REAPER_CHAIN_LINK_LEFT_1
+				REAPER_CHAIN_LINK_LEFT_2
+					REAPER_CHAIN_LINK_LEFT_3
+						REAPER_LANTERN
+							Point light
+			REAPER_CHAIN_LINK_RIGHT_1
+				REAPER_CHAIN_LINK_RIGHT_2
+					REAPER_CHAIN_LINK_RIGHT_3
+						REAPER_HOURGLASS
+	FogHeavyWhite
+	REAPER

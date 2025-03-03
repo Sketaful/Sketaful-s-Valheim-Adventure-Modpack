@@ -1,0 +1,17 @@
+ShaderType: Standard
+Name: yellowflame_mat_TW
+_Color:
+  r: 1
+  g: 0.7655259
+  b: 0
+  a: 1
+_MainTex: flame2
+_EmissionColor:
+  r: 9.849158
+  g: 1.681593
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

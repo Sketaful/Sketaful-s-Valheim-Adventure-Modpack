@@ -1,0 +1,22 @@
+- Scale: 1
+  Hue: -0.28
+  Saturation: -0.3
+  Value: -0.1
+  SetEmissiveColor: false
+  EmissiveColor:
+    r: 0.03871178
+    g: 0
+    b: 0.1603774
+    a: 0
+  EnableObject: ''
+- Scale: 1
+  Hue: -0.1
+  Saturation: 0.1
+  Value: -0.2
+  SetEmissiveColor: false
+  EmissiveColor:
+    r: 0.3113208
+    g: 0.008451466
+    b: 0
+    a: 0
+  EnableObject: ''

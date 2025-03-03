@@ -1,0 +1,10 @@
+UpdateInterval: 30
+TotalCheckRange: 10
+MaxCreatures: 4
+PartnerCheckRange: 4
+PregnancyChance: 0.33
+PregnancyDuration: 120
+RequiredLovePoints: 3
+Offspring: Wolf_cub
+MinOffspringLevel: 0
+SpawnOffset: 1

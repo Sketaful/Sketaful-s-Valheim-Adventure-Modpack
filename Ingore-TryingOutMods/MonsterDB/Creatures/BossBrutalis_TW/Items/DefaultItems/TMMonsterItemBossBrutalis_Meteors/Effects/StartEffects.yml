@@ -1,0 +1,22 @@
+- PrefabName: fx_burninghands_TW
+  Enabled: true
+  Variant: 0
+  Attach: false
+  Follow: true
+  InheritParentRotation: false
+  InheritParentScale: true
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: DEMON_LORD_ L Hand
+- PrefabName: fx_burninghands_TW
+  Enabled: true
+  Variant: 0
+  Attach: false
+  Follow: true
+  InheritParentRotation: false
+  InheritParentScale: true
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: DEMON_LORD_ R Hand

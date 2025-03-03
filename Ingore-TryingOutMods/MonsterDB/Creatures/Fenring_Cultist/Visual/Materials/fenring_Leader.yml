@@ -1,0 +1,17 @@
+ShaderType: Custom/Creature
+Name: fenring_Leader
+_Color:
+  r: 0.6764706
+  g: 0.6764706
+  b: 0.6764706
+  a: 1
+_MainTex: Fenring_d
+_EmissionColor:
+  r: 2
+  g: 0.3724139
+  b: 0
+  a: 1
+Transparent: false
+_Hue: 0
+_Value: 0
+_Saturation: 0

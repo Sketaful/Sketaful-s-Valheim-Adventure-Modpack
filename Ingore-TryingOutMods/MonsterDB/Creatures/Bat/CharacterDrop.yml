@@ -1,0 +1,7 @@
+- PrefabName: LeatherScraps
+  AmountMin: 1
+  AmountMax: 1
+  Chance: 0.5
+  OnePerPlayer: false
+  LevelMultiplier: false
+  DoNotScale: false

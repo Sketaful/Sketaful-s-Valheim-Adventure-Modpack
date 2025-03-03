@@ -1,0 +1,11 @@
+- PrefabName: fx_Abomination_arise_end
+  Enabled: true
+  Variant: 0
+  Attach: false
+  Follow: false
+  InheritParentRotation: false
+  InheritParentScale: false
+  MultiplyParentVisualScale: false
+  RandomRotation: false
+  Scale: false
+  ChildTransform: ''
