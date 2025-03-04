@@ -1,7 +1,7 @@
-name: SaddleT2
-m_weight: 7
-m_name: Bug Saddle
-m_description: For those small blood suckers.
+name: SaddleT3
+m_weight: 8
+m_name: Unused saddle 2
+m_description: No use.
 clonePrefabName: 
 mockName: 
 customIcon: 

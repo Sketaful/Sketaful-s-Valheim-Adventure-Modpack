@@ -1,7 +1,7 @@
-name: SaddleT2
-m_weight: 7
-m_name: Bug Saddle
-m_description: For those small blood suckers.
+name: SaddleT1
+m_weight: 6
+m_name: Meadows Saddle
+m_description: A saddle made for a Neck, Boar or a Deer.
 clonePrefabName: 
 mockName: 
 customIcon: 

@@ -1,7 +1,7 @@
-name: SaddleT2
-m_weight: 7
-m_name: Bug Saddle
-m_description: For those small blood suckers.
+name: SaddleT5
+m_weight: 10
+m_name: Waterproof Saddle
+m_description: This is quite a large saddle and seem to be for use in water.
 clonePrefabName: 
 mockName: 
 customIcon: 
