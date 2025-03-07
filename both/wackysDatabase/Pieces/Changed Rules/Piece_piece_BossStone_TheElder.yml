@@ -56,5 +56,6 @@ teleportWorldData:
 plantData: 
 shipData: 
 build:
+- AncientSeed:1:1:True
 - Stone:50:1:True
 - Flint:10:1:True
