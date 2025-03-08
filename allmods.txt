@@ -1,0 +1,102 @@
+AAA Crafting
+You have a search field when crafting to easierar find things. 
+You can type how many things you want to create in the workbench and it will make all at once, but slower.
+
+Advanced Terrain Modifiers
+You a
+
+All Tameable Taming Overhaul
+Almanac
+Armory
+Azu Anti Cheat
+Azu Clock
+Azu Crafty Boxes
+Azu Extended Player Inventory
+Backpacks
+BepInExPack_Valheim
+Blacksmithing
+BoatAdditions
+Build Camera Custom Hammers Edition
+Buildable Boss Stones
+Chatter
+Clay Build Pieces
+Combat Owner
+Configuration Manager
+Cooking
+Cooking Additions
+Core Wood Pieces
+Creature Level and Loot Control
+Crystal Collector
+Crystal Lights
+Custom Raids
+Custom Tutorials
+Digitalroots Slope Combat Assistance
+Discovery Pins
+Drop That
+Dual Wield
+Eternal Fire
+Expand World Data
+Expand World Size
+Farming 
+Feather Collector 
+Fine Wood Build Pieces 
+Gizmo 
+Glass Pieces 
+Groups 
+Guck Collector 
+Guilds 
+Heightmap Unlimited Remake 
+Instant Monster Loot Drop 
+Intermission 
+Item Stand All Items 
+Item Hopper 
+Jewelcrafting 
+Jotunn 
+Json Dot NET 
+Kill Me For My Power 
+Localization Cache 
+Logo Changer 
+Mad Hatter 
+Magic Plugin 
+Majestic Button 
+Missing Pieces 
+Monstrum 
+Monstrum Raids 
+Monstrum Deep North
+More Vanilla Build Prefabs 
+More Pins 
+Mount Up Restored 
+Multi User Chest 
+Network Tweaks 
+Odins Steelworks 
+Plant Easily 
+Plant Everything
+Professions 
+Quick Stack Store Sort Trash Restock 
+Recycle N Reclaim 
+Report Card 
+Resin Guard 
+Resource Unload Optimizer 
+Searchable Build Menu 
+Sears Catalog
+Server Characters 
+Smooth Save 
+Soulcatcher JC KG Additions 
+Stamina Regeneration From Food 
+Steady Regeneration 
+Tar Collector 
+Target Portal 
+Useful Paths 
+Vikings Do Swim 
+Wacky Epic MMO System 
+Wackys Database 
+Wagon
+Warfare
+Warfare Fire And Ice
+Waypoints 
+Wield Equipment While Swimming 
+Wizardry 
+Wizardry Raids 
+X Ray Vision 
+Zen Redecorate 
+Zen Sign
