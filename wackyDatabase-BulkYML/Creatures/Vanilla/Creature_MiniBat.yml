@@ -1,4 +1,0 @@
-name: MiniBat
-mob_display_name: $at_mini_prefix $enemy_bat
-clone_creature: 
-creature_replacer: 
