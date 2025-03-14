@@ -1,0 +1,1042 @@
+2025-03-13 03:53:01 [DEBUG]: Main config: c:\Servrar\Valheim\Sketafuls-Adventure\BepInEx\config\games.nwest.valheim.discordconnector\discordconnector.cfg
+2025-03-13 03:53:01 [DEBUG]: Messages config: c:\Servrar\Valheim\Sketafuls-Adventure\BepInEx\config\games.nwest.valheim.discordconnector\discordconnector-messages.cfg
+2025-03-13 03:53:01 [DEBUG]: Toggles config: c:\Servrar\Valheim\Sketafuls-Adventure\BepInEx\config\games.nwest.valheim.discordconnector\discordconnector-toggles.cfg
+2025-03-13 03:53:01 [DEBUG]: Variable config: c:\Servrar\Valheim\Sketafuls-Adventure\BepInEx\config\games.nwest.valheim.discordconnector\discordconnector-variables.cfg
+2025-03-13 03:53:01 [DEBUG]: Leader board config: c:\Servrar\Valheim\Sketafuls-Adventure\BepInEx\config\games.nwest.valheim.discordconnector\discordconnector-leaderBoards.cfg
+2025-03-13 03:53:01 [DEBUG]: Extra Webhook config: c:\Servrar\Valheim\Sketafuls-Adventure\BepInEx\config\games.nwest.valheim.discordconnector\discordconnector-extraWebhooks.cfg
+2025-03-13 03:53:01 [DEBUG]: Webhooks: cleaned config entry 'serverLifecycle' => 'serverLifecycle'
+2025-03-13 03:53:01 [DEBUG]: Webhooks: parsed config entry 'serverLifecycle' => 'ServerLifecycle'
+2025-03-13 03:53:01 [DEBUG]: Webhooks: cleaned config entry 'playerAll;playerFirstAll' => 'playerAll;playerFirstAll'
+2025-03-13 03:53:01 [DEBUG]: Webhooks: parsed config entry 'playerAll;playerFirstAll' => 'PlayerAll, PlayerFirstAll'
+2025-03-13 03:53:02 [DEBUG]: Webhooks: cleaned config entry 'leaderboardsAll' => 'leaderboardsAll'
+2025-03-13 03:53:02 [DEBUG]: Webhooks: parsed config entry 'leaderboardsAll' => 'LeaderboardsAll'
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 2 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 3 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 4 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 5 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 6 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 7 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 8 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 9 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 10 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 11 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 12 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 13 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 14 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 15 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Skipping Webhook 16 because URL or Events are empty.
+2025-03-13 03:53:02 [DEBUG]: ExtraWebhooks: Loaded 1 webhooks from the config file.
+2025-03-13 03:53:02 [DEBUG]: Configuration Loaded
+2025-03-13 03:53:02 [DEBUG]: Muted Players Regex pattern ('a^' is default for no matches): a^
+2025-03-13 03:53:02 [DEBUG]: Dumped configuration files to config-dump.json
+2025-03-13 03:53:02 [DEBUG]: Plugin DiscordConnector is loaded!
+2025-03-13 03:53:02 [DEBUG]: LiteDB Connection Established to c:\Servrar\Valheim\Sketafuls-Adventure\BepInEx\config\games.nwest.valheim.discordconnector\records.db
+2025-03-13 03:53:02 [DEBUG]: Created indices on database collections
+2025-03-13 03:55:10 [DEBUG]: Getting public IP address.
+2025-03-13 03:55:10 [DEBUG]: Public IP address is '155.4.42.97'
+2025-03-13 03:55:10 [DEBUG]: Checking if ServerLaunch is part of ServerLifecycle
+2025-03-13 03:55:10 [DEBUG]: Sending ServerLaunch message to Primary Webhook
+2025-03-13 03:55:10 [DEBUG]: Trying webhook with payload: {"content":"Server is starting up.","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 03:55:10 [DEBUG]: DispatchRequest.92326285: sending 183 bytes to Discord
+2025-03-13 03:55:10 [DEBUG]: Checking if ServerLaunch is part of PlayerAll
+2025-03-13 03:55:10 [DEBUG]: Checking if ServerLaunch is part of PlayerFirstAll
+2025-03-13 03:55:10 [DEBUG]: Checking for exact match of ServerLaunch
+2025-03-13 03:55:10 [DEBUG]: Checking if ServerLaunch is part of LeaderboardsAll
+2025-03-13 03:55:10 [DEBUG]: Checking for exact match of ServerLaunch
+2025-03-13 03:55:29 [DEBUG]: Checking if ServerStart is part of ServerLifecycle
+2025-03-13 03:55:29 [DEBUG]: Sending ServerStart message to Primary Webhook
+2025-03-13 03:55:29 [DEBUG]: Trying webhook with payload: {"content":"Server has started!","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 03:55:29 [DEBUG]: DispatchRequest.babf93fa: sending 180 bytes to Discord
+2025-03-13 03:55:29 [DEBUG]: Checking if ServerStart is part of PlayerAll
+2025-03-13 03:55:29 [DEBUG]: Checking if ServerStart is part of PlayerFirstAll
+2025-03-13 03:55:29 [DEBUG]: Checking for exact match of ServerStart
+2025-03-13 03:55:29 [DEBUG]: Checking if ServerStart is part of LeaderboardsAll
+2025-03-13 03:55:29 [DEBUG]: Checking for exact match of ServerStart
+2025-03-13 04:24:56 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 04:24:56 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 04:24:56 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 04:24:56 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 04:24:56 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 04:24:56 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 04:24:56 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 04:34:41 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 04:34:41 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 04:34:41 [DEBUG]: Trying webhook with payload: {"content":"Day Number 67","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 04:34:41 [DEBUG]: DispatchRequest.97b51501: sending 174 bytes to Discord
+2025-03-13 04:34:41 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 04:34:41 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 04:34:41 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 04:34:41 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 04:34:41 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 04:34:50 [DEBUG]: Added player 76561197970639886 peer_id:637730440 (Bunko) to joined player list.
+2025-03-13 04:34:50 [DEBUG]: Checking if PlayerFirstJoin is part of ServerLifecycle
+2025-03-13 04:34:50 [DEBUG]: Checking for exact match of PlayerFirstJoin
+2025-03-13 04:34:50 [DEBUG]: Checking if PlayerFirstJoin is part of PlayerAll
+2025-03-13 04:34:50 [DEBUG]: Checking if PlayerFirstJoin is part of PlayerFirstAll
+2025-03-13 04:34:50 [DEBUG]: Sending PlayerFirstJoin message to Secondary Webhook
+2025-03-13 04:34:50 [DEBUG]: Trying webhook with payload: {"content":"Welcome Bunko, it's their first time on the server!","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 04:34:50 [DEBUG]: DispatchRequest.f2d8fc7a: sending 212 bytes to Discord
+2025-03-13 04:34:50 [DEBUG]: Checking if PlayerFirstJoin is part of LeaderboardsAll
+2025-03-13 04:34:50 [DEBUG]: Checking for exact match of PlayerFirstJoin
+2025-03-13 04:36:30 [DEBUG]: Removed player 76561197970639886 peer_id:637730440 (Bunko) from joined player list.
+2025-03-13 04:36:30 [DEBUG]: Checking if PlayerLeave is part of ServerLifecycle
+2025-03-13 04:36:30 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-13 04:36:30 [DEBUG]: Checking if PlayerLeave is part of PlayerAll
+2025-03-13 04:36:30 [DEBUG]: Sending PlayerLeave message to Secondary Webhook
+2025-03-13 04:36:30 [DEBUG]: Trying webhook with payload: {"content":"Bunko has left.","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 04:36:30 [DEBUG]: DispatchRequest.ccff057d: sending 176 bytes to Discord
+2025-03-13 04:36:30 [DEBUG]: Checking if PlayerLeave is part of LeaderboardsAll
+2025-03-13 04:36:30 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-13 04:54:57 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 04:54:57 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 04:54:57 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 04:54:57 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 04:54:57 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 04:54:57 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 04:54:57 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 05:24:57 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 05:24:57 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 05:24:57 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 05:24:57 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 05:24:57 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 05:24:57 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 05:24:57 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 05:54:57 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 05:54:57 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 05:54:57 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 05:54:57 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 05:54:57 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 05:54:57 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 05:54:57 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 06:24:58 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 06:24:58 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 06:24:58 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 06:24:58 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 06:24:58 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 06:24:58 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 06:24:58 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 06:54:58 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 06:54:58 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 06:54:58 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 06:54:58 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 06:54:58 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 06:54:58 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 06:54:58 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 07:24:59 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 07:24:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 07:24:59 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 07:24:59 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 07:24:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 07:24:59 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 07:24:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 07:54:59 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 07:54:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 07:54:59 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 07:54:59 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 07:54:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 07:54:59 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 07:54:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 08:24:59 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 08:24:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 08:24:59 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 08:24:59 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 08:24:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 08:24:59 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 08:24:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 08:55:00 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 08:55:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 08:55:00 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 08:55:00 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 08:55:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 08:55:00 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 08:55:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 09:25:00 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 09:25:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 09:25:00 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 09:25:00 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 09:25:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 09:25:00 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 09:25:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 09:55:00 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 09:55:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 09:55:00 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 09:55:00 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 09:55:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 09:55:00 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 09:55:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 10:25:01 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 10:25:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 10:25:01 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 10:25:01 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 10:25:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 10:25:01 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 10:25:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 10:55:01 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 10:55:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 10:55:01 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 10:55:01 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 10:55:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 10:55:01 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 10:55:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 11:25:02 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 11:25:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 11:25:02 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 11:25:02 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 11:25:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 11:25:02 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 11:25:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 11:55:02 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 11:55:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 11:55:02 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 11:55:02 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 11:55:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 11:55:02 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 11:55:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 12:25:02 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 12:25:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 12:25:02 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 12:25:02 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 12:25:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 12:25:02 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 12:25:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 12:55:03 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 12:55:03 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 12:55:03 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 12:55:03 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 12:55:03 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 12:55:03 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 12:55:03 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 13:25:03 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 13:25:03 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 13:25:03 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 13:25:03 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 13:25:03 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 13:25:03 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 13:25:03 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 13:55:03 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 13:55:03 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 13:55:03 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 13:55:03 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 13:55:03 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 13:55:03 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 13:55:03 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 14:07:57 [DEBUG]: Added player 76561198026567297 peer_id:-164717933 (Pookwald) to joined player list.
+2025-03-13 14:07:57 [DEBUG]: Checking if PlayerJoin is part of ServerLifecycle
+2025-03-13 14:07:57 [DEBUG]: Checking for exact match of PlayerJoin
+2025-03-13 14:07:57 [DEBUG]: Checking if PlayerJoin is part of PlayerAll
+2025-03-13 14:07:57 [DEBUG]: Sending PlayerJoin message to Secondary Webhook
+2025-03-13 14:07:57 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has joined.","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 14:07:57 [DEBUG]: DispatchRequest.20841f53: sending 181 bytes to Discord
+2025-03-13 14:07:57 [DEBUG]: Checking if PlayerJoin is part of LeaderboardsAll
+2025-03-13 14:07:57 [DEBUG]: Checking for exact match of PlayerJoin
+2025-03-13 14:25:04 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 14:25:04 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 14:25:04 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 14:25:04 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 14:25:04 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 14:25:04 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 14:25:04 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 14:25:40 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 14:25:40 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 14:25:40 [DEBUG]: Trying webhook with payload: {"content":"Day Number 68","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 14:25:40 [DEBUG]: DispatchRequest.67ce09c4: sending 174 bytes to Discord
+2025-03-13 14:25:40 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 14:25:40 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 14:25:40 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 14:25:40 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 14:25:40 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 14:44:29 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 14:44:37 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 14:44:37 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 14:44:37 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 14:44:37 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 14:44:37 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 14:44:37 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 14:44:37 [DEBUG]: DispatchRequest.f0b1f4aa: sending 289 bytes to Discord
+2025-03-13 14:44:37 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 14:44:37 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 14:55:04 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 14:55:04 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 14:55:04 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 14:55:04 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 14:55:04 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 14:55:04 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 14:55:04 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 14:55:33 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 14:55:33 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 14:55:33 [DEBUG]: Trying webhook with payload: {"content":"Day Number 69","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 14:55:33 [DEBUG]: DispatchRequest.06a1cf25: sending 174 bytes to Discord
+2025-03-13 14:55:33 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 14:55:33 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 14:55:33 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 14:55:33 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 14:55:33 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 15:13:21 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 15:13:29 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 15:13:29 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 15:13:29 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 15:13:29 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 15:13:29 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 15:13:29 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 15:13:29 [DEBUG]: DispatchRequest.c353592a: sending 289 bytes to Discord
+2025-03-13 15:13:29 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 15:13:29 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 15:15:14 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 15:15:22 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 15:15:22 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 15:15:22 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 15:15:22 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 15:15:22 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 15:15:22 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 15:15:22 [DEBUG]: DispatchRequest.06227880: sending 289 bytes to Discord
+2025-03-13 15:15:22 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 15:15:22 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 15:18:25 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 15:18:33 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 15:18:33 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 15:18:33 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 15:18:33 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 15:18:33 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 15:18:33 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 15:18:33 [DEBUG]: DispatchRequest.edcf29a8: sending 289 bytes to Discord
+2025-03-13 15:18:33 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 15:18:33 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 15:23:13 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 15:23:13 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 15:23:13 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 15:23:13 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 15:23:13 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 15:23:13 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 15:23:13 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 15:23:21 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 15:23:21 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 15:23:21 [DEBUG]: Trying webhook with payload: {"content":"Day Number 70","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 15:23:21 [DEBUG]: DispatchRequest.1b8e3332: sending 174 bytes to Discord
+2025-03-13 15:23:21 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 15:23:21 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 15:23:21 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 15:23:21 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 15:23:21 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 15:44:53 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 15:44:53 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 15:44:53 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 15:44:53 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 15:44:53 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 15:44:53 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 15:44:53 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 15:45:03 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 15:45:03 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 15:45:03 [DEBUG]: Trying webhook with payload: {"content":"Day Number 71","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 15:45:03 [DEBUG]: DispatchRequest.4ec0812e: sending 174 bytes to Discord
+2025-03-13 15:45:03 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 15:45:03 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 15:45:03 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 15:45:03 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 15:45:03 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 16:02:28 [DEBUG]: Removed player 76561198026567297 peer_id:-164717933 (Pookwald) from joined player list.
+2025-03-13 16:02:28 [DEBUG]: Checking if PlayerLeave is part of ServerLifecycle
+2025-03-13 16:02:28 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-13 16:02:28 [DEBUG]: Checking if PlayerLeave is part of PlayerAll
+2025-03-13 16:02:28 [DEBUG]: Sending PlayerLeave message to Secondary Webhook
+2025-03-13 16:02:28 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has left.","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 16:02:28 [DEBUG]: DispatchRequest.6c1f6112: sending 179 bytes to Discord
+2025-03-13 16:02:28 [DEBUG]: Checking if PlayerLeave is part of LeaderboardsAll
+2025-03-13 16:02:28 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-13 16:14:54 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 16:14:54 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 16:14:54 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 16:14:54 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 16:14:54 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 16:14:54 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 16:14:54 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 16:44:54 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 16:44:54 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 16:44:54 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 16:44:54 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 16:44:54 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 16:44:54 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 16:44:54 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 17:14:54 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 17:14:54 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 17:14:54 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 17:14:54 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 17:14:54 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 17:14:54 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 17:14:54 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 17:29:10 [DEBUG]: 76561198131313781 did not exist in the list of joined players!
+2025-03-13 17:42:40 [DEBUG]: Added player 76561198131313781 peer_id:322352877 (Sketaful Novia) to joined player list.
+2025-03-13 17:42:40 [DEBUG]: Checking if PlayerJoin is part of ServerLifecycle
+2025-03-13 17:42:40 [DEBUG]: Checking for exact match of PlayerJoin
+2025-03-13 17:42:40 [DEBUG]: Checking if PlayerJoin is part of PlayerAll
+2025-03-13 17:42:40 [DEBUG]: Sending PlayerJoin message to Secondary Webhook
+2025-03-13 17:42:40 [DEBUG]: Trying webhook with payload: {"content":"Sketaful Novia has joined.","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 17:42:40 [DEBUG]: DispatchRequest.7a347b14: sending 187 bytes to Discord
+2025-03-13 17:42:40 [DEBUG]: Checking if PlayerJoin is part of LeaderboardsAll
+2025-03-13 17:42:40 [DEBUG]: Checking for exact match of PlayerJoin
+2025-03-13 17:44:55 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 17:44:55 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 17:44:55 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 17:44:55 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 17:44:55 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 17:44:55 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 17:44:55 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 17:45:17 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 17:45:17 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 17:45:17 [DEBUG]: Trying webhook with payload: {"content":"Day Number 72","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 17:45:17 [DEBUG]: DispatchRequest.f0f291d1: sending 174 bytes to Discord
+2025-03-13 17:45:17 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 17:45:17 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 17:45:17 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 17:45:17 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 17:45:17 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 18:05:04 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 18:05:04 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 18:05:04 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 18:05:04 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 18:05:04 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 18:05:04 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 18:05:04 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 18:05:15 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 18:05:15 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 18:05:15 [DEBUG]: Trying webhook with payload: {"content":"Day Number 73","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:05:15 [DEBUG]: DispatchRequest.c76ebd87: sending 174 bytes to Discord
+2025-03-13 18:05:15 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 18:05:15 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 18:05:15 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 18:05:15 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 18:05:15 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 18:11:41 [DEBUG]: 76561198131313781 already exists in list of joined players.
+2025-03-13 18:11:49 [DEBUG]: 76561198131313781 already exists in list of joined players.
+2025-03-13 18:11:49 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 18:11:49 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:11:49 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 18:11:49 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 18:11:49 [DEBUG]: Trying webhook with payload: {"content":"Sketaful Novia has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1089,7, 36,4, -57,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:11:49 [DEBUG]: DispatchRequest.1e44092f: sending 295 bytes to Discord
+2025-03-13 18:11:49 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 18:11:49 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:29:46 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 18:29:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 18:29:46 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 18:29:46 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 18:29:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 18:29:46 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 18:29:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 18:29:55 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 18:29:55 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 18:29:55 [DEBUG]: Trying webhook with payload: {"content":"Day Number 74","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:29:55 [DEBUG]: DispatchRequest.0acf7c8a: sending 174 bytes to Discord
+2025-03-13 18:29:55 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 18:29:55 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 18:29:55 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 18:29:55 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 18:29:55 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 18:31:53 [DEBUG]: Added player 76561198026567297 peer_id:-71591365 (Pookwald) to joined player list.
+2025-03-13 18:31:53 [DEBUG]: Checking if PlayerJoin is part of ServerLifecycle
+2025-03-13 18:31:53 [DEBUG]: Checking for exact match of PlayerJoin
+2025-03-13 18:31:53 [DEBUG]: Checking if PlayerJoin is part of PlayerAll
+2025-03-13 18:31:53 [DEBUG]: Sending PlayerJoin message to Secondary Webhook
+2025-03-13 18:31:53 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has joined.","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:31:53 [DEBUG]: DispatchRequest.8ca0d586: sending 181 bytes to Discord
+2025-03-13 18:31:53 [DEBUG]: Checking if PlayerJoin is part of LeaderboardsAll
+2025-03-13 18:31:53 [DEBUG]: Checking for exact match of PlayerJoin
+2025-03-13 18:40:00 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:40:08 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:40:08 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 18:40:08 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:40:08 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 18:40:08 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 18:40:08 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:40:08 [DEBUG]: DispatchRequest.68595ee9: sending 289 bytes to Discord
+2025-03-13 18:40:08 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 18:40:08 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:42:41 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:42:49 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:42:49 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 18:42:49 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:42:49 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 18:42:49 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 18:42:49 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:42:49 [DEBUG]: DispatchRequest.27fc4f3e: sending 289 bytes to Discord
+2025-03-13 18:42:49 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 18:42:49 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:45:08 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:45:17 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:45:17 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 18:45:17 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:45:17 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 18:45:17 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 18:45:17 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:45:17 [DEBUG]: DispatchRequest.1fbb056d: sending 289 bytes to Discord
+2025-03-13 18:45:17 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 18:45:17 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:46:35 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:46:44 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:46:44 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 18:46:44 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:46:44 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 18:46:44 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 18:46:44 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:46:44 [DEBUG]: DispatchRequest.06a101e2: sending 289 bytes to Discord
+2025-03-13 18:46:44 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 18:46:44 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:55:56 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:56:04 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 18:56:04 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 18:56:04 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:56:04 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 18:56:04 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 18:56:04 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:56:04 [DEBUG]: DispatchRequest.e6260f59: sending 289 bytes to Discord
+2025-03-13 18:56:04 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 18:56:04 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 18:59:47 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 18:59:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 18:59:47 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 18:59:47 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 18:59:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 18:59:47 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 18:59:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 18:59:51 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 18:59:51 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 18:59:51 [DEBUG]: Trying webhook with payload: {"content":"Day Number 75","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 18:59:51 [DEBUG]: DispatchRequest.72c67be4: sending 174 bytes to Discord
+2025-03-13 18:59:51 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 18:59:51 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 18:59:51 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 18:59:51 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 18:59:51 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 19:01:55 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 19:01:55 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 19:01:55 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 19:01:55 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 19:01:55 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 19:01:55 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-3635,2, 31,1, -1506,1","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 19:01:55 [DEBUG]: DispatchRequest.6acda43d: sending 291 bytes to Discord
+2025-03-13 19:01:55 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 19:01:55 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 19:03:12 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 19:03:20 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 19:03:20 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 19:03:20 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 19:03:20 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 19:03:20 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 19:03:20 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 19:03:20 [DEBUG]: DispatchRequest.fd32ab2a: sending 289 bytes to Discord
+2025-03-13 19:03:20 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 19:03:20 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 19:20:59 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 19:20:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 19:20:59 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 19:20:59 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 19:20:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 19:20:59 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 19:20:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 19:21:09 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 19:21:09 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 19:21:09 [DEBUG]: Trying webhook with payload: {"content":"Day Number 76","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 19:21:09 [DEBUG]: DispatchRequest.8df6852b: sending 174 bytes to Discord
+2025-03-13 19:21:09 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 19:21:09 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 19:21:09 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 19:21:09 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 19:21:09 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 19:50:59 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 19:50:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 19:50:59 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 19:50:59 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 19:50:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 19:50:59 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 19:50:59 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 19:51:03 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 19:51:03 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 19:51:03 [DEBUG]: Trying webhook with payload: {"content":"Day Number 77","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 19:51:03 [DEBUG]: DispatchRequest.c3748a06: sending 174 bytes to Discord
+2025-03-13 19:51:03 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 19:51:03 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 19:51:03 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 19:51:03 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 19:51:03 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 19:57:45 [DEBUG]: Added player 76561197962593588 peer_id:4177052115 (Sketaful Online) to joined player list.
+2025-03-13 19:57:45 [DEBUG]: Checking if PlayerJoin is part of ServerLifecycle
+2025-03-13 19:57:45 [DEBUG]: Checking for exact match of PlayerJoin
+2025-03-13 19:57:45 [DEBUG]: Checking if PlayerJoin is part of PlayerAll
+2025-03-13 19:57:45 [DEBUG]: Sending PlayerJoin message to Secondary Webhook
+2025-03-13 19:57:45 [DEBUG]: Trying webhook with payload: {"content":"Sketaful Online has joined.","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 19:57:45 [DEBUG]: DispatchRequest.91527ce3: sending 188 bytes to Discord
+2025-03-13 19:57:45 [DEBUG]: Checking if PlayerJoin is part of LeaderboardsAll
+2025-03-13 19:57:45 [DEBUG]: Checking for exact match of PlayerJoin
+2025-03-13 20:17:34 [DEBUG]: 76561198131313781 already exists in list of joined players.
+2025-03-13 20:17:42 [DEBUG]: 76561198131313781 already exists in list of joined players.
+2025-03-13 20:17:42 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 20:17:42 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 20:17:42 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 20:17:42 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 20:17:42 [DEBUG]: Trying webhook with payload: {"content":"Sketaful Novia has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1089,7, 36,4, -57,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 20:17:42 [DEBUG]: DispatchRequest.4bd42cde: sending 295 bytes to Discord
+2025-03-13 20:17:42 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 20:17:42 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 20:21:00 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 20:21:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 20:21:00 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 20:21:00 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 20:21:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 20:21:00 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 20:21:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 20:21:04 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 20:21:04 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 20:21:04 [DEBUG]: Trying webhook with payload: {"content":"Day Number 78","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 20:21:04 [DEBUG]: DispatchRequest.4892a023: sending 174 bytes to Discord
+2025-03-13 20:21:04 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 20:21:04 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 20:21:04 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 20:21:04 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 20:21:04 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 20:51:00 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 20:51:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 20:51:00 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 20:51:00 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 20:51:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 20:51:00 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 20:51:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 20:51:04 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 20:51:04 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 20:51:04 [DEBUG]: Trying webhook with payload: {"content":"Day Number 79","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 20:51:04 [DEBUG]: DispatchRequest.fcc5a982: sending 174 bytes to Discord
+2025-03-13 20:51:04 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 20:51:04 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 20:51:04 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 20:51:04 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 20:51:04 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 20:56:38 [DEBUG]: Removed player 76561198131313781 peer_id:322352877 (Sketaful Novia) from joined player list.
+2025-03-13 20:56:38 [DEBUG]: Checking if PlayerLeave is part of ServerLifecycle
+2025-03-13 20:56:38 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-13 20:56:38 [DEBUG]: Checking if PlayerLeave is part of PlayerAll
+2025-03-13 20:56:38 [DEBUG]: Sending PlayerLeave message to Secondary Webhook
+2025-03-13 20:56:38 [DEBUG]: Trying webhook with payload: {"content":"Sketaful Novia has left.","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 20:56:38 [DEBUG]: DispatchRequest.71f77611: sending 185 bytes to Discord
+2025-03-13 20:56:38 [DEBUG]: Checking if PlayerLeave is part of LeaderboardsAll
+2025-03-13 20:56:38 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-13 21:21:00 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 21:21:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 21:21:00 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 21:21:00 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 21:21:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 21:21:00 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 21:21:00 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 21:21:04 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 21:21:04 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 21:21:04 [DEBUG]: Trying webhook with payload: {"content":"Day Number 80","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 21:21:04 [DEBUG]: DispatchRequest.4ac73c1a: sending 174 bytes to Discord
+2025-03-13 21:21:04 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 21:21:04 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 21:21:04 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 21:21:04 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 21:21:04 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 21:51:01 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 21:51:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 21:51:01 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 21:51:01 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 21:51:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 21:51:01 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 21:51:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 21:51:04 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 21:51:04 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 21:51:04 [DEBUG]: Trying webhook with payload: {"content":"Day Number 81","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 21:51:04 [DEBUG]: DispatchRequest.e1e0b2cb: sending 174 bytes to Discord
+2025-03-13 21:51:04 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 21:51:04 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 21:51:04 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 21:51:04 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 21:51:04 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 22:21:01 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 22:21:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 22:21:01 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 22:21:01 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 22:21:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 22:21:01 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 22:21:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 22:21:05 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 22:21:05 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 22:21:05 [DEBUG]: Trying webhook with payload: {"content":"Day Number 82","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 22:21:05 [DEBUG]: DispatchRequest.7ef5535a: sending 174 bytes to Discord
+2025-03-13 22:21:05 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 22:21:05 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 22:21:05 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 22:21:05 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 22:21:05 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 22:51:01 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 22:51:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 22:51:01 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 22:51:01 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 22:51:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 22:51:01 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 22:51:01 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 22:51:05 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 22:51:05 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 22:51:05 [DEBUG]: Trying webhook with payload: {"content":"Day Number 83","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 22:51:05 [DEBUG]: DispatchRequest.ccfd56a9: sending 174 bytes to Discord
+2025-03-13 22:51:05 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 22:51:05 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 22:51:05 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 22:51:05 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 22:51:05 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 23:02:16 [DEBUG]: Checking if EventStart is part of ServerLifecycle
+2025-03-13 23:02:16 [DEBUG]: Checking for exact match of EventStart
+2025-03-13 23:02:16 [DEBUG]: Checking if EventStart is part of PlayerAll
+2025-03-13 23:02:16 [DEBUG]: Checking if EventStart is part of PlayerFirstAll
+2025-03-13 23:02:16 [DEBUG]: Checking for exact match of EventStart
+2025-03-13 23:02:16 [DEBUG]: Checking if EventStart is part of LeaderboardsAll
+2025-03-13 23:02:16 [DEBUG]: Checking for exact match of EventStart
+2025-03-13 23:03:00 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 23:03:01 [DEBUG]: Checking if EventPaused is part of ServerLifecycle
+2025-03-13 23:03:01 [DEBUG]: Checking for exact match of EventPaused
+2025-03-13 23:03:01 [DEBUG]: Checking if EventPaused is part of PlayerAll
+2025-03-13 23:03:01 [DEBUG]: Checking if EventPaused is part of PlayerFirstAll
+2025-03-13 23:03:01 [DEBUG]: Checking for exact match of EventPaused
+2025-03-13 23:03:01 [DEBUG]: Checking if EventPaused is part of LeaderboardsAll
+2025-03-13 23:03:01 [DEBUG]: Checking for exact match of EventPaused
+2025-03-13 23:03:08 [DEBUG]: 76561198026567297 already exists in list of joined players.
+2025-03-13 23:03:08 [DEBUG]: Checking if PlayerDeath is part of ServerLifecycle
+2025-03-13 23:03:08 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 23:03:08 [DEBUG]: Checking if PlayerDeath is part of PlayerAll
+2025-03-13 23:03:08 [DEBUG]: Sending PlayerDeath message to Secondary Webhook
+2025-03-13 23:03:08 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has died.","username":"PlayerStuff","avatar_url":null,"embeds":[{"title":null,"description":null,"fields":[{"name":"Coordinates","value":"-1819,3, 46,0, 168,8","inline":null}]}],"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 23:03:08 [DEBUG]: DispatchRequest.4d932534: sending 289 bytes to Discord
+2025-03-13 23:03:08 [DEBUG]: Checking if PlayerDeath is part of LeaderboardsAll
+2025-03-13 23:03:08 [DEBUG]: Checking for exact match of PlayerDeath
+2025-03-13 23:03:09 [DEBUG]: Checking if EventResumed is part of ServerLifecycle
+2025-03-13 23:03:09 [DEBUG]: Checking for exact match of EventResumed
+2025-03-13 23:03:09 [DEBUG]: Checking if EventResumed is part of PlayerAll
+2025-03-13 23:03:09 [DEBUG]: Checking if EventResumed is part of PlayerFirstAll
+2025-03-13 23:03:09 [DEBUG]: Checking for exact match of EventResumed
+2025-03-13 23:03:09 [DEBUG]: Checking if EventResumed is part of LeaderboardsAll
+2025-03-13 23:03:09 [DEBUG]: Checking for exact match of EventResumed
+2025-03-13 23:03:44 [DEBUG]: Checking if EventStop is part of ServerLifecycle
+2025-03-13 23:03:44 [DEBUG]: Checking for exact match of EventStop
+2025-03-13 23:03:44 [DEBUG]: Checking if EventStop is part of PlayerAll
+2025-03-13 23:03:44 [DEBUG]: Checking if EventStop is part of PlayerFirstAll
+2025-03-13 23:03:44 [DEBUG]: Checking for exact match of EventStop
+2025-03-13 23:03:44 [DEBUG]: Checking if EventStop is part of LeaderboardsAll
+2025-03-13 23:03:44 [DEBUG]: Checking for exact match of EventStop
+2025-03-13 23:21:02 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 23:21:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 23:21:02 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 23:21:02 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 23:21:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 23:21:02 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 23:21:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 23:21:05 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 23:21:05 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 23:21:05 [DEBUG]: Trying webhook with payload: {"content":"Day Number 84","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 23:21:05 [DEBUG]: DispatchRequest.5cfc590c: sending 174 bytes to Discord
+2025-03-13 23:21:05 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 23:21:05 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 23:21:05 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 23:21:05 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 23:21:05 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 23:51:02 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-13 23:51:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 23:51:02 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-13 23:51:02 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-13 23:51:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 23:51:02 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-13 23:51:02 [DEBUG]: Checking for exact match of ServerSave
+2025-03-13 23:51:05 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-13 23:51:05 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-13 23:51:05 [DEBUG]: Trying webhook with payload: {"content":"Day Number 85","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 23:51:05 [DEBUG]: DispatchRequest.591e2dcf: sending 174 bytes to Discord
+2025-03-13 23:51:05 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-13 23:51:05 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-13 23:51:05 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 23:51:05 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-13 23:51:05 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-13 23:59:12 [DEBUG]: Removed player 76561198026567297 peer_id:833929684 (Pookwald) from joined player list.
+2025-03-13 23:59:12 [DEBUG]: Checking if PlayerLeave is part of ServerLifecycle
+2025-03-13 23:59:12 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-13 23:59:12 [DEBUG]: Checking if PlayerLeave is part of PlayerAll
+2025-03-13 23:59:12 [DEBUG]: Sending PlayerLeave message to Secondary Webhook
+2025-03-13 23:59:12 [DEBUG]: Trying webhook with payload: {"content":"Pookwald has left.","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-13 23:59:12 [DEBUG]: DispatchRequest.2583593f: sending 179 bytes to Discord
+2025-03-13 23:59:12 [DEBUG]: Checking if PlayerLeave is part of LeaderboardsAll
+2025-03-13 23:59:12 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-14 00:10:21 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 00:10:21 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 00:10:21 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 00:10:21 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 00:10:21 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 00:10:21 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 00:10:21 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 00:10:32 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-14 00:10:32 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-14 00:10:32 [DEBUG]: Trying webhook with payload: {"content":"Day Number 86","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-14 00:10:32 [DEBUG]: DispatchRequest.7bed7484: sending 174 bytes to Discord
+2025-03-14 00:10:32 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-14 00:10:32 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-14 00:10:32 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 00:10:32 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-14 00:10:32 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 00:34:12 [DEBUG]: Checking if EventStart is part of ServerLifecycle
+2025-03-14 00:34:12 [DEBUG]: Checking for exact match of EventStart
+2025-03-14 00:34:12 [DEBUG]: Checking if EventStart is part of PlayerAll
+2025-03-14 00:34:12 [DEBUG]: Checking if EventStart is part of PlayerFirstAll
+2025-03-14 00:34:12 [DEBUG]: Checking for exact match of EventStart
+2025-03-14 00:34:12 [DEBUG]: Checking if EventStart is part of LeaderboardsAll
+2025-03-14 00:34:12 [DEBUG]: Checking for exact match of EventStart
+2025-03-14 00:34:39 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 00:34:39 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 00:34:39 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 00:34:39 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 00:34:39 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 00:34:39 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 00:34:39 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 00:34:49 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-14 00:34:49 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-14 00:34:49 [DEBUG]: Trying webhook with payload: {"content":"Day Number 87","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-14 00:34:49 [DEBUG]: DispatchRequest.88ce3d97: sending 174 bytes to Discord
+2025-03-14 00:34:49 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-14 00:34:49 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-14 00:34:49 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 00:34:49 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-14 00:34:49 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 00:36:42 [DEBUG]: Checking if EventStop is part of ServerLifecycle
+2025-03-14 00:36:42 [DEBUG]: Checking for exact match of EventStop
+2025-03-14 00:36:42 [DEBUG]: Checking if EventStop is part of PlayerAll
+2025-03-14 00:36:42 [DEBUG]: Checking if EventStop is part of PlayerFirstAll
+2025-03-14 00:36:42 [DEBUG]: Checking for exact match of EventStop
+2025-03-14 00:36:42 [DEBUG]: Checking if EventStop is part of LeaderboardsAll
+2025-03-14 00:36:42 [DEBUG]: Checking for exact match of EventStop
+2025-03-14 01:04:40 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 01:04:40 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 01:04:40 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 01:04:40 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 01:04:40 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 01:04:40 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 01:04:40 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 01:04:43 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-14 01:04:43 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-14 01:04:43 [DEBUG]: Trying webhook with payload: {"content":"Day Number 88","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-14 01:04:43 [DEBUG]: DispatchRequest.5a0da4a7: sending 174 bytes to Discord
+2025-03-14 01:04:43 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-14 01:04:43 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-14 01:04:43 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 01:04:43 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-14 01:04:43 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 01:04:54 [WARNING]: Error dispatching webhook: System.Net.WebException: Error: NameResolutionFailure
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00044] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at DiscordConnector.DiscordApi+<>c__DisplayClass5_0.<DispatchRequest>b__0 () [0x00000] in <d453db84136d49d291ce7190e6b5a907>:0 
+2025-03-14 01:34:40 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 01:34:40 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 01:34:40 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 01:34:40 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 01:34:40 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 01:34:40 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 01:34:40 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 01:34:43 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-14 01:34:43 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-14 01:34:43 [DEBUG]: Trying webhook with payload: {"content":"Day Number 89","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-14 01:34:43 [DEBUG]: DispatchRequest.f4794a2d: sending 174 bytes to Discord
+2025-03-14 01:34:43 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-14 01:34:43 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-14 01:34:43 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 01:34:43 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-14 01:34:43 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 01:34:54 [WARNING]: Error dispatching webhook: System.Net.WebException: Error: NameResolutionFailure
+  at System.Net.WebConnection.Connect (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00044] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x000cc] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00016] in <09cbc7ca916345fdbceb45137018efd3>:0 
+  at DiscordConnector.DiscordApi+<>c__DisplayClass5_0.<DispatchRequest>b__0 () [0x00000] in <d453db84136d49d291ce7190e6b5a907>:0 
+2025-03-14 01:47:44 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 01:47:44 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 01:47:44 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 01:47:44 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 01:47:44 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 01:47:44 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 01:47:44 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 01:47:56 [DEBUG]: Removed player 76561197962593588 peer_id:4177052115 (Sketaful Online) from joined player list.
+2025-03-14 01:47:56 [DEBUG]: Checking if PlayerLeave is part of ServerLifecycle
+2025-03-14 01:47:56 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-14 01:47:56 [DEBUG]: Checking if PlayerLeave is part of PlayerAll
+2025-03-14 01:47:56 [DEBUG]: Sending PlayerLeave message to Secondary Webhook
+2025-03-14 01:47:56 [DEBUG]: Trying webhook with payload: {"content":"Sketaful Online has left.","username":"PlayerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-14 01:47:56 [DEBUG]: DispatchRequest.e35a32f5: sending 186 bytes to Discord
+2025-03-14 01:47:56 [DEBUG]: Checking if PlayerLeave is part of LeaderboardsAll
+2025-03-14 01:47:56 [DEBUG]: Checking for exact match of PlayerLeave
+2025-03-14 01:47:56 [DEBUG]: Checking if NewDayNumber is part of ServerLifecycle
+2025-03-14 01:47:56 [DEBUG]: Sending NewDayNumber message to Primary Webhook
+2025-03-14 01:47:56 [DEBUG]: Trying webhook with payload: {"content":"Day Number 90","username":"ServerStuff","avatar_url":null,"embeds":null,"allowed_mentions":{"parse":["roles","users"],"roles":[],"users":[],"replied_user":false}}
+2025-03-14 01:47:56 [DEBUG]: DispatchRequest.f269488c: sending 174 bytes to Discord
+2025-03-14 01:47:56 [DEBUG]: Checking if NewDayNumber is part of PlayerAll
+2025-03-14 01:47:56 [DEBUG]: Checking if NewDayNumber is part of PlayerFirstAll
+2025-03-14 01:47:56 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 01:47:56 [DEBUG]: Checking if NewDayNumber is part of LeaderboardsAll
+2025-03-14 01:47:56 [DEBUG]: Checking for exact match of NewDayNumber
+2025-03-14 02:17:44 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 02:17:44 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 02:17:44 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 02:17:44 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 02:17:44 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 02:17:44 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 02:17:44 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 02:47:44 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 02:47:44 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 02:47:44 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 02:47:44 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 02:47:44 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 02:47:44 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 02:47:44 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 03:17:45 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 03:17:45 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 03:17:45 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 03:17:45 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 03:17:45 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 03:17:45 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 03:17:45 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 03:47:45 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 03:47:45 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 03:47:45 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 03:47:45 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 03:47:45 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 03:47:45 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 03:47:45 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 04:17:46 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 04:17:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 04:17:46 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 04:17:46 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 04:17:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 04:17:46 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 04:17:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 04:47:46 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 04:47:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 04:47:46 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 04:47:46 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 04:47:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 04:47:46 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 04:47:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 05:17:46 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 05:17:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 05:17:46 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 05:17:46 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 05:17:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 05:17:46 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 05:17:46 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 05:47:47 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 05:47:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 05:47:47 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 05:47:47 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 05:47:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 05:47:47 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 05:47:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 06:17:47 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 06:17:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 06:17:47 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 06:17:47 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 06:17:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 06:17:47 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 06:17:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 06:47:47 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 06:47:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 06:47:47 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 06:47:47 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 06:47:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 06:47:47 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 06:47:47 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 07:17:48 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 07:17:48 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 07:17:48 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 07:17:48 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 07:17:48 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 07:17:48 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 07:17:48 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 07:47:48 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 07:47:48 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 07:47:48 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 07:47:48 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 07:47:48 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 07:47:48 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 07:47:48 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 08:17:49 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 08:17:49 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 08:17:49 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 08:17:49 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 08:17:49 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 08:17:49 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 08:17:49 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 08:47:49 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 08:47:49 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 08:47:49 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 08:47:49 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 08:47:49 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 08:47:49 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 08:47:49 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 09:17:49 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 09:17:49 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 09:17:49 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 09:17:49 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 09:17:49 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 09:17:49 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 09:17:49 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 09:47:50 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 09:47:50 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 09:47:50 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 09:47:50 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 09:47:50 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 09:47:50 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 09:47:50 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 10:17:50 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 10:17:50 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 10:17:50 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 10:17:50 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 10:17:50 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 10:17:50 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 10:17:50 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 10:47:50 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 10:47:50 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 10:47:50 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 10:47:50 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 10:47:50 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 10:47:50 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 10:47:50 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 11:17:51 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 11:17:51 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 11:17:51 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 11:17:51 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 11:17:51 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 11:17:51 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 11:17:51 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 11:45:08 [DEBUG]: 76561198195702055 did not exist in the list of joined players!
+2025-03-14 11:47:51 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 11:47:51 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 11:47:51 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 11:47:51 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 11:47:51 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 11:47:51 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 11:47:51 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 12:17:52 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 12:17:52 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 12:17:52 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 12:17:52 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 12:17:52 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 12:17:52 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 12:17:52 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 12:29:03 [DEBUG]: 76561198195702055 did not exist in the list of joined players!
+2025-03-14 12:47:52 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 12:47:52 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 12:47:52 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 12:47:52 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 12:47:52 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 12:47:52 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 12:47:52 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 13:17:52 [DEBUG]: Checking if ServerSave is part of ServerLifecycle
+2025-03-14 13:17:52 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 13:17:52 [DEBUG]: Checking if ServerSave is part of PlayerAll
+2025-03-14 13:17:52 [DEBUG]: Checking if ServerSave is part of PlayerFirstAll
+2025-03-14 13:17:52 [DEBUG]: Checking for exact match of ServerSave
+2025-03-14 13:17:52 [DEBUG]: Checking if ServerSave is part of LeaderboardsAll
+2025-03-14 13:17:52 [DEBUG]: Checking for exact match of ServerSave

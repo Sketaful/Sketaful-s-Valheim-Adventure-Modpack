@@ -1,0 +1,14 @@
+CLIENT ONLY MODS:
+Azumatt-AzuClock
+Azumatt-FastLink
+Azumatt-Logo_Changer
+Azumatt-MajesticButton
+Azumatt-ResourceUnloadOptimizer
+Azumatt-SearchableBuildMenu
+Item Stand All Items
+Chatter
+PlantEasily
+Gizmo (?)
+SearsCatalog
+Intermission
+Instant Monster Drop
