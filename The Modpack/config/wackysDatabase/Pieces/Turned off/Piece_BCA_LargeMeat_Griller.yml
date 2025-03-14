@@ -1,0 +1,75 @@
+name: BCA_LargeMeat_Griller
+piecehammer: Hammer
+m_name: $bca_largemeat_griller
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: true
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 100
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Normal
+    m_pickaxe: Normal
+    m_fire: Resistant
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: false
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData:
+  addItemTooltip: $piece_cstand_cook
+  overcookedItem: Coal
+  fuelItem: 
+  requireFire: false
+  maxFuel: 
+  secPerFuel: 
+  cookConversion:
+  - FromName: LoxMeat
+    ToName: CookedLoxMeat
+    CookTime: 25
+    Remove: false
+  - FromName: SerpentMeat
+    ToName: SerpentMeatCooked
+    CookTime: 25
+    Remove: false
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+build:
+- Copper:18:1:True
+- Tin:12:1:True
+- Coal:16:1:True

@@ -1,0 +1,167 @@
+#   To start setup for mounting a creature, add the creature prefab name on its own line followed by a colon : such as
+PrefabName:
+#   Once loading into the game and coming across this creature it will attempt to snap the saddle to the correct bone and complete the rest of the config in this file
+#   By default the required saddle is a Tier 3 saddle (Advanced Saddle) that you will need to use on the creature to mount it.
+#   To adjust the mounting location you will need to set Enable Adjust Custom Mounts = true in meldurson.MountUpRestored.cfg
+#   You can also find a bunch of premade configurations https://thunderstore.io/c/valheim/p/Meldurson/MountUpRestored/wiki/1368-premade-configs/ that you can copy/paste parts into this file, or paste the entire config into your config folder
+
+Neck:
+  mountPath: Armature/Hips/Spine/Spine1
+  stamina: 120
+  saddleTier: 1
+  mountPoint: [-1.292629E-05,0.01559717,-0.003425329]
+  saddlePos: [2.806325E-05,0.0007973141,0.009354335]
+  saddleScale: [1,1,1]
+  saddleRotation: [301.4674,270.2142,179.8451]
+  flyingStamina: -1
+  customSaddle: 
+  customAttackOrder: 
+
+
+Boar:
+  mountPath: CG/Pelvis/Spine/Spine1/Spine2
+  stamina: 120
+  saddleTier: 1
+  mountPoint: [-0.3473055,0.002407996,0.0002705684]
+  saddlePos: [0.104365,-0.2022742,0.007479709]
+  saddleScale: [1,1,1]
+  saddleRotation: [340.0131,359.2661,2.146179]
+  flyingStamina: -1
+  customSaddle: 
+  customAttackOrder: 
+
+
+Tick:
+  saddleTier: 2
+
+
+Oozer:
+  saddleTier: 3
+
+
+Deer:
+  mountPath: CG/Pelvis/Spine/Spine1
+  stamina: 80
+  saddleTier: 1
+  mountPoint: [-0.667572,-0.1551757,0.04001622]
+  saddlePos: [-0.1764045,-0.1949919,0.01006857]
+  saddleScale: [1.02,1.155,1]
+  saddleRotation: [351.9,360,0]
+  flyingStamina: -1
+  customSaddle: 
+  customAttackOrder: 
+
+
+Eikthyr:
+  mountPath: Armature/Root2/Pelvis/Spine/Spine1
+  stamina: 120
+  saddleTier: 1
+  mountPoint: [-0.00015,0.00415,-0.00356]
+  saddlePos: [0,0.000115,-0.00286]
+  saddleScale: [0.9,0.8,0.8]
+  saddleRotation: [282,270,0]
+  flyingStamina: -1
+  customSaddle: SaddleT3
+  customAttackOrder: 0,2
+
+
+Blob:
+  mountPath: blob/Armature/Bone/Bone.002
+  stamina: 120
+  saddleTier: 3
+  mountPoint: [-0.00021,0.00542,0.00372]
+  saddlePos: [-0.000125,0.0036,-0.00319]
+  saddleScale: [1.2,1,1]
+  saddleRotation: [340,90,180]
+  flyingStamina: -1
+  customSaddle: 
+
+
+Ulv:
+  mountPath: Ulv/Armature/Root/Hips/Spine/Spine1/Spine2
+  stamina: 150
+  saddleTier: 4
+  mountPoint: [-0.00094,0.00415,-0.0013]
+  saddlePos: [-0.000314,-0.00137,-0.00392]
+  saddleScale: [1.2,1.5,1.2]
+  saddleRotation: [286.7,90,-180]
+  flyingStamina: -1
+  customSaddle: SaddleT4
+  customAttackOrder: 0,1
+
+
+Serpent:
+  mountPath: Armature/Root/Main/Tail2
+  stamina: 200
+  saddleTier: 5
+  mountPoint: [0.0003002253,0.01607994,0.006759626]
+  saddlePos: [-1.509761E-07,0.0109793,0.006859553]
+  saddleScale: [1,1,1]
+  saddleRotation: [272,90,0]
+  flyingStamina: -1
+  customSaddle: 5
+  customAttackOrder: 0,1
+
+
+BlobTar:
+  mountPath: blob/Armature/Bone/Bone.002
+  stamina: 200
+  saddleTier: 3
+  mountPoint: [-0.00021,0.00542,0.00372]
+  saddlePos: [-0.000125,0.0036,-0.00319]
+  saddleScale: [1.2,1,1]
+  saddleRotation: [340,90,180]
+  flyingStamina: -1
+  customSaddle: 
+
+
+Seeker:
+  mountPath: Armature/root/hip/abdomen
+  stamina: 300
+  saddleTier: 6
+  mountPoint: [-0.00028,0.0096,-0.00368]
+  saddlePos: [0,0.001,-0.0051]
+  saddleScale: [1.7,1.6,1.5]
+  saddleRotation: [276,90,180]
+  flyingStamina: 3
+  customSaddle: 
+  customAttackOrder: 2,5,6,6
+
+
+SeekerBrute:
+  mountPath: Armature/root/root2/hip/spine
+  stamina: 400
+  saddleTier: 6
+  mountPoint: [-0.000676,0.0109,-0.00403]
+  saddlePos: [-0.000257,0.0055,-0.00335]
+  saddleScale: [1,1,1]
+  saddleRotation: [281,270,0]
+  flyingStamina: -1
+  customSaddle: 
+  customAttackOrder: 2,3
+
+
+BlobLava:
+  mountPath: blob/Armature/Bone/Bone.002
+  stamina: 170
+  saddleTier: 3
+  mountPoint: [-0.000952,0.0114,-0.000695]
+  saddlePos: [0.000577,0.00867,-0.00666]
+  saddleScale: [1.5,1.7,1.5]
+  saddleRotation: [330,78,186]
+  flyingStamina: -1
+  customSaddle: 
+
+
+BonemawSerpent:
+  mountPath: Armature/Root/Main/Tail2/Tail1/Head
+  stamina: 300
+  saddleTier: 7
+  mountPoint: [0.00078,0.00923,0.00900]
+  saddlePos: [0.000643,0.00295,0.00849]
+  saddleScale: [1.6,1.4,1.4]
+  saddleRotation: [280,90,0]
+  flyingStamina: -1
+  customSaddle: 
+  customAttackOrder: 2,0
+
