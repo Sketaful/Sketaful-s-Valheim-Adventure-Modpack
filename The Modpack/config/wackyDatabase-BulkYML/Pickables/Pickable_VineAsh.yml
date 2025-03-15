@@ -1,0 +1,18 @@
+name: VineAsh
+itemPrefab: Vineberry
+cloneOfWhatPickable: 
+material: 
+amount: 3
+size: 
+overrideName: ''
+respawnTimer: 200
+spawnOffset: 1
+ifHasHealth: 
+hiddenChildWhenPicked: Berries
+extraDrops:
+  drops:
+  - VineberrySeeds
+  dropMin: 1
+  dropMax: 3
+  dropChance: 0.2
+  dropOneOfEach: false

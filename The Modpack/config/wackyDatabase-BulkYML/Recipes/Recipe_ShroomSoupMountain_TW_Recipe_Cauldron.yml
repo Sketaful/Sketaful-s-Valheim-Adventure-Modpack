@@ -1,0 +1,15 @@
+name: ShroomSoupMountain_TW_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- MushroomWizardbutter_TW:2:0:True
+- Onion:2:0:True
+- WolfMeat:2:0:True

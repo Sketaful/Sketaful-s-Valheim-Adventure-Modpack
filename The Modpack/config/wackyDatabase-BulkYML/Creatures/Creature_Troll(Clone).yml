@@ -1,0 +1,4 @@
+name: Troll(Clone)
+mob_display_name: $enemy_troll
+clone_creature: 
+creature_replacer: 

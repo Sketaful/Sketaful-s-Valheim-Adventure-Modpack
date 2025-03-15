@@ -1,0 +1,16 @@
+name: Recipe_CalmingGloves
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- LinenThread:6:4:True
+- Silver:2:1:True
+- AT_HasTamed_Item:4:4:True
+- WolfPelt:5:3:True

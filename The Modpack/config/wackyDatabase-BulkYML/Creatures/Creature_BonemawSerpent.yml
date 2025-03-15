@@ -1,0 +1,4 @@
+name: BonemawSerpent
+mob_display_name: $enemy_bonemawserpent
+clone_creature: 
+creature_replacer: 

@@ -1,0 +1,12 @@
+name: Pickable_Hairstrands01
+itemPrefab: WolfHairBundle
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: $item_pickable_hairstrands
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops: 

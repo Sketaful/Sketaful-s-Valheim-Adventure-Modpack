@@ -1,0 +1,4 @@
+name: Skeleton_Poison
+mob_display_name: $enemy_skeletonpoison
+clone_creature: 
+creature_replacer: 

@@ -1,0 +1,13 @@
+name: Recipe_DvergrKey
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- DvergrKeyFragment:9:1:True

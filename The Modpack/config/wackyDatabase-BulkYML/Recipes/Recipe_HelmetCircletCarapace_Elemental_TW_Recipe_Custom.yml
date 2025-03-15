@@ -1,0 +1,18 @@
+name: HelmetCircletCarapace_Elemental_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_arcaneanvil_TW
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- HelmetCircletCarapace_TW:1:0:True
+- Amethyst_TW:1:1:True
+- ShardQueen_TW:7:2:True
+- TrophyDvergr:1:0:True
+- Carapace:0:7:True
+- Bilebag:0:1:True

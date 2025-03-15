@@ -1,0 +1,15 @@
+name: Recipe_ShocklateSmoothie
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Ooze:1:1:True
+- Raspberry:2:1:True
+- Blueberries:2:1:True

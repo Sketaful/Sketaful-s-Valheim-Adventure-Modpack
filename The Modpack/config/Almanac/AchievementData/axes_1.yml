@@ -1,0 +1,61 @@
+unique_name: axes_1
+display_name: Chopper
+sprite_name: AxeIron
+description: Uncover <color=orange>all</color> axes
+lore: Be wary of people with axes, for they do not only fell trees.
+start_message: ''
+stop_message: ''
+tooltip: ''
+defeat_key: ''
+achievement_type: Axes
+custom_group_key: ''
+custom_pickable_name: ''
+goal: 0
+duration: 0
+reward_type: StatusEffect
+achievement_group: ''
+achievement_index: 0
+item: ''
+item_amount: 0
+skill: ''
+skill_amount: 0
+class_experience: 0
+start_effects:
+- vfx_Potion_health_medium
+stop_effects:
+- fx_DvergerMage_Mistile_die
+damage_modifiers:
+- m_type: Blunt
+  m_modifier: Normal
+- m_type: Slash
+  m_modifier: Resistant
+- m_type: Pierce
+  m_modifier: Normal
+- m_type: Chop
+  m_modifier: Normal
+- m_type: Pickaxe
+  m_modifier: Normal
+- m_type: Fire
+  m_modifier: Normal
+- m_type: Frost
+  m_modifier: Normal
+- m_type: Lightning
+  m_modifier: Normal
+- m_type: Poison
+  m_modifier: Normal
+- m_type: Spirit
+  m_modifier: Normal
+modifiers:
+  Attack: 2
+  HealthRegen: 1
+  StaminaRegen: 1
+  RaiseSkills: 1
+  Speed: 1
+  Noise: 1
+  MaxCarryWeight: 0
+  Stealth: 1
+  RunStaminaDrain: 1
+  DamageReduction: 0
+  FallDamage: 1
+  EitrRegen: 1
+skill_bonus: {}

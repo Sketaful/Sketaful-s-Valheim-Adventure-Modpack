@@ -1,0 +1,16 @@
+name: HelmetRogueSilver_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_armory_TW
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- HelmetRogueIron_TW:1:0:True
+- Silver:14:7:True
+- WolfFang:4:2:True
+- JuteRed:2:1:True

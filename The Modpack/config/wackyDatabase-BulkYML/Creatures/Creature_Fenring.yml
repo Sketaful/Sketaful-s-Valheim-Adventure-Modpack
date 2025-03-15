@@ -1,0 +1,4 @@
+name: Fenring
+mob_display_name: $enemy_fenring
+clone_creature: 
+creature_replacer: 

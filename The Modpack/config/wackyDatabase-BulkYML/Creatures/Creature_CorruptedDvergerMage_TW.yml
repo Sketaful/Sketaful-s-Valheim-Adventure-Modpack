@@ -1,0 +1,4 @@
+name: CorruptedDvergerMage_TW
+mob_display_name: $corrupteddverger_mage_TW
+clone_creature: 
+creature_replacer: 

@@ -1,0 +1,4 @@
+name: FallenValkyrie
+mob_display_name: $enemy_fallenvalkyrie
+clone_creature: 
+creature_replacer: 

@@ -1,0 +1,12 @@
+name: Pickable_MountainCaveCrystal
+itemPrefab: Crystal
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: $item_crystal
+respawnTimer: 0
+spawnOffset: 0.3
+ifHasHealth: 10
+hiddenChildWhenPicked: 
+extraDrops: 

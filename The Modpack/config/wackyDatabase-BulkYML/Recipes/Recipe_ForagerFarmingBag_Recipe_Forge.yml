@@ -1,0 +1,40 @@
+name: ForagerFarmingBag_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- LeatherScraps:4:0:True
+- DeerHide:3:0:True
+- FoxPelt_TW:2:0:True
+- BlackBearPelt_TW:2:0:True
+- GrizzlyBearPelt_TW:0:5:True
+- RazorbackLeather_TW:0:5:True
+- TrollHide:0:2:True
+- SurtlingCore:0:1:True
+- Entrails:0:5:True
+- Bloodbag:0:5:True
+- RottenPelt_TW:0:2:True
+- Root:0:1:True
+- WolfPelt:0:5:True
+- GrizzlyBearPelt_TW:0:5:True
+- WolfHairBundle:0:2:True
+- Chitin:0:1:True
+- Flax:0:5:True
+- LinenThread:0:5:True
+- LoxPelt:0:2:True
+- SerpentScale:0:1:True
+- ScaleHide:0:5:True
+- Carapace:0:5:True
+- Bilebag:0:2:True
+- BlackCore:0:1:True
+- AskHide:0:5:True
+- CelestialFeather:0:5:True
+- MorgenSinew:0:2:True
+- MoltenCore:0:1:True

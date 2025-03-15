@@ -1,0 +1,15 @@
+name: Recipe_MeatPlatter
+clonePrefabName: NO
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BugMeat:1:1:True
+- LoxMeat:1:1:True
+- HareMeat:1:1:True

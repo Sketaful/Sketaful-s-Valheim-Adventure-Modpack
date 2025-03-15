@@ -1,0 +1,15 @@
+name: ArmorSpellslingerLegs_Swamp_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_wizardtable_TW
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FabricBundle_Swamp_TW:6:3:True
+- Bloodbag:4:2:True
+- ShardBonemass_TW:3:2:True

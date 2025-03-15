@@ -1,0 +1,373 @@
+##제작 스테이션##
+piece_armory_TW : "병기고"
+piece_armory_description_TW : "갑옷 제작 스테이션"
+
+##HUNTER##
+set_hunter_TW : "사냥꾼"
+hunter_Bronze : "사냥꾼"
+hunter_Iron : "사냥꾼"
+hunter_Silver : "사냥꾼"
+hunter_BM : "사냥꾼"
+hunter_Carapace : "사냥꾼"
+##BF##
+armorchest_hunter_TW : "검은 가죽 사냥 조끼"
+armorchest_hunter_description_TW : "발톱 어깨 보호대와 전쟁 페인트로 장식된 검은 가죽 조끼."
+armorlegs_hunter_TW : "검은 가죽 사냥 레깅스"
+armorlegs_hunter_description_TW : "검은 가죽 모피 부츠 한 켤레."
+helmet_hunter_TW : "검은 가죽 사냥 모자"
+helmet_hunter_description_TW : "위협적인 검은 가죽 트로피 헬멧."
+##SWAMP##
+armorchest_hunter_iron_TW : "썩은 사냥 조끼"
+armorchest_hunter_iron_description_TW : "발톱 어깨 보호대와 전쟁 페인트로 장식된 썩은 가죽 조끼."
+armorlegs_hunter_iron_TW : "썩은 가죽 사냥 레깅스"
+armorlegs_hunter_iron_description_TW : "썩은 가죽 모피 부츠 한 켤레."
+helmet_hunter_iron_TW : "썩은 가죽 사냥 모자"
+helmet_hunter_iron_description_TW : "위협적인 썩은 트로피 헬멧."
+##MOUNTAINS##
+armorchest_hunter_silver_TW : "서리 사냥 조끼"
+armorchest_hunter_silver_description_TW : "발톱 어깨 보호대와 전쟁 페인트로 장식된 서리 가죽 조끼."
+armorlegs_hunter_silver_TW : "서리 가죽 사냥 레깅스"
+armorlegs_hunter_silver_description_TW : "서리 가죽 모피 부츠 한 켤레."
+helmet_hunter_silver_TW : "서리 가죽 사냥 모자"
+helmet_hunter_silver_description_TW : "위협적인 서리 트로피 헬멧."
+##PLAINS##
+armorchest_hunter_bm_TW : "불타는 사냥 조끼"
+armorchest_hunter_bm_description_TW : "발톱 어깨 보호대와 전쟁 페인트로 장식된 불타는 가죽 조끼."
+armorlegs_hunter_bm_TW : "불타는 가죽 사냥 레깅스"
+armorlegs_hunter_bm_description_TW : "불타는 가죽 모피 부츠 한 켤레."
+helmet_hunter_bm_TW : "불타는 가죽 사냥 모자"
+helmet_hunter_bm_description_TW : "위협적인 불타는 트로피 헬멧."
+##MISTLANDS##
+armorchest_hunter_carapace_TW : "갑각 사냥 조끼"
+armorchest_hunter_carapace_description_TW : "발톱 어깨 보호대와 전쟁 페인트로 장식된 갑각 조끼."
+armorlegs_hunter_carapace_TW : "갑각 가죽 사냥 레깅스"
+armorlegs_hunter_carapace_description_TW : "갑각 모피 부츠 한 켤레."
+helmet_hunter_carapace_TW : "갑각 가죽 사냥 모자"
+helmet_hunter_carapace_description_TW : "위협적인 갑각 트로피 헬멧."
+
+##아머 세트 효과##
+leatherarmorset_TW: "뿔사슴"
+rogueset_TW: "도적"
+bronzerogueset_description_TW: "칼로 인한 피해가 2% 증가합니다."
+ironrogueset_description_TW: "칼로 인한 피해가 4% 증가합니다."
+silverrogueset_description_TW: "칼로 인한 피해가 6% 증가합니다."
+bmrogueset_description_TW: "칼로 인한 피해가 8% 증가합니다."
+carapacerogueset_description_TW: "칼로 인한 피해가 10% 증가합니다."
+tyraniumrogueset_description_TW: "칼로 인한 피해가 12% 증가합니다."
+vigorousset_TW: "활기차게"
+bronzevigorousset_description_TW : "도끼의 데미지를 2% 증가시킵니다."
+ironvigorousset_description_TW : "도끼의 피해량이 4% 증가합니다."
+silvervigorousset_description_TW : "도끼의 데미지를 6% 증가시킵니다."
+bmvigorousset_description_TW : "도끼의 데미지를 8% 증가시킵니다."
+carapacevigorousset_description_TW : "도끼의 데미지를 10% 증가시킵니다."
+tyraniumvigorousset_description_TW : "도끼의 데미지를 12% 증가시킵니다."
+warriorset_TW: "전사"
+ironwarriorset_description_TW : "몽둥이로 인한 피해가 4% 증가합니다."
+silverwarriorset_description_TW : "몽둥이로 인한 피해가 6% 증가합니다."
+bmwarriorset_description_TW : "몽둥이로 인한 피해가 8% 증가합니다."
+carapacewarriorset_description_TW : "몽둥이로 인한 피해가 10% 증가합니다."
+flametalwarriorset_description_TW : "몽둥이로 인한 피해가 12% 증가합니다."
+fenrirset_TW: "펜리르"
+silverfenrirset_description_TW : "비무장 상태에서 데미지가 6% 증가합니다."
+bmfenrirset_description_TW : "비무장 시 데미지가 8% 증가합니다."
+carapacefenrirset_description_TW : "비무장 시 데미지가 10% 증가합니다."
+tyraniumfenrirset_description_TW : "비무장 상태에서 데미지가 12% 증가합니다."
+vidarset_TW: "비다르"
+silvervidarset_description_TW : "검의 데미지를 6% 증가시킵니다."
+bmvidarset_description_TW : "검의 데미지를 8% 증가시킵니다."
+carapacevidarset_description_TW : "칼의 데미지를 10% 증가시킵니다."
+flametalvidarset_description_TW : "검의 데미지를 12% 증가시킵니다."
+boldset_TW: "굵게"
+bmboldset_description_TW : "폴암 데미지가 8% 증가합니다."
+carapaceboldset_description_TW : "폴암 데미지가 10% 증가합니다."
+flametalboldset_description_TW : "폴암 데미지가 12% 증가합니다."
+legionset_TW: "군단"
+carapacelegionset_description_TW : "창의 데미지를 10% 증가시킵니다."
+flametallegionset_description_TW : "스피어 데미지가 12% 증가합니다."
+destroyset_TW: "파괴"
+carapacedestructionset_description_TW : "원소 마법 데미지가 6% 증가합니다."
+tyraniumdestructionset_description_TW : "원소 마법 데미지가 12% 증가합니다."
+sacrificeset_TW: "희생"
+
+
+##갑옷##
+helmet_leather_TW: "뿔 두건"
+helmet_leather_description_TW: "뿔로 장식된 튼튼한 가죽 후드."
+armorchest_leather_TW: "사슴 가죽 튜닉"
+amorchest_leather_description_TW: "자유롭게 움직일 수 있는 부드러운 가죽 튜닉."
+armorlegs_leather_TW: "사슴 가죽 바지"
+amorlegs_leather_description_TW: "부드러운 빨간색 가죽 바지입니다."
+cape_trollblack_TW : "검은 트롤 망토"
+cape_trollblack_description_TW : "그림자 속에 몸을 숨기기에 완벽합니다. "
+
+
+#벨트##
+belt_ymir_TW: "유미르의 허리띠"
+belt_ymir_description_TW: "이 마법 벨트를 착용하면 세상을 옮길 수 있다고 합니다."
+
+
+##도적##
+##청동##
+helmet_bronzerogue_TW: "암살자의 두건"
+helmet_bronzerogue_description_TW: "얼굴을 가리는 검은색 염색 가죽 후드."
+armorchest_bronzerogue_TW: "암살자의 튜닉"
+armorchest_bronzerogue_description_TW: "검은색으로 염색한 가죽 튜닉입니다."
+armorlegs_bronzerogue_TW: "암살자의 스트라이더"
+armorlegs_bronzerogue_description_TW: "무덤처럼 조용합니다."
+##철##
+helmet_ironrogue_TW: "철로 강화된 암살자의 두건"
+helmet_ironrogue_description_TW: "얼굴을 가리는 가죽 후드."
+armorchest_ironrogue_TW: "철로 강화된 암살자의 튜닉"
+armorchest_ironrogue_description_TW: "철로 강화된 가죽 튜닉입니다."
+armorlegs_ironrogue_TW: "철로 강화된 암살자의 스트라이더"
+armorlegs_ironrogue_description_TW: "무덤처럼 조용합니다."
+##은##
+helmet_silverrogue_TW: "은으로 강화된 암살자의 두건"
+helmet_silverrogue_description_TW: "얼굴을 가리는 가죽 후드."
+armorchest_silverrogue_TW: "은으로 강화된 암살자의 튜닉"
+armorchest_silverrogue_description_TW: "은으로 강화된 가죽 튜닉입니다."
+armorlegs_silverrogue_TW: "은으로 강화된 암살자의 스트라이더"
+armorlegs_silverrogue_description_TW: "무덤처럼 조용합니다."
+##블랙메탈##
+helmet_bmrogue_TW: "검은 금속으로 강화된 싸신의 후드"
+helmet_bmrogue_description_TW: "얼굴을 가리는 가죽 후드."
+armorchest_bmrogue_TW: "검은 금속으로 강화된 암살자의 튜닉"
+armorchest_bmrogue_description_TW: "검은색 금속으로 강화된 가죽 튜닉입니다."
+armorlegs_bmrogue_TW: "검은 금속으로 강화된 암살자의 스트라이더"
+armorlegs_bmrogue_description_TW: "무덤처럼 조용합니다."
+##카르파스##
+helmet_carapacerogue_TW: "갑각으로 강화된 암살자의 두건"
+helmet_carapacerogue_description_TW: "얼굴을 가리는 가죽 후드."
+armorchest_carapacerogue_TW: "갑각으로 강화된 암살자의 튜닉"
+armorchest_carapacerogue_description_TW: "갑각이 강화된 가죽 튜닉입니다."
+armorlegs_carapacerogue_TW: "갑각으로 강화된 암살자의 스트라이더"
+armorlegs_carapacerogue_description_TW: "무덤처럼 조용합니다."
+##티라늄##
+helmet_tyraniumrogue_TW: "티라늄 강화 암살자의 후드"
+helmet_tyraniumrogue_description_TW: "얼굴을 가리는 검은색 염색 가죽 후드."
+armorchest_tyraniumrogue_TW: "티라늄 강화 암살자의 튜닉 "
+armorchest_tyraniumrogue_description_TW: "강화되고 검은색으로 염색된 가죽 조끼입니다."
+armorlegs_tyraniumrogue_TW: "티라늄으로 강화된 암살자의 스트라이더"
+armorlegs_tyraniumrogue_description_TW: "무덤처럼 조용합니다."
+
+
+##원기 왕성한##
+##청동##
+helmet_bronzevigorous_TW: "레이더 헬멧"
+helmet_bronzevigorous_description_TW: "두개골을 치명타로부터 보호하는 청동 헬멧."
+armorchest_bronzevigorous_TW: "레이더 조끼"
+armorchest_bronzevigorous_description_TW: "금속 보호 장치가 꿰매어진 헐렁한 조끼입니다."
+armorlegs_bronzevigorous_TW: "레이더 바지"
+armorlegs_bronzevigorous_description_TW: "레이드 및 잠자고 있는 파티에 탁월합니다!"
+##철##
+helmet_ironvigorous_TW: "강화 레이더 헬멧"
+helmet_ironvigorous_description_TW: "치명적인 타격으로부터 두개골을 보호하는 철 헬멧."
+armorchest_ironvigorous_TW: "강화 레이더 조끼"
+armorchest_ironvigorous_description_TW: "금속 보호 장치가 꿰매어진 헐렁한 조끼입니다."
+armorlegs_ironvigorous_TW: "강화 레이더 바지"
+armorlegs_ironvigorous_description_TW: "공격대와 잠자고 있는 파티에 탁월합니다!"
+##은##
+helmet_silvervigorous_TW: "은으로 강화된 레이더 헬멧"
+helmet_silvervigorous_description_TW: "두개골을 치명타로부터 보호하는 은색 헬멧."
+armorchest_silvervigorous_TW: "은으로 강화된 레이더 조끼"
+armorchest_silvervigorous_description_TW: "금속 보호 장치가 꿰매어진 헐렁한 조끼."
+armorlegs_silvervigorous_TW: "은으로 강화된 레이더 바지"
+armorlegs_silvervigorous_description_TW: "레이드 및 수면 파티에 탁월합니다!"
+##블랙메탈##
+helmet_bmvigorous_TW: "검은색 금속 강화 레이더 헬멧"
+helmet_bmvigorous_description_TW: "치명적인 타격으로부터 두개골을 보호하는 검은 금속 헬멧."
+armorchest_bmvigorous_TW: "검은색 금속 강화 레이더 조끼"
+armorchest_bmvigorous_description_TW: "금속 보호 장치가 꿰매어진 헐렁한 조끼."
+armorlegs_bmvigorous_TW: "검은 금속 강화 레이더 바지"
+armorlegs_bmvigorous_description_TW: "습격 파티와 잠자는 파티에 탁월합니다!"
+##등딱지##
+helmet_carapacevigorous_TW: "갑각 강화 레이더 헬멧"
+helmet_carapacevigorous_description_TW: "두개골을 치명타로부터 보호하는 등딱지 헬멧."
+armorchest_carapacevigorous_TW: "갑각 강화 레이더 조끼"
+armorchest_carapacevigorous_description_TW: "금속 보호 장치가 꿰매어진 헐렁한 조끼입니다."
+armorlegs_carapacevigorous_TW: "갑각 강화 레이더 바지"
+armorlegs_carapacevigorous_description_TW: "습격 파티와 잠자는 파티에 탁월합니다!"
+##티라늄##
+helmet_tyraniumvigorous_TW: "티라늄 강화 레이더 헬멧"
+helmet_tyraniumvigorous_description_TW: "치명적인 타격으로부터 두개골을 보호하는 티라늄 헬멧."
+armorchest_tyraniumvigorous_TW: "티라늄 강화 레이더 조끼"
+armorchest_tyraniumvigorous_description_TW: "금속 보호 장치가 꿰매어진 헐렁한 조끼."
+armorlegs_tyraniumvigorous_TW: "티라늄 강화 레이더 바지"
+armorlegs_tyraniumvigorous_description_TW: "레이드 및 수면 파티에 탁월합니다!"
+
+
+##전사##
+##철##
+helmet_warrior_TW: "전사의 투구"
+helmet_warrior_description_TW: "전사에게 적합한 튼튼한 철제 투구입니다."
+armorchest_warrior_TW: "전사의 비늘갑옷"
+armorchest_warrior_description_TW: "내부를 보호하는 튼튼한 비늘갑옷."
+armorlegs_warrior_TW: "전사의 다리 보호대"
+armorlegs_warrior_description_TW: "금속 광택 보호가 있는 양모 바지."
+##은##
+helmet_silverwarrior_TW: "은으로 강화된 전사의 투구"
+helmet_silverwarrior_description_TW: "전사에게 어울리는 튼튼한 은색 투구입니다."
+armorchest_silverwarrior_TW: "은으로 강화된 전사의 비늘갑옷"
+armorchest_silverwarrior_description_TW: "내부를 보호하는 튼튼한 비늘갑옷."
+armorlegs_silverwarrior_TW: "은으로 강화된 전사의 다리 보호대"
+armorlegs_silverwarrior_description_TW: "금속 광택 보호가 있는 양모 바지."
+##블랙메탈##
+helmet_bmwarrior_TW: "검은색 금속 강화 전사의 투구"
+helmet_bmwarrior_description_TW: "전사에게 적합한 튼튼한 검은색 금속 헬멧입니다."
+armorchest_bmwarrior_TW: "검은 금속 강화 전사의 비늘갑옷"
+armorchest_bmwarrior_description_TW: "내부를 보호하는 튼튼한 비늘갑옷."
+armorlegs_bmwarrior_TW: "검은 금속으로 강화된 전사의 다리 보호대"
+armorlegs_bmwarrior_description_TW: "금속 광택 보호가 있는 양모 바지."
+##등딱지##
+helmet_carapacewarrior_TW: "갑각으로 강화된 전사의 투구"
+helmet_carapacewarrior_description_TW: "전사에게 적합한 견고한 갑피 헬멧입니다."
+
+
+armorchest_carapacewarrior_TW: "갑각으로 강화된 전사의 비늘갑옷"
+armorchest_carapacewarrior_description_TW: "내부를 보호하는 튼튼한 비늘갑옷."
+armorlegs_carapacewarrior_TW: "갑각으로 강화된 전사의 다리 보호대"
+armorlegs_carapacewarrior_description_TW: "금속 광택 보호가 있는 털 바지."
+##플레임메탈##
+helmet_flametalwarrior_TW: "화염으로 강화된 전사의 투구"
+helmet_flametalwarrior_description_TW: "전사에게 적합한 튼튼한 화염 투구입니다."
+armorchest_flametalwarrior_TW: "화염으로 강화된 전사의 비늘갑옷"
+armorchest_flametalwarrior_description_TW: "내부를 보호하는 튼튼한 비늘갑옷."
+armorlegs_flametalwarrior_TW: "화염으로 강화된 전사의 다리 보호대"
+armorlegs_flametalwarrior_description_TW: "금속 광택 보호가 있는 양모 바지."
+
+
+##비다르##
+##은##
+helmet_vidar_TW: "비다르 얼굴"
+helmet_vidar_description_TW: "놋쇠로 장식된 영감을 주는 은색 얼굴입니다. Huskarl에 딱 맞습니다."
+armorchest_vidar_TW: "비다르 체인메일"
+armorchest_vidar_description_TW: "가혹한 날씨로부터 자신을 보호하기 위해 모피가 달린 튼튼한 사슬갑옷입니다."
+armorlegs_vidar_TW: "비다르 가죽 레깅스"
+armorlegs_vidar_description_TW: "포근한 털 트레이닝 팬츠, 절대 벗지 않을 거예요!"
+##블랙메탈##
+helmet_bmvidar_TW: "검은색 금속 강화 비다르 얼굴"
+helmet_bmvidar_description_TW: "못으로 장식된 잔인한 검은색 금속 얼굴입니다. Huskarl에 딱 맞습니다."
+armorchest_bmvidar_TW: "검은 금속으로 강화된 비다르 체인메일"
+armorchest_bmvidar_description_TW: "가혹한 날씨로부터 자신을 보호하기 위해 모피가 달린 튼튼한 사슬갑옷입니다."
+armorlegs_bmvidar_TW: "검은 금속 강화 비다르 가죽 레깅스"
+armorlegs_bmvidar_description_TW: "포근한 털 운동복 바지, 절대 벗지 않을 거예요!"
+##등딱지##
+helmet_carapacevidar_TW: "갑각으로 강화된 비다르 얼굴"
+helmet_carapacevidar_description_TW: "영감을 주는 갑각 얼굴입니다. 족장에게 잘 어울립니다."
+armorchest_carapacevidar_TW: "갑각으로 강화된 비다르 체인메일"
+armorchest_carapacevidar_description_TW: "가혹한 날씨로부터 자신을 보호하기 위해 모피가 달린 튼튼한 사슬갑옷입니다."
+armorlegs_carapacevidar_TW: "갑각 강화 비다르 가죽 레깅스"
+armorlegs_carapacevidar_description_TW: "포근한 털 운동복 바지, 절대 벗지 않을 거예요!"
+##플레임메탈##
+helmet_flametalvidar_TW: "화염으로 강화된 비다르 얼굴"
+helmet_flametalvidar_description_TW: "영감을 주는 불꽃 같은 얼굴입니다. Konungr에게 딱 맞습니다."
+armorchest_flametalvidar_TW: "화염으로 강화된 비다르 체인메일"
+armorchest_flametalvidar_description_TW: "가혹한 날씨로부터 자신을 보호하기 위해 모피가 달린 튼튼한 사슬갑옷입니다."
+armorlegs_flametalvidar_TW: "화염으로 강화된 비다르 가죽 다리보호구"
+armorlegs_flametalvidar_description_TW: "포근한 털 트레이닝 팬츠, 절대 벗지 않을 거예요!"
+
+
+##펜리르##
+##은##
+helmet_fenrir_TW: "펜리르 후드"
+helmet_fenrir_description_TW: "늑대 털로 만든 모피 후드, 당신은 피에 대한 만족할 수 없는 욕망을 느낍니다.."
+armorchest_fenrir_TW: "펜리르 튜닉"
+armorchest_fenrir_description_TW: "늑대 털로 만든 모피 튜닉, 여기 젖은 개 냄새가 나나요?"
+armorlegs_fenrir_TW: "펜리르 레깅스"
+armorlegs_fenrir_description_TW: "이가 가득한 늑대 털 레깅스, 가려워!"
+##블랙메탈##
+helmet_bmfenrir_TW: "검은 금속 강화 펜리르 후드"
+helmet_bmfenrir_description_TW: "늑대 털로 만든 모피 후드, 당신은 피에 대한 만족할 수 없는 욕망을 느낍니다.."
+armorchest_bmfenrir_TW: "검은 금속으로 강화된 펜리르 튜닉"
+armorchest_bmfenrir_description_TW: "늑대 털로 만든 모피 튜닉, 여기 젖은 개 냄새가 나나요?"
+armorlegs_bmfenrir_TW: "검은 금속으로 강화된 펜리르 레깅스"
+armorlegs_bmfenrir_description_TW: "늑대 털로 만든 이가 가득한 모피 레깅스, 가려워!"
+##등딱지##
+helmet_carapacefenrir_TW: "갑각 강화 펜리르 후드"
+helmet_carapacefenrir_description_TW: "늑대 털로 만든 모피 후드, 당신은 피에 대한 만족할 수 없는 욕망을 느낍니다.."
+armorchest_carapacefenrir_TW: "갑각 강화 펜리르 튜닉"
+armorchest_carapacefenrir_description_TW: "늑대 털로 만든 털복숭이 튜닉, 여기 젖은 개 냄새가 나나요?"
+armorlegs_carapacefenrir_TW: "갑각으로 강화된 펜리르 다리보호구"
+armorlegs_carapacefenrir_description_TW: "이가 가득한 늑대 털 레깅스, 가려워!"
+##티라늄##
+helmet_tyraniumfenrir_TW: "티라늄 강화 펜리르 후드"
+helmet_tyraniumfenrir_description_TW: "늑대 털로 만든 모피 후드, 당신은 피에 대한 만족할 수 없는 욕망을 느낍니다.."
+armorchest_tyraniumfenrir_TW: "티라늄 강화 펜리르 튜닉"
+armorchest_tyraniumfenrir_description_TW: "늑대 털로 만든 모피 튜닉, 여기 젖은 개 냄새가 나나요?"
+armorlegs_tyraniumfenrir_TW: "티라늄 강화 펜리르 레깅스"
+armorlegs_tyraniumfenrir_description_TW: "이가 가득한 늑대 털 레깅스, 간지럽습니다!"
+
+
+##용감한##
+##블랙메탈##
+helmet_bold_TW: "할버디어의 사슬 헬멧"
+helmet_bold_description_TW: "고약한 것들로부터 당신의 예쁜 얼굴을 보호해 줄 튼튼한 검은색 금속 체인 헬멧!"
+armorchest_bold_TW: "할버디어의 흉갑"
+armorchest_bold_description_TW: "전투 중에 자유롭게 움직일 수 있도록 금속 도금과 가죽으로 만든 흉갑입니다."
+armorlegs_bold_TW: "할버디어 경갑"
+armorlegs_bold_description_TW: "굉장한 킥을 제공하는 보호 경갑입니다!"
+##등딱지##
+helmet_carapacebold_TW: "갑각 강화 할버디어의 사슬 헬멧"
+helmet_carapacebold_description_TW: "고약한 것들로부터 당신의 예쁜 얼굴을 보호해 줄 튼튼한 갑각 사슬 헬멧!"
+armorchest_carapacebold_TW: "갑각 강화 할버디어의 흉갑"
+armorchest_carapacebold_description_TW: "전투 중에 자유롭게 움직일 수 있도록 금속 도금과 가죽으로 만든 흉갑입니다."
+armorlegs_carapacebold_TW: "갑각 강화 할버디어 경갑"
+armorlegs_carapacebold_description_TW: "굉장한 킥을 제공하는 보호 경갑입니다!"
+##플레임메탈##
+helmet_flametalbold_TW: "화염 강화 할버디어의 사슬 헬멧"
+helmet_flametalbold_description_TW: "고약한 것들로부터 당신의 예쁜 얼굴을 보호해 줄 강력한 화염 사슬 헬멧!"
+armorchest_flametalbold_TW: "화염 강화 할버디어의 흉갑"
+armorchest_flametalbold_description_TW: "전투 중에 자유롭게 움직일 수 있도록 금속 도금과 가죽으로 만든 흉갑입니다."
+armorlegs_flametalbold_TW: "화염 강화 할버디어 경갑"
+armorlegs_flametalbold_description_TW: "굉장한 킥을 제공하는 보호 경갑입니다!"
+
+
+##군단##
+##등딱지##
+helmet_legion_TW: "척후병의 얼굴보호대"
+helmet_legion_description_TW: "하악골로 장식된 비늘 모양의 등딱지 헬멧입니다."
+armorchest_legion_TW: "척후병의 비늘갑옷"
+armorchest_legion_description_TW: "갑피 도금과 이국적인 가죽으로 만들어진 비늘갑옷입니다."
+armorlegs_legion_TW: "척후병의 바지"
+armorlegs_legion_description_TW: "진드기를 멀리하기 위한 코팅된 가죽 바지."
+##플레임메탈##
+helmet_flametallegion_TW: "화염으로 강화된 스커미셔의 얼굴 보호대"
+helmet_flametallegion_description_TW: "하악골로 장식된 비늘 모양의 화염 헬멧입니다."
+armorchest_flametallegion_TW: "화염으로 강화된 척후병의 비늘갑옷"
+armorchest_flametallegion_description_TW: "플레임메탈 도금과 이국적인 가죽으로 만들어진 비늘 갑옷입니다."
+armorlegs_flametallegion_TW: "화염 강화 척후병 바지"
+armorlegs_flametallegion_description_TW: "진드기를 멀리하기 위한 코팅된 가죽 바지."
+
+
+##파괴##
+##등딱지##
+helmet_destruction_TW: "마법사의 두건"
+helmet_destruction_description_TW: "당신은 파괴의 힘이 당신 안에서 일어나는 것을 느낍니다.."
+armorchest_destruction_TW: "마법사의 복장"
+armorchest_destruction_description_TW: "마법사에게 어울리는 우아한 로브입니다."
+armorlegs_destruction_TW: "스펠키커"
+armorlegs_destruction_description_TW: "마법으로 도발할 때 신속하게 탈출해야 합니다."
+##플레임메탈##
+helmet_tyraniumdestruction_TW: "서리가 주입된 마법사의 두건"
+helmet_tyraniumdestruction_description_TW: "당신은 당신 안에서 티라늄 파괴의 힘이 솟아오르는 것을 느낍니다.."
+armorchest_tyraniumdestruction_TW: "서리가 주입된 마법사의 의복"
+armorchest_tyraniumdestruction_description_TW: "마법사에게 어울리는 우아한 로브입니다."
+armorlegs_tyraniumdestruction_TW: "냉기 주입 스펠키커"
+armorlegs_tyraniumdestruction_description_TW: "마법으로 도발할 때 신속하게 탈출해야 합니다."
+
+
+##희생##
+##등딱지##
+helmet_sacrifice_TW: "의식 가면"
+helmet_sacrifice_description_TW: "저승에서 부르는 목소리를 들을 수 있습니다.."
+armorchest_sacrifice_TW: "강령술사 복장"
+armorchest_sacrifice_description_TW: "곰팡이가 나고 오래된 네크로맨서 복장입니다. 세탁한 적이 있나요?"
+armorlegs_sacrifice_TW: "그레이브댄서"
+armorlegs_sacrifice_description_TW: "이 부츠는 무덤 도굴을 위해 만들어졌습니다. 그게 그들이 할 일입니다!"
+##플레임메탈##
+helmet_flametalsacrifice_TW: "악마가 주입된 의식 마스크"
+helmet_flametalsacrifice_description_TW: "저승에서 부르는 목소리를 들을 수 있습니다.."
+armorchest_flametalsacrifice_TW: "악마가 주입된 강령술사 복장"
+armorchest_flametalsacrifice_description_TW: "곰팡이가 나고 오래된 네크로맨서 복장입니다. 세탁한 적이 있나요?"
+armorlegs_flametalsacrifice_TW: "악마가 주입된 그레이브댄서"
+armorlegs_flametalsacrifice_description_TW: "이 부츠는 무덤 도굴을 위해 만들어졌습니다. 그게 그들이 할 일입니다!"

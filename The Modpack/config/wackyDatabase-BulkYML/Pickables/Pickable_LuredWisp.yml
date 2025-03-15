@@ -1,0 +1,12 @@
+name: LuredWisp
+itemPrefab: Wisp
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops: 

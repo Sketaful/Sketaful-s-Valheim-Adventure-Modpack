@@ -1,0 +1,16 @@
+name: Recipe_SaddleT8
+clonePrefabName: NO
+craftingStation: $piece_artisanstation
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WolfPelt:20:0:False
+- ScaleHide:10:0:False
+- GemstoneBlue:1:0:False
+- FreezeGland:50:0:False

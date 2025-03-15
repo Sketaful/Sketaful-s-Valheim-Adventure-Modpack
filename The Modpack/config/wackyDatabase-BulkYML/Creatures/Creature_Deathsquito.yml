@@ -1,0 +1,4 @@
+name: Deathsquito
+mob_display_name: $enemy_deathsquito
+clone_creature: 
+creature_replacer: 

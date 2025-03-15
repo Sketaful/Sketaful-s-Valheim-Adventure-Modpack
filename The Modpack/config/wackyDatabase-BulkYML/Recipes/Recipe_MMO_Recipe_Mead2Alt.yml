@@ -1,0 +1,14 @@
+name: MMO_Recipe_Mead2Alt
+clonePrefabName: NO
+craftingStation: $piece_meadcauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Mob_chunks:1:1:True
+- mmo_orb4:1:1:True

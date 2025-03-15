@@ -1,0 +1,4 @@
+name: BMP_FierySlime_Friendly
+mob_display_name: $bmp_fieryslime
+clone_creature: 
+creature_replacer: 

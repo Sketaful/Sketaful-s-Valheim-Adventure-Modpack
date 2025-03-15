@@ -1,0 +1,14 @@
+name: CL_Crystal_Hammer_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Uncut_Red_Stone:1:0:True
+- Wood:1:0:True

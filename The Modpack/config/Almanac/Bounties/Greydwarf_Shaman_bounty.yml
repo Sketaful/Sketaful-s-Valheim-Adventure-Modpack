@@ -1,0 +1,27 @@
+creature_prefab_name: Greydwarf_Shaman
+bounty_name: Greydwarf the Mystic
+sprite_name: TrophyGreydwarfShaman
+biome: Swamp
+reward_type: Item
+item_reward:
+  item_name: Amber
+  amount: 20
+skill_reward:
+  type: None
+  amount: 0
+experience_reward: 0
+bounty_health: 100
+damage_multiplier: 1.1
+damages:
+  blunt: 10
+  slash: 0
+  pierce: 0
+  fire: 0
+  frost: 5
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 2
+defeat_key: defeated_greydwarf_shaman
+cost: 0
+currency: Coins

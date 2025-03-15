@@ -1,0 +1,4 @@
+name: Wolf_cub
+mob_display_name: $enemy_wolfcub
+clone_creature: 
+creature_replacer: 

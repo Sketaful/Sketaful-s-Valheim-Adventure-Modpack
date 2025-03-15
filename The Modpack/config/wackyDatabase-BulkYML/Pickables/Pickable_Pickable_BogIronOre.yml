@@ -1,0 +1,12 @@
+name: Pickable_BogIronOre
+itemPrefab: IronOre
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: $item_pickable_bogiron
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops: 

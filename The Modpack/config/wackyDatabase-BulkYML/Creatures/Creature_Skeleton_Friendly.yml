@@ -1,0 +1,4 @@
+name: Skeleton_Friendly
+mob_display_name: $enemy_skeleton_summoned
+clone_creature: 
+creature_replacer: 

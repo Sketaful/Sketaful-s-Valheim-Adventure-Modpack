@@ -1,0 +1,4 @@
+name: Charred_Melee_Dyrnwyn
+mob_display_name: $enemy_charred_melee_Dyrnwyn
+clone_creature: 
+creature_replacer: 

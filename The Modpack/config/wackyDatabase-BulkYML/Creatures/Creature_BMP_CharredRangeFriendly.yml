@@ -1,0 +1,4 @@
+name: BMP_CharredRangeFriendly
+mob_display_name: $bmp_charredrange_summon
+clone_creature: 
+creature_replacer: 

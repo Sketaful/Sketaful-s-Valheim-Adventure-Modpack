@@ -1,0 +1,12 @@
+name: Pickable_MoltenCoreStand
+itemPrefab: MoltenCore
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.926
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops: 

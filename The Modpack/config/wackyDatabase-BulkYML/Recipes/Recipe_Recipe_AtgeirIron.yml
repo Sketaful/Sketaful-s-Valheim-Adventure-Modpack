@@ -1,0 +1,15 @@
+name: Recipe_AtgeirIron
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:10:0:True
+- Iron:30:15:True
+- LeatherScraps:2:1:True

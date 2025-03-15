@@ -1,0 +1,15 @@
+name: GrimAgeHornedHelm_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: ''
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophySerpent:2:2:True
+- LinenThread:4:0:True
+- LeatherScraps:4:0:True

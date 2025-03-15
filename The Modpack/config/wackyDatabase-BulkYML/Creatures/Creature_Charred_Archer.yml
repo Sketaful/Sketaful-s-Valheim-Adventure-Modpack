@@ -1,0 +1,4 @@
+name: Charred_Archer
+mob_display_name: $enemy_charred_archer
+clone_creature: 
+creature_replacer: 

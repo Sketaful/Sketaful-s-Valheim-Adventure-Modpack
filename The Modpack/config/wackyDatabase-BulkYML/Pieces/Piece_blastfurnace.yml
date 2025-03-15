@@ -1,0 +1,88 @@
+name: blastfurnace
+piecehammer: Hammer
+m_name: $piece_blastfurnace
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_artisanstation
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: true
+wearNTearData:
+  health: 2000
+  damageModifiers:
+    m_blunt: Resistant
+    m_slash: Resistant
+    m_pierce: Resistant
+    m_chop: Resistant
+    m_pickaxe: Normal
+    m_fire: Immune
+    m_frost: Immune
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+  materialType: Stone
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData:
+  addOreTooltip: $piece_smelter_additem
+  emptyOreTooltip: $piece_smelter_empty
+  fuelItem:
+    name: Coal
+  maxOre: 10
+  maxFuel: 20
+  fuelPerProduct: 2
+  secPerProduct: 30
+  spawnStack: false
+  requiresRoof: false
+  addOreAnimationLength: 0
+  smelterConversion:
+  - FromName: FlametalOreNew
+    ToName: FlametalNew
+    Remove: false
+  - FromName: BlackMetalScrap
+    ToName: BlackMetal
+    Remove: false
+  - FromName: FlametalOreNew
+    ToName: FlametalNew
+    Remove: false
+  - FromName: BGP_SilicaOre
+    ToName: BGP_Glass
+    Remove: false
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- Stone:20:1:True
+- SurtlingCore:5:1:True
+- Iron:10:1:True
+- FineWood:20:1:True

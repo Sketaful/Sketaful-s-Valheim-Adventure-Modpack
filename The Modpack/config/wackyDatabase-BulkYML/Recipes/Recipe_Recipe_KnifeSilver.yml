@@ -1,0 +1,16 @@
+name: Recipe_KnifeSilver
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:2:1:True
+- Silver:10:5:True
+- LeatherScraps:3:1:True
+- Iron:2:1:True

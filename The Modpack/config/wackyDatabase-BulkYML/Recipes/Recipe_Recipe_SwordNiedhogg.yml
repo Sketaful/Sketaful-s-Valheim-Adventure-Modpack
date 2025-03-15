@@ -1,0 +1,15 @@
+name: Recipe_SwordNiedhogg
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CharredBone:3:0:True
+- FlametalNew:12:10:True
+- AskHide:2:2:True

@@ -1,0 +1,68 @@
+name: YmirForge_SmithMallet_TW
+piecehammer: Hammer
+m_name: $piece_ymirforge_ext3_TW
+sizeMultiplier: 1
+m_description: $piece_ymirforge_ext3_description_TW
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_ymirforge_TW
+piecehammerCategory: Fire And Ice
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: true
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 100
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Resistant
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: false
+  triggerPrivateArea: true
+  materialType: Wood
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList:
+- MainCraftingStationName: YmirForge_TW
+  maxStationDistance: 10
+  continousConnection: false
+  stack: false
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- ThoradusBar_TW:14:1:True
+- RuneWrath_TW:6:1:True
+- ArcticMammothTusk_TW:6:1:True
+- BorealPineWood_TW:4:1:True

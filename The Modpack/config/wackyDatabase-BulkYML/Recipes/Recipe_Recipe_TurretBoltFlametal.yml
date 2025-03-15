@@ -1,0 +1,14 @@
+name: Recipe_TurretBoltFlametal
+clonePrefabName: NO
+craftingStation: $piece_artisanstation
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Blackwood:10:1:True
+- FlametalNew:1:1:True

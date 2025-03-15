@@ -1,0 +1,4 @@
+name: MiniHatchling
+mob_display_name: $at_mini_prefix $enemy_drake
+clone_creature: 
+creature_replacer: 

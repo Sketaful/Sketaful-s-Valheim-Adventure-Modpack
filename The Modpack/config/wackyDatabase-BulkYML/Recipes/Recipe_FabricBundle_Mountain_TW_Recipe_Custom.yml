@@ -1,0 +1,15 @@
+name: FabricBundle_Mountain_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_weavingloom_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 4
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WolfPelt:4:0:True
+- WolfHairBundle:4:0:True
+- ShardModer_TW:2:0:True

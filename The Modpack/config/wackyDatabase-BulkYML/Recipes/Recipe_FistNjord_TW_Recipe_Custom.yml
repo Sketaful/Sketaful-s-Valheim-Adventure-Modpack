@@ -1,0 +1,16 @@
+name: FistNjord_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TyraniumBar_TW:24:12:True
+- RuneRage_TW:18:9:True
+- ArcticSerpentScale_TW:10:5:True
+- TrophyJotunnBladefist_TW:1:1:True

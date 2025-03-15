@@ -1,0 +1,373 @@
+##CRAFTING STATION##
+piece_armory_TW: "Armaria"
+piece_armory_description_TW: "Estação para criação de armaduras"
+
+##ARMOR SET EFFECTS##
+
+##HUNTER##
+set_hunter_TW : "Caçador"
+hunter_Bronze : "Caçador"
+hunter_Iron : "Caçador"
+hunter_Silver : "Caçador"
+hunter_BM : "Caçador"
+hunter_Carapace : "Caçador"
+##BF##
+armorchest_hunter_TW : "Colete de caça de couro preto"
+armorchest_hunter_description_TW : "Um colete de couro preto adornado com ombreiras de garras e pintura de guerra."
+armorlegs_hunter_TW : "Calças de caça de couro preto"
+armorlegs_hunter_description_TW : "Um par de botas de couro preto com pelo."
+helmet_hunter_TW : "Capuz de caça de couro preto"
+helmet_hunter_description_TW : "Um intimidador capacete de troféu de couro preto."
+##SWAMP##
+armorchest_hunter_iron_TW : "Colete de caça podre"
+armorchest_hunter_iron_description_TW : "Um colete de couro podre adornado com ombreiras de garras e pintura de guerra."
+armorlegs_hunter_iron_TW : "Calças de caça de couro podre"
+armorlegs_hunter_iron_description_TW : "Um par de botas de couro podre com pelo."
+helmet_hunter_iron_TW : "Capuz de caça de couro podre"
+helmet_hunter_iron_description_TW : "Um intimidador capacete de troféu podre."
+##MOUNTAINS##
+armorchest_hunter_silver_TW : "Colete de caça congelado"
+armorchest_hunter_silver_description_TW : "Um colete de couro congelado adornado com ombreiras de garras e pintura de guerra."
+armorlegs_hunter_silver_TW : "Calças de caça de couro congelado"
+armorlegs_hunter_silver_description_TW : "Um par de botas de couro congelado com pelo."
+helmet_hunter_silver_TW : "Capuz de caça de couro congelado"
+helmet_hunter_silver_description_TW : "Um intimidador capacete de troféu congelado."
+##PLAINS##
+armorchest_hunter_bm_TW : "Colete de caça em chamas"
+armorchest_hunter_bm_description_TW : "Um colete de couro em chamas adornado com ombreiras de garras e pintura de guerra."
+armorlegs_hunter_bm_TW : "Calças de caça de couro em chamas"
+armorlegs_hunter_bm_description_TW : "Um par de botas de couro em chamas com pelo."
+helmet_hunter_bm_TW : "Capuz de caça de couro em chamas"
+helmet_hunter_bm_description_TW : "Um intimidador capacete de troféu em chamas."
+##MISTLANDS##
+armorchest_hunter_carapace_TW : "Colete de caça de carapaça"
+armorchest_hunter_carapace_description_TW : "Um colete de carapaça adornado com ombreiras de garras e pintura de guerra."
+armorlegs_hunter_carapace_TW : "Calças de caça de couro de carapaça"
+armorlegs_hunter_carapace_description_TW : "Um par de botas de carapaça com pelo."
+helmet_hunter_carapace_TW : "Capuz de caça de couro de carapaça"
+helmet_hunter_carapace_description_TW : "Um intimidador capacete de troféu de carapaça."
+
+leatherarmorset_TW: "Cervo"
+rogueset_TW: "Assassino"
+bronzerogueset_description_TW: "Aumenta o dano com facas em 2%."
+ironrogueset_description_TW: "Aumenta o dano com facas em 4%."
+silverrogueset_description_TW: "Aumenta o dano com facas em 6%."
+bmrogueset_description_TW: "Aumenta o dano com facas em 8%."
+carapacerogueset_description_TW: "Aumenta o dano com facas em 10%."
+tyraniumrogueset_description_TW: "Aumenta o dano com facas em 12%."
+vigorousset_TW: "Invasor"
+bronzevigorousset_description_TW: "Aumenta o dano com machados em 2%."
+ironvigorousset_description_TW: "Aumenta o dano com machados em 4%."
+silvervigorousset_description_TW: "Aumenta o dano com machados em 6%."
+bmvigorousset_description_TW: "Aumenta o dano com machados em 8%."
+carapacevigorousset_description_TW: "Aumenta o dano com machados em 10%."
+tyraniumvigorousset_description_TW: "Aumenta o dano com machados em 12%."
+warriorset_TW: "Guerreiro"
+ironwarriorset_description_TW: "Aumenta o dano com clavas em 4%."
+silverwarriorset_description_TW: "Aumenta o dano com clavas em 6%."
+bmwarriorset_description_TW: "Aumenta o dano com clavas em 8%."
+carapacewarriorset_description_TW: "Aumenta o dano com clavas em 10%."
+flametalwarriorset_description_TW: "Aumenta o dano com clavas em 12%."
+fenrirset_TW: "Fenrir"
+silverfenrirset_description_TW: "Aumenta o dano desarmado em 6%."
+bmfenrirset_description_TW: "Aumenta o dano desarmado em 8%."
+carapacefenrirset_description_TW: "Aumenta o dano desarmado em 10%."
+tyraniumfenrirset_description_TW: "Aumenta o dano desarmado em 12%."
+vidarset_TW: "Vidar"
+silvervidarset_description_TW: "Aumenta o dano com espadas em 6%."
+bmvidarset_description_TW: "Aumenta o dano com espadas em 8%."
+carapacevidarset_description_TW: "Aumenta o dano com espadas em 10%."
+flametalvidarset_description_TW: "Aumenta o dano com espadas em 12%."
+boldset_TW: "Alabardeiro"
+bmboldset_description_TW: "Aumenta o dano com lanças em 8%."
+carapaceboldset_description_TW: "Aumenta o dano com lanças em 10%."
+flametalboldset_description_TW: "Aumenta o dano com lanças em 12%."
+legionset_TW: "Legião"
+carapacelegionset_description_TW : "Aumenta o dano com lanças em 10%"
+flametallegionset_description_TW : "Aumenta o dano com lanças em 12%"
+destructionset_TW: "Feiticeito"
+carapacedestructionset_description_TW : "Aumenta o dano de magia elemental em 6%"
+tyraniumdestructionset_description_TW : "Aumenta o dano de magia elemental em 12%"
+sacrificeset_TW: "Sacrifício"
+
+##ARMORS##
+helmet_leather_TW: "Capuz de chifres"
+helmet_leather_description_TW: "Um capuz de couro resistente adornado com chifres."
+armorchest_leather_TW: "Túnica de couro de veado"
+amorchest_leather_description_TW: "Uma túnica de couro macio. Permite que você se mova livremente."
+armorlegs_leather_TW: "Calças de couro de veado"
+amorlegs_leather_description_TW: "Um par de calças de couro macio e coloração vermelha."
+cape_trollblack_TW : "Capa negra de troll"
+cape_trollblack_description_TW : "Perfeita para se esconder nas sombras."
+
+#BELTS##
+belt_ymir_TW: "Cinto de Ymir"
+belt_ymir_description_TW: "Dizem que quem usa este cinto mágico tem o poder de carregar mundos."
+
+##ROGUE##
+
+##Bronze##
+helmet_bronzerogue_TW: "Capuz do assassino"
+helmet_bronzerogue_description_TW: "Um capuz de couro negro que oculta seu rosto."
+armorchest_bronzerogue_TW: "Túnica do assassino"
+armorchest_bronzerogue_description_TW: "Uma túnica de couro negro."
+armorlegs_bronzerogue_TW: "Botas do assassino"
+armorlegs_bronzerogue_description_TW: "Silenciosas como uma sepultura."
+##Iron##
+helmet_ironrogue_TW: "Capuz do assassino reforçado com ferro"
+helmet_ironrogue_description_TW: "Um capuz de couro que oculta seu rosto."
+armorchest_ironrogue_TW: "Túnica do assassino reforçada com ferro"
+armorchest_ironrogue_description_TW: "Uma túnica de couro reforçada com ferro."
+armorlegs_ironrogue_TW: "Botas do assassino reforçada com ferro"
+armorlegs_ironrogue_description_TW: "Silenciosas como uma sepultura."
+##Silver##
+helmet_silverrogue_TW: "Capuz do assassino reforçado com prata"
+helmet_silverrogue_description_TW: "Um capuz de couro que oculta seu rosto."
+armorchest_silverrogue_TW: "Túnica do assassino reforçada com prata"
+armorchest_silverrogue_description_TW: "Uma túnica de couro reforçada com prata."
+armorlegs_silverrogue_TW: "Botas do assassino reforçadas com prata"
+armorlegs_silverrogue_description_TW: "Silenciosas como uma sepultura."
+##Black metal##
+helmet_bmrogue_TW: "Capuz do assassino reforçado com metal negro"
+helmet_bmrogue_description_TW: "Um capuz de couro que oculta seu rosto."
+armorchest_bmrogue_TW: "Túnica do assassino reforçada com metal negro"
+armorchest_bmrogue_description_TW: "Uma túnica de couro reforçada com metal negro."
+armorlegs_bmrogue_TW: "Botas do assassino reforçadas de metal negro"
+armorlegs_bmrogue_description_TW: "Silenciosas como uma sepultura."
+##Carapace##
+helmet_carapacerogue_TW: "Capuz do assassino reforçado com carapaça"
+helmet_carapacerogue_description_TW: "Um capuz de couro que oculta seu rosto."
+armorchest_carapacerogue_TW: "Túnica do assassino reforçada com carapaça"
+armorchest_carapacerogue_description_TW: "Uma túnica de couro reforçada com carapaça."
+armorlegs_carapacerogue_TW: "Botas do assassino reforçadas com carapaça"
+armorlegs_carapacerogue_description_TW: "Silenciosas como uma sepultura."
+##Tyranium##
+helmet_tyraniumrogue_TW: "Capuz do assassino reforçado com Tyranium"
+helmet_tyraniumrogue_description_TW: "Um capuz de couro negro que oculta seu rosto."
+armorchest_tyraniumrogue_TW: "Colete do assassino reforçado com Tyranium"
+armorchest_tyraniumrogue_description_TW: "Um colete de couro negro reforçado com Tyranium."
+armorlegs_tyraniumrogue_TW: "Botas do assassino reforçadas com Tyranium"
+armorlegs_tyraniumrogue_description_TW: "Silenciosas como uma sepultura."
+
+##VIGOROUS##
+
+##Bronze##
+helmet_bronzevigorous_TW: "Capacete do invasor"
+helmet_bronzevigorous_description_TW: "Capacete de bronze que protege seu crânio de golpes fatais."
+armorchest_bronzevigorous_TW: "Colete do invasor"
+armorchest_bronzevigorous_description_TW: "Um colete solto com alguma proteção de bronze costurada."
+armorlegs_bronzevigorous_TW: "Calças do invasor"
+armorlegs_bronzevigorous_description_TW: "Excelente para eventos de invasão e descanso!"
+##Iron##
+helmet_ironvigorous_TW: "Capacete do invasor reforçado com ferro"
+helmet_ironvigorous_description_TW: "Capacete de ferro que protege seu crânio de golpes fatais."
+armorchest_ironvigorous_TW: "Colete do invasor reforçado com ferro"
+armorchest_ironvigorous_description_TW: "Um colete com alguma proteção de ferro costurada."
+armorlegs_ironvigorous_TW: "Calças do invasor reforçadas com ferro"
+armorlegs_ironvigorous_description_TW: "Excelente para eventos de invasão e descanso!"
+##Silver##
+helmet_silvervigorous_TW: "Capacete do invasor reforçado com prata"
+helmet_silvervigorous_description_TW: "Capacete de prata que protege seu crânio de golpes fatais."
+armorchest_silvervigorous_TW: "Colete do invasor reforçado com prata"
+armorchest_silvervigorous_description_TW: "Um colete com alguma proteção de prata costurada."
+armorlegs_silvervigorous_TW: "Calças do invasor reforçadas com prata"
+armorlegs_silvervigorous_description_TW: "Excelente para eventos de invasão e descanso!"
+##Black metal##
+helmet_bmvigorous_TW: "Capacete do invasor reforçado com metal negro"
+helmet_bmvigorous_description_TW: "Capacete de metal preto que protege seu crânio de golpes fatais."
+armorchest_bmvigorous_TW: "Colete do invasor reforçado com metal negro"
+armorchest_bmvigorous_description_TW: "Um colete com alguma proteção de metal negro costurada."
+armorlegs_bmvigorous_TW: "Calças do invasor reforçadas com metal negro"
+armorlegs_bmvigorous_description_TW: "Excelente para eventos de invasão e descanso!"
+##Carapace##
+helmet_carapacevigorous_TW: "Capacete do invasor reforçado com carapaça"
+helmet_carapacevigorous_description_TW: "Capacete de carapaça que protege seu crânio de golpes fatais."
+armorchest_carapacevigorous_TW: "Colete do invasor reforçado com carapaça"
+armorchest_carapacevigorous_description_TW: "Um colete com alguma proteção de carapaça costurada."
+armorlegs_carapacevigorous_TW: "Calças do invasor reforçadas com carapaça"
+armorlegs_carapacevigorous_description_TW: "Excelente para eventos de invasão e descanso!"
+##Tyranium##
+helmet_tyraniumvigorous_TW: "Capacete do invasor reforçado com Tyranium"
+helmet_tyraniumvigorous_description_TW: "Capacete de Tyranium que protege seu crânio de golpes fatais."
+armorchest_tyraniumvigorous_TW: "Colete do invasor reforçado com Tyranium"
+armorchest_tyraniumvigorous_description_TW: "Um colete com alguma proteção de tyranium costurada."
+armorlegs_tyraniumvigorous_TW: "Calças do invasor reforçadas com Tyranium"
+armorlegs_tyraniumvigorous_description_TW: "Excelente para eventos de invasão e descanso!"
+
+##WARRIOR##
+
+##Iron##
+helmet_warrior_TW: "Crânio do guerreiro"
+helmet_warrior_description_TW: "Um resistente capacete de ferro, feito para um guerreiro."
+armorchest_warrior_TW: "Cota de malha do guerreiro"
+armorchest_warrior_description_TW: "Uma resistente cota de malha feita para proteger suas entranhas."
+armorlegs_warrior_TW: "Guarda-pernas do guerreiro"
+armorlegs_warrior_description_TW: "Calças felpudas com proteção de metal brilhante."
+##Silver##
+helmet_silverwarrior_TW: "Crânio do guerreiro reforçado com prata"
+helmet_silverwarrior_description_TW: "Um resistente capacete de prata, adequado para um guerreiro."
+armorchest_silverwarrior_TW: "Cota de malha do guerreiro reforçada com prata"
+armorchest_silverwarrior_description_TW: "Uma resistente cota de malha feita para proteger suas entranhas."
+armorlegs_silverwarrior_TW: "Guarda-pernas do guerreiro reforçado com prata"
+armorlegs_silverwarrior_description_TW: "Calças felpudas com proteção de metal brilhante."
+##Black metal##
+helmet_bmwarrior_TW: "Crânio do guerreiro reforçado com metal negro"
+helmet_bmwarrior_description_TW: "Um resistente capacete de metal negro, adequado para um guerreiro."
+armorchest_bmwarrior_TW: "Cota de malha do guerreiro reforçada com metal negro"
+armorchest_bmwarrior_description_TW: "Uma resistente cota de malha feita para proteger suas entranhas."
+armorlegs_bmwarrior_TW: "Guarda-pernas do guerreiro reforçado com metal negro"
+armorlegs_bmwarrior_description_TW: "Calças felpudas com proteção de metal brilhante."
+##Carapace##
+helmet_carapacewarrior_TW: "Crânio do guerreiro reforçado com carapaça"
+helmet_carapacewarrior_description_TW: "Um resistente capacete de carapaça, adequado para um guerreiro."
+armorchest_carapacewarrior_TW: "Cota de malha do guerreiro reforçada com carapaça"
+armorchest_carapacewarrior_description_TW: "Uma resistente cota de malha feita para proteger suas entranhas."
+armorlegs_carapacewarrior_TW: "Guarda-pernas do guerreiro reforçado com carapaça"
+armorlegs_carapacewarrior_description_TW: "Calças felpudas com proteção de metal brilhante."
+##Flametal##
+helmet_flametalwarrior_TW: "Crânio do guerreiro reforçado com metal flamejante"
+helmet_flametalwarrior_description_TW: "Um resistente capacete de metal flamejante, adequado para um guerreiro."
+armorchest_flametalwarrior_TW: "Cota de malha do guerreiro reforçada com metal flamejante"
+armorchest_flametalwarrior_description_TW: "Uma resistente cota de malha feita para proteger suas entranhas."
+armorlegs_flametalwarrior_TW: "Guarda-pernas do guerreiro reforçado com metal flamejante"
+armorlegs_flametalwarrior_description_TW: "Calças felpudas com proteção de metal brilhante."
+
+##VIDAR##
+
+##Silver##
+helmet_vidar_TW: "Máscara Vidar"
+helmet_vidar_description_TW: "Uma máscara prateada adornada com latão. Ótimo para um soldado Huskarl."
+armorchest_vidar_TW: "Cota de malha Vidar"
+armorchest_vidar_description_TW: "Uma cota de malha com pele. Ótima para se proteger das intempéries."
+armorlegs_vidar_TW: "Calças de pele Vidar"
+armorlegs_vidar_description_TW: "Calças de lã aconchegante. Nunca mais vou tirá-las!"
+##Black metal##
+helmet_bmvidar_TW: "Máscara Vidar reforçada com metal negro"
+helmet_bmvidar_description_TW: "Uma máscara brutal de metal negro adornada com pontas. Ótimo para um soldado Huskarl."
+armorchest_bmvidar_TW: "Cota de malha Vidar reforçada com metal negro"
+armorchest_bmvidar_description_TW: "Uma cota de malha com pele. Ótima para se proteger das intempéries."
+armorlegs_bmvidar_TW: "Calças de pele Vidar reforçada com metal negro"
+armorlegs_bmvidar_description_TW: "Calças de lã aconchegante. Nunca mais vou tirá-las!"
+##Carapace##
+helmet_carapacevidar_TW: "Máscara Vidar reforçada com carapaça"
+helmet_carapacevidar_description_TW: "Uma máscara de carapaça. Ótimo para um nobre Jarl."
+armorchest_carapacevidar_TW: "Cota de malha Vidar reforçada com carapaça"
+armorchest_carapacevidar_description_TW: "Uma cota de malha com pele. Ótima para se proteger das intempéries."
+armorlegs_carapacevidar_TW: "Calças de pele Vidar reforçada com carapaça"
+armorlegs_carapacevidar_description_TW: "Calças de lã aconchegante. Nunca mais vou tirá-las!"
+##Flametal##
+helmet_flametalvidar_TW: "Máscara Vidar reforçada com metal flamejante"
+helmet_flametalvidar_description_TW: "Uma máscara de metal flamejante. Ótimo ajuste para um rei Konungr."
+armorchest_flametalvidar_TW: "Cota de malha Vidar reforçada com metal flamejante"
+armorchest_flametalvidar_description_TW: "Uma cota de malha com pele. Ótima para se proteger das intempéries."
+armorlegs_flametalvidar_TW: "Calças de pele Vidar reforçada com metal flamejante"
+armorlegs_flametalvidar_description_TW: "Calças de lã aconchegante. Nunca mais vou tirá-las!"
+
+##FENRIR##
+
+##Silver##
+helmet_fenrir_TW: "Capuz de Fenrir"
+helmet_fenrir_description_TW: "Um capuz feito de pelos de lobo. Você sente uma sede insaciável por sangue..."
+armorchest_fenrir_TW: "Túnica de Fenrir"
+armorchest_fenrir_description_TW: "Uma túnica feita de pelos de lobo. Será que estou cheirando a cachorro molhado?"
+armorlegs_fenrir_TW: "Calças de Fenrir"
+armorlegs_fenrir_description_TW: "Calças de pele de lobo cheias de pulgas. Coça muito!"
+##Black metal##
+helmet_bmfenrir_TW: "Capuz de Fenrir reforçado com metal negro"
+helmet_bmfenrir_description_TW: "Um capuz feito de pelos de lobo. Você sente uma sede insaciável por sangue..."
+armorchest_bmfenrir_TW: "Túnica de Fenrir reforçada com metal negro"
+armorchest_bmfenrir_description_TW: "Uma túnica feita de pelos de lobo. Será que estou cheirando a cachorro molhado?"
+armorlegs_bmfenrir_TW: "Calças de Fenrir reforçadas com metal negro"
+armorlegs_bmfenrir_description_TW: "Calças de pele de lobo cheias de pulgas. Coça muito!"
+##Carapace##
+helmet_carapacefenrir_TW: "Capuz de Fenrir reforçado com carapaça"
+helmet_carapacefenrir_description_TW: "Um capuz feito de pelos de lobo. Você sente uma sede insaciável por sangue..."
+armorchest_carapacefenrir_TW: "Túnica de Fenrir reforçada com carapaça"
+armorchest_carapacefenrir_description_TW: "Uma túnica feita de pelos de lobo. Será que estou cheirando a cachorro molhado?"
+armorlegs_carapacefenrir_TW: "Calças de Fenrir reforçadas com carapaça"
+armorlegs_carapacefenrir_description_TW: "Calças de pele de lobo cheias de pulgas. Coça muito!"
+##Tyranium##
+helmet_tyraniumfenrir_TW: "Capuz de Fenrir reforçado com tyranium"
+helmet_tyraniumfenrir_description_TW: "Um capuz feito de pelos de lobo. Você sente uma sede insaciável por sangue..."
+armorchest_tyraniumfenrir_TW: "Túnica de Fenrir reforçada com tyranium"
+armorchest_tyraniumfenrir_description_TW: "Uma túnica feita de pelos de lobo. Será que estou cheirando a cachorro molhado?"
+armorlegs_tyraniumfenrir_TW: "Calças de Fenrir reforçadas com tyranium"
+armorlegs_tyraniumfenrir_description_TW: "Calças de pele de lobo cheias de pulgas. Coça muito!"
+
+##BOLD##
+
+##Black metal##
+helmet_bold_TW: "Capacete do Alabardeiro"
+helmet_bold_description_TW: "Um forte capacete de metal negro. Protege seu lindo rosto de danos desagradáveis!"
+armorchest_bold_TW: "Couraça do Alabardeiro"
+armorchest_bold_description_TW: "Uma couraça feita de placas de metal e couro. Melhora o movimento em combate."
+armorlegs_bold_TW: "Grevas do Alabardeiro"
+armorlegs_bold_description_TW: "Grevas protetoras. Oferecem um bom chute!"
+##Carapace##
+helmet_carapacebold_TW: "Capacetedo do Alabardeiro reforçado com carapaça"
+helmet_carapacebold_description_TW: "Um forte capacete de carapaça. Protege seu lindo rosto de danos desagradáveis"
+armorchest_carapacebold_TW: "Couraça do Alabardeiro reforçada com carapaça"
+armorchest_carapacebold_description_TW: "Uma couraça feita de placas de metal e couro reforçada com carapaça. Melhora o movimento em combate."
+armorlegs_carapacebold_TW: "Grevas do Alabardeiro reforçadas com carapaça"
+armorlegs_carapacebold_description_TW: "Grevas protetoras reforçadas com carapaça. Oferecem um bom chute!"
+##Flametal##
+helmet_flametalbold_TW: "Capacete do Alabardeiro reforçado com Flametal"
+helmet_flametalbold_description_TW: "Um forte capacete com Flametal. Protege seu lindo rosto de danos desagradáveis!"
+armorchest_flametalbold_TW: "Couraça do Alabardeiro reforçada com Flametal"
+armorchest_flametalbold_description_TW: "Uma couraça feita de placas de metal e couro reforçada com Flametal. Melhora o movimento em combate."
+armorlegs_flametalbold_TW: "Grevas do Alabardeiro reforçadas com Flametal"
+armorlegs_flametalbold_description_TW: "Grevas protetoras reforçadas com Flametal. Oferecem um bom chute!"
+
+##LEGION##
+
+##Carapace##
+helmet_legion_TW: "Capacete do legionário"
+helmet_legion_description_TW: "Um capacete de carapaça escamosa adornado com mandíbulas."
+armorchest_legion_TW: "Cota de malha do legionário"
+armorchest_legion_description_TW: "Uma cota de malha feita de placas de carapaça e couro exótico. Melhora o movimento em combate."
+armorlegs_legion_TW: "Calças do legionário"
+armorlegs_legion_description_TW: "Um par de calças revestida de couro. Para lhe manter longe dos carrapatos."
+##Flametal##
+helmet_flametallegion_TW: "Capacete do legionário reforçado com Flametal"
+helmet_flametallegion_description_TW: "Um capacete de carapaça escamosa reforçado com Flametal adornado com mandíbulas."
+armorchest_flametallegion_TW: "Cota de malha do legionário reforçada com Flametal"
+armorchest_flametallegion_description_TW: "Uma cota de malha feita de placas de Flametal e couro exótico. Melhora o movimento em combate."
+armorlegs_flametallegion_TW: "Calças do legionário reforçada com Flametal"
+armorlegs_flametallegion_description_TW: "Um par de calças revestida de couro e reforçada com Flametal. Para lhe manter longe dos carrapatos."
+
+##DESTRUCTION##
+
+##Carapace##
+helmet_destruction_TW: "Capuz do Feiticeiro"
+helmet_destruction_description_TW: "Você sente o poder da destruição crescer dentro de você..."
+armorchest_destruction_TW: "Túnica do Feiticeiro"
+armorchest_destruction_description_TW: "Uma elegante túnica própria para um mago."
+armorlegs_destruction_TW: "Chutadores de Feitiço"
+armorlegs_destruction_description_TW: "Aquele que provoca com magia deve ser ágil para escapar."
+##Flametal##
+helmet_tyraniumdestruction_TW: "Capuz do Feiticeiro infundido com Gelo"
+helmet_tyraniumdestruction_description_TW: "Você sente o poder da destruição de tyranium crescer dentro de você..."
+armorchest_tyraniumdestruction_TW: "túnica do Feiticeiro infundida com Gelo"
+armorchest_tyraniumdestruction_description_TW: "Uma elegante túnica própria para um mago."
+armorlegs_tyraniumdestruction_TW: "Chutadores de Feitiço infundidos com Gelo"
+armorlegs_tyraniumdestruction_description_TW: "Aquele que provoca com magia deve ser ágil para escapar."
+
+
+##SACRIFICE##
+
+##Carapace##
+helmet_sacrifice_TW: "Máscara Ritualística"
+helmet_sacrifice_description_TW: "Você pode ouvir as vozes chamando do além..."
+armorchest_sacrifice_TW: "Veste do Necromante"
+armorchest_sacrifice_description_TW: "Uma veste velha e mofada de necromante. Será que isso já foi lavado?"
+armorlegs_sacrifice_TW: "Dançarinos das Tumbas"
+armorlegs_sacrifice_description_TW: "Essas botas são feitas para saquear túmulos e é exatamente isso que elas farão!"
+##Flametal##
+helmet_flametalsacrifice_TW: "Máscara ritualística infundida pelos demônios"
+helmet_flametalsacrifice_description_TW: "Você pode ouvir as vozes chamando do além..."
+armorchest_flametalsacrifice_TW: "Veste de Necromante infundida pelos demônios"
+armorchest_flametalsacrifice_description_TW: "Uma veste velha e mofada de necromante. Será que isso já foi lavado?"
+armorlegs_flametalsacrifice_TW: "Dançarinos das Tumbas infundidos pelos demônios"
+armorlegs_flametalsacrifice_description_TW: "Essas botas são feitas para saquear túmulos e é exatamente isso que elas farão!"
+
+

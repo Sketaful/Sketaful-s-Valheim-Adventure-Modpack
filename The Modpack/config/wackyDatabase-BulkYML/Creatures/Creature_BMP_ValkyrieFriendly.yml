@@ -1,0 +1,4 @@
+name: BMP_ValkyrieFriendly
+mob_display_name: $bmp_valkyrie_summon
+clone_creature: 
+creature_replacer: 

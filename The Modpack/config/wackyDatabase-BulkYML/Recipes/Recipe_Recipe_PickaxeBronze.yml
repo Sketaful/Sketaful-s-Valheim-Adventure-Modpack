@@ -1,0 +1,14 @@
+name: Recipe_PickaxeBronze
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RoundLog:3:1:True
+- Bronze:10:5:True

@@ -1,0 +1,4 @@
+name: Goblin
+mob_display_name: $enemy_goblin
+clone_creature: 
+creature_replacer: 

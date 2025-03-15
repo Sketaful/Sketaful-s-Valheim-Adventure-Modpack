@@ -1,0 +1,4 @@
+name: Greydwarf_Elite
+mob_display_name: $enemy_greydwarfbrute
+clone_creature: 
+creature_replacer: 

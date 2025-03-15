@@ -1,0 +1,4 @@
+name: BossStormHerald_TW
+mob_display_name: $boss_stormherald_TW
+clone_creature: 
+creature_replacer: 

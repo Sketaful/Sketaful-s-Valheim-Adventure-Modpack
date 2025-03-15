@@ -1,0 +1,27 @@
+creature_prefab_name: Eikthyr
+bounty_name: Eikthyr the Undead
+sprite_name: TrophyEikthyr
+biome: Meadows
+reward_type: Item
+item_reward:
+  item_name: Coins
+  amount: 50
+skill_reward:
+  type: None
+  amount: 0
+experience_reward: 0
+bounty_health: 500
+damage_multiplier: 2
+damages:
+  blunt: 0
+  slash: 10
+  pierce: 0
+  fire: 0
+  frost: 5
+  lightning: 0
+  poison: 0
+  spirit: 0
+level: 3
+defeat_key: defeated_eikthyr
+cost: 0
+currency: Coins

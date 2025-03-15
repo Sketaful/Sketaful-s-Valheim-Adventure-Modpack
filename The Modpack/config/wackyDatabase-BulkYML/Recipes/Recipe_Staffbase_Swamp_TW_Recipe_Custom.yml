@@ -1,0 +1,15 @@
+name: Staffbase_Swamp_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_wizardtable_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- EnchantedWoodSwamp_TW:14:0:True
+- Iron:8:0:True
+- WitheredBone:6:0:True

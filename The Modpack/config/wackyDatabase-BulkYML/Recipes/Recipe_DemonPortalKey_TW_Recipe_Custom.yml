@@ -1,0 +1,16 @@
+name: DemonPortalKey_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_smeltingvat_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- SurtrPortalFragments_TW:10:0:True
+- BlackIce_TW:10:0:True
+- RuneDestruction_TW:20:0:True
+- SurtrIdol_TW:3:0:True

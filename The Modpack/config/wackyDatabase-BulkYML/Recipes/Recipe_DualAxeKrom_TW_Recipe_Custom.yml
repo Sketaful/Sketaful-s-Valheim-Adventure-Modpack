@@ -1,0 +1,16 @@
+name: DualAxeKrom_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ThoradusBar_TW:30:15:True
+- RuneWrath_TW:20:10:True
+- BorealWood_TW:16:8:True
+- TrophyJotunnBrute_TW:1:1:True

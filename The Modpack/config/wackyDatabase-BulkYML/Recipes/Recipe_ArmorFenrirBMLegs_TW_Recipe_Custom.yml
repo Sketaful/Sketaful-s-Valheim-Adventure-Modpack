@@ -1,0 +1,16 @@
+name: ArmorFenrirBMLegs_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_armory_TW
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ArmorFenrirLegs_TW:1:0:True
+- BlackMetal:20:10:True
+- Tar:12:6:True
+- Needle:8:4:True

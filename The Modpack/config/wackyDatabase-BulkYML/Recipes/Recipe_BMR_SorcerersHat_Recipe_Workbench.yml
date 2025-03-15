@@ -1,0 +1,16 @@
+name: BMR_SorcerersHat_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophyLeech:1:0:True
+- Feathers:1:0:True
+- TrollHide:2:1:True
+- Blueberries:10:5:True

@@ -1,0 +1,17 @@
+name: BMP_LightBelt_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- SurtlingCore:4:0:True
+- GreydwarfEye:20:10:True
+- Bronze:22:11:True
+- Resin:28:14:True
+- FineWood:0:11:True

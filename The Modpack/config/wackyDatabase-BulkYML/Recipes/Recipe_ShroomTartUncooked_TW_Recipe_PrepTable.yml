@@ -1,0 +1,16 @@
+name: ShroomTartUncooked_TW_Recipe_PrepTable
+clonePrefabName: NO
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BarleyFlour:2:0:True
+- Helweed_TW:2:0:True
+- MushroomWintercap_TW:2:0:True
+- TundraBerry_TW:3:0:True

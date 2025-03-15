@@ -1,0 +1,12 @@
+name: Pickable_Thistle
+itemPrefab: Thistle
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 240
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: visual
+extraDrops: 

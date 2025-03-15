@@ -1,0 +1,16 @@
+name: HelmetRogue_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_armory_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- HelmetTrollLeather:1:0:True
+- TrollHide:8:4:True
+- GreydwarfEye:8:4:True
+- Coal:0:3:True

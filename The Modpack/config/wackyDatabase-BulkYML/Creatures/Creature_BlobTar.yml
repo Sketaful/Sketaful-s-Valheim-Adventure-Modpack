@@ -1,0 +1,4 @@
+name: BlobTar
+mob_display_name: $enemy_blobtar
+clone_creature: 
+creature_replacer: 

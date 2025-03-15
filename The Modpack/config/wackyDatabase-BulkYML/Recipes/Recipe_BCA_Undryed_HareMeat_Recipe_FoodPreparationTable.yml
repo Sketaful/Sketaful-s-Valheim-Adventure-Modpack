@@ -1,0 +1,14 @@
+name: BCA_Undryed_HareMeat_Recipe_FoodPreparationTable
+clonePrefabName: NO
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- HareMeat:1:0:True
+- BCA_Salt:5:0:True

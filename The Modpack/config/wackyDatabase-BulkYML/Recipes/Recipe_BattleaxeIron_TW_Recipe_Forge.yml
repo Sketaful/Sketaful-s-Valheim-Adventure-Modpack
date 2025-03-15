@@ -1,0 +1,15 @@
+name: BattleaxeIron_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ElderBark:15:8:True
+- Iron:25:12:True
+- TrophyDraugrElite:1:0:True

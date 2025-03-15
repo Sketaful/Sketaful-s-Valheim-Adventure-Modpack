@@ -1,0 +1,13 @@
+name: BCA_ChiliPepperSeeds_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 10
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BCA_ChiliPepper:5:0:True

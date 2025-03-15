@@ -1,0 +1,4 @@
+name: BossSvalt_TW
+mob_display_name: $boss_svalt_TW
+clone_creature: 
+creature_replacer: 

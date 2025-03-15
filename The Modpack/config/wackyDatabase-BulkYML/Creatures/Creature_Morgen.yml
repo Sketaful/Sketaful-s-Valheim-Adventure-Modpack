@@ -1,0 +1,4 @@
+name: Morgen
+mob_display_name: $enemy_morgen
+clone_creature: 
+creature_replacer: 

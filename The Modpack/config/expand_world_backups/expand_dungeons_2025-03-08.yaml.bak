@@ -1,0 +1,194 @@
+- name: DG_AshlandRuins
+  algorithm: CampRadial
+  maxRooms: 30
+  minRooms: 20
+  minRequiredRooms: 1
+  themes: AshlandRuins
+  doorTypes: []
+  maxTilt: 25
+  campRadiusMin: 30
+  campRadiusMax: 32
+  minAltitude: 1
+  perimeterSections: 12
+  bounds: 64
+- name: DG_Cave
+  algorithm: Dungeon
+  maxRooms: 64
+  minRooms: 3
+  minRequiredRooms: 3
+  requiredRooms: cave_shrine_shrine01, cave_shrine_shrine02, cave_shrine_shrine03
+  roomWeights: true
+  themes: Cave
+  doorTypes:
+  - prefab: cloth_hanging_door_double
+    connectionType: shrine
+    chance: 0.8
+  - prefab: caverock_ice_pillar_wall
+    connectionType: ''
+    chance: 0.2
+  - prefab: caverock_ice_pillar_wall
+    connectionType: water
+  - prefab: caverock_ice_pillar_wall
+    connectionType: ice
+    chance: 0.2
+  doorChance: 0.2
+  interiorTransform: true
+  bounds: 64,64,256
+- name: DG_DvergrBoss
+  algorithm: Dungeon
+  maxRooms: 512
+  minRooms: 512
+  minRequiredRooms: 1
+  requiredRooms: dvergr_bossroom_COMPLETESTAIR04
+  roomWeights: true
+  themes: DvergerBoss
+  doorTypes: []
+  interiorTransform: true
+  bounds: 64,64,256
+- name: DG_DvergrTown
+  algorithm: Dungeon
+  maxRooms: 96
+  minRooms: 16
+  minRequiredRooms: 1
+  requiredRooms: dvergr_room_TREASURE, dvergr_room_TREASURE2
+  roomWeights: true
+  themes: DvergerTown
+  doorTypes:
+  - prefab: dvergrtown_creep_door
+    connectionType: stone
+    chance: 1
+  - prefab: dvergrtown_creep_door
+    connectionType: dvergr
+    chance: 0.5
+  - prefab: dvergrtown_slidingdoor
+    connectionType: dvergr
+    chance: 0.6
+  - prefab: dvergrtown_wood_wall02
+    connectionType: dvergr
+    chance: 0.7
+  doorChance: 0.9
+  interiorTransform: true
+  bounds: 64,64,256
+- name: DG_ForestCrypt
+  algorithm: Dungeon
+  maxRooms: 40
+  minRooms: 20
+  minRequiredRooms: 1
+  requiredRooms: forestcrypt_new_BurialChamber01, forestcrypt_new_BurialChamber02, forestcrypt_new_BurialChamber03, forestcrypt_new_BurialChamber04, forestcrypt_new_BurialChamber05
+  themes: ForestCrypt
+  doorTypes:
+  - prefab: dungeon_forestcrypt_door
+    connectionType: ''
+  doorChance: 0.5
+  bounds: 64
+- name: DG_FortressRuins
+  algorithm: CampRadial
+  maxRooms: 30
+  minRooms: 20
+  minRequiredRooms: 1
+  themes: FortressRuins
+  doorTypes: []
+  maxTilt: 25
+  campRadiusMin: 30
+  campRadiusMax: 32
+  minAltitude: 1
+  perimeterSections: 12
+  bounds: 64
+- name: DG_GoblinCamp
+  algorithm: CampRadial
+  maxRooms: 25
+  minRooms: 15
+  minRequiredRooms: 1
+  themes: GoblinCamp
+  doorTypes: []
+  maxTilt: 25
+  campRadiusMin: 15
+  campRadiusMax: 30
+  minAltitude: 1
+  perimeterSections: 10
+  perimeterBuffer: 2
+  bounds: 64
+- name: DG_Hildir_Cave
+  algorithm: Dungeon
+  maxRooms: 64
+  minRooms: 10
+  minRequiredRooms: 1
+  requiredRooms: cave_shrine_shrine03_hildir
+  roomWeights: true
+  themes: CaveHildir
+  doorTypes:
+  - prefab: caverock_ice_pillar_wall
+    connectionType: ice
+    chance: 0.2
+  - prefab: caverock_ice_pillar_wall
+    connectionType: ''
+    chance: 0.2
+  - prefab: caverock_ice_pillar_wall
+    connectionType: water
+  doorChance: 0.2
+  interiorTransform: true
+  bounds: 64,64,256
+- name: DG_Hildir_ForestCrypt
+  algorithm: Dungeon
+  maxRooms: 40
+  minRooms: 20
+  minRequiredRooms: 1
+  requiredRooms: forestcrypt_chamber_hildir
+  roomWeights: true
+  themes: ForestCryptHildir
+  doorTypes:
+  - prefab: dungeon_forestcrypt_door
+    connectionType: ''
+  doorChance: 0.5
+  interiorTransform: true
+  bounds: 64,64,256
+- name: DG_Hildir_PlainsFortress
+  algorithm: Dungeon
+  maxRooms: 512
+  minRooms: 256
+  minRequiredRooms: 5
+  requiredRooms: plainsfortress_Hildir_Floor2_1, plainsfortress_Hildir_Floor2_2, plainsfortress_Hildir_Floor2_3, plainsfortress_Hildir_Floor2, plainsfortress_Hildir_Endcap
+  roomWeights: true
+  themes: PlainsFortHildir
+  doorTypes:
+  - prefab: dungeon_forestcrypt_door
+    connectionType: ''
+  doorChance: 0.5
+  interiorTransform: true
+  bounds: 32,32,132
+- name: DG_MeadowsFarm
+  algorithm: CampRadial
+  maxRooms: 30
+  minRooms: 20
+  minRequiredRooms: 1
+  themes: MeadowsFarm
+  doorTypes: []
+  maxTilt: 25
+  campRadiusMin: 18
+  campRadiusMax: 32
+  minAltitude: 1
+  perimeterSections: 10
+  bounds: 64
+- name: DG_MeadowsVillage
+  algorithm: CampRadial
+  maxRooms: 30
+  minRooms: 20
+  minRequiredRooms: 1
+  themes: MeadowsVillage
+  doorTypes: []
+  maxTilt: 25
+  campRadiusMin: 28
+  campRadiusMax: 32
+  minAltitude: 1
+  perimeterSections: 10
+  bounds: 64
+- name: DG_SunkenCrypt
+  algorithm: Dungeon
+  maxRooms: 30
+  minRooms: 20
+  themes: SunkenCrypt
+  doorTypes:
+  - prefab: dungeon_sunkencrypt_irongate
+    connectionType: ''
+  doorChance: 0.3
+  bounds: 64

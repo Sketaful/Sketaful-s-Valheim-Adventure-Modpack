@@ -1,0 +1,16 @@
+name: BMP_FireResist_Earring_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophySurtling:2:0:True
+- Ruby:2:0:True
+- AncientSeed:2:0:True
+- Iron:4:0:True

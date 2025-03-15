@@ -1,0 +1,12 @@
+name: BFP_Pickable_ClayBig (2)
+itemPrefab: BFP_Clay
+cloneOfWhatPickable: 
+material: 
+amount: 15
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: 
+extraDrops: 

@@ -1,0 +1,16 @@
+name: StaffGolem_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_wizardtable_TW
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Tar:30:15:True
+- ShardYagluth_TW:10:6:True
+- GoblinTotem:4:2:True
+- TrophyGrowth:1:0:True

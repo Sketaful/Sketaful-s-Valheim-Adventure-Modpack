@@ -1,0 +1,16 @@
+name: PotionMiner_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_potioncauldron_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 3
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ShardBonemass_TW:2:0:True
+- MushroomDeathcap_TW:4:0:True
+- BoneFragments:6:0:True
+- Blueberries:6:0:True

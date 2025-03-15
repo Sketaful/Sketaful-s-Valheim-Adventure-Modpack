@@ -1,0 +1,12 @@
+name: Pickable_GrownMushroomDeathcap_TW
+itemPrefab: MushroomDeathcap_TW
+cloneOfWhatPickable: 
+material: 
+amount: 2
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 1
+ifHasHealth: 15
+hiddenChildWhenPicked: 
+extraDrops: 

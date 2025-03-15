@@ -1,0 +1,16 @@
+name: BattlehammerBlackmetal_TW_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:20:10:True
+- BlackMetal:30:15:True
+- LoxBone_TW:8:4:True
+- TrophyGoblinBrute:1:0:True

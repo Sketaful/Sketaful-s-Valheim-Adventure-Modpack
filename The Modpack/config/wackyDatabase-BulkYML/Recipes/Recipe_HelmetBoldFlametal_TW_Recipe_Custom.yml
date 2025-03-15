@@ -1,0 +1,16 @@
+name: HelmetBoldFlametal_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_armory_TW
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- HelmetBoldCarapace_TW:1:0:True
+- FlametalNew:30:15:True
+- CharredBone:12:6:True
+- AskHide:8:4:True

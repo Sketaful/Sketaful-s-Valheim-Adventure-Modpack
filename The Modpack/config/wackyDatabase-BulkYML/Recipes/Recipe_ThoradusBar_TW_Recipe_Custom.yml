@@ -1,0 +1,14 @@
+name: ThoradusBar_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_smeltingvat_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 10
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TyraniumBar_TW:5:0:True
+- RagnoriteBar_TW:5:0:True

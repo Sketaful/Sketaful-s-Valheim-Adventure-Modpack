@@ -1,0 +1,14 @@
+name: CWS_Crucible_Full_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $cws_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CWS_SurtlingCoal:2:0:True
+- IronScrap:4:0:True

@@ -1,0 +1,12 @@
+name: BCA_ChiliPepperPlant
+itemPrefab: BCA_ChiliPepper
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 1
+ifHasHealth: 30
+hiddenChildWhenPicked: 
+extraDrops: 

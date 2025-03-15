@@ -1,0 +1,16 @@
+name: BMP_HealStaff_Recipe_Forge
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- AncientSeed:10:0:True
+- Guck:16:8:True
+- Iron:12:6:True
+- ElderBark:10:5:True

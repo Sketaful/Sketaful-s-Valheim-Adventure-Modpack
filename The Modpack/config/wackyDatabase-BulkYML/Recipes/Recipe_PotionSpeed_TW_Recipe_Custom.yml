@@ -1,0 +1,16 @@
+name: PotionSpeed_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_potioncauldron_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ShardYagluth_TW:2:0:True
+- MushroomDevilstongue_TW:4:0:True
+- Cloudberry:4:0:True
+- Guck:8:0:True

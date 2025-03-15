@@ -1,0 +1,18 @@
+name: BCA_Wild_ChiliPepper
+itemPrefab: BCA_ChiliPepper
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: $bca_wild_chilipepper
+respawnTimer: 600
+spawnOffset: 1
+ifHasHealth: 30
+hiddenChildWhenPicked: Chilis
+extraDrops:
+  drops:
+  - BCA_ChiliPepperSeeds
+  dropMin: 1
+  dropMax: 1
+  dropChance: 0.5
+  dropOneOfEach: false

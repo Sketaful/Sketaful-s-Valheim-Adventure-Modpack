@@ -1,0 +1,18 @@
+name: BMP_FlameStaff_Recipe_MageTable
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- SurtlingCore:5:0:True
+- TrophySurtling:3:0:True
+- BlackMetal:16:0:True
+- YggdrasilWood:22:11:True
+- Eitr:0:18:True
+- Mandible:0:8:True

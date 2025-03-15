@@ -1,0 +1,16 @@
+name: HelmetSpellslinger_Surtr_TW_Recipe_MageTable
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RagnoriteBar_TW:16:8:True
+- HelHideBundle_TW:14:7:True
+- RuneDestruction_TW:12:6:True
+- SurtrIdol_TW:4:2:True

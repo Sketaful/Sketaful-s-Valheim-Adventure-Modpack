@@ -1,0 +1,12 @@
+name: Pickable_PrimalLeak_TW
+itemPrefab: PrimalLeak_TW
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 1500
+spawnOffset: 1
+ifHasHealth: 50
+hiddenChildWhenPicked: PlantFruit10_1
+extraDrops: 

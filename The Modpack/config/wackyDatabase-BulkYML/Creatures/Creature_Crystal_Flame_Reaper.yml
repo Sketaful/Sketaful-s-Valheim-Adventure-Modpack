@@ -1,0 +1,4 @@
+name: Crystal_Flame_Reaper
+mob_display_name: $jc_crystal_flame_reaper
+clone_creature: 
+creature_replacer: 

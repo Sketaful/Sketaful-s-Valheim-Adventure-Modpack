@@ -1,0 +1,15 @@
+name: HelmetHunterIron_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_armory_TW
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RottenPelt_TW:8:3:True
+- Iron:10:4:True
+- HelmetHunter_TW:1:0:True

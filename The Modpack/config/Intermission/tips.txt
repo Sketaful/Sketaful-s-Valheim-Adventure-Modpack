@@ -1,10 +1,10 @@
 Have you built something your're proud of while using this modpack?\nIf you take a nice screenshot and send it on discord you can have it added to this loadscreen.\nSend the screenshot together with what you call yourself so you can get credit for it.
 Pressing "P" while having the map up will toggle showing/hiding all portals you can use.
-Holding down CTRL or ALT while rotating building parts will rotate them on different axis.
+Holding down SHIFT, CTRL or ALT while rotating building parts will rotate them on different axis.
 If you press "O" while building you'll reset all axis of the building piece.
 While near chests you can press "P" to automatically move all things from your inventory to chests that already have atleast one of the material.
 Rugs made from Foxes, Bears and Rotten Deer stacks so you can gain extra rested time by having multiple rugs.
-If you play multiplayer only those thathave been near when killing a boss can use their power.
+If you play multiplayer only those that have been near when killing a boss can use their power.
 Portals don't need to be connected. They all show up on a map when using a portal and you just click the one you want to go to.
 Using wood and flint you can make an early sword before you even neeed to leave the meadows.
 There are more animals to tame in this world that you would think and most of them can be equiped with a saddle.
@@ -21,7 +21,7 @@ Beware the wizards of the biomes. They're a lot more dangerous than the regular 
 If you're running a public server with this modpack contact Sketaful on discord and he'll can add it to the menu.
 If you kill a boss you can build your own boss stone and put up the trophy in your base instead.
 Did you know that signs in valheim can show unicode images?\nTry holding ALT and press 3 on the numpad and then release when writing on a sign for a nice heart.\nJust google "unicode images" and see test which ones work and which doesnt.
-Are you playing online with friends and mix up who's ship is who's?\nLook at the rudder and press SHIFT+E to name your ship.
 You don't have to wait for creatures you kill to despawn and drop their loot anymore, they'll do that instantly.
 If you like to decorate with item stands you'd be happy to know that almost anything can be placed on them now.
 You can dual wield most weapons and tools. Special attacks are different when dual wielding.\nTry holding two axes and use special attack when chopping trees.
+If you look at a chest or block you can hold <b>C</b> and press <b>left mouse button</b> to move them without breaking them. Chests can even be moved with its inventory intact.

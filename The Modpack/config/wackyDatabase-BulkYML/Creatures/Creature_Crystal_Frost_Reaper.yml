@@ -1,0 +1,4 @@
+name: Crystal_Frost_Reaper
+mob_display_name: $jc_crystal_frost_reaper
+clone_creature: 
+creature_replacer: 

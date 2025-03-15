@@ -1,0 +1,106 @@
+name: Armory_TW
+piecehammer: Hammer
+m_name: $piece_armory_TW
+sizeMultiplier: 1
+m_description: $piece_armory_description_TW
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_forge
+piecehammerCategory: Warfare
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 1000
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+  materialType: Stone
+craftingStationData:
+  cStationCustomIcon: 
+  discoveryRange: 4
+  buildRange: 30
+  craftRequiresRoof: false
+  craftRequiresFire: false
+  showBasicRecipes: false
+  useDistance: 1.7
+  useAnimation: 2
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData:
+  addOreTooltip: $piece_smelter_additem
+  emptyOreTooltip: $piece_smelter_empty
+  fuelItem:
+    name: Coal
+  maxOre: 20
+  maxFuel: 40
+  fuelPerProduct: 2
+  secPerProduct: 30
+  spawnStack: false
+  requiresRoof: false
+  addOreAnimationLength: 0
+  smelterConversion:
+  - FromName: CopperOre
+    ToName: Copper
+    Remove: false
+  - FromName: IronOre
+    ToName: Iron
+    Remove: false
+  - FromName: IronScrap
+    ToName: Iron
+    Remove: false
+  - FromName: BronzeScrap
+    ToName: Bronze
+    Remove: false
+  - FromName: TinOre
+    ToName: Tin
+    Remove: false
+  - FromName: SilverOre
+    ToName: Silver
+    Remove: false
+  - FromName: CopperScrap
+    ToName: Copper
+    Remove: false
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- Stone:20:1:True
+- BronzeNails:40:1:True
+- Bronze:10:1:True
+- SurtlingCore:5:1:True
+- TrophyEikthyr:1:1:True

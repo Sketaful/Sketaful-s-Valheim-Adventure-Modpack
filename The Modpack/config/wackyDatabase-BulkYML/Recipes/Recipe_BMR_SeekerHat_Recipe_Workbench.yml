@@ -1,0 +1,16 @@
+name: BMR_SeekerHat_Recipe_Workbench
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- LinenThread:16:0:True
+- ScaleHide:12:6:True
+- Carapace:8:4:True
+- Eitr:14:7:True

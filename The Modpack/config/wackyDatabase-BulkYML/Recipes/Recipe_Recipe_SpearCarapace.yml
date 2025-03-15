@@ -1,0 +1,15 @@
+name: Recipe_SpearCarapace
+clonePrefabName: NO
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- YggdrasilWood:10:5:True
+- Carapace:4:4:True
+- Mandible:2:1:True

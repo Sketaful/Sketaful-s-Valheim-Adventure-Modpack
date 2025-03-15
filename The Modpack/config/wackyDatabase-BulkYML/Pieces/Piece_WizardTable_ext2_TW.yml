@@ -1,0 +1,72 @@
+name: WizardTable_ext2_TW
+piecehammer: Hammer
+m_name: $piece_wizardtable_ext2_TW
+sizeMultiplier: 1
+m_description: $piece_wizardtable_ext_description_TW
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_wizardtable_TW
+piecehammerCategory: Warfare
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 100
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: true
+  noSupportWear: true
+  supports: false
+  triggerPrivateArea: true
+  materialType: Wood
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList:
+- MainCraftingStationName: WizardTable_TW
+  maxStationDistance: 25
+  continousConnection: false
+  stack: false
+- MainCraftingStationName: ArcaneAnvil_TW
+  maxStationDistance: 25
+  continousConnection: false
+  stack: false
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- WitheredBone:4:1:True
+- ElderBark:10:1:True
+- Ooze:3:1:True
+- ShardBonemass_TW:2:1:True

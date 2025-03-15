@@ -1,0 +1,16 @@
+name: DrakeOmelet_TW_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 3
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- SurtrDrakeEgg_TW:1:0:True
+- Helweed_TW:3:0:True
+- MushroomWintercap_TW:3:0:True
+- PrimalLeak_TW:2:0:True

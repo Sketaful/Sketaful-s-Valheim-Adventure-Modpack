@@ -1,0 +1,12 @@
+name: Pickable_SeedTurnip
+itemPrefab: TurnipSeeds
+cloneOfWhatPickable: 
+material: 
+amount: 3
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 1
+hiddenChildWhenPicked: 
+extraDrops: 

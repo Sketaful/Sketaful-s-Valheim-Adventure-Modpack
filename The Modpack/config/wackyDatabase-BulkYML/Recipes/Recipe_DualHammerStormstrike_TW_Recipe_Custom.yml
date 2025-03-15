@@ -1,0 +1,16 @@
+name: DualHammerStormstrike_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- ThoradusBar_TW:60:30:True
+- RuneWrath_TW:30:15:True
+- ArcticSerpentScale_TW:18:9:True
+- TrophyStormHerald_TW:1:1:True

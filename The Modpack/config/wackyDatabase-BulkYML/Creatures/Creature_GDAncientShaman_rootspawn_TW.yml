@@ -1,0 +1,4 @@
+name: GDAncientShaman_rootspawn_TW
+mob_display_name: $ancientroot_TW
+clone_creature: 
+creature_replacer: 

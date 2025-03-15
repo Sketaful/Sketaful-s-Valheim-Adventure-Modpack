@@ -1,0 +1,18 @@
+name: Pickable_Mushroom_Wintercap_TW
+itemPrefab: MushroomWintercap_TW
+cloneOfWhatPickable: 
+material: 
+amount: 1
+size: 
+overrideName: ''
+respawnTimer: 0
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: visual
+extraDrops:
+  drops:
+  - MushroomWintercap_TW
+  dropMin: 2
+  dropMax: 2
+  dropChance: 1
+  dropOneOfEach: false

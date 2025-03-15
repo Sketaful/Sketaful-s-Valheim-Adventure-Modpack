@@ -1,0 +1,85 @@
+Name: BiteCripplePoison
+Status_m_name: $se_monstrum_biteslow_TW
+Category: ''
+IconName: CrippledIcon
+ClonedSE: 
+CustomIcon: 
+FlashIcon: true
+CooldownIcon: false
+Tooltip: ''
+Attributes: None
+StartMessageLoc: TopLeft
+StartMessage: ''
+StopMessageLoc: TopLeft
+StopMessage: ''
+RepeatMessageLoc: TopLeft
+RepeatMessage: ''
+RepeatInterval: 0
+TimeToLive: 8
+StartEffect_: 
+StopEffect_: 
+StartEffect_PLUS:
+- name: vfx_insect_death_TW
+  m_enabled: true
+  m_variant: 0
+  m_attach: false
+  m_follow: false
+  m_inheritParentRotation: false
+  m_inheritParentScale: false
+  m_multiplyParentVisualScale: false
+  m_randomRotation: false
+  m_scale: false
+  m_childTransform: ''
+StopEffect_PLUS: []
+Cooldown: 0
+ActivationAnimation: gpower
+SeData:
+  m_tickInterval: 0
+  m_healthPerTickMinHealthPercentage: 0
+  m_healthPerTick: 0
+  m_healthOverTime: 0
+  m_healthOverTimeDuration: 0
+  m_healthOverTimeInterval: 0
+  m_staminaOverTime: 0
+  m_staminaOverTimeDuration: 0
+  m_staminaDrainPerSec: 0
+  m_runStaminaDrainModifier: 0
+  m_jumpStaminaUseModifier: 0
+  m_eitrOverTime: 0
+  m_eitrOverTimeDuration: 0
+  m_healthRegenMultiplier: 1
+  m_staminaRegenMultiplier: 1
+  m_eitrRegenMultiplier: 1
+  m_raiseSkill: None
+  m_raiseSkillModifier: 0
+  m_skillLevel: None
+  m_skillLevelModifier: 0
+  m_skillLevel2: None
+  m_skillLevelModifier2: 0
+  m_mods: []
+  m_modifyAttackSkill: All
+  m_damageModifier: 1
+  m_noiseModifier: 0
+  m_stealthModifier: 0
+  m_addMaxCarryWeight: 0
+  m_speedModifier: -0.4
+  m_jumpModifier:
+    x: -0.5
+    y: 0
+    z: -0.5
+    normalized: &o0
+      x: -0.7071068
+      y: 0
+      z: -0.7071068
+      normalized: *o0
+      magnitude: 1
+      sqrMagnitude: 0.9999999
+    magnitude: 0.7071068
+    sqrMagnitude: 0.5
+  m_maxMaxFallSpeed: 0
+  m_fallDamageModifier: 0
+  m_tickTimer: 0
+  m_healthOverTimeTimer: 0
+  m_healthOverTimeTicks: 0
+  m_healthOverTimeTickHP: 0
+SeShield: 

@@ -1,0 +1,4 @@
+name: GoblinShaman_Hildir_nochest
+mob_display_name: $enemy_goblin_hildir
+clone_creature: 
+creature_replacer: 

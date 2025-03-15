@@ -1,0 +1,16 @@
+name: Recipe_FeastMountains
+clonePrefabName: NO
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WolfMeatSkewer:2:1:True
+- OnionSoup:3:1:True
+- Carrot:4:1:True
+- SpiceMountains:1:1:True

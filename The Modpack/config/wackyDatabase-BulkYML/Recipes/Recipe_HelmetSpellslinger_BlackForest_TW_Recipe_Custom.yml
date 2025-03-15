@@ -1,0 +1,15 @@
+name: HelmetSpellslinger_BlackForest_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_wizardtable_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FabricBundle_Blackforest_TW:4:2:True
+- Feathers:8:4:True
+- ShardElder_TW:2:1:True

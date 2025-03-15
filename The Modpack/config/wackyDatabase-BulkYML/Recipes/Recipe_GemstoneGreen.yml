@@ -1,0 +1,14 @@
+name: GemstoneGreen
+clonePrefabName: 
+craftingStation: $jc_transmution_table
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Perfect_Green_Socket:3:1:True
+- Eitr:10:1:True

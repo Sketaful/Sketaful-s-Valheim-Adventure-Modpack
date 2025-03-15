@@ -1,0 +1,4 @@
+name: MiniSerpent
+mob_display_name: $at_mini_prefix $enemy_serpent
+clone_creature: 
+creature_replacer: 

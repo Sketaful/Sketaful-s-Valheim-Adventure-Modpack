@@ -1,0 +1,15 @@
+name: Staffcore_Plains_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_arcaneanvil_TW
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- GoblinTotem:6:0:True
+- ShardYagluth_TW:4:0:True
+- TrophyGoblinShaman:1:0:True

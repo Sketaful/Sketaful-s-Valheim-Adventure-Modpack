@@ -1,0 +1,12 @@
+name: Pickable_RoyalJelly
+itemPrefab: RoyalJelly
+cloneOfWhatPickable: 
+material: 
+amount: 5
+size: 
+overrideName: ''
+respawnTimer: 240
+spawnOffset: 0.5
+ifHasHealth: 
+hiddenChildWhenPicked: Hide
+extraDrops: 

@@ -1,0 +1,13 @@
+name: WoolYarn_Brown_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_weavingloom_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 4
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WoolScraps_TW:4:0:True

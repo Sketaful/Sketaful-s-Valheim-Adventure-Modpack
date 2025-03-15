@@ -1,0 +1,66 @@
+unique_name: neck_group_3
+display_name: Neck Craze
+sprite_name: TrophyNeck
+description: >-
+  Kill over <color=orange>90</color> necks
+
+  <color=orange>(3/3)</color>
+lore: A viking's journey begins by the waters, facing the necks
+start_message: ''
+stop_message: ''
+tooltip: ''
+defeat_key: defeated_neck
+achievement_type: CustomKills
+custom_group_key: ''
+custom_pickable_name: ''
+goal: 90
+duration: 0
+reward_type: Item
+achievement_group: neck_group
+achievement_index: 3
+item: Flint
+item_amount: 50
+skill: ''
+skill_amount: 0
+class_experience: 0
+start_effects:
+- sfx_coins_placed
+stop_effects: []
+damage_modifiers:
+- m_type: Blunt
+  m_modifier: Normal
+- m_type: Slash
+  m_modifier: Normal
+- m_type: Pierce
+  m_modifier: Normal
+- m_type: Chop
+  m_modifier: Normal
+- m_type: Pickaxe
+  m_modifier: Normal
+- m_type: Fire
+  m_modifier: Normal
+- m_type: Frost
+  m_modifier: Normal
+- m_type: Lightning
+  m_modifier: Normal
+- m_type: Poison
+  m_modifier: Normal
+- m_type: Spirit
+  m_modifier: Normal
+modifiers:
+  Attack: 1
+  HealthRegen: 1
+  StaminaRegen: 1
+  RaiseSkills: 1
+  Speed: 1
+  Noise: 1
+  MaxCarryWeight: 0
+  Stealth: 1
+  RunStaminaDrain: 1
+  DamageReduction: 0
+  FallDamage: 1
+  EitrRegen: 1
+  Health: 0
+  Stamina: 0
+  Eitr: 0
+skill_bonus: {}

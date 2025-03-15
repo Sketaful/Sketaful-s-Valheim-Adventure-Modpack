@@ -1,0 +1,88 @@
+name: BogWitch_Fire_Pit
+piecehammer: Hammer
+m_name: Bog Witch Fire Pit
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: ''
+piecehammerCategory: Misc
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort:
+  comfort: 1
+  comfortGroup: Fire
+  comfortObject: &o0
+    transform:
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    layer: 10
+    active: false
+    activeSelf: false
+    activeInHierarchy: false
+    isStatic: false
+    tag: Untagged
+    scene:
+      handle: 0
+      path: 
+      name: 
+      isLoaded: false
+      buildIndex: -1
+      isDirty: false
+      rootCount: 0
+      isSubScene: true
+    sceneCullingMask: 16140901064495857664
+    gameObject: *o0
+    name: _enabled_high
+    hideFlags: None
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: true
+wearNTearData: 
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData:
+  StartFuel: 10
+  MaxFuel: 10
+  SecPerFuel: 5000
+  InfiniteFuel: true
+  FuelType: Wood
+  IgniteInterval: 0
+  IgniteChance: 0
+  IgniteSpread: 4
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- PowderedDragonEgg:2:1:True
+- Stone:5:1:True

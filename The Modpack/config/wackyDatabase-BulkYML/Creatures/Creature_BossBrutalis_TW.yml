@@ -1,0 +1,4 @@
+name: BossBrutalis_TW
+mob_display_name: $boss_brutalis_TW
+clone_creature: 
+creature_replacer: 

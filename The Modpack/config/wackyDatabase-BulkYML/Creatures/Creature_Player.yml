@@ -1,0 +1,4 @@
+name: Player
+mob_display_name: Human
+clone_creature: 
+creature_replacer: 

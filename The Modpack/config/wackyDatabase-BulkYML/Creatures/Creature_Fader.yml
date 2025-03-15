@@ -1,0 +1,4 @@
+name: Fader
+mob_display_name: $enemy_fader
+clone_creature: 
+creature_replacer: 

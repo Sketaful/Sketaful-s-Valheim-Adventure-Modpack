@@ -1,0 +1,16 @@
+name: BMP_MushroomJam_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- MushroomYellow:8:0:True
+- Mushroom:4:0:True
+- Blueberries:4:0:True
+- Thistle:2:0:True

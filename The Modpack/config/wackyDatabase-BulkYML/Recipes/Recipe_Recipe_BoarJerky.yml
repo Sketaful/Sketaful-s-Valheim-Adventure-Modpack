@@ -1,0 +1,14 @@
+name: Recipe_BoarJerky
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RawMeat:1:1:True
+- Honey:1:1:True

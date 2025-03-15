@@ -1,0 +1,15 @@
+name: BombFire_TW_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 10
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RagnoriteBar_TW:2:0:True
+- RuneDestruction_TW:3:0:True
+- MuspelheimCrystal_TW:4:0:True

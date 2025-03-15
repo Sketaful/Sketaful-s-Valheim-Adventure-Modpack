@@ -1,0 +1,4 @@
+name: ObsidianGolem_TW
+mob_display_name: $obsidiangolem_TW
+clone_creature: 
+creature_replacer: 
