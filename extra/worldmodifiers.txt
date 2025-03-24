@@ -1,0 +1,86 @@
+GLOBAL KEYS
+
+Boss keys determine which events and spawns are active:
+
+    defeated_bonemass — Set when killing Bonemass
+    defeated_gdking — Set when killing The Elder
+    defeated_goblinking — Set when killing Yagluth
+    defeated_dragon — Set when killing Moder
+    defeated_eikthyr — Set when killing Eikthyr
+    defeated_queen — Set when killing The Queen
+    defeated_fader — Set when killing Fader
+    defeated_serpent — Set when killing a Serpent
+    KilledTroll — Set when killing a Troll
+    killed_surtling — Set when killing a Surtling
+    KilledBat — Set when killing a Bat
+
+
+
+
+World Modifier Keys
+
+Some values as a percentage of defaults, some toggled on or off (1 or 0 respectively), 
+and some simply activated without any value specified. 
+
+    activeBosses
+?    AllPiecesUnlocked: All building recipes are unlocked
+?    AllRecipesUnlocked: All crafting recipes are unlocked
+    Count
+    DeathDeleteItems: All items are permanently deleted on death
+    DeathDeleteUnequipped: Unequipped items are removed completely on death
+    DeathKeepEquip: Equipped items are retained when the players dies
+    DeathSkillsReset
+    DungeonBuild: When set, allows the building of structures inside dungeons (e.g crypts, tombs etc)
+    EnemyDamage: Damage done by mobs to players and other mobs (not structures)
+    EnemyLevelUpRate: The chances of mobs being starred. eg: 200 would give 20% chances of a creature being upgraded to 1 star and then 20% of those being further upgraded to 2 star (resulting in 16% and 4% chances in real terms)
+    EnemySpeedSize: Modifies the size and speed of mobs
+    EventRate: The frequency and chance of a raid being triggered with 100 being the standard 20% chance every 46 minutes. eg: 50 would give a 40% chance of a raid every 23 minutes
+    Fire
+	Fire Hazards -     Wood can catch fire and spread throughout the whole world, not just in the Ashlands.
+    MoveStaminaRate: Rate stamina is expended for movement based activities such as running and jumping
+    NoBossPortals: Portals are disabled while bosses are active
+    NoBuildCost: Resources are not required when building
+    NoCraftCost: Resources are not required when crafting
+    NoMap: Disables map for all players.
+    NoPortals: Disables portals for all players.
+    NoWorkbench
+    PassiveMobs
+    PlayerDamage: Damage done by players to mobs
+*    PlayerEvents: When set, raid events are player-based rather than world-based
+    Preset
+    ResourceRate: The rate at which resources are dropped
+    SkillGainRate
+    SkillReductionRate
+    StaminaRate: Modifies stamina use rate with 0 completely preventing stamina use
+    StaminaRegenRate: The rate at which stamina is regenerated
+    TeleportAll
+    WorldLevel
+    WorldLevelLockedTools
+
+Each key has a default value of 100. For example to increase player damage by 50%, use command setkey PlayerDamage 150
+
+    WorldLevel [value]
+    WorldLevelLockedTools: If set, tool tier check also checks the world level.
+
+Console commands
+
+Global keys can be manipulated with following console commands: 
+
+    listkeys: Shows currently set global keys
+    setkey [name]: Adds the specified key
+    resetkeys: Removes all keys
+    removekey [name]: Removes the specified key.
+
+
+Combat		 		Very Easy		Easy		Normal		Hard		Very Hard
+Death Penalty 		Casual			Very Easy	Easy		Normal		Hard		Hardcore
+Resources			.5x				.75x		Normal		1.5x		2x			3x 
+Raid Rate			 None			Much Less	Less		Normal		More		Much More
+Portals				 Portal Items	Normal		No Boss Portals			No Portals		
+
+
+World Modifier			Value			devcommand
+No Build Cost 			Enable/disable 	setkey/removekey nobuildcost
+Passive Enemies		 	Enable/disable 	setkey/removekey passivemobs
+Player Based Raids	 	Enable/disable 	setkey/removekey playerevents
+No Map				 	Enable/disable 	setkey/removekey nomap
