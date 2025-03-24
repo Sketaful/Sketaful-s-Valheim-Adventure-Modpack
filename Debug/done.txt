@@ -1,0 +1,34 @@
+HITTADE FEL SOM GÖR ATT DE INTE SKA ANVÄNDAS:
+Zen-moddar ihop med Jewelcrafting.
+Farming av smooth
+Most Azumatt's mods+BoatAddition = Error  : Unity Log] Material 'bba_watermask (Instance)' with Shader 'Custom/WaterMask' doesn't have a color property '_Color'
+
+
+
+FUNGERAR IHOP FÖRRUTOM LOOP MED TAMA DJUR:
+PlantEasily v2.0.3 by Advize
+PlantEverything v1.19.0 by Advize
+MissingPieces v2.2.2 by BentoG
+SearsCatalog v1.6.0 by ComfyMods
+BepInExPack_Valheim v5.4.2202 by denikson
+Almanac v3.4.2 by RustyMods
+UsefulPaths v1.0.4 by RustyMods
+Waypoints v1.1.4 by RustyMods
+More_Vanilla_Build_Prefabs v1.4.4 by Searica
+Backpacks v1.3.6 by Smoothbrain
+Blacksmithing v1.3.2 by Smoothbrain
+CombatOwner v1.0.0 by Smoothbrain
+Cooking v1.2.1 by Smoothbrain
+CreatureLevelAndLootControl v4.6.3 by Smoothbrain
+DualWield v1.0.9 by Smoothbrain
+Groups v1.2.9 by Smoothbrain
+Guilds v1.1.11 by Smoothbrain
+Jewelcrafting v1.5.33 by Smoothbrain
+Professions v1.4.5 by Smoothbrain
+ServerCharacters v1.4.15 by Smoothbrain
+SmoothSave v1.0.5 by Smoothbrain
+StaminaRegenerationFromFood v1.5.6 by Smoothbrain
+SteadyRegeneration v1.0.3 by Smoothbrain
+TargetPortal v1.1.21 by Smoothbrain
+Jotunn v2.24.3 by ValheimModding
+JsonDotNET v13.0.3 by ValheimModding

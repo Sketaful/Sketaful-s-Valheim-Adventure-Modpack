@@ -1,0 +1,145 @@
+FEL VID PLACERING AV KATAPULT:
+
+[Error  :Jotunn.Managers.GUIManager] System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x00008] in <31687ccd371e4dc6b0c23a1317cf9474>:0
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <31687ccd371e4dc6b0c23a1317cf9474>:0
+  at SoftReferenceableAssets.AssetBundleLoader.GetAllAssetPathsMappedToAssetID () [0x0001d] in <92f22119cd964385a87d2ff8a5291a2b>:0
+  at SoftReferenceableAssets.Runtime.GetAllAssetPathsInBundleMappedToAssetID () [0x00005] in <92f22119cd964385a87d2ff8a5291a2b>:0
+  at Jotunn.Managers.AssetManager.CreateNameToAssetID () [0x00023] in D:\Projects\Jotunn\JotunnLib\Managers\AssetManager.cs:267
+  at Jotunn.Managers.AssetManager.get_MapNameToAssetID () [0x00000] in D:\Projects\Jotunn\JotunnLib\Managers\AssetManager.cs:31
+  at Jotunn.Managers.AssetManager.GetAssetID (System.Type type, System.String name) [0x00013] in D:\Projects\Jotunn\JotunnLib\Managers\AssetManager.cs:205
+  at Jotunn.Managers.AssetManager.GetSoftReference (System.Type type, System.String name) [0x00000] in D:\Projects\Jotunn\JotunnLib\Managers\AssetManager.cs:241
+  at Jotunn.Managers.PrefabManager+Cache.GetPrefab (System.Type type, System.String name) [0x0000c] in D:\Projects\Jotunn\JotunnLib\Managers\PrefabManager.cs:437
+  at Jotunn.Managers.PrefabManager+Cache.GetPrefab[T] (System.String name) [0x00000] in D:\Projects\Jotunn\JotunnLib\Managers\PrefabManager.cs:475
+  at Jotunn.Managers.GUIManager.InitializeAssets () [0x00039] in D:\Projects\Jotunn\JotunnLib\Managers\GUIManager.cs:373
+
+FUNGERAR OM INTE ZEN-MODDARNA OCH JEWELCRAFTING ÄR AKTIVA SAMTIDIGT!(AVSETT ZEN MOD)
+
+
+----------------
+
+
+FARMING ERROR!
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+Catapult.Start () (at <882596ce36f74f3995816085e5e89cca>:0)
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+Catapult.UpdateArmAnimation (System.Single dt) (at <882596ce36f74f3995816085e5e89cca>:0)
+Catapult.FixedUpdate () (at <882596ce36f74f3995816085e5e89cca>:0)
+<REPEAT>
+
+
+-----------------------
+
+
+TESTAT MED ALLA SMOOTHBRAIN (UTOM FARMING), More Vanilla Prefabs, MissingPieces
+INGA FEL!
+
+TESTAR MED OVANSTÅENDE PLUS ALLA RUSTYMODS (ej custom tut):
+
+1 ----------------
+Funkar men nu karta visar texten i loggen innan generering är klar, spelet visar inte text utan hoppar direkt till
+flyga med harpyan när all generering e klar:
+
+[Warning: Unity Log] 03/19/2025 21:21:21: Failed to place all Mistlands_Giant2, placed 93 out of 100
+[Warning: Unity Log] 03/19/2025 21:21:26: Failed to place all Grave1, placed 161 out of 200
+[Warning: Unity Log] 03/19/2025 21:21:29: Failed to place all SwampRuin2, placed 8 out of 30
+[Warning: Unity Log] 03/19/2025 21:21:30: Failed to place all FireHole, placed 54 out of 75
+[Warning: Unity Log] 03/19/2025 21:21:39: Failed to place all TrollCave02, placed 187 out of 200
+[Warning: Unity Log] 03/19/2025 21:21:43: Failed to place all Crypt4, placed 199 out of 200
+[Warning: Unity Log] 03/19/2025 21:21:47: Failed to place all SwampHut3, placed 47 out of 50
+[Info   : Unity Log] 03/19/2025 21:22:59: Show intro 5965
+[Info   : Unity Log] 03/19/2025 21:22:59: Show text YOU DIED:Long ago, the Allfather Odin united the worlds. He threw down his foes and cast them into the tenth world, then split the boughs which held their prison to the World-Tree, and left it to drift unanchored, a place of exile…
+
+For centuries, this world slumbered uneasily. But it did not die... As glacial ages passed, kingdoms rose and fell out of sight of the Gods.
+
+When Odin heard his enemies were growing once again in strength, he looked to Midgard and sent his Valkyries to scour the battlefields for the greatest of their warriors. Dead to the world, they would be born again…
+
+…in VALHEIM!
+
+[Info   : Unity Log] 03/19/2025 21:22:59: Starting music intro
+[Warning: Unity Log] 03/19/2025 21:23:49: Failed to place all WaypointLocation, placed 192 out of 200
+[Warning: Unity Log] 03/19/2025 21:23:51: Failed to place all TarPit1, placed 99 out of 100
+[Warning: Unity Log] 03/19/2025 21:23:53: Failed to place all TarPit2, placed 9 out of 100
+[Warning: Unity Log] 03/19/2025 21:23:58: Failed to place all MountainCave02, placed 137 out of 160
+[Warning: Unity Log] 03/19/2025 21:24:11: Failed to place all FortressRuins, placed 89 out of 100
+[Warning: Unity Log] 03/19/2025 21:24:18: Failed to place all VoltureNest, placed 337 out of 350
+[Warning: Unity Log] 03/19/2025 21:24:28: Failed to place all CharredTowerRuins3, placed 31 out of 40
+[Warning: Unity Log] 03/19/2025 21:24:34: Failed to place all MorgenHole3, placed 26 out of 40
+
+
+2---------------
+När man väljer hammaren (inget mer, bara håller den.
+Samma fel upprepas varje gång man placerar något.
+
+[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Stack trace:
+System.Collections.Generic.List`1[T].get_Item (System.Int32 index) (at <31687ccd371e4dc6b0c23a1317cf9474>:0)
+(wrapper dynamic-method) PieceTable.DMD<PieceTable::UpdateAvailable>(PieceTable,System.Collections.Generic.HashSet`1<string>,Player,bool,bool)
+Player.UpdateAvailablePiecesList () (at <882596ce36f74f3995816085e5e89cca>:0)
+(wrapper dynamic-method) Player.DMD<Player::SetPlaceMode>(Player,PieceTable)
+(wrapper dynamic-method) Humanoid.DMD<Humanoid::SetupEquipment>(Humanoid)
+(wrapper dynamic-method) Humanoid.DMD<Humanoid::EquipItem>(Humanoid,ItemDrop/ItemData,bool)
+Player.ToggleEquipped (ItemDrop+ItemData item) (at <882596ce36f74f3995816085e5e89cca>:0)
+Humanoid.UseItem (Inventory inventory, ItemDrop+ItemData item, System.Boolean fromInventoryGui) (at <882596ce36f74f3995816085e5e89cca>:0)
+Player.UseHotbarItem (System.Int32 index) (at <882596ce36f74f3995816085e5e89cca>:0)
+(wrapper dynamic-method) Player.DMD<Player::Update>(Player)
+
+
+-----------------------
+
+Trying without BOSS STONES:
+
+WORKS!
+
+-----------------------
+
+Trying All of the above (minus boss stones) together with Advize's mods.
+
+WORKS!
+
+----------------------
+
+Meldurson's mod plus the above:
+
+Loop in console when having a tame:
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+
+
+[Warning:Jotunn.Managers.MockManager] Could not find shader JVLmock_Particles/Standard Unlit2_backup
+[Warning:Jotunn.Managers.MockManager] Could not find shader JVLmock_Particles/Standard Unlit2_backup
+
+----------------------
+
+Tried Above without Taming Overhaul
+Loop in console when having a tame:
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+
+----------------------
+
+Tried Without MountUpRestored and just Taming Overhaul.
+Loop in console when having a tame:
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+
+INGA AV DESSA:
+[Warning:Jotunn.Managers.MockManager] Could not find shader JVLmock_Particles/Standard Unlit2_backup
+
+---------------------
+
+Valkheim Vanilla Problem
+När man ser ett tamt djut:
+
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+[Info   : Unity Log] 03/19/2025 22:04:21: Starting music meadows
+
+[Info   : Unity Log] 03/19/2025 22:04:21: Resumed music meadows at 0
+Loop in console when having a tame:
+[Info   : Unity Log] PlatformUserID "" failed to parse!
+
+
+--------------------
