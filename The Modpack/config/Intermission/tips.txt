@@ -11,8 +11,6 @@ There are more animals to tame in this world that you would think and most of th
 Fireplaces, torches and the like doesn't need to be refilled anymore. This does not apply to furnaces.
 You can unlock achievements to gain extra things. Press TAB for inventory and check the top right. ;)
 You used to only be able to raise/lower the ground by 8 meter, now you have 50 meters to play with.
-Hold tar in your hand and right-click a building piece to make it waterproof.
-Hold resin in your hand and right-click a building piece to make it withstand more damage for a while.
 You can <i>hold SHIFT while swimming</i> to swim faster but it will use a lot more stamina.
 If you're out of stamina while swimming just stop for a while and you'll slowly regain it.
 All workbenches, forges etc. can use ingrediences directly from chests that are close by.

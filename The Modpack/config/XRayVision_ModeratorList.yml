@@ -1,6 +1,0 @@
-# Configure your per Moderator permissions in this file. Currently there is only one, but we can add more as the suggestions are made.
-# Fill out more moderators just like the example given. This uses their Steam64ID as the key.
-
-12345678998765432:
-  Steam Display: false  # When set to true, moderators can see the user's steam information.
-

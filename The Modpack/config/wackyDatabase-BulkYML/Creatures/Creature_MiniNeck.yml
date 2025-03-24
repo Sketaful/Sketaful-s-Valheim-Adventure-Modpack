@@ -1,4 +1,0 @@
-name: MiniNeck
-mob_display_name: $at_mini_prefix $enemy_neck
-clone_creature: 
-creature_replacer: 
