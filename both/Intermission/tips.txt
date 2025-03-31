@@ -25,3 +25,4 @@ Are you playing online with friends and mix up who's ship is who's?\nLook at the
 You don't have to wait for creatures you kill to despawn and drop their loot anymore, they'll do that instantly.
 If you like to decorate with item stands you'd be happy to know that almost anything can be placed on them now.
 You can dual wield most weapons and tools. Special attacks are different when dual wielding.\nTry holding two axes and use special attack when chopping trees.
+Yes! This modpack should work perfectly fine in both single player as multiplayer. Some mods are only needed on the client though.
