@@ -4,6 +4,8 @@ PrefabName:
 #   By default the required saddle is a Tier 3 saddle (Advanced Saddle) that you will need to use on the creature to mount it.
 #   To adjust the mounting location you will need to set Enable Adjust Custom Mounts = true in meldurson.MountUpRestored.cfg
 #   You can also find a bunch of premade configurations https://thunderstore.io/c/valheim/p/Meldurson/MountUpRestored/wiki/1368-premade-configs/ that you can copy/paste parts into this file, or paste the entire config into your config folder
+#   Need more ingame fixes for tick and some other.
+
 
 Neck:
   mountPath: Armature/Hips/Spine/Spine1
