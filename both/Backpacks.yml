@@ -120,6 +120,9 @@
     - CarrotSeeds
     - OnionSeeds
     - TurnipSeeds
+    - Acorn
+    - PineCone
+    - FirCone
     - BCA_ChiliPepperSeeds
     - BCA_TomatoSeeds
   upgrade:
