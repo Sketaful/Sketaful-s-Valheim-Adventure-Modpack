@@ -4,15 +4,13 @@ Holding down CTRL or ALT while rotating building parts will rotate them on diffe
 If you press "O" while building you'll reset all axis of the building piece.
 While near chests you can press "P" to automatically move all things from your inventory to chests that already have atleast one of the material.
 Rugs made from Foxes, Bears and Rotten Deer stacks so you can gain extra rested time by having multiple rugs.
-If you play multiplayer only those thathave been near when killing a boss can use their power.
+If you play multiplayer only those that have been near when killing a boss can use their power.
 Portals don't need to be connected. They all show up on a map when using a portal and you just click the one you want to go to.
 Using wood and flint you can make an early sword before you even neeed to leave the meadows.
 There are more animals to tame in this world that you would think and most of them can be equiped with a saddle.
 Fireplaces, torches and the like doesn't need to be refilled anymore. This does not apply to furnaces.
 You can unlock achievements to gain extra things. Press TAB for inventory and check the top right. ;)
 You used to only be able to raise/lower the ground by 8 meter, now you have 50 meters to play with.
-Hold tar in your hand and right-click a building piece to make it waterproof.
-Hold resin in your hand and right-click a building piece to make it withstand more damage for a while.
 You can <i>hold SHIFT while swimming</i> to swim faster but it will use a lot more stamina.
 If you're out of stamina while swimming just stop for a while and you'll slowly regain it.
 All workbenches, forges etc. can use ingrediences directly from chests that are close by.
@@ -21,8 +19,13 @@ Beware the wizards of the biomes. They're a lot more dangerous than the regular 
 If you're running a public server with this modpack contact Sketaful on discord and he'll can add it to the menu.
 If you kill a boss you can build your own boss stone and put up the trophy in your base instead.
 Did you know that signs in valheim can show unicode images?\nTry holding ALT and press 3 on the numpad and then release when writing on a sign for a nice heart.\nJust google "unicode images" and see test which ones work and which doesnt.
-Are you playing online with friends and mix up who's ship is who's?\nLook at the rudder and press SHIFT+E to name your ship.
 You don't have to wait for creatures you kill to despawn and drop their loot anymore, they'll do that instantly.
 If you like to decorate with item stands you'd be happy to know that almost anything can be placed on them now.
 You can dual wield most weapons and tools. Special attacks are different when dual wielding.\nTry holding two axes and use special attack when chopping trees.
 Yes! This modpack should work perfectly fine in both single player as multiplayer. Some mods are only needed on the client though.
+Hold SHIFT and press E while looking at your ship to be able to type in the URL for an image to change your sails to.\n(<i>Must be an URL starting with HTTPS, not just HTTP</i>).
+Gain levels in farming. You'll be able to see the time for crops at level 25 and to ignore biomes at level 50.
+If you're experience slowdowns because of the smoke and effects from torches, use crystal torches instead.
+The dust cloud from placing objects are removed. So are the dust clouds from doing a bunch of other things.
+It's possible to move your placed things, including chests with things in them.\n Just look at a piece, hold C and press left mouse.
+If you play on a server and want to play with friends, make a guild (press G ingame) and invite them.\nFor simple groups up to 5 players, just type /invite playername in chat.\nGuilds are permanent until you leave it, groups are per session and need a new invite each login.
